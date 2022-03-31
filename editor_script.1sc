@@ -1,0 +1,13 @@
+//------------------------------------------------
+//--- 010 Editor v12.0.1 Script File
+//
+//      File: editor_script
+//   Authors: Octave Cinquanta
+//   Version: 1.0
+//   Purpose: 
+//  Category: 
+//   History: 
+//------------------------------------------------
+
+ExpandAll();
+ExportCSV("SAVEDATA1000_full.csv");
