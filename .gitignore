@@ -1,0 +1,10 @@
+# saves and outputs
+SAVEDATA1000
+SAVEDATA1000.bin
+SAVEDATA1000.csv
+output.csv
+
+# libraries
+IceborneSavecrypt.jar
+SAVEDATA1000.bt
+types.bt
