@@ -42,5 +42,15 @@ for i in range(0,6455):
         s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0}
         df2 = df2.append(s,ignore_index=True)
 
+df_dict = pd.read_csv('item_dict.csv')
+df_dict.set_index('Item ID', inplace=True)
+
+for i in range(len(df2)):
+    id = df2.iloc[i,0]
+    if df_dict.index.__contains__(id):
+        s = {'Item ID':id,'Item Name':df_dict.loc[id,'Item Name'],'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':0}
+        df2 = df2.append(s,ignore_index=True)
+
 df2 = df2.loc[(df2!=0).any(axis=1)]
-df2.to_csv(r'output.csv',index=False)
+df2 = df2.groupby(df2['Item ID']).aggregate({'Item Name':'last','Total Quantity':'sum','Quantity in box':'sum','Quantity on hunter':'sum'})
+df2.to_csv(r'output.csv')

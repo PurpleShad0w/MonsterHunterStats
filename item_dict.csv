@@ -42,9 +42,13 @@ Item ID,Item Name
 53,Baitbug
 54,Kelbi Horn
 55,Dash Extract
+56,Nourishing Extract
 59,Tranq Bomb
 60,Flash Pod
 65,Raw Meat
+70,Small Barrel
+71,Barrel Bomb
+72,Bounce Bomb
 74,Large Barrel
 75,Large Barrel Bomb
 76,Mega Barrel Bomb
@@ -52,6 +56,10 @@ Item ID,Item Name
 79,Trap Tool
 81,Shock Trap
 84,Dung Pod
+85,Arowana Bait
+86,Gunpowderfish Bait
+87,Goldenfish Bait
+88,Boomerang
 89,Binoculars
 94,Needleberry
 95,Blastnut
@@ -66,17 +74,40 @@ Item ID,Item Name
 110,Burst Arowana Scale
 111,Great Burst Arowana Scale
 138,Normal Ammo 2
+139,Normal Ammo 3
 140,Pierce Ammo 1
 141,Pierce Ammo 2
+142,Pierce Ammo 3
 143,Spread Ammo 1
 144,Spread Ammo 2
+145,Spread Ammo 3
 146,Sticky Ammo 1
+147,Sticky Ammo 2
 149,Cluster Bomb 1
+150,Cluster Bomb 2
+152,Flaming Ammo
+153,Water Ammo
+154,Thunder Ammo
+155,Freeze Ammo
 157,Poison Ammo 1
+158,Poison Ammo 2
+159,Paralysis Ammo 1
+160,Paralysis Ammo 2
+161,Sleep Ammo 1
+162,Sleep Ammo 2
+163,Exhaust Ammo 1
+164,Exhaust Ammo 2
+165,Recover Ammo 1
+166,Recover Ammo 2
 167,Wyvern Ammo
-168,Slicing Ammo 
+168,Slicing Ammo
+169,Tranq Ammo
 174,Empty Phial
 175,Power Coating
+176,Poison Coating
+177,Paralysis Coating
+178,Sleep Coating
+180,Blast Coating
 205,Iron Ore
 206,Machalite Ore
 207,Dragonite Ore
@@ -87,6 +118,7 @@ Item ID,Item Name
 212,Dragonvein Crystal
 213,Lightcrystal
 214,Novacrystal
+215,Firecell Stone
 216,Aquacore Ore
 217,Spiritcore Ore
 218,Dreamcore Ore
