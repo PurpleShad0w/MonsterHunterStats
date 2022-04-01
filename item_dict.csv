@@ -9,6 +9,7 @@ Item ID,Item Name
 11,Well-done Steak
 12,Burnt Meat
 13,Cool Drink
+15,Mega Nutrients
 17,Astera Jerky
 18,Dash Juice
 20,Might Seed
@@ -61,6 +62,8 @@ Item ID,Item Name
 87,Goldenfish Bait
 88,Boomerang
 89,Binoculars
+90,Powercharm
+92,Armorcharm
 94,Needleberry
 95,Blastnut
 96,Dragonstrike Nut
@@ -149,41 +152,89 @@ Item ID,Item Name
 245,Monster Fluid
 246,Monster Broth
 247,Poison Sac
+249,Paralysis Sac
+252,Coma Sac
 253,Flame Sac
 254,Inferno Sac
+257,Frost Sac
+259,Electro Sac
 262,Wyvern Gem
 263,Elder Dragon Blood
+264,Mosswine Hide
+267,Vespoid Shell
+268,Vespoid Carapace
+269,Vespoid Wing
+270,Vespoid Innerwing
 271,Hornetaur Shell
+272,Hornetaur Wing
 273,Hornetaur Head
 274,Hornetaur Carapace
 276,Gajau Skin
+277,Gajau Whisker
 278,Gajau Scale
+280,Wingdrake Hide
+284,Kestodon Shell
+285,Kestodon Scalp
+287,Gastodon Carapace
+288,Gastodon Horn
 289,Jagras Scale
 290,Jagras Hide
 291,Jagras Scale+
 292,Jagras Hide+
+293,Shamos Scale
+294,Shamos Hide
 297,Girros Scale
 298,Girros Hide
 299,Girros Fang
 300,Girros Scale+
 301,Girros Hide+
+302,Great Jagras Scale
+303,Great Jagras Hide
+304,Great Jagras Mane
+305,Great Jagras Claw
+309,Kulu-Ya-Ku Scale
+530,Xeno'jiiva Soulscale
+531,Xeno'jiiva Shell
+532,Xeno'jiiva Veil
+533,Xeno'jiiva Tail
+534,Xeno'jiiva Horn
+535,Xeno'jiiva Claw
+536,Xeno'jiiva Wing
+538,Xeno'jiiva Gem
+554,Streamstone Shard
 571,Voucher
 572,First Wyverian Print
 573,Deluxe First Wyverian Print
 577,Commendation
 578,High Commendation
+580,Pukei Coin
+589,Pinnacle Coin
 592,Steel Egg
 593,Silver Egg
 594,Golden Egg
 870,Chillshroom
 873,Galajaka Sketch
+889,Kulve Taroth Golden Nugget
+893,Golden Fragment
+894,Golden Chunk
 908,Spring Blossom Ticket
+923,Black Crystal Ticket
+924,Kulu-Ya-Ku Ticket
 928,Mega Man Ticket
 932,Azure Star Shard
 933,Azure Stargem
 935,Master Craftsman's Blueprint
 940,Blossom Fireworks
+952,Gold Chip Fragment
 956,Hunter Runestone
+961,Downy Crake Ticket
+962,Bristly Crake Ticket
+963,First Fleet Ticket
+969,Faux Ticket
+979,Leshen Claw
+981,Leshen Skull
+983,Cursed Bone
+987,Leshen Resin
 1000,Hot Drink
 1003,Gourmet Voucher
 1006,Hot Pepper
@@ -206,11 +257,21 @@ Item ID,Item Name
 1068,Prized Pelt
 1069,Anteka Antler
 1075,Gajau Thickhide
+1076,Steel Gajau Whisker
 1080,Cortos Hardclaw
 1091,Wulg Thickfur
+1093,Great Jagras Shard
+1094,Great Jagras Thickhide
+1095,Great Jagras Hardclaw
+1096,Great Jagras Mane+
+1445,Boaboa Ticket
 1478,Dragonvein Shard
 1479,Dragonvein Coal
+1966,Steam Ticket
+2676,Pearlspring Ticket
 2678,Snowman
 2686,Steel Melding Ticket
 2687,Silver Melding Ticket
 2690,Gold Melding Ticket
+2721,Full Bloom Ticket
+2737,VIP Full Bloom Ticket
