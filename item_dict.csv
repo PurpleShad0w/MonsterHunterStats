@@ -147,10 +147,45 @@ Item ID,Item Name
 243,Sharp Claw
 244,Piercing Claw
 245,Monster Fluid
+246,Monster Broth
+247,Poison Sac
+253,Flame Sac
+254,Inferno Sac
+262,Wyvern Gem
+263,Elder Dragon Blood
+271,Hornetaur Shell
+273,Hornetaur Head
+274,Hornetaur Carapace
+276,Gajau Skin
+278,Gajau Scale
+289,Jagras Scale
+290,Jagras Hide
+291,Jagras Scale+
+292,Jagras Hide+
+297,Girros Scale
+298,Girros Hide
+299,Girros Fang
+300,Girros Scale+
+301,Girros Hide+
+571,Voucher
+572,First Wyverian Print
+573,Deluxe First Wyverian Print
+577,Commendation
+578,High Commendation
+592,Steel Egg
+593,Silver Egg
+594,Golden Egg
 870,Chillshroom
+873,Galajaka Sketch
+908,Spring Blossom Ticket
+928,Mega Man Ticket
+932,Azure Star Shard
+933,Azure Stargem
+935,Master Craftsman's Blueprint
 940,Blossom Fireworks
 956,Hunter Runestone
 1000,Hot Drink
+1003,Gourmet Voucher
 1006,Hot Pepper
 1007,Gloamgrass Bud
 1008,Dust of Life
@@ -164,5 +199,18 @@ Item ID,Item Name
 1043,Frozen Bone
 1049,Monster Toughbone
 1054,Tough Claw
+1056,Deadly Poison Sac
+1058,Torpor Sac
+1060,Flood Sac
+1061,Cryo Sac
+1068,Prized Pelt
+1069,Anteka Antler
+1075,Gajau Thickhide
+1080,Cortos Hardclaw
+1091,Wulg Thickfur
 1478,Dragonvein Shard
+1479,Dragonvein Coal
 2678,Snowman
+2686,Steel Melding Ticket
+2687,Silver Melding Ticket
+2690,Gold Melding Ticket

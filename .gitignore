@@ -2,7 +2,9 @@
 SAVEDATA1000
 SAVEDATA1000.bin
 SAVEDATA1000.csv
+SAVEDATA1000_full.csv
 output.csv
+nameless_output.csv
 
 # libraries
 IceborneSavecrypt.jar
