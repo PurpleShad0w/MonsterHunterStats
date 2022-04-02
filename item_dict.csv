@@ -193,6 +193,23 @@ Item ID,Item Name
 304,Great Jagras Mane
 305,Great Jagras Claw
 309,Kulu-Ya-Ku Scale
+310,Kulu-Ya-Ku Hide
+311,Kulu-Ya-Ku Plume
+312,Kulu-Ya-Ku Beak
+313,Kulu-Ya-Ku Scale+
+314,Kulu-Ya-Ku Hide+
+315,Kulu-Ya-Ku Plume+
+316,Kulu-Ya-Ku Beak+
+317,Pukei Pukei Scale
+318,Pukei Pukei Shell
+319,Pukei Pukei Quill
+320,Pukei Pukei Sac
+321,Pukei Pukei Tail
+322,Pukei Pukei Scale+
+323,Pukei Pukei Carapace
+324,Pukei Pukei Wing
+325,Pukei Pukei Sac+
+326,Barroth Shell
 530,Xeno'jiiva Soulscale
 531,Xeno'jiiva Shell
 532,Xeno'jiiva Veil
@@ -212,6 +229,24 @@ Item ID,Item Name
 592,Steel Egg
 593,Silver Egg
 594,Golden Egg
+727,Antidote Jewel 1
+732,Suture Jewel 1
+733,Def Lock Jewel 1
+736,Footing Jewel 2
+741,Vitality Jewel 1
+750,Stream Jewel 1
+752,Bolt Jewel 1
+754,Venom Jewel 1
+774,Flight Jewel 2
+785,Heavy Artillery Jewel 1
+792,Jumping Jewel 2
+795,Friendship Jewel 1
+798,Gobbler Jewel 1
+809,Meowster Jewel 1
+810,Botany Jewel 1
+811,Geology Jewel 1
+814,Tip Toe Jewel 1
+825,Miasma Jewel 1
 870,Chillshroom
 873,Galajaka Sketch
 889,Kulve Taroth Golden Nugget
@@ -264,10 +299,23 @@ Item ID,Item Name
 1094,Great Jagras Thickhide
 1095,Great Jagras Hardclaw
 1096,Great Jagras Mane+
+1101,Pukei Pukei Shard
+1102,Pukei Pukei Cortex
+1103,Pukei Pukei Fellwing
+1104,Large Pukei Pukei Sac
+1106,Coral Pukei Pukei Shard
+1107,Coral Pukei Pukei Cortex
+1108,Coral Pukei Pukei Fellwing
+1109,Large Coral Pukei Pukei Sac
+1110,Coral Pukei Pukei Lash
 1445,Boaboa Ticket
 1478,Dragonvein Shard
 1479,Dragonvein Coal
 1966,Steam Ticket
+1973,Ice Res Jewel+ 4
+2011,Mirewalker Jewel+ 4
+2026,Expert Jewel+ 4
+2073,Guardian/Evasion Jewel 4
 2676,Pearlspring Ticket
 2678,Snowman
 2686,Steel Melding Ticket
