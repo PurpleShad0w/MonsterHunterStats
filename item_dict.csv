@@ -4,21 +4,30 @@ Item ID,Item Name
 3,Max Potion
 4,Ancient Potion
 5,Antidote
+6,Herbal Medecine
 7,Nulberry
-9,Portion
+8,Energy Drink
+9,Ration
 11,Well-done Steak
 12,Burnt Meat
 13,Cool Drink
+14,Nutrients
 15,Mega Nutrients
+16,Immunizer
 17,Astera Jerky
 18,Dash Juice
 20,Might Seed
+21,Demondrug
 22,Mega Demondrug
 23,Might Pill
 24,Adamant Seed
+25,Armorskin
 26,Mega Armorskin
 27,Adamant Pill
 28,Lifepowder
+29,Herbal Powder
+30,Demon Powder
+31,Hardshell Powder
 32,Honey
 33,Herb
 34,Antidote Herb
@@ -44,17 +53,28 @@ Item ID,Item Name
 54,Kelbi Horn
 55,Dash Extract
 56,Nourishing Extract
+58,Catalyst
 59,Tranq Bomb
 60,Flash Pod
+62,Smoke Bomb
+63,Poison Smoke Bomb
+64,Farcaster
 65,Raw Meat
+66,Poisoned Meat
+67,Tinged Meat
+68,Drugged Meat
+69,Gunpowder
 70,Small Barrel
 71,Barrel Bomb
 72,Bounce Bomb
+73,Mega Bounce Bomb
 74,Large Barrel
 75,Large Barrel Bomb
 76,Mega Barrel Bomb
 77,Spider Web
+78,Net
 79,Trap Tool
+80,Pitfall Trap
 81,Shock Trap
 84,Dung Pod
 85,Arowana Bait
@@ -86,12 +106,15 @@ Item ID,Item Name
 145,Spread Ammo 3
 146,Sticky Ammo 1
 147,Sticky Ammo 2
+148,Sticky Ammo 3
 149,Cluster Bomb 1
 150,Cluster Bomb 2
+151,Cluster Bomb 3
 152,Flaming Ammo
 153,Water Ammo
 154,Thunder Ammo
 155,Freeze Ammo
+156,Dragon Ammo
 157,Poison Ammo 1
 158,Poison Ammo 2
 159,Paralysis Ammo 1
@@ -105,6 +128,8 @@ Item ID,Item Name
 167,Wyvern Ammo
 168,Slicing Ammo
 169,Tranq Ammo
+170,Demon Ammo
+171,Armor Ammo
 174,Empty Phial
 175,Power Coating
 176,Poison Coating
@@ -140,6 +165,7 @@ Item ID,Item Name
 232,Dragonbone Relic
 233,Unknown Skull
 234,Great Hornfly
+235,Sinister Cloth
 236,Monster Bone S
 237,Monster Bone M
 238,Monster Bone L
@@ -158,9 +184,11 @@ Item ID,Item Name
 254,Inferno Sac
 257,Frost Sac
 259,Electro Sac
+261,Bird Wyvern Gem
 262,Wyvern Gem
 263,Elder Dragon Blood
 264,Mosswine Hide
+266,High-quality Pelt
 267,Vespoid Shell
 268,Vespoid Carapace
 269,Vespoid Wing
@@ -169,6 +197,7 @@ Item ID,Item Name
 272,Hornetaur Wing
 273,Hornetaur Head
 274,Hornetaur Carapace
+275,Hornetaur Innerwing
 276,Gajau Skin
 277,Gajau Whisker
 278,Gajau Scale
@@ -192,6 +221,9 @@ Item ID,Item Name
 303,Great Jagras Hide
 304,Great Jagras Mane
 305,Great Jagras Claw
+306,Great Jagras Scale+
+307,Great Jagras Hide+
+308,Great Jagras Claw+
 309,Kulu-Ya-Ku Scale
 310,Kulu-Ya-Ku Hide
 311,Kulu-Ya-Ku Plume
@@ -230,6 +262,7 @@ Item ID,Item Name
 593,Silver Egg
 594,Golden Egg
 727,Antidote Jewel 1
+728,Antipara Jewel 1
 732,Suture Jewel 1
 733,Def Lock Jewel 1
 736,Footing Jewel 2
@@ -241,11 +274,15 @@ Item ID,Item Name
 785,Heavy Artillery Jewel 1
 792,Jumping Jewel 2
 795,Friendship Jewel 1
+796,Enduring Jewel 1
+797,Satiated Jewel 1
 798,Gobbler Jewel 1
 809,Meowster Jewel 1
 810,Botany Jewel 1
 811,Geology Jewel 1
 814,Tip Toe Jewel 1
+815,Brace Jewel 3
+819,Survival Jewel 1
 825,Miasma Jewel 1
 870,Chillshroom
 873,Galajaka Sketch
