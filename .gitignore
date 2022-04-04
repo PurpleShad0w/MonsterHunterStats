@@ -5,6 +5,7 @@ SAVEDATA1000.csv
 SAVEDATA1000_full.csv
 output.csv
 nameless_output.csv
+test.csv
 
 # libraries
 IceborneSavecrypt.jar
