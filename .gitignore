@@ -6,6 +6,8 @@ SAVEDATA1000_full.csv
 output.csv
 nameless_output.csv
 test.csv
+output_items.csv
+output_equipment.csv
 
 # libraries
 IceborneSavecrypt.jar
