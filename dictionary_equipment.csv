@@ -1,11 +1,42 @@
 ID,Type,Name
+0,255,Culldrone I
 2,0,Leather Headgear
 2,1,Leather Mail
 2,2,Leather Gloves
 2,3,Leather Belt
 2,4,Leather Trousers
+6,5,Defense Charm I
+10,0,Buster Sword I
+10,1,Hunter's Knife I
+10,2,Matched Slicers I
+10,3,Iron Katana I
+10,4,Iron Hammer I
+10,5,Metal Bagpipe I
+10,6,Iron Lance I
+10,7,Iron Gunlance I
+10,8,Proto Iron Axe I
+10,9,Proto Commission Axe I
+10,10,Iron Blade I
+10,13,Chain Blitz I
 15,0,Chainmail Headgear
 15,1,Chainmail Vest
 15,2,Chainmail Gloves
 15,3,Chainmail Belt
 15,4,Chainmail Trousers
+20,11,Iron Bow I
+20,12,Iron Assault I
+30,255,Mauldrone I
+67,4,Carapace Sledge I
+140,12,Defender Heavy Bowgun IV
+144,4,Defender Warhammer V
+169,4,Buona Flora+
+304,2,Alloy Vambraces α+
+305,1,Alloy Mail β+
+334,4,Pukei Greaves α+
+340,0,Beo Helm α+
+340,3,Beo Coil α+
+520,0,Guardian Helm α+
+520,1,Guardian Suit α+
+520,2,Guardian Vambraces α+
+520,3,Guardian Coil α+
+520,4,Guardian Boots α+

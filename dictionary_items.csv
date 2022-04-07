@@ -242,6 +242,48 @@ Item ID,Item Name
 324,Pukei Pukei Wing
 325,Pukei Pukei Sac+
 326,Barroth Shell
+459,Kirin Hide
+460,Kirin Tail
+461,Kirin Mane
+462,Kirin Thunderhorn
+467,Zorah Magdaros Heat Scale
+468,Zorah Magdaros Carapace
+470,Zorah Magdaros Pleura
+472,Zorah Magdaros Magma
+473,Zorah Magdaros Gem
+474,Dodogama Scale+
+475,Dodogama Hide+
+476,Dodogama Jaw
+477,Dodogama Talon
+478,Dodogama Tail
+479,Lavasioth Scale+
+483,Uragaan Scale+
+484,Uragaan Carapace
+485,Uragaan Jaw
+486,Uragaan Scute
+487,Uragaan Marrow
+490,Bazelgeuse Scale+
+491,Bazelgeuse Carapace
+493,Bazelgeuse Fuse
+494,Bazelgeuse Talon
+497,Immortal Dragonscale
+498,Nergigante Carapace
+501,Nergigante Horn+
+502,Nergigante Talon
+503,Nergigante Regrowth Plate
+505,Deceased Scale
+506,Vaal Hazak Carapace
+507,Vaal Hazak Membrane
+510,Vaal Hazak Talon
+514,Teostra Carapace
+515,Teostra Mane
+517,Teostra Horn+
+518,Fire Dragon Scale+
+519,Teostra Claw+
+524,Daora Dragon Scale+
+525,Daora Webbing
+526,Daora Horn+
+528,Daora Claw+
 530,Xeno'jiiva Soulscale
 531,Xeno'jiiva Shell
 532,Xeno'jiiva Veil
@@ -290,11 +332,14 @@ Item ID,Item Name
 893,Golden Fragment
 894,Golden Chunk
 908,Spring Blossom Ticket
+913,Spring Insect Field Guide
+914,Summer Insect Field Guide
 923,Black Crystal Ticket
 924,Kulu-Ya-Ku Ticket
 928,Mega Man Ticket
 932,Azure Star Shard
 933,Azure Stargem
+934,Red Orb
 935,Master Craftsman's Blueprint
 940,Blossom Fireworks
 952,Gold Chip Fragment
@@ -318,16 +363,20 @@ Item ID,Item Name
 1034,Purecrystal
 1036,Bathycite Ore
 1037,Gracium
+1040,King Armor Sphere
 1042,Thick Bone
 1043,Frozen Bone
 1049,Monster Toughbone
 1054,Tough Claw
+1055,Monster Essence
 1056,Deadly Poison Sac
 1058,Torpor Sac
 1060,Flood Sac
 1061,Cryo Sac
 1068,Prized Pelt
 1069,Anteka Antler
+1071,Vespoid Razorwing
+1073,Hornetaur Razorwing
 1075,Gajau Thickhide
 1076,Steel Gajau Whisker
 1080,Cortos Hardclaw
@@ -349,6 +398,7 @@ Item ID,Item Name
 1478,Dragonvein Shard
 1479,Dragonvein Coal
 1966,Steam Ticket
+1972,Water Res Jewel+ 4
 1973,Ice Res Jewel+ 4
 2011,Mirewalker Jewel+ 4
 2026,Expert Jewel+ 4

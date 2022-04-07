@@ -127,5 +127,5 @@ for i in range(len(df3)):
 # Adding sort=False to groupby allows sorting by Game Order
 df2 = df2.groupby(df2['Item ID'],sort=False).aggregate({'Item Name':'last','Total Quantity':'sum','Quantity in box':'sum','Quantity on hunter':'sum','Item Type':'first'})
 df3 = df3.groupby([df3['Type'],df3['ID']],sort=False).aggregate({'Name':'last','Level':'first','Points':'first'})
-df2.to_csv(r'output_items.csv')
-df3.to_csv(r'output_equipment.csv')
+df2.to_csv(r'output_items.csv',encoding='utf-8')
+df3.to_csv(r'output_equipment.csv',encoding='utf-8')
