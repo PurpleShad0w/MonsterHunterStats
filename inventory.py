@@ -85,7 +85,9 @@ for i in range(0,1500):
 df3 = pd.DataFrame(data={'Type':0,'ID':0,'Name':0,'Level':0,'Points':0},index=(0,1))
 
 df_equipment = df.iloc[index_box+6455:index_box+171456]
+df_palico = df.iloc[index_box+205118:index_box+287618]
 df_equipment.reset_index(inplace=True)
+df_palico.reset_index(inplace=True)
 
 for i in range(0,165001):
     if 'type' in df_equipment.iloc[i,0]:
@@ -99,9 +101,22 @@ for i in range(0,165001):
         s = {'Type':type,'ID':id,'Name':0,'Level':level,'Points':points}
         df3 = df3.append(s,ignore_index=True)
 
+for i in range(0,82500):
+    if 'type' in df_palico.iloc[i,0]:
+        type = df_palico.iloc[i,1]
+    if 'id' in df_palico.iloc[i,0]:
+        id = df_palico.iloc[i,1]
+    if 'level' in df_palico.iloc[i,0]:
+        level = df_palico.iloc[i,1]
+    if 'points' in df_palico.iloc[i,0]:
+        points = df_palico.iloc[i,1]
+        s = {'Type':type,'ID':id,'Name':0,'Level':level,'Points':points}
+        df3 = df3.append(s,ignore_index=True)
+
 df2 = df2[df2['Item ID'] != 0]
+df3 = df3[(df3['ID'] != 0) | ((df3['Type'] != 0))]
+df3 = df3[df3['Type'].astype(float).astype(int) >= 0]
 df2['Total Quantity'] = df2['Quantity in box'] + df2['Quantity on hunter']
-df3 = df3[(df3['ID'] != 0) | (df3['Type'] != 0)]
 
 df_dict_items = pd.read_csv('dictionary_items.csv')
 df_dict_items.set_index('Item ID', inplace=True)
