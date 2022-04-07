@@ -1,6 +1,5 @@
 import os
 import sys
-from numpy import sort
 import pandas as pd
 import warnings
 
@@ -17,7 +16,7 @@ df.set_index('Name', inplace=True)
 # print(df.loc['u32 master_rank']['Value'].iloc[0])
 # Create items dataframe
 df2 = pd.DataFrame(data={'Item ID':0,'Item Name':0,'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':0,'Item Type':0},index=(0,1))
-# Find item pouch items and ammo
+# Locate item pouch items and ammo
 index_pouch = df.index.get_loc('struct mhw_item_pouch item_pouch')
 df_item_pouch_items = df.iloc[index_pouch:index_pouch+74]
 df_item_pouch_ammo = df.iloc[index_pouch+75:index_pouch+123]
@@ -39,7 +38,7 @@ for i in range(0,48):
         amount = df_item_pouch_ammo.iloc[i,1]
         s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':amount,'Item Type':'Ammo'}
         df2 = df2.append(s,ignore_index=True)
-# Find item box items, ammo, materials and decorations
+# Locate item box items, ammo, materials and decorations
 index_box = df.index.get_loc('struct mhw_storage storage')
 df_item_box_items = df.iloc[index_box:index_box+602]
 df_item_box_ammo = df.iloc[index_box+603:index_box+1203]
@@ -83,7 +82,7 @@ for i in range(0,1500):
         df2 = df2.append(s,ignore_index=True)
 # Create equipment dataframe
 df3 = pd.DataFrame(data={'Type':0,'ID':0,'Name':0,'Level':0,'Points':0},index=(0,1))
-# Find equipment, palico equipment, palico tools, tools and pendants
+# Locate equipment, palico equipment, palico tools, tools and pendants
 df_equipment = df.iloc[index_box+6455:index_box+171456]
 df_palico_equipment = df.iloc[index_box+205118:index_box+287618]
 df_equipment.reset_index(inplace=True)
