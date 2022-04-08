@@ -242,6 +242,107 @@ Item ID,Item Name
 324,Pukei Pukei Wing
 325,Pukei Pukei Sac+
 326,Barroth Shell
+327,Barroth Ridge
+328,Barroth Claw
+329,Barroth Scalp
+330,Barroth Tail
+331,Fertile Mud
+332,Barroth Carapace
+333,Barroth Ridge+
+334,Barroth Claw+
+335,Jyuratodus Scale
+336,Jyuratodus Shell
+337,Jyuratodus Fang
+338,Jyuratodus Fin
+343,Tobi-Kadachi Scale
+344,Tobi-Kadachi Pelt
+345,Tobi-Kadachi Membrane
+346,Tobi-Kadachi Claw
+347,Tobi-Kadachi Electrode
+352,Anjanath Scale
+353,Anjanath Pelt
+354,Anjanath Fang
+355,Anjanath Nosebone
+356,Anjanath Tail
+357,Anjanath Plate
+358,Anjanath Scale+
+359,Anjanath Pelt+
+360,Anjanath Fang+
+361,Anjanath Nosebone+
+363,Rathian Scale
+364,Rathian Shell
+365,Rathian Webbing
+366,Rathian Spike
+367,Rathian Plate
+368,Rathian Scale+
+369,Rathian Carapace
+371,Rathian Ruby
+372,Pink Rathian Scale+
+373,Pink Rathian Carapace
+374,Tzitzi-Ya-Ku Scale
+375,Tzitzi-Ya-Ku Hide
+376,Tzitzi-Ya-Ku Claw
+377,Tzitzi-Ya-Ku Photophore
+378,Tzitzi-Ya-Ku Scale+
+379,Tzitzi-Ya-Ku Hide+
+380,Tzitzi-Ya-Ku Claw+
+381,Tzitzi-Ya-Ku Photophore+
+382,Paolumu Pelt
+383,Paolumu Scale
+384,Paolumu Shell
+385,Paolumu Webbing
+390,Great Girros Scale
+391,Great Girros Hide
+392,Great Girros Hood
+395,Great Girros Scale+
+396,Great Girros Hide+
+397,Great Girros Hood+
+398,Great Girros Fang+
+399,Radobaan Scale
+400,Radobaan Shell
+401,Radobaan Oilshell
+402,Wyvern Bonemass
+404,Radobaan Marrow
+405,Radobaan Scale+
+406,Radobaan Carapace
+407,Radobaan Medulla
+408,Legiana Scale
+409,Legiana Hide
+410,Legiana Claw
+412,Legiana Tail Webbing
+413,Legiana Plate
+414,Legiana Scale+
+415,Legiana Hide+
+416,Legiana Claw+
+417,Legiana Wing
+419,Odogaron Scale
+420,Odogaron Sinew
+421,Odogaron Claw
+422,Odogaron Fang
+423,Odogaron Tail
+424,Odogaron Plate
+425,Odogaron Scale+
+426,Odogaron Sinew+
+427,Odogaron Claw+
+428,Odogaron Fang+
+430,Rathalos Scale
+431,Rathalos Shell
+432,Rathalos Webbing
+433,Rathalos Tail
+434,Rath Wingtalon
+436,Rathalos Plate
+437,Rathalos Scale+
+438,Rathalos Carapace
+439,Rathalos Wing
+440,Rathalos Medulla
+442,Azure Rathalos Scale+
+443,Azure Rathalos Carapace
+445,Azure Rathalos Wing
+446,Diablos Shell
+447,Diablos Ridge
+449,Diablos Fang
+450,Twisted Horn
+455,Blos Medulla
 459,Kirin Hide
 460,Kirin Tail
 461,Kirin Mane
@@ -309,6 +410,7 @@ Item ID,Item Name
 733,Def Lock Jewel 1
 736,Footing Jewel 2
 741,Vitality Jewel 1
+745,Ice Res Jewel 1
 750,Stream Jewel 1
 752,Bolt Jewel 1
 754,Venom Jewel 1
@@ -326,6 +428,7 @@ Item ID,Item Name
 815,Brace Jewel 3
 819,Survival Jewel 1
 825,Miasma Jewel 1
+838,Crisis Jewel 1
 870,Chillshroom
 873,Galajaka Sketch
 889,Kulve Taroth Golden Nugget
@@ -371,6 +474,7 @@ Item ID,Item Name
 1055,Monster Essence
 1056,Deadly Poison Sac
 1058,Torpor Sac
+1059,Conflagrant Sac
 1060,Flood Sac
 1061,Cryo Sac
 1068,Prized Pelt
@@ -394,12 +498,40 @@ Item ID,Item Name
 1108,Coral Pukei Pukei Fellwing
 1109,Large Coral Pukei Pukei Sac
 1110,Coral Pukei Pukei Lash
+1111,Barroth Cortex
+1117,Jyuratodus Shard
+1118,Jyuratodus Cortex
+1119,Jyuratodus Hardfang
+1120,Jyuratodus Grandfin
+1121,Beotodus Shard
+1122,Beotodus Cortex
+1123,Beotodus Hardhorn
+1124,Beotodus Grandfin
+1130,Viper Tobi-Kadachi Shard
+1131,Viper Tobi-Kadachi Thickfur
+1132,Viper Tobi-Kadachi Membrane+
+1133,Viper Tobi-Kadachi Hardclaw
+1134,Viper Tobi-Kadachi Thorn
+1135,Banbaro Cortex
+1136,Banbaro Chine
+1137,Banbaro Great Horn
+1151,Rathian Shard
+1152,Rathian Cortex
+1153,Rathian Weave
+1167,Paolumu Cortex
+1169,Nightshade Paolumu Thickfur
+1170,Nightshade Paolumu Shard
+1171,Nightshade Paolumu Fellwing
+1177,Radobaan Shard
+1193,Odogaron Shard
 1445,Boaboa Ticket
 1478,Dragonvein Shard
 1479,Dragonvein Coal
 1966,Steam Ticket
 1972,Water Res Jewel+ 4
 1973,Ice Res Jewel+ 4
+1990,Antidote Jewel+ 4
+1991,Antipara Jewel+ 4
 2011,Mirewalker Jewel+ 4
 2026,Expert Jewel+ 4
 2073,Guardian/Evasion Jewel 4
