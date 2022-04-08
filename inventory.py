@@ -28,7 +28,7 @@ for i in range(0,74):
         id = df_item_pouch_items.iloc[i,1]
     if 'amount' in df_item_pouch_items.iloc[i,0]:
         amount = df_item_pouch_items.iloc[i,1]
-        s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':amount,'Item Type':'Support'}
+        s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':amount,'Item Type':'Support Items'}
         df2 = df2.append(s,ignore_index=True)
 # Gather item pouch ammo
 for i in range(0,48):
@@ -54,7 +54,7 @@ for i in range(0,602):
         id = df_item_box_items.iloc[i,1]
     if 'amount' in df_item_box_items.iloc[i,0]:
         amount = df_item_box_items.iloc[i,1]
-        s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0,'Item Type':'Support'}
+        s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0,'Item Type':'Support Items'}
         df2 = df2.append(s,ignore_index=True)
 # Gather item box ammo
 for i in range(0,600):
@@ -81,7 +81,7 @@ for i in range(0,1500):
         s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0,'Item Type':'Decorations'}
         df2 = df2.append(s,ignore_index=True)
 # Create equipment dataframe
-df3 = pd.DataFrame(data={'Type':0,'ID':0,'Name':0,'Level':0,'Points':0},index=(0,1))
+df3 = pd.DataFrame(data={'Type':0,'ID':0,'Name':0,'Level':0,'Points':0,'Category':0},index=(0,1))
 # Locate equipment, palico equipment, palico tools, tools and pendants
 df_equipment = df.iloc[index_box+6455:index_box+171456]
 df_palico_equipment = df.iloc[index_box+205118:index_box+287618]
@@ -103,7 +103,7 @@ for i in range(0,165001):
         level = df_equipment.iloc[i,1]+1
     if 'points' in df_equipment.iloc[i,0]:
         points = df_equipment.iloc[i,1]
-        s = {'Type':type,'ID':id,'Name':0,'Level':level,'Points':points}
+        s = {'Type':type,'ID':id,'Name':0,'Level':level,'Points':points,'Category':'Hunter Equipment'}
         df3 = df3.append(s,ignore_index=True)
 # Gather palico equipment
 for i in range(0,82500):
@@ -115,7 +115,7 @@ for i in range(0,82500):
         level = df_palico_equipment.iloc[i,1]
     if 'points' in df_palico_equipment.iloc[i,0]:
         points = df_palico_equipment.iloc[i,1]
-        s = {'Type':type,'ID':id,'Name':0,'Level':level,'Points':points}
+        s = {'Type':type,'ID':id,'Name':0,'Level':level,'Points':points,'Category':'Palico Equipment'}
         df3 = df3.append(s,ignore_index=True)
 # Create palico dataframe
 df4 = pd.DataFrame(data={'Tool':0,'Experience':0},index=(0,1))
@@ -136,7 +136,7 @@ for i in range(0,8449):
         level = df_tool.iloc[i,1]
     if 'points' in df_tool.iloc[i,0]:
         points = df_tool.iloc[i,1]
-        s = {'Type':type,'ID':id,'Name':0,'Level':level,'Points':points}
+        s = {'Type':type,'ID':id,'Name':0,'Level':level,'Points':points,'Category':'Hunter Tools'}
         df3 = df3.append(s,ignore_index=True)
 # Clean dataframes
 df2 = df2[df2['Item ID'] != 0]
@@ -163,12 +163,12 @@ for i in range(len(df3)):
     if df_type.index.__contains__(type) and df_id.index.__contains__(id):
         df_temp = df_dict_equipment[df_dict_equipment['Type'] == type]
         df_temp.set_index('ID', inplace=True)
-        s = {'Type':type,'ID':id,'Name':df_temp.loc[id,'Name'],'Level':0,'Points':0}
+        s = {'Type':type,'ID':id,'Name':df_temp.loc[id,'Name'],'Level':0,'Points':0,'Category':0}
         df3 = df3.append(s,ignore_index=True)
 # Rearranging dataframes
 # Adding sort=False to groupby allows sorting by Game Order
 df2 = df2.groupby(df2['Item ID'],sort=False).aggregate({'Item Name':'last','Total Quantity':'sum','Quantity in box':'sum','Quantity on hunter':'sum','Item Type':'first'})
-df3 = df3.groupby([df3['Type'],df3['ID']],sort=False).aggregate({'Name':'last','Level':'first','Points':'first'})
+df3 = df3.groupby([df3['Type'],df3['ID']],sort=False).aggregate({'Name':'last','Level':'first','Points':'first','Category':'first'})
 df4 = df4.groupby(df4['Tool'],sort=False).aggregate({'Experience':'first'})
 # Outputting dataframes
 df2.to_csv(r'output_items.csv',encoding='utf-8')

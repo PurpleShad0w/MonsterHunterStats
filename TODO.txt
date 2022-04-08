@@ -1,0 +1,5 @@
+ - Fill in dictionaries (items, equipment, etc...)
+ - Locate the Palico Weapons and gather them
+ - Understand and gather the pendants
+ - Find out how to check whether a Palico Gadget is unlocked or not
+ - Specify in Hunter Equipment which ones are Armors or Weapons
