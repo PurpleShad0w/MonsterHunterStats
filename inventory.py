@@ -93,6 +93,7 @@ index_tool = df.index.get_loc('struct mhw_equipment tools[128]')
 df_tool = df.iloc[index_tool:index_tool+8449]
 df_tool.reset_index(inplace=True)
 df_pendants = df.iloc[index_tool+8449:index_tool+8515]
+df_deco = pd.DataFrame({'ID':0},index=(0,1))
 # Gather equipment
 for i in range(0,165001):
     if 'type' in df_equipment.iloc[i,0]:
@@ -103,8 +104,13 @@ for i in range(0,165001):
         level = df_equipment.iloc[i,1]+1
     if 'points' in df_equipment.iloc[i,0]:
         points = df_equipment.iloc[i,1]
-        s = {'Type':type,'ID':id,'Name':0,'Level':level,'Points':points,'Category':'Hunter Equipment'}
+        s = {'Type':type,'ID':id,'Name':0,'Level':level,'Points':points,'Category':0}
         df3 = df3.append(s,ignore_index=True)
+    if 'decos' in df_equipment.iloc[i,0]:
+        if df_equipment.iloc[i,1] > -1:
+            deco = df_equipment.iloc[i,1]
+            s = {'ID':deco}
+            df_deco = df_deco.append(s,ignore_index=True)
 # Gather palico equipment
 for i in range(0,82500):
     if 'type' in df_palico_equipment.iloc[i,0]:
@@ -163,12 +169,12 @@ for i in range(len(df3)):
     if df_type.index.__contains__(type) and df_id.index.__contains__(id):
         df_temp = df_dict_equipment[df_dict_equipment['Type'] == type]
         df_temp.set_index('ID', inplace=True)
-        s = {'Type':type,'ID':id,'Name':df_temp.loc[id,'Name'],'Level':0,'Points':0,'Category':0}
+        s = {'Type':type,'ID':id,'Name':df_temp.loc[id,'Name'],'Level':0,'Points':0,'Category':df_temp.loc[id,'Category']}
         df3 = df3.append(s,ignore_index=True)
 # Rearranging dataframes
 # Adding sort=False to groupby allows sorting by Game Order
 df2 = df2.groupby(df2['Item ID'],sort=False).aggregate({'Item Name':'last','Total Quantity':'sum','Quantity in box':'sum','Quantity on hunter':'sum','Item Type':'first'})
-df3 = df3.groupby([df3['Type'],df3['ID']],sort=False).aggregate({'Name':'last','Level':'first','Points':'first','Category':'first'})
+df3 = df3.groupby([df3['Type'],df3['ID']],sort=False).aggregate({'Name':'last','Level':'first','Points':'first','Category':'last'})
 df4 = df4.groupby(df4['Tool'],sort=False).aggregate({'Experience':'first'})
 # Outputting dataframes
 df2.to_csv(r'output_items.csv',encoding='utf-8')

@@ -2,5 +2,7 @@
  - Locate the Palico Weapons and gather them
  - Understand and gather the pendants
  - Find out how to check whether a Palico Gadget is unlocked or not
- - Specify in Hunter Equipment which ones are Armors or Weapons
- - Gather decorations on equipment
+ - Create a dictionary for decorations on equipment
+ - Gather layered armor
+ - Add Savecrypt as submodule, with batch or python file to compile it
+ - Add SACEDATA1000.bt and types.bt as submodules if possible, or instruct on their download

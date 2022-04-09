@@ -22,7 +22,7 @@ for i in range(len(df_equipment)):
     df_general = df_general.append(s,ignore_index=True)
 # Fill in the tools
 for i in range(len(df_tool)):
-    s = {'Item Name':df_tool.iloc[i,0],'Quantity Possessed':1,'Item Level':0,'Item Experience':df_tool.iloc[i,1],'Item Type':'Palico Gadget'}
+    s = {'Item Name':df_tool.iloc[i,0],'Quantity Possessed':1,'Item Level':0,'Item Experience':df_tool.iloc[i,1],'Item Type':'Palico Gadgets'}
     df_general = df_general.append(s,ignore_index=True)
 # Clean and output the data
 df_general = df_general.groupby(df_general['Item Name']).aggregate({'Quantity Possessed':'sum','Item Level':'max','Item Experience':'max','Item Type':'first'})
