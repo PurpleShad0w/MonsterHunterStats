@@ -188,11 +188,13 @@ for i in range(len(df2)):
 for i in range(len(df3)):
     type = df3.iloc[i,0]
     id = df3.iloc[i,1]
-    if df_type.index.__contains__(type) and df_id.index.__contains__(id):
+    try:
         df_temp = df_dict_equipment[df_dict_equipment['Type'] == type]
         df_temp.set_index('ID', inplace=True)
         s = {'Type':type,'ID':id,'Name':df_temp.loc[id,'Name'],'Level':0,'Points':0,'Rarity':df_temp.loc[id,'Rarity'],'Category':df_temp.loc[id,'Category']}
         df3 = df3.append(s,ignore_index=True)
+    except KeyError:
+        continue
 
 # Rearranging dataframes
 # Adding sort=False to groupby allows sorting by Game Order
