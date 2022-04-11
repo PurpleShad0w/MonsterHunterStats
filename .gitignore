@@ -11,6 +11,7 @@ nameless_output.csv
 output_items.csv
 output_equipment.csv
 output_tool.csv
+output_layered.csv
 
 # libraries
 IceborneSavecrypt.jar

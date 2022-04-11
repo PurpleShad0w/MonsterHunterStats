@@ -165,7 +165,6 @@ for i in range(0,8449):
 # Clean dataframes
 df2 = df2[df2['Item ID'] != 0]
 df3 = df3[(df3['ID'] != 0) | ((df3['Type'] != 0))]
-
 # df3 = df3[df3['Type'].astype(float).astype(int) >= 0]
 df4 = df4[df4['Tool'] != 0]
 df2['Total Quantity'] = df2['Quantity in box'] + df2['Quantity on hunter']
@@ -196,6 +195,25 @@ for i in range(len(df3)):
     except KeyError:
         continue
 
+# Locate progress flags and extract layered armor out of them
+index_flags = df.index.get_loc('struct mhw_progress_flags progress')
+df_flags = df.iloc[index_flags:index_flags+863]
+df_layered = df_flags[df_flags.index.str.contains('layered')]
+df_layered = df_layered[df_layered['Value'].astype(int) == 1]
+df_layered.reset_index(inplace=True)
+
+# Define layered armor dataframes
+df_dict_layered = pd.read_csv('dictionary_layered.csv')
+df5 = pd.DataFrame(data={'Flag':0,'Name':0,'Rarity':0},index=(0,1))
+
+# Add layered armor information
+for i in range(len(df_layered)):
+    name = df_layered.iloc[i,0]
+    for j in range(len(df_dict_layered)):
+        if df_dict_layered.iloc[j,0] == name:
+            s = {'Flag':df_dict_layered.iloc[j,0],'Name':df_dict_layered.iloc[j,1],'Rarity':df_dict_layered.iloc[j,2]}
+            df5 = df5.append(s,ignore_index=True)
+
 # Rearranging dataframes
 # Adding sort=False to groupby allows sorting by Game Order
 df2 = df2.groupby(df2['Item ID'],sort=False).aggregate({'Item Name':'last','Total Quantity':'sum','Quantity in box':'sum','Quantity on hunter':'sum','Rarity':'last','Item Type':'first'})
@@ -206,3 +224,4 @@ df4 = df4.groupby(df4['Tool'],sort=False).aggregate({'Experience':'first','Rarit
 df2.to_csv(r'output_items.csv',encoding='utf-8')
 df3.to_csv(r'output_equipment.csv',encoding='utf-8')
 df4.to_csv(r'output_tool.csv',encoding='utf-8')
+df5.to_csv(r'output_layered.csv',encoding='utf-8')
