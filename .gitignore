@@ -1,4 +1,4 @@
-# saves and outputs
+# saves
 SAVEDATA1000
 SAVEDATA1000.bin
 SAVEDATA1000.csv
@@ -17,3 +17,6 @@ output_layered.csv
 IceborneSavecrypt.jar
 SAVEDATA1000.bt
 types.bt
+
+# cache
+__pycache__
