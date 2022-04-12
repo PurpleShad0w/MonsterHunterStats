@@ -12,6 +12,7 @@ Implementation of Monster Hunter Rise planned.
 - Create a lib folder in res and leave the file there.
 - Download the two following files : [SAVEDATA1000.bt](https://github.com/EnderHDMC/MHWISaveEditor/blob/master/res/mapping/SAVEDATA1000.bt) and [types.bt](https://github.com/EnderHDMC/MHWISaveEditor/blob/master/res/mapping/types.bt).
 - Create a mapping folder in res and leave them there.
+- Make sure your Monster Hunter save file is located in the root folder of this folder.
 - Run the execution file.
 - Contemplate !
 
