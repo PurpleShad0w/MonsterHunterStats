@@ -8,9 +8,11 @@ Implementation of Monster Hunter Rise planned.
 - Maven
 
 ### Usage
-- Go to [that repository](https://github.com/LEGENDFF/mhw-Savecrypt), compile the library and leave the .jar file in the res/lib folder of this repository.
-- Download the two following files and save them in the res/mapping folder : [SAVEDATA1000.bt](https://github.com/EnderHDMC/MHWISaveEditor/blob/master/res/mapping/SAVEDATA1000.bt) and [types.bt](https://github.com/EnderHDMC/MHWISaveEditor/blob/master/res/mapping/types.bt).
-- Run the scripts in the following order : decryption, inventory and merge.
+- Go to [that repository](https://github.com/LEGENDFF/mhw-Savecrypt) and compile the library into a .jar file.
+- Create a lib folder in res and leave the file there.
+- Download the two following files : [SAVEDATA1000.bt](https://github.com/EnderHDMC/MHWISaveEditor/blob/master/res/mapping/SAVEDATA1000.bt) and [types.bt](https://github.com/EnderHDMC/MHWISaveEditor/blob/master/res/mapping/types.bt).
+- Create a mapping folder in res and leave them there.
+- Run the execution file.
 - Contemplate !
 
 ### Credits
