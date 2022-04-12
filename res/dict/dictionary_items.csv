@@ -53,9 +53,11 @@ Item ID,Item Name,Rarity
 54,Kelbi Horn,4
 55,Dash Extract,4
 56,Nourishing Extract,4
+57,Screamer Sac,2
 58,Catalyst,2
 59,Tranq Bomb,3
 60,Flash Pod,2
+61,Screamer Pod,2
 62,Smoke Bomb,2
 63,Poison Smoke Bomb,2
 64,Farcaster,3
@@ -90,6 +92,7 @@ Item ID,Item Name,Rarity
 96,Dragonstrike Nut,2
 98,Latchberry,1
 99,Bomberry,2
+100,Flamenut,2
 102,Gunpowder Level 2,2
 103,Gunpowder Level 3,2
 104,Whetfish Fin,2
@@ -346,6 +349,7 @@ Item ID,Item Name,Rarity
 440,Rathalos Medulla,6
 442,Azure Rathalos Scale+,6
 443,Azure Rathalos Carapace,6
+444,Azure Rathalos Tail,6
 445,Azure Rathalos Wing,6
 446,Diablos Shell,4
 447,Diablos Ridge,4
@@ -515,6 +519,7 @@ Item ID,Item Name,Rarity
 1075,Gajau Thickhide,9
 1076,Steel Gajau Whisker,9
 1080,Cortos Hardclaw,9
+1085,Jagras Shard,9
 1091,Wulg Thickfur,9
 1093,Great Jagras Shard,9
 1094,Great Jagras Thickhide,9
@@ -546,6 +551,7 @@ Item ID,Item Name,Rarity
 1135,Banbaro Cortex,9
 1136,Banbaro Chine,9
 1137,Banbaro Great Horn,9
+1139,Anjanath Shard,9
 1151,Rathian Shard,9
 1152,Rathian Cortex,9
 1153,Rathian Weave,9
@@ -555,12 +561,24 @@ Item ID,Item Name,Rarity
 1171,Nightshade Paolumu Fellwing,9
 1177,Radobaan Shard,9
 1193,Odogaron Shard,10
+1221,Diablos Chine,10
 1242,Barioth Cortex,10
 1243,Barioth Thickfur,10
 1244,Barioth Hardclaw,10
 1245,Barioth Greatspike,10
 1246,Barioth Lash,10
 1247,Amber Hardfang,10
+1248,Nargacuga Shard,10
+1249,Nargacuga Blackfur+,10
+1251,Nargacuga Tailspear,10
+1252,Nargacuga Cutwing+,10
+1253,Nargacuga Hardfang,10
+1265,Glavenus Shard,10
+1266,Glavenus Cortex,10
+1268,Glavenus Hellshell,10
+1269,Glavenus Tailedge,10
+1270,Molten Bursa,10
+1271,Glavenus Mantle,11
 1445,Boaboa Ticket,9
 1478,Dragonvein Shard,4
 1479,Dragonvein Coal,5
@@ -573,6 +591,7 @@ Item ID,Item Name,Rarity
 2026,Expert Jewel+ 4,12
 2073,Guardian/Evasion Jewel 4,9
 2160,Flawless/Protection Jewel 4,10
+2212,Enhancer/Maintenance Jewel 4,10
 2272,Warming Jewel 2,9
 2676,Pearlspring Ticket,9
 2678,Snowman,4

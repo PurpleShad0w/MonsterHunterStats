@@ -103,8 +103,8 @@ def gather():
     index_palico = df.index.get_loc('str64 palico_name[64]')
     df_palico_tool = df.iloc[index_palico+66:index_palico+72]
     index_tool = df.index.get_loc('struct mhw_equipment tools[128]')
-    df_tool = df.iloc[index_tool:index_tool+8449]
-    df_tool.reset_index(inplace=True)
+    # df_tool = df.iloc[index_tool:index_tool+8449]
+    # df_tool.reset_index(inplace=True)
     df_pendants = df.iloc[index_tool+8449:index_tool+8515]
     df_deco = pd.DataFrame({'ID':0},index=(0,1))
 
@@ -149,19 +149,6 @@ def gather():
     df4 = df4.append({'Tool':'Coral Orchestra','Experience':df_palico_tool.iloc[3,0],'Rarity':4},ignore_index=True)
     df4 = df4.append({'Tool':'Plunderblade','Experience':df_palico_tool.iloc[4,0],'Rarity':4},ignore_index=True)
     df4 = df4.append({'Tool':'Meowlotov Cocktail','Experience':df_palico_tool.iloc[5,0],'Rarity':4},ignore_index=True)
-
-    # Gather tools
-    for i in range(0,8449):
-        if 'type' in df_tool.iloc[i,0]:
-            type = df_tool.iloc[i,1]
-        if 'id' in df_tool.iloc[i,0]:
-            id = df_tool.iloc[i,1]
-        if 'level' in df_tool.iloc[i,0]:
-            level = df_tool.iloc[i,1]
-        if 'points' in df_tool.iloc[i,0]:
-            points = df_tool.iloc[i,1]
-            s = {'Type':type,'ID':id,'Name':0,'Level':level,'Points':points,'Rarity':0,'Category':'Hunter Tools'}
-            df3 = df3.append(s,ignore_index=True)
 
     # Clean dataframes
     df2 = df2[df2['Item ID'] != 0]
