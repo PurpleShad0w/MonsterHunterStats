@@ -1,8 +1,10 @@
  - Fill in dictionaries (items, equipment, etc...)
  - Understand the tools
- - Locate the Palico Weapons and gather them
  - Understand and gather the pendants
  - Find out how to check whether a Palico Gadget is unlocked or not
  - Create a dictionary for decorations on equipment
- - Add Savecrypt as submodule, with batch or python file to compile it
- - Add SACEDATA1000.bt and types.bt as submodules if possible, or instruct on their download
+ - Differentiate layered head/chest/etc via dictionary
+
+ - tool unlocks values :
+   268837 -> 268853 -> 269877
+   ? -> Challenger's Mantle -> Dragonproof Mantle

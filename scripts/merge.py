@@ -22,7 +22,7 @@ def merge():
 
     # Fill in the equipment
     for i in range(len(df_equipment)):
-        s = {'Item Name':df_equipment.iloc[i,2],'Quantity Possessed':1,'Item Level':df_equipment.iloc[i,3],'Item Experience':df_equipment.iloc[i,4],'Item Rarity':df_equipment.iloc[i,5],'Item Type':df_equipment.iloc[i,6]}
+        s = {'Item Name':df_equipment.iloc[i,3],'Quantity Possessed':df_equipment.iloc[i,6],'Item Level':df_equipment.iloc[i,4],'Item Experience':df_equipment.iloc[i,5],'Item Rarity':df_equipment.iloc[i,7],'Item Type':df_equipment.iloc[i,8]}
         df_general = df_general.append(s,ignore_index=True)
 
     # Fill in the tools

@@ -417,6 +417,7 @@ Item ID,Item Name,Rarity
 571,Voucher,4
 572,First Wyverian Print,4
 573,Deluxe First Wyverian Print,4
+574,Steel Wyverian Print,4
 575,Silver Wyverian Print,4
 576,Gold Wyverian Print,4
 577,Commendation,5
@@ -437,6 +438,7 @@ Item ID,Item Name,Rarity
 750,Stream Jewel 1,6
 752,Bolt Jewel 1,6
 754,Venom Jewel 1,6
+758,Poisoncoat Jewel 3,6
 774,Flight Jewel 2,5
 785,Heavy Artillery Jewel 1,5
 792,Jumping Jewel 2,6
@@ -453,6 +455,7 @@ Item ID,Item Name,Rarity
 825,Miasma Jewel 1,5
 838,Crisis Jewel 1,5
 870,Chillshroom,3
+871,Tailraider Voucher,4
 873,Galajaka Sketch,4
 879,Deviljho Scale,6
 880,Deviljho Hide,6
@@ -461,6 +464,7 @@ Item ID,Item Name,Rarity
 883,Deviljho Scalp,6
 884,Deviljho Tail,6
 885,Deviljho Saliva,6
+886,Deviljho Gem,7
 889,Kulve Taroth Golden Nugget,7
 893,Golden Fragment,4
 894,Golden Chunk,4
@@ -551,6 +555,7 @@ Item ID,Item Name,Rarity
 1135,Banbaro Cortex,9
 1136,Banbaro Chine,9
 1137,Banbaro Great Horn,9
+1138,Banbaro Lash,9
 1139,Anjanath Shard,9
 1151,Rathian Shard,9
 1152,Rathian Cortex,9
