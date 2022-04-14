@@ -107,7 +107,6 @@ def gather():
     # df_tool.reset_index(inplace=True)
     df_pendants = df.iloc[index_tool+8449:index_tool+8515]
     df_deco = pd.DataFrame({'ID':0},index=(0,1))
-    df_equipment.to_csv('test.csv')
 
     # Gather equipment
     for i in range(0,165001):

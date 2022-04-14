@@ -1,18 +1,18 @@
 Serial,ID,Type,Name,Rarity,Category
 0,1,0,Felyne Leather Cap,1,Palico Head Armor
 0,1,1,Felyne Leather Vest,1,Palico Chest Armor
-0,14,0
-0,14,1
-0,28,0
-0,28,1
-0,29,0
-0,29,1
+0,14,0,Felyne Odogaron Helm,4,Palico Head Armor
+0,14,1,Felyne Odogaron Mail,4,Palico Chest Armor
+0,28,0,Felyne Bone Helm,1,Palico Head Armor
+0,28,1,Felyne Bone Mail,1,Palico Chest Armor
+0,29,0,Felyne Alloy Helm,2,Palico Head Armor
+0,29,1,Felyne Alloy Mail,2,Palico Chest Armor
 0,110,0,Felyne Duffel Hood α+,9,Palico Head Armor
 0,110,1,Felyne Duffel Coat α+,9,Palico Chest Armor
-0,180,0
-0,180,1
+0,180,0,Felyne Rose Headgear α+,11,Palico Head Armor
+0,180,1,Felyne Rose Dress α+,11,Palico Chest Armor
 1,1,0,Felyne Acorn Spade,1,Palico Weapons
-1,14,0
-1,28,1
-1,29,0
-1,180,1
+1,14,0,Felyne Garon Chainblade,4,Palico Weapons
+1,28,1,Felyne Bone Hammer,1,Palico Weapons
+1,29,0,Felyne Iron Sword,2,Palico Weapons
+1,180,1,Felyne Rose Basket α+,11,Palico Weapons
