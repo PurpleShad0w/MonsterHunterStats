@@ -3,7 +3,7 @@
  - Understand and gather the pendants
  - Find out how to check whether a Palico Gadget is unlocked or not
  - Create a dictionary for decorations on equipment
- - Differentiate layered head/chest/etc via dictionary
+ - Understand bowgun mods
 
  - tool unlocks values :
    268837 -> 268853 -> 269877

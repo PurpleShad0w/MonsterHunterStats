@@ -1,607 +1,608 @@
-Item ID,Item Name,Rarity
-1,Potion,1
-2,Mega Potion,2
-3,Max Potion,3
-4,Ancient Potion,5
-5,Antidote,1
-6,Herbal Medecine,2
-7,Nulberry,2
-8,Energy Drink,2
-9,Ration,1
-11,Well-done Steak,2
-12,Burnt Meat,1
-13,Cool Drink,1
-14,Nutrients,2
-15,Mega Nutrients,3
-16,Immunizer,3
-17,Astera Jerky,2
-18,Dash Juice,2
-20,Might Seed,2
-21,Demondrug,4
-22,Mega Demondrug,5
-23,Might Pill,4
-24,Adamant Seed,2
-25,Armorskin,4
-26,Mega Armorskin,5
-27,Adamant Pill,4
-28,Lifepowder,4
-29,Herbal Powder,4
-30,Demon Powder,4
-31,Hardshell Powder,4
-32,Honey,2
-33,Herb,1
-34,Antidote Herb,1
-35,Fire Herb,2
-36,Flowfern,1
-37,Snow Herb,2
-38,Sleep Herb,1
-39,Ivy,1
-40,Smokenut,1
-41,Dragonfell Berry,4
-42,Blue Mushroom,2
-43,Mandragora,3
-44,Nitroshroom,2
-45,Devil's Blight,2
-46,Parashroom,3
-47,Toadstool,2
-48,Exciteshroom,3
-49,Bitterbug,1
-50,Flashbug,2
-51,Godbug,4
-52,Thunderbug,4
-53,Baitbug,3
-54,Kelbi Horn,4
-55,Dash Extract,4
-56,Nourishing Extract,4
-57,Screamer Sac,2
-58,Catalyst,2
-59,Tranq Bomb,3
-60,Flash Pod,2
-61,Screamer Pod,2
-62,Smoke Bomb,2
-63,Poison Smoke Bomb,2
-64,Farcaster,3
-65,Raw Meat,1
-66,Poisoned Meat,2
-67,Tinged Meat,2
-68,Drugged Meat,2
-69,Gunpowder,2
-70,Small Barrel,1
-71,Barrel Bomb,2
-72,Bounce Bomb,2
-73,Mega Bounce Bomb,4
-74,Large Barrel,2
-75,Large Barrel Bomb,3
-76,Mega Barrel Bomb,4
-77,Spider Web,1
-78,Net,2
-79,Trap Tool,3
-80,Pitfall Trap,3
-81,Shock Trap,3
-83,Dung,1
-84,Dung Pod,2
-85,Arowana Bait,2
-86,Gunpowderfish Bait,2
-87,Goldenfish Bait,2
-88,Boomerang,4
-89,Binoculars,1
-90,Powercharm,5
-92,Armorcharm,5
-94,Needleberry,1
-95,Blastnut,1
-96,Dragonstrike Nut,2
-98,Latchberry,1
-99,Bomberry,2
-100,Flamenut,2
-102,Gunpowder Level 2,2
-103,Gunpowder Level 3,2
-104,Whetfish Fin,2
-106,Sushifish Scale,2
-107,Great Sushifish Scale,4
-110,Burst Arowana Scale,2
-111,Great Burst Arowana Scale,4
-138,Normal Ammo 2,2
-139,Normal Ammo 3,3
-140,Pierce Ammo 1,1
-141,Pierce Ammo 2,2
-142,Pierce Ammo 3,3
-143,Spread Ammo 1,1
-144,Spread Ammo 2,2
-145,Spread Ammo 3,3
-146,Sticky Ammo 1,1
-147,Sticky Ammo 2,2
-148,Sticky Ammo 3,3
-149,Cluster Bomb 1,2
-150,Cluster Bomb 2,3
-151,Cluster Bomb 3,4
-152,Flaming Ammo,2
-153,Water Ammo,2
-154,Thunder Ammo,2
-155,Freeze Ammo,2
-156,Dragon Ammo,3
-157,Poison Ammo 1,2
-158,Poison Ammo 2,3
-159,Paralysis Ammo 1,2
-160,Paralysis Ammo 2,3
-161,Sleep Ammo 1,2
-162,Sleep Ammo 2,3
-163,Exhaust Ammo 1,2
-164,Exhaust Ammo 2,3
-165,Recover Ammo 1,2
-166,Recover Ammo 2,3
-167,Wyvern Ammo,3
-168,Slicing Ammo,2
-169,Tranq Ammo,3
-170,Demon Ammo,4
-171,Armor Ammo,4
-174,Empty Phial,1
-175,Power Coating,2
-176,Poison Coating,3
-177,Paralysis Coating,3
-178,Sleep Coating,3
-180,Blast Coating,3
-205,Iron Ore,4
-206,Machalite Ore,4
-207,Dragonite Ore,4
-208,Carbalite Ore,6
-209,Fucium Ore,6
-210,Earth Crystal,4
-211,Coral Crystal,4
-212,Dragonvein Crystal,6
-213,Lightcrystal,5
-214,Novacrystal,7
-215,Firecell Stone,7
-216,Aquacore Ore,4
-217,Spiritcore Ore,6
-218,Dreamcore Ore,7
-220,Armor Sphere,4
-221,Armor Sphere+,5
-222,Advanced Armor Sphere,6
-223,Hard Armor Sphere,7
-224,Heavy Armor Sphere,8
-225,Sturdy Bone,4
-226,Quality Bone,6
-227,Ancient Bone,4
-228,Boulder Bone,4
-229,Coral Bone,4
-230,Warped Bone,4
-231,Brutal Bone,6
-232,Dragonbone Relic,7
-233,Unknown Skull,7
-234,Great Hornfly,5
-235,Sinister Cloth,5
-236,Monster Bone S,4
-237,Monster Bone M,4
-238,Monster Bone L,4
-239,Monster Bone+,4
-240,Monster Keenbone,6
-241,Monster Hardbone,6
-242,Elder Dragon Bone,7
-243,Sharp Claw,4
-244,Piercing Claw,6
-245,Monster Fluid,4
-246,Monster Broth,6
-247,Poison Sac,4
-249,Paralysis Sac,4
-250,Omniplegia Sac,6
-252,Coma Sac,6
-253,Flame Sac,4
-254,Inferno Sac,6
-256,Torrent Sac,6
-257,Frost Sac,4
-259,Electro Sac,4
-261,Bird Wyvern Gem,7
-262,Wyvern Gem,7
-263,Elder Dragon Blood,7
-264,Mosswine Hide,4
-266,High-quality Pelt,6
-267,Vespoid Shell,4
-268,Vespoid Carapace,6
-269,Vespoid Wing,4
-270,Vespoid Innerwing,6
-271,Hornetaur Shell,4
-272,Hornetaur Wing,4
-273,Hornetaur Head,4
-274,Hornetaur Carapace,6
-275,Hornetaur Innerwing,6
-276,Gajau Skin,4
-277,Gajau Whisker,4
-278,Gajau Scale,6
-280,Wingdrake Hide,4
-284,Kestodon Shell,4
-285,Kestodon Scalp,4
-287,Gastodon Carapace,6
-288,Gastodon Horn,6
-289,Jagras Scale,4
-290,Jagras Hide,4
-291,Jagras Scale+,6
-292,Jagras Hide+,6
-293,Shamos Scale,4
-294,Shamos Hide,4
-295,Shamos Scale+,6
-296,Shamos Hide+,6
-297,Girros Scale,4
-298,Girros Hide,4
-299,Girros Fang,4
-300,Girros Scale+,6
-301,Girros Hide+,6
-302,Great Jagras Scale,4
-303,Great Jagras Hide,4
-304,Great Jagras Mane,4
-305,Great Jagras Claw,4
-306,Great Jagras Scale+,6
-307,Great Jagras Hide+,6
-308,Great Jagras Claw+,6
-309,Kulu-Ya-Ku Scale,4
-310,Kulu-Ya-Ku Hide,4
-311,Kulu-Ya-Ku Plume,4
-312,Kulu-Ya-Ku Beak,4
-313,Kulu-Ya-Ku Scale+,6
-314,Kulu-Ya-Ku Hide+,6
-315,Kulu-Ya-Ku Plume+,6
-316,Kulu-Ya-Ku Beak+,6
-317,Pukei Pukei Scale,4
-318,Pukei Pukei Shell,4
-319,Pukei Pukei Quill,4
-320,Pukei Pukei Sac,4
-321,Pukei Pukei Tail,4
-322,Pukei Pukei Scale+,6
-323,Pukei Pukei Carapace,6
-324,Pukei Pukei Wing,6
-325,Pukei Pukei Sac+,6
-326,Barroth Shell,4
-327,Barroth Ridge,4
-328,Barroth Claw,4
-329,Barroth Scalp,4
-330,Barroth Tail,4
-331,Fertile Mud,4
-332,Barroth Carapace,6
-333,Barroth Ridge+,6
-334,Barroth Claw+,6
-335,Jyuratodus Scale,4
-336,Jyuratodus Shell,4
-337,Jyuratodus Fang,4
-338,Jyuratodus Fin,4
-339,Jyuratodus Scale+,6
-340,Jyuratodus Carapace,6
-341,Jyuratodus Fang+,6
-342,Jyuratodus Fin+,6
-343,Tobi-Kadachi Scale,4
-344,Tobi-Kadachi Pelt,4
-345,Tobi-Kadachi Membrane,4
-346,Tobi-Kadachi Claw,4
-347,Tobi-Kadachi Electrode,4
-352,Anjanath Scale,4
-353,Anjanath Pelt,4
-354,Anjanath Fang,4
-355,Anjanath Nosebone,4
-356,Anjanath Tail,4
-357,Anjanath Plate,5
-358,Anjanath Scale+,6
-359,Anjanath Pelt+,6
-360,Anjanath Fang+,6
-361,Anjanath Nosebone+,6
-363,Rathian Scale,4
-364,Rathian Shell,4
-365,Rathian Webbing,4
-366,Rathian Spike,4
-367,Rathian Plate,5
-368,Rathian Scale+,6
-369,Rathian Carapace,6
-371,Rathian Ruby,7
-372,Pink Rathian Scale+,6
-373,Pink Rathian Carapace,6
-374,Tzitzi-Ya-Ku Scale,4
-375,Tzitzi-Ya-Ku Hide,4
-376,Tzitzi-Ya-Ku Claw,4
-377,Tzitzi-Ya-Ku Photophore,4
-378,Tzitzi-Ya-Ku Scale+,6
-379,Tzitzi-Ya-Ku Hide+,6
-380,Tzitzi-Ya-Ku Claw+,6
-381,Tzitzi-Ya-Ku Photophore+,6
-382,Paolumu Pelt,4
-383,Paolumu Scale,4
-384,Paolumu Shell,4
-385,Paolumu Webbing,4
-390,Great Girros Scale,4
-391,Great Girros Hide,4
-392,Great Girros Hood,4
-395,Great Girros Scale+,6
-396,Great Girros Hide+,6
-397,Great Girros Hood+,6
-398,Great Girros Fang+,6
-399,Radobaan Scale,4
-400,Radobaan Shell,4
-401,Radobaan Oilshell,4
-402,Wyvern Bonemass,4
-404,Radobaan Marrow,4
-405,Radobaan Scale+,6
-406,Radobaan Carapace,6
-407,Radobaan Medulla,6
-408,Legiana Scale,4
-409,Legiana Hide,4
-410,Legiana Claw,4
-412,Legiana Tail Webbing,4
-413,Legiana Plate,5
-414,Legiana Scale+,6
-415,Legiana Hide+,6
-416,Legiana Claw+,6
-417,Legiana Wing,6
-419,Odogaron Scale,4
-420,Odogaron Sinew,4
-421,Odogaron Claw,4
-422,Odogaron Fang,4
-423,Odogaron Tail,4
-424,Odogaron Plate,5
-425,Odogaron Scale+,6
-426,Odogaron Sinew+,6
-427,Odogaron Claw+,6
-428,Odogaron Fang+,6
-430,Rathalos Scale,4
-431,Rathalos Shell,4
-432,Rathalos Webbing,4
-433,Rathalos Tail,4
-434,Rath Wingtalon,4
-436,Rathalos Plate,5
-437,Rathalos Scale+,6
-438,Rathalos Carapace,6
-439,Rathalos Wing,6
-440,Rathalos Medulla,6
-442,Azure Rathalos Scale+,6
-443,Azure Rathalos Carapace,6
-444,Azure Rathalos Tail,6
-445,Azure Rathalos Wing,6
-446,Diablos Shell,4
-447,Diablos Ridge,4
-448,Diablos Tailcase,4
-449,Diablos Fang,4
-450,Twisted Horn,4
-452,Diablos Carapace,6
-453,Diablos Ridge+,6
-454,Majestic Horn,6
-455,Blos Medulla,6
-456,Black Diablos Carapace,6
-457,Black Diablos Ridge+,6
-459,Kirin Hide,4
-460,Kirin Tail,4
-461,Kirin Mane,4
-462,Kirin Thunderhorn,4
-467,Zorah Magdaros Heat Scale,6
-468,Zorah Magdaros Carapace,6
-470,Zorah Magdaros Pleura,6
-472,Zorah Magdaros Magma,6
-473,Zorah Magdaros Gem,7
-474,Dodogama Scale+,6
-475,Dodogama Hide+,6
-476,Dodogama Jaw,6
-477,Dodogama Talon,6
-478,Dodogama Tail,6
-479,Lavasioth Scale+,6
-483,Uragaan Scale+,6
-484,Uragaan Carapace,6
-485,Uragaan Jaw,6
-486,Uragaan Scute,6
-487,Uragaan Marrow,6
-490,Bazelgeuse Scale+,6
-491,Bazelgeuse Carapace,6
-493,Bazelgeuse Fuse,6
-494,Bazelgeuse Talon,6
-497,Immortal Dragonscale,7
-498,Nergigante Carapace,7
-501,Nergigante Horn+,7
-502,Nergigante Talon,7
-503,Nergigante Regrowth Plate,7
-505,Deceased Scale,7
-506,Vaal Hazak Carapace,7
-507,Vaal Hazak Membrane,7
-510,Vaal Hazak Talon,7
-514,Teostra Carapace,7
-515,Teostra Mane,7
-517,Teostra Horn+,7
-518,Fire Dragon Scale+,7
-519,Teostra Claw+,7
-521,Teostra Powder,7
-524,Daora Dragon Scale+,7
-525,Daora Webbing,7
-526,Daora Horn+,7
-528,Daora Claw+,7
-530,Xeno'jiiva Soulscale,7
-531,Xeno'jiiva Shell,7
-532,Xeno'jiiva Veil,7
-533,Xeno'jiiva Tail,7
-534,Xeno'jiiva Horn,7
-535,Xeno'jiiva Claw,7
-536,Xeno'jiiva Wing,7
-538,Xeno'jiiva Gem,8
-554,Streamstone Shard,6
-571,Voucher,4
-572,First Wyverian Print,4
-573,Deluxe First Wyverian Print,4
-574,Steel Wyverian Print,4
-575,Silver Wyverian Print,4
-576,Gold Wyverian Print,4
-577,Commendation,5
-578,High Commendation,7
-580,Pukei Coin,4
-589,Pinnacle Coin,4
-592,Steel Egg,4
-593,Silver Egg,4
-594,Golden Egg,4
-727,Antidote Jewel 1,5
-728,Antipara Jewel 1,5
-732,Suture Jewel 1,5
-733,Def Lock Jewel 1,5
-736,Footing Jewel 2,6
-741,Vitality Jewel 1,6
-743,Fire Res Jewel 1,5
-745,Ice Res Jewel 1,5
-750,Stream Jewel 1,6
-752,Bolt Jewel 1,6
-754,Venom Jewel 1,6
-758,Poisoncoat Jewel 3,6
-774,Flight Jewel 2,5
-785,Heavy Artillery Jewel 1,5
-792,Jumping Jewel 2,6
-795,Friendship Jewel 1,6
-796,Enduring Jewel 1,6
-797,Satiated Jewel 1,5
-798,Gobbler Jewel 1,6
-809,Meowster Jewel 1,5
-810,Botany Jewel 1,5
-811,Geology Jewel 1,5
-814,Tip Toe Jewel 1,5
-815,Brace Jewel 3,6
-819,Survival Jewel 1,9
-825,Miasma Jewel 1,5
-838,Crisis Jewel 1,5
-870,Chillshroom,3
-871,Tailraider Voucher,4
-873,Galajaka Sketch,4
-879,Deviljho Scale,6
-880,Deviljho Hide,6
-881,Deviljho Tallfang,6
-882,Deviljho Talon,6
-883,Deviljho Scalp,6
-884,Deviljho Tail,6
-885,Deviljho Saliva,6
-886,Deviljho Gem,7
-889,Kulve Taroth Golden Nugget,7
-893,Golden Fragment,4
-894,Golden Chunk,4
-895,Lunastra Scale+,7
-898,Lunastra Carapace,7
-903,Behemoth Bone,7
-907,Aetheryte Shard,7
-908,Spring Blossom Ticket,4
-913,Spring Insect Field Guide,4
-914,Summer Insect Field Guide,4
-923,Black Crystal Ticket,6
-924,Kulu-Ya-Ku Ticket,6
-928,Mega Man Ticket,6
-932,Azure Star Shard,4
-933,Azure Stargem,6
-934,Red Orb,8
-935,Master Craftsman's Blueprint,6
-940,Blossom Fireworks,3
-952,Gold Chip Fragment,4
-956,Hunter Runestone,4
-961,Downy Crake Ticket,4
-962,Bristly Crake Ticket,4
-963,First Fleet Ticket,4
-969,Faux Ticket,4
-979,Leshen Claw,6
-981,Leshen Skull,7
-983,Cursed Bone,6
-987,Leshen Resin,6
-1000,Hot Drink,1
-1003,Gourmet Voucher,5
-1006,Hot Pepper,1
-1007,Gloamgrass Bud,4
-1008,Dust of Life,6
-1030,Eltalite Ore,9
-1031,Meldspar Ore,9
-1032,Spiritvein Crystal,9
-1034,Purecrystal,10
-1036,Bathycite Ore,9
-1037,Gracium,9
-1040,King Armor Sphere,9
-1042,Thick Bone,9
-1043,Frozen Bone,9
-1049,Monster Toughbone,9
-1050,Monster Slogbone,10
-1054,Tough Claw,9
-1055,Monster Essence,9
-1056,Deadly Poison Sac,9
-1058,Torpor Sac,9
-1059,Conflagrant Sac,9
-1060,Flood Sac,9
-1061,Cryo Sac,9
-1068,Prized Pelt,9
-1069,Anteka Antler,9
-1071,Vespoid Razorwing,9
-1073,Hornetaur Razorwing,9
-1075,Gajau Thickhide,9
-1076,Steel Gajau Whisker,9
-1080,Cortos Hardclaw,9
-1085,Jagras Shard,9
-1091,Wulg Thickfur,9
-1093,Great Jagras Shard,9
-1094,Great Jagras Thickhide,9
-1095,Great Jagras Hardclaw,9
-1096,Great Jagras Mane+,9
-1101,Pukei Pukei Shard,9
-1102,Pukei Pukei Cortex,9
-1103,Pukei Pukei Fellwing,9
-1104,Large Pukei Pukei Sac,9
-1106,Coral Pukei Pukei Shard,9
-1107,Coral Pukei Pukei Cortex,9
-1108,Coral Pukei Pukei Fellwing,9
-1109,Large Coral Pukei Pukei Sac,9
-1110,Coral Pukei Pukei Lash,9
-1111,Barroth Cortex,9
-1117,Jyuratodus Shard,9
-1118,Jyuratodus Cortex,9
-1119,Jyuratodus Hardfang,9
-1120,Jyuratodus Grandfin,9
-1121,Beotodus Shard,9
-1122,Beotodus Cortex,9
-1123,Beotodus Hardhorn,9
-1124,Beotodus Grandfin,9
-1130,Viper Tobi-Kadachi Shard,9
-1131,Viper Tobi-Kadachi Thickfur,9
-1132,Viper Tobi-Kadachi Membrane+,9
-1133,Viper Tobi-Kadachi Hardclaw,9
-1134,Viper Tobi-Kadachi Thorn,9
-1135,Banbaro Cortex,9
-1136,Banbaro Chine,9
-1137,Banbaro Great Horn,9
-1138,Banbaro Lash,9
-1139,Anjanath Shard,9
-1151,Rathian Shard,9
-1152,Rathian Cortex,9
-1153,Rathian Weave,9
-1167,Paolumu Cortex,9
-1169,Nightshade Paolumu Thickfur,9
-1170,Nightshade Paolumu Shard,9
-1171,Nightshade Paolumu Fellwing,9
-1177,Radobaan Shard,9
-1193,Odogaron Shard,10
-1221,Diablos Chine,10
-1242,Barioth Cortex,10
-1243,Barioth Thickfur,10
-1244,Barioth Hardclaw,10
-1245,Barioth Greatspike,10
-1246,Barioth Lash,10
-1247,Amber Hardfang,10
-1248,Nargacuga Shard,10
-1249,Nargacuga Blackfur+,10
-1251,Nargacuga Tailspear,10
-1252,Nargacuga Cutwing+,10
-1253,Nargacuga Hardfang,10
-1265,Glavenus Shard,10
-1266,Glavenus Cortex,10
-1268,Glavenus Hellshell,10
-1269,Glavenus Tailedge,10
-1270,Molten Bursa,10
-1271,Glavenus Mantle,11
-1445,Boaboa Ticket,9
-1478,Dragonvein Shard,4
-1479,Dragonvein Coal,5
-1966,Steam Ticket,11
-1972,Water Res Jewel+ 4,9
-1973,Ice Res Jewel+ 4,9
-1990,Antidote Jewel+ 4,9
-1991,Antipara Jewel+ 4,9
-2011,Mirewalker Jewel+ 4,9
-2026,Expert Jewel+ 4,12
-2073,Guardian/Evasion Jewel 4,9
-2160,Flawless/Protection Jewel 4,10
-2212,Enhancer/Maintenance Jewel 4,10
-2272,Warming Jewel 2,9
-2676,Pearlspring Ticket,9
-2678,Snowman,4
-2686,Steel Melding Ticket,6
-2687,Silver Melding Ticket,7
-2690,Gold Melding Ticket,10
-2721,Full Bloom Ticket,9
-2737,VIP Full Bloom Ticket,12
+Item ID,Item Name,Rarity,Category
+1,Potion,1,Support Items
+2,Mega Potion,2,Support Items
+3,Max Potion,3,Support Items
+4,Ancient Potion,5,Support Items
+5,Antidote,1,Support Items
+6,Herbal Medecine,2,Support Items
+7,Nulberry,2,Support Items
+8,Energy Drink,2,Support Items
+9,Ration,1,Support Items
+11,Well-done Steak,2,Support Items
+12,Burnt Meat,1,Support Items
+13,Cool Drink,1,Support Items
+14,Nutrients,2,Support Items
+15,Mega Nutrients,3,Support Items
+16,Immunizer,3,Support Items
+17,Astera Jerky,2,Support Items
+18,Dash Juice,2,Support Items
+20,Might Seed,2,Support Items
+21,Demondrug,4,Support Items
+22,Mega Demondrug,5,Support Items
+23,Might Pill,4,Support Items
+24,Adamant Seed,2,Support Items
+25,Armorskin,4,Support Items
+26,Mega Armorskin,5,Support Items
+27,Adamant Pill,4,Support Items
+28,Lifepowder,4,Support Items
+29,Herbal Powder,4,Support Items
+30,Demon Powder,4,Support Items
+31,Hardshell Powder,4,Support Items
+32,Honey,2,Support Items
+33,Herb,1,Support Items
+34,Antidote Herb,1,Support Items
+35,Fire Herb,2,Support Items
+36,Flowfern,1,Support Items
+37,Snow Herb,2,Support Items
+38,Sleep Herb,1,Support Items
+39,Ivy,1,Support Items
+40,Smokenut,1,Support Items
+41,Dragonfell Berry,4,Support Items
+42,Blue Mushroom,2,Support Items
+43,Mandragora,3,Support Items
+44,Nitroshroom,2,Support Items
+45,Devil's Blight,2,Support Items
+46,Parashroom,3,Support Items
+47,Toadstool,2,Support Items
+48,Exciteshroom,3,Support Items
+49,Bitterbug,1,Support Items
+50,Flashbug,2,Support Items
+51,Godbug,4,Support Items
+52,Thunderbug,4,Support Items
+53,Baitbug,3,Support Items
+54,Kelbi Horn,4,Support Items
+55,Dash Extract,4,Support Items
+56,Nourishing Extract,4,Support Items
+57,Screamer Sac,2,Support Items
+58,Catalyst,2,Support Items
+59,Tranq Bomb,3,Support Items
+60,Flash Pod,2,Support Items
+61,Screamer Pod,2,Support Items
+62,Smoke Bomb,2,Support Items
+63,Poison Smoke Bomb,2,Support Items
+64,Farcaster,3,Support Items
+65,Raw Meat,1,Support Items
+66,Poisoned Meat,2,Support Items
+67,Tinged Meat,2,Support Items
+68,Drugged Meat,2,Support Items
+69,Gunpowder,2,Support Items
+70,Small Barrel,1,Support Items
+71,Barrel Bomb,2,Support Items
+72,Bounce Bomb,2,Support Items
+73,Mega Bounce Bomb,4,Support Items
+74,Large Barrel,2,Support Items
+75,Large Barrel Bomb,3,Support Items
+76,Mega Barrel Bomb,4,Support Items
+77,Spider Web,1,Support Items
+78,Net,2,Support Items
+79,Trap Tool,3,Support Items
+80,Pitfall Trap,3,Support Items
+81,Shock Trap,3,Support Items
+83,Dung,1,Support Items
+84,Dung Pod,2,Support Items
+85,Arowana Bait,2,Support Items
+86,Gunpowderfish Bait,2,Support Items
+87,Goldenfish Bait,2,Support Items
+88,Boomerang,4,Support Items
+89,Binoculars,1,Support Items
+90,Powercharm,5,Support Items
+92,Armorcharm,5,Support Items
+94,Needleberry,1,Support Items
+95,Blastnut,1,Support Items
+96,Dragonstrike Nut,2,Support Items
+98,Latchberry,1,Support Items
+99,Bomberry,2,Support Items
+100,Flamenut,2,Support Items
+102,Gunpowder Level 2,2,Support Items
+103,Gunpowder Level 3,2,Support Items
+104,Whetfish Fin,2,Support Items
+106,Sushifish Scale,2,Support Items
+107,Great Sushifish Scale,4,Support Items
+110,Burst Arowana Scale,2,Support Items
+111,Great Burst Arowana Scale,4,Support Items
+138,Normal Ammo 2,2,Ammo
+139,Normal Ammo 3,3,Ammo
+140,Pierce Ammo 1,1,Ammo
+141,Pierce Ammo 2,2,Ammo
+142,Pierce Ammo 3,3,Ammo
+143,Spread Ammo 1,1,Ammo
+144,Spread Ammo 2,2,Ammo
+145,Spread Ammo 3,3,Ammo
+146,Sticky Ammo 1,1,Ammo
+147,Sticky Ammo 2,2,Ammo
+148,Sticky Ammo 3,3,Ammo
+149,Cluster Bomb 1,2,Ammo
+150,Cluster Bomb 2,3,Ammo
+151,Cluster Bomb 3,4,Ammo
+152,Flaming Ammo,2,Ammo
+153,Water Ammo,2,Ammo
+154,Thunder Ammo,2,Ammo
+155,Freeze Ammo,2,Ammo
+156,Dragon Ammo,3,Ammo
+157,Poison Ammo 1,2,Ammo
+158,Poison Ammo 2,3,Ammo
+159,Paralysis Ammo 1,2,Ammo
+160,Paralysis Ammo 2,3,Ammo
+161,Sleep Ammo 1,2,Ammo
+162,Sleep Ammo 2,3,Ammo
+163,Exhaust Ammo 1,2,Ammo
+164,Exhaust Ammo 2,3,Ammo
+165,Recover Ammo 1,2,Ammo
+166,Recover Ammo 2,3,Ammo
+167,Wyvern Ammo,3,Ammo
+168,Slicing Ammo,2,Ammo
+169,Tranq Ammo,3,Ammo
+170,Demon Ammo,4,Ammo
+171,Armor Ammo,4,Ammo
+174,Empty Phial,1,Ammo
+175,Power Coating,2,Ammo
+176,Poison Coating,3,Ammo
+177,Paralysis Coating,3,Ammo
+178,Sleep Coating,3,Ammo
+180,Blast Coating,3,Ammo
+205,Iron Ore,4,Materials
+206,Machalite Ore,4,Materials
+207,Dragonite Ore,4,Materials
+208,Carbalite Ore,6,Materials
+209,Fucium Ore,6,Materials
+210,Earth Crystal,4,Materials
+211,Coral Crystal,4,Materials
+212,Dragonvein Crystal,6,Materials
+213,Lightcrystal,5,Materials
+214,Novacrystal,7,Materials
+215,Firecell Stone,7,Materials
+216,Aquacore Ore,4,Materials
+217,Spiritcore Ore,6,Materials
+218,Dreamcore Ore,7,Materials
+220,Armor Sphere,4,Materials
+221,Armor Sphere+,5,Materials
+222,Advanced Armor Sphere,6,Materials
+223,Hard Armor Sphere,7,Materials
+224,Heavy Armor Sphere,8,Materials
+225,Sturdy Bone,4,Materials
+226,Quality Bone,6,Materials
+227,Ancient Bone,4,Materials
+228,Boulder Bone,4,Materials
+229,Coral Bone,4,Materials
+230,Warped Bone,4,Materials
+231,Brutal Bone,6,Materials
+232,Dragonbone Relic,7,Materials
+233,Unknown Skull,7,Materials
+234,Great Hornfly,5,Materials
+235,Sinister Cloth,5,Materials
+236,Monster Bone S,4,Materials
+237,Monster Bone M,4,Materials
+238,Monster Bone L,4,Materials
+239,Monster Bone+,4,Materials
+240,Monster Keenbone,6,Materials
+241,Monster Hardbone,6,Materials
+242,Elder Dragon Bone,7,Materials
+243,Sharp Claw,4,Materials
+244,Piercing Claw,6,Materials
+245,Monster Fluid,4,Materials
+246,Monster Broth,6,Materials
+247,Poison Sac,4,Materials
+249,Paralysis Sac,4,Materials
+250,Omniplegia Sac,6,Materials
+252,Coma Sac,6,Materials
+253,Flame Sac,4,Materials
+254,Inferno Sac,6,Materials
+256,Torrent Sac,6,Materials
+257,Frost Sac,4,Materials
+259,Electro Sac,4,Materials
+261,Bird Wyvern Gem,7,Materials
+262,Wyvern Gem,7,Materials
+263,Elder Dragon Blood,7,Materials
+264,Mosswine Hide,4,Materials
+266,High-quality Pelt,6,Materials
+267,Vespoid Shell,4,Materials
+268,Vespoid Carapace,6,Materials
+269,Vespoid Wing,4,Materials
+270,Vespoid Innerwing,6,Materials
+271,Hornetaur Shell,4,Materials
+272,Hornetaur Wing,4,Materials
+273,Hornetaur Head,4,Materials
+274,Hornetaur Carapace,6,Materials
+275,Hornetaur Innerwing,6,Materials
+276,Gajau Skin,4,Materials
+277,Gajau Whisker,4,Materials
+278,Gajau Scale,6,Materials
+280,Wingdrake Hide,4,Materials
+284,Kestodon Shell,4,Materials
+285,Kestodon Scalp,4,Materials
+287,Gastodon Carapace,6,Materials
+288,Gastodon Horn,6,Materials
+289,Jagras Scale,4,Materials
+290,Jagras Hide,4,Materials
+291,Jagras Scale+,6,Materials
+292,Jagras Hide+,6,Materials
+293,Shamos Scale,4,Materials
+294,Shamos Hide,4,Materials
+295,Shamos Scale+,6,Materials
+296,Shamos Hide+,6,Materials
+297,Girros Scale,4,Materials
+298,Girros Hide,4,Materials
+299,Girros Fang,4,Materials
+300,Girros Scale+,6,Materials
+301,Girros Hide+,6,Materials
+302,Great Jagras Scale,4,Materials
+303,Great Jagras Hide,4,Materials
+304,Great Jagras Mane,4,Materials
+305,Great Jagras Claw,4,Materials
+306,Great Jagras Scale+,6,Materials
+307,Great Jagras Hide+,6,Materials
+308,Great Jagras Claw+,6,Materials
+309,Kulu-Ya-Ku Scale,4,Materials
+310,Kulu-Ya-Ku Hide,4,Materials
+311,Kulu-Ya-Ku Plume,4,Materials
+312,Kulu-Ya-Ku Beak,4,Materials
+313,Kulu-Ya-Ku Scale+,6,Materials
+314,Kulu-Ya-Ku Hide+,6,Materials
+315,Kulu-Ya-Ku Plume+,6,Materials
+316,Kulu-Ya-Ku Beak+,6,Materials
+317,Pukei Pukei Scale,4,Materials
+318,Pukei Pukei Shell,4,Materials
+319,Pukei Pukei Quill,4,Materials
+320,Pukei Pukei Sac,4,Materials
+321,Pukei Pukei Tail,4,Materials
+322,Pukei Pukei Scale+,6,Materials
+323,Pukei Pukei Carapace,6,Materials
+324,Pukei Pukei Wing,6,Materials
+325,Pukei Pukei Sac+,6,Materials
+326,Barroth Shell,4,Materials
+327,Barroth Ridge,4,Materials
+328,Barroth Claw,4,Materials
+329,Barroth Scalp,4,Materials
+330,Barroth Tail,4,Materials
+331,Fertile Mud,4,Materials
+332,Barroth Carapace,6,Materials
+333,Barroth Ridge+,6,Materials
+334,Barroth Claw+,6,Materials
+335,Jyuratodus Scale,4,Materials
+336,Jyuratodus Shell,4,Materials
+337,Jyuratodus Fang,4,Materials
+338,Jyuratodus Fin,4,Materials
+339,Jyuratodus Scale+,6,Materials
+340,Jyuratodus Carapace,6,Materials
+341,Jyuratodus Fang+,6,Materials
+342,Jyuratodus Fin+,6,Materials
+343,Tobi-Kadachi Scale,4,Materials
+344,Tobi-Kadachi Pelt,4,Materials
+345,Tobi-Kadachi Membrane,4,Materials
+346,Tobi-Kadachi Claw,4,Materials
+347,Tobi-Kadachi Electrode,4,Materials
+352,Anjanath Scale,4,Materials
+353,Anjanath Pelt,4,Materials
+354,Anjanath Fang,4,Materials
+355,Anjanath Nosebone,4,Materials
+356,Anjanath Tail,4,Materials
+357,Anjanath Plate,5,Materials
+358,Anjanath Scale+,6,Materials
+359,Anjanath Pelt+,6,Materials
+360,Anjanath Fang+,6,Materials
+361,Anjanath Nosebone+,6,Materials
+363,Rathian Scale,4,Materials
+364,Rathian Shell,4,Materials
+365,Rathian Webbing,4,Materials
+366,Rathian Spike,4,Materials
+367,Rathian Plate,5,Materials
+368,Rathian Scale+,6,Materials
+369,Rathian Carapace,6,Materials
+371,Rathian Ruby,7,Materials
+372,Pink Rathian Scale+,6,Materials
+373,Pink Rathian Carapace,6,Materials
+374,Tzitzi-Ya-Ku Scale,4,Materials
+375,Tzitzi-Ya-Ku Hide,4,Materials
+376,Tzitzi-Ya-Ku Claw,4,Materials
+377,Tzitzi-Ya-Ku Photophore,4,Materials
+378,Tzitzi-Ya-Ku Scale+,6,Materials
+379,Tzitzi-Ya-Ku Hide+,6,Materials
+380,Tzitzi-Ya-Ku Claw+,6,Materials
+381,Tzitzi-Ya-Ku Photophore+,6,Materials
+382,Paolumu Pelt,4,Materials
+383,Paolumu Scale,4,Materials
+384,Paolumu Shell,4,Materials
+385,Paolumu Webbing,4,Materials
+390,Great Girros Scale,4,Materials
+391,Great Girros Hide,4,Materials
+392,Great Girros Hood,4,Materials
+395,Great Girros Scale+,6,Materials
+396,Great Girros Hide+,6,Materials
+397,Great Girros Hood+,6,Materials
+398,Great Girros Fang+,6,Materials
+399,Radobaan Scale,4,Materials
+400,Radobaan Shell,4,Materials
+401,Radobaan Oilshell,4,Materials
+402,Wyvern Bonemass,4,Materials
+404,Radobaan Marrow,4,Materials
+405,Radobaan Scale+,6,Materials
+406,Radobaan Carapace,6,Materials
+407,Radobaan Medulla,6,Materials
+408,Legiana Scale,4,Materials
+409,Legiana Hide,4,Materials
+410,Legiana Claw,4,Materials
+412,Legiana Tail Webbing,4,Materials
+413,Legiana Plate,5,Materials
+414,Legiana Scale+,6,Materials
+415,Legiana Hide+,6,Materials
+416,Legiana Claw+,6,Materials
+417,Legiana Wing,6,Materials
+419,Odogaron Scale,4,Materials
+420,Odogaron Sinew,4,Materials
+421,Odogaron Claw,4,Materials
+422,Odogaron Fang,4,Materials
+423,Odogaron Tail,4,Materials
+424,Odogaron Plate,5,Materials
+425,Odogaron Scale+,6,Materials
+426,Odogaron Sinew+,6,Materials
+427,Odogaron Claw+,6,Materials
+428,Odogaron Fang+,6,Materials
+430,Rathalos Scale,4,Materials
+431,Rathalos Shell,4,Materials
+432,Rathalos Webbing,4,Materials
+433,Rathalos Tail,4,Materials
+434,Rath Wingtalon,4,Materials
+436,Rathalos Plate,5,Materials
+437,Rathalos Scale+,6,Materials
+438,Rathalos Carapace,6,Materials
+439,Rathalos Wing,6,Materials
+440,Rathalos Medulla,6,Materials
+442,Azure Rathalos Scale+,6,Materials
+443,Azure Rathalos Carapace,6,Materials
+444,Azure Rathalos Tail,6,Materials
+445,Azure Rathalos Wing,6,Materials
+446,Diablos Shell,4,Materials
+447,Diablos Ridge,4,Materials
+448,Diablos Tailcase,4,Materials
+449,Diablos Fang,4,Materials
+450,Twisted Horn,4,Materials
+452,Diablos Carapace,6,Materials
+453,Diablos Ridge+,6,Materials
+454,Majestic Horn,6,Materials
+455,Blos Medulla,6,Materials
+456,Black Diablos Carapace,6,Materials
+457,Black Diablos Ridge+,6,Materials
+459,Kirin Hide,4,Materials
+460,Kirin Tail,4,Materials
+461,Kirin Mane,4,Materials
+462,Kirin Thunderhorn,4,Materials
+467,Zorah Magdaros Heat Scale,6,Materials
+468,Zorah Magdaros Carapace,6,Materials
+470,Zorah Magdaros Pleura,6,Materials
+472,Zorah Magdaros Magma,6,Materials
+473,Zorah Magdaros Gem,7,Materials
+474,Dodogama Scale+,6,Materials
+475,Dodogama Hide+,6,Materials
+476,Dodogama Jaw,6,Materials
+477,Dodogama Talon,6,Materials
+478,Dodogama Tail,6,Materials
+479,Lavasioth Scale+,6,Materials
+483,Uragaan Scale+,6,Materials
+484,Uragaan Carapace,6,Materials
+485,Uragaan Jaw,6,Materials
+486,Uragaan Scute,6,Materials
+487,Uragaan Marrow,6,Materials
+490,Bazelgeuse Scale+,6,Materials
+491,Bazelgeuse Carapace,6,Materials
+493,Bazelgeuse Fuse,6,Materials
+494,Bazelgeuse Talon,6,Materials
+497,Immortal Dragonscale,7,Materials
+498,Nergigante Carapace,7,Materials
+501,Nergigante Horn+,7,Materials
+502,Nergigante Talon,7,Materials
+503,Nergigante Regrowth Plate,7,Materials
+505,Deceased Scale,7,Materials
+506,Vaal Hazak Carapace,7,Materials
+507,Vaal Hazak Membrane,7,Materials
+510,Vaal Hazak Talon,7,Materials
+514,Teostra Carapace,7,Materials
+515,Teostra Mane,7,Materials
+517,Teostra Horn+,7,Materials
+518,Fire Dragon Scale+,7,Materials
+519,Teostra Claw+,7,Materials
+521,Teostra Powder,7,Materials
+524,Daora Dragon Scale+,7,Materials
+525,Daora Webbing,7,Materials
+526,Daora Horn+,7,Materials
+528,Daora Claw+,7,Materials
+530,Xeno'jiiva Soulscale,7,Materials
+531,Xeno'jiiva Shell,7,Materials
+532,Xeno'jiiva Veil,7,Materials
+533,Xeno'jiiva Tail,7,Materials
+534,Xeno'jiiva Horn,7,Materials
+535,Xeno'jiiva Claw,7,Materials
+536,Xeno'jiiva Wing,7,Materials
+538,Xeno'jiiva Gem,8,Materials
+554,Streamstone Shard,6,Materials
+571,Voucher,4,Materials
+572,First Wyverian Print,4,Materials
+573,Deluxe First Wyverian Print,4,Materials
+574,Steel Wyverian Print,4,Materials
+575,Silver Wyverian Print,4,Materials
+576,Gold Wyverian Print,4,Materials
+577,Commendation,5,Materials
+578,High Commendation,7,Materials
+580,Pukei Coin,4,Materials
+589,Pinnacle Coin,4,Materials
+592,Steel Egg,4,Materials
+593,Silver Egg,4,Materials
+594,Golden Egg,4,Materials
+727,Antidote Jewel 1,5,Decorations
+728,Antipara Jewel 1,5,Decorations
+732,Suture Jewel 1,5,Decorations
+733,Def Lock Jewel 1,5,Decorations
+736,Footing Jewel 2,6,Decorations
+741,Vitality Jewel 1,6,Decorations
+743,Fire Res Jewel 1,5,Decorations
+745,Ice Res Jewel 1,5,Decorations
+750,Stream Jewel 1,6,Decorations
+752,Bolt Jewel 1,6,Decorations
+754,Venom Jewel 1,6,Decorations
+758,Poisoncoat Jewel 3,6,Decorations
+774,Flight Jewel 2,5,Decorations
+785,Heavy Artillery Jewel 1,5,Decorations
+792,Jumping Jewel 2,6,Decorations
+795,Friendship Jewel 1,6,Decorations
+796,Enduring Jewel 1,6,Decorations
+797,Satiated Jewel 1,5,Decorations
+798,Gobbler Jewel 1,6,Decorations
+809,Meowster Jewel 1,5,Decorations
+810,Botany Jewel 1,5,Decorations
+811,Geology Jewel 1,5,Decorations
+814,Tip Toe Jewel 1,5,Decorations
+815,Brace Jewel 3,6,Decorations
+819,Survival Jewel 1,9,Decorations
+825,Miasma Jewel 1,5,Decorations
+838,Crisis Jewel 1,5,Decorations
+870,Chillshroom,3,Support Items
+871,Tailraider Voucher,4,Materials
+873,Galajaka Sketch,4,Materials
+879,Deviljho Scale,6,Materials
+880,Deviljho Hide,6,Materials
+881,Deviljho Tallfang,6,Materials
+882,Deviljho Talon,6,Materials
+883,Deviljho Scalp,6,Materials
+884,Deviljho Tail,6,Materials
+885,Deviljho Saliva,6,Materials
+886,Deviljho Gem,7,Materials
+889,Kulve Taroth Golden Nugget,7,Materials
+893,Golden Fragment,4,Materials
+894,Golden Chunk,4,Materials
+895,Lunastra Scale+,7,Materials
+898,Lunastra Carapace,7,Materials
+903,Behemoth Bone,7,Materials
+907,Aetheryte Shard,7,Materials
+908,Spring Blossom Ticket,4,Materials
+913,Spring Insect Field Guide,4,Materials
+914,Summer Insect Field Guide,4,Materials
+923,Black Crystal Ticket,6,Materials
+924,Kulu-Ya-Ku Ticket,6,Materials
+928,Mega Man Ticket,6,Materials
+932,Azure Star Shard,4,Materials
+933,Azure Stargem,6,Materials
+934,Red Orb,8,Materials
+935,Master Craftsman's Blueprint,6,Materials
+940,Blossom Fireworks,3,Support Items
+952,Gold Chip Fragment,4,Materials
+956,Hunter Runestone,4,Support Items
+961,Downy Crake Ticket,4,Materials
+962,Bristly Crake Ticket,4,Materials
+963,First Fleet Ticket,4,Materials
+969,Faux Ticket,4,Materials
+979,Leshen Claw,6,Materials
+981,Leshen Skull,7,Materials
+983,Cursed Bone,6,Materials
+987,Leshen Resin,6,Materials
+1000,Hot Drink,1,Support Items
+1003,Gourmet Voucher,5,Materials
+1006,Hot Pepper,1,Support Items
+1007,Gloamgrass Bud,4,Support Items
+1008,Dust of Life,6,Support Items
+1030,Eltalite Ore,9,Materials
+1031,Meldspar Ore,9,Materials
+1032,Spiritvein Crystal,9,Materials
+1034,Purecrystal,10,Materials
+1036,Bathycite Ore,9,Materials
+1037,Gracium,9,Materials
+1040,King Armor Sphere,9,Materials
+1042,Thick Bone,9,Materials
+1043,Frozen Bone,9,Materials
+1049,Monster Toughbone,9,Materials
+1050,Monster Slogbone,10,Materials
+1054,Tough Claw,9,Materials
+1055,Monster Essence,9,Materials
+1056,Deadly Poison Sac,9,Materials
+1058,Torpor Sac,9,Materials
+1059,Conflagrant Sac,9,Materials
+1060,Flood Sac,9,Materials
+1061,Cryo Sac,9,Materials
+1068,Prized Pelt,9,Materials
+1069,Anteka Antler,9,Materials
+1071,Vespoid Razorwing,9,Materials
+1073,Hornetaur Razorwing,9,Materials
+1075,Gajau Thickhide,9,Materials
+1076,Steel Gajau Whisker,9,Materials
+1080,Cortos Hardclaw,9,Materials
+1085,Jagras Shard,9,Materials
+1091,Wulg Thickfur,9,Materials
+1093,Great Jagras Shard,9,Materials
+1094,Great Jagras Thickhide,9,Materials
+1095,Great Jagras Hardclaw,9,Materials
+1096,Great Jagras Mane+,9,Materials
+1101,Pukei Pukei Shard,9,Materials
+1102,Pukei Pukei Cortex,9,Materials
+1103,Pukei Pukei Fellwing,9,Materials
+1104,Large Pukei Pukei Sac,9,Materials
+1106,Coral Pukei Pukei Shard,9,Materials
+1107,Coral Pukei Pukei Cortex,9,Materials
+1108,Coral Pukei Pukei Fellwing,9,Materials
+1109,Large Coral Pukei Pukei Sac,9,Materials
+1110,Coral Pukei Pukei Lash,9,Materials
+1111,Barroth Cortex,9,Materials
+1117,Jyuratodus Shard,9,Materials
+1118,Jyuratodus Cortex,9,Materials
+1119,Jyuratodus Hardfang,9,Materials
+1120,Jyuratodus Grandfin,9,Materials
+1121,Beotodus Shard,9,Materials
+1122,Beotodus Cortex,9,Materials
+1123,Beotodus Hardhorn,9,Materials
+1124,Beotodus Grandfin,9,Materials
+1130,Viper Tobi-Kadachi Shard,9,Materials
+1131,Viper Tobi-Kadachi Thickfur,9,Materials
+1132,Viper Tobi-Kadachi Membrane+,9,Materials
+1133,Viper Tobi-Kadachi Hardclaw,9,Materials
+1134,Viper Tobi-Kadachi Thorn,9,Materials
+1135,Banbaro Cortex,9,Materials
+1136,Banbaro Chine,9,Materials
+1137,Banbaro Great Horn,9,Materials
+1138,Banbaro Lash,9,Materials
+1139,Anjanath Shard,9,Materials
+1151,Rathian Shard,9,Materials
+1152,Rathian Cortex,9,Materials
+1153,Rathian Weave,9,Materials
+1161,Tzitzi-Ya-Ku Shard,9,Materials
+1167,Paolumu Cortex,9,Materials
+1169,Nightshade Paolumu Thickfur,9,Materials
+1170,Nightshade Paolumu Shard,9,Materials
+1171,Nightshade Paolumu Fellwing,9,Materials
+1177,Radobaan Shard,9,Materials
+1193,Odogaron Shard,10,Materials
+1221,Diablos Chine,10,Materials
+1242,Barioth Cortex,10,Materials
+1243,Barioth Thickfur,10,Materials
+1244,Barioth Hardclaw,10,Materials
+1245,Barioth Greatspike,10,Materials
+1246,Barioth Lash,10,Materials
+1247,Amber Hardfang,10,Materials
+1248,Nargacuga Shard,10,Materials
+1249,Nargacuga Blackfur+,10,Materials
+1251,Nargacuga Tailspear,10,Materials
+1252,Nargacuga Cutwing+,10,Materials
+1253,Nargacuga Hardfang,10,Materials
+1265,Glavenus Shard,10,Materials
+1266,Glavenus Cortex,10,Materials
+1268,Glavenus Hellshell,10,Materials
+1269,Glavenus Tailedge,10,Materials
+1270,Molten Bursa,10,Materials
+1271,Glavenus Mantle,11,Materials
+1445,Boaboa Ticket,9,Materials
+1478,Dragonvein Shard,4,Materials
+1479,Dragonvein Coal,5,Materials
+1966,Steam Ticket,11,Materials
+1972,Water Res Jewel+ 4,9,Decorations
+1973,Ice Res Jewel+ 4,9,Decorations
+1990,Antidote Jewel+ 4,9,Decorations
+1991,Antipara Jewel+ 4,9,Decorations
+2011,Mirewalker Jewel+ 4,9,Decorations
+2026,Expert Jewel+ 4,12,Decorations
+2073,Guardian/Evasion Jewel 4,9,Decorations
+2160,Flawless/Protection Jewel 4,10,Decorations
+2212,Enhancer/Maintenance Jewel 4,10,Decorations
+2272,Warming Jewel 2,9,Decorations
+2676,Pearlspring Ticket,9,Materials
+2678,Snowman,4,Support Items
+2686,Steel Melding Ticket,6,Materials
+2687,Silver Melding Ticket,7,Materials
+2690,Gold Melding Ticket,10,Materials
+2721,Full Bloom Ticket,9,Materials
+2737,VIP Full Bloom Ticket,12,Materials

@@ -1,7 +1,7 @@
-Flag,Name,Rarity
-u8 layered_direwolf_plus : 1,Direwolf Layered Headgear+,9
-u8 layered_direwolf_plus : 1,Direwolf Layered Mail+,9
-u8 layered_direwolf_plus : 1,Direwolf Layered Braces+,9
-u8 layered_direwolf_plus : 1,Direwolf Layered Coil+,9
-u8 layered_direwolf_plus : 1,Direwolf Layered Greaves+,9
-u8 layered_mosswine_mask : 1,Mosswine Mask Layered Head,4
+Flag,Name,Rarity,Category
+u8 layered_direwolf_plus : 1,Direwolf Layered Headgear+,9,Layered Head Armor
+u8 layered_direwolf_plus : 1,Direwolf Layered Mail+,9,Layered Chest Armor
+u8 layered_direwolf_plus : 1,Direwolf Layered Braces+,9,Layered Arms Armor
+u8 layered_direwolf_plus : 1,Direwolf Layered Coil+,9,Layered Waist Armor
+u8 layered_direwolf_plus : 1,Direwolf Layered Greaves+,9,Layered Legs Armor
+u8 layered_mosswine_mask : 1,Mosswine Mask Layered Head,4,Layered Head Armor

@@ -32,7 +32,7 @@ def merge():
 
     # Fill in the layered armor    
     for i in range(len(df_layered)):
-        s = {'Item Name':df_layered.iloc[i,2],'Quantity Possessed':1,'Item Level':0,'Item Experience':0,'Item Rarity':df_layered.iloc[i,3],'Item Type':'Layered Armor'}
+        s = {'Item Name':df_layered.iloc[i,2],'Quantity Possessed':1,'Item Level':0,'Item Experience':0,'Item Rarity':df_layered.iloc[i,3],'Item Type':df_layered.iloc[i,4]}
         df_general = df_general.append(s,ignore_index=True)
 
     # Clean and output the data
