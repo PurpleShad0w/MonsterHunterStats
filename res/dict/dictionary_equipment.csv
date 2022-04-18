@@ -19,6 +19,11 @@ Serial,ID,Type,Name,Rarity,Category
 0,5,2,Jagras Vambraces,1,Arms Armor
 0,5,3,Jagras Coil,1,Waist Armor
 0,5,4,Jagras Greaves,1,Leg Armor
+0,10,0,Kulu Headpiece,1,Head Armor
+0,10,1,Kulu Mail,1,Chest Armor
+0,10,2,Kulu Vambraces,1,Arms Armor
+0,10,3,Kulu Coil,1,Waist Armor
+0,10,4,Kulu Greaves,1,Leg Armor
 0,15,0,Chainmail Headgear,1,Head Armor
 0,15,1,Chainmail Vest,1,Chest Armor
 0,15,2,Chainmail Gloves,1,Arms Armor
