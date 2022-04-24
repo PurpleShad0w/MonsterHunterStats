@@ -1,0 +1,13 @@
+//------------------------------------------------
+//--- 010 Editor v12.0.1 Script File
+//
+//      File: stories_editor
+//   Authors: Octave Cinquanta
+//   Version: 1.0
+//   Purpose: Monster Hunter Inventory Displayer
+//  Category: Monster Hunter Stories 2
+//   History: 
+//------------------------------------------------
+
+ExpandAll();
+ExportCSV("mhr_slot.csv");

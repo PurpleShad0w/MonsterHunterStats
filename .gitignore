@@ -3,6 +3,13 @@ SAVEDATA1000
 SAVEDATA1000.bin
 SAVEDATA1000.csv
 SAVEDATA1000_full.csv
+mhr_slot_1.bin
+mhr_slot_2.bin
+mhr_slot_3.bin
+mhr_slot_1.sav
+mhr_slot_2.sav
+mhr_slot_3.sav
+mhr_slot.csv
 
 # outputs
 test.csv
@@ -12,11 +19,19 @@ output_items.csv
 output_equipment.csv
 output_tool.csv
 output_layered.csv
+world_output.csv
+world_output_items.csv
+world_output_equipment.csv
+world_output_tool.csv
+world_output_layered.csv
+stories_2_output_items.csv
 
 # libraries
 IceborneSavecrypt.jar
+AAStories2SaveTool.exe
 SAVEDATA1000.bt
 types.bt
+MonstieEgger.bt
 
 # cache
 __pycache__

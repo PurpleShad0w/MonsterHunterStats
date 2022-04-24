@@ -2,9 +2,9 @@ import os
 import sys
 import pandas as pd
 import warnings
-from scripts.decryption import decrypt
-from scripts.inventory import gather
-from scripts.merge import merge
+from scripts.world_decryption import decrypt
+from scripts.world_inventory import gather
+from scripts.world_merge import merge
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 

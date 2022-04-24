@@ -9,10 +9,10 @@ os.chdir(os.path.dirname(sys.argv[0]))
 
 def merge():
     # Load the outputs of inventory.py
-    df_items = pd.read_csv('output_items.csv')
-    df_equipment = pd.read_csv('output_equipment.csv')
-    df_tool = pd.read_csv('output_tool.csv')
-    df_layered = pd.read_csv('output_layered.csv')
+    df_items = pd.read_csv('world_output_items.csv')
+    df_equipment = pd.read_csv('world_output_equipment.csv')
+    df_tool = pd.read_csv('world_output_tool.csv')
+    df_layered = pd.read_csv('world_output_layered.csv')
     df_general = pd.DataFrame(data={'Item Name':0,'Quantity Possessed':0,'Item Level':0,'Item Experience':0,'Item Rarity':0,'Item Type':0},index=(0,1))
 
     # Fill in the items
@@ -37,4 +37,4 @@ def merge():
 
     # Clean and output the data
     df_general = df_general.groupby(df_general['Item Name']).aggregate({'Quantity Possessed':'sum','Item Level':'max','Item Experience':'max','Item Rarity':'first','Item Type':'first'})
-    df_general.to_csv(r'output.csv',encoding='utf-8')
+    df_general.to_csv(r'world_output.csv',encoding='utf-8')

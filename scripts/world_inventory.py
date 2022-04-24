@@ -162,10 +162,10 @@ def gather():
     df2['Total Quantity'] = df2['Quantity in box'] + df2['Quantity on hunter']
 
     # Define dictionaries
-    df_dict_items = pd.read_csv('res/dict/dictionary_items.csv')
+    df_dict_items = pd.read_csv('res/dict/world_dictionary_items.csv')
     df_dict_items.set_index('Item ID', inplace=True)
-    df_dict_equipment = pd.read_csv('res/dict/dictionary_equipment.csv')
-    df_dict_palico = pd.read_csv('res/dict/dictionary_palico.csv')
+    df_dict_equipment = pd.read_csv('res/dict/world_dictionary_equipment.csv')
+    df_dict_palico = pd.read_csv('res/dict/world_dictionary_palico.csv')
 
     # Add item information
     for i in range(len(df2)):
@@ -198,7 +198,7 @@ def gather():
     df_layered.reset_index(inplace=True)
 
     # Define layered armor dataframes
-    df_dict_layered = pd.read_csv('res/dict/dictionary_layered.csv')
+    df_dict_layered = pd.read_csv('res/dict/world_dictionary_layered.csv')
     df5 = pd.DataFrame(data={'Flag':0,'Name':0,'Rarity':0,'Category':0},index=(0,1))
 
     # Add layered armor information
@@ -214,9 +214,10 @@ def gather():
     df2 = df2.groupby(df2['Item ID'],sort=False).aggregate({'Item Name':'last','Total Quantity':'sum','Quantity in box':'sum','Quantity on hunter':'sum','Rarity':'last','Item Type':'last'})
     df3 = df3.groupby([df3['Serial'],df3['Type'],df3['ID']],sort=False).aggregate({'Name':'last','Level':'first','Points':'first','Quantity':'sum','Rarity':'last','Category':'last','Dict':'first'})
     df4 = df4.groupby(df4['Tool'],sort=False).aggregate({'Experience':'first','Rarity':'first'})
+    df5 = df5[df5['Flag'] != 0]
 
     # Outputting dataframes
-    df2.to_csv(r'output_items.csv',encoding='utf-8')
-    df3.to_csv(r'output_equipment.csv',encoding='utf-8')
-    df4.to_csv(r'output_tool.csv',encoding='utf-8')
-    df5.to_csv(r'output_layered.csv',encoding='utf-8')
+    df2.to_csv(r'world_output_items.csv',encoding='utf-8')
+    df3.to_csv(r'world_output_equipment.csv',encoding='utf-8')
+    df4.to_csv(r'world_output_tool.csv',encoding='utf-8')
+    df5.to_csv(r'world_output_layered.csv',encoding='utf-8')

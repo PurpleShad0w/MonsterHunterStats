@@ -1,3 +1,5 @@
+For World :
+
  - Fill in dictionaries (items, equipment, etc...)
  - Understand the tools
  - Understand and gather the pendants
@@ -8,3 +10,5 @@
  - tool unlocks values :
    268837 -> 268853 -> 269877
    ? -> Challenger's Mantle -> Dragonproof Mantle
+
+For Stories 2 :
