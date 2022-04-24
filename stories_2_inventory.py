@@ -31,7 +31,7 @@ for i in range(0,5998):
 # Cleaning dataframes
 df2 = df2[df2['Item ID'] != 0]
 
-# Addind dictionaries
+# Adding dictionaries
 df_dict_items = pd.read_csv('res/dict/stories_2_dictionary_items.csv')
 df_dict_items.set_index('Item ID', inplace=True)
 
