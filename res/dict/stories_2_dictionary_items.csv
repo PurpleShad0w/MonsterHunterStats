@@ -1,39 +1,39 @@
 Item ID,Item Name,Category
 1,Herb,Recovery Item
 2,Potion,Recovery Item
-129,Stone,
-553,
-555,
-570,
-575,
-598,
-607,
-633,
-634,
-709,
-723,
-1164,
-1170,
-1184,Velociprey Scale,
-1226,
-1227,
-1228,
-1256,
-1306,
-1309,
-1310,
-1311,
-1312,
-1313,
-1315,
-1332,
-1334,
-1335,
-1336,
-1337,
-1338,
-1339,
-1414,
-1528,
-1529,
-1530,
+4,Lifesoot,Recovery Item
+11,Antidote,Recovery Item
+12,Aloe Leaf,Recovery Item
+129,Stone,Materials
+465,Unique Mushroom,Materials
+526,Ivy,Materials
+528,Woemill Wheat,Materials
+553,Paintberry,Materials
+555,Heftcorn,Materials
+570,Blue Mushroom,Materials
+575,Toadstool,Materials
+594,Honey,Materials
+595,Mixed Honey,Materials
+598,Hakolo Honey,Materials
+607,Bitterbug,Materials
+612,Insect Husk,Materials
+617,Spider Web,Materials
+633,Iron Ore,Materials
+634,Earth Crystal,Materials
+690,Sleepyfish,Materials
+709,Raw Meat,Materials
+711,Quality Meat,Facilities
+845,Velocidrome Hide,Materials
+846,Velocidrome Claw,Materials
+847,Velocidrome Head,Materials
+1164,Monster Bone S,Materials
+1166,Brute Bone S,Materials
+1170,Aptonoth Tail,Materials
+1174,Bullfango Pelt,Materials
+1177,Bnahabra Shell,Materials
+1179,Konchu Shell,Materials
+1184,Velociprey Scale,Materials
+1196,Kelbi Horn,Materials
+1528,Kulu-Ya-Ku Hide,Materials
+1529,Kulu-Ya-Ku Beak,Materials
+1530,Kulu-Ya-Ku Plume,Materials
