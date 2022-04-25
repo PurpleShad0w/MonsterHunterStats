@@ -13,15 +13,4 @@ For World :
 
 For Stories 2 :
 
-- Fill in dictionaries (items, equipment, etc...)
-
- - Dictionary values :
-  1 - 514, 745 are Large Barrel, Larinoth Hide
-  1 - 723, 1226, 1227, 1228, 1256, 1306, 1309, 1310, 1311, 
-      1312, 1313, 1315, 1332, 1334, 1335, 1336, 1337, 1338, 1339, 1414 
-      are Screamer Sac, Kayna's Recipe, S&S Basics: Defense, Great Sword Moves 1, Great Sword Moves 2,
-      Great Sword Moves 3, Great Sword Moves 4, Hammer: Evasion, H. Horn: A. Evasion, Gunlance: Guard, Gunlance: Seal,
-      Gunlance: Wyv. Fire, Gunlance: Shelling, Gunlance: Wyrmstake, Gunlance: Full Burst, Bow: Evasion, Kamura Garb,
-      Grill, Iron Pickaxe, Bug Net
-  1 - 466, 478, 495, 527, 618 are Golden Fragment, Pittance Fang, Sap Plant, Carpenterbug, Silver Cricket
-  
+- Fill in dictionaries (items, equipment, etc...) -> use save editor github (index +5)

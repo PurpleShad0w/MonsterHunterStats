@@ -6,7 +6,12 @@ Item ID,Item Name,Category
 12,Aloe Leaf,Recovery Item
 129,Stone,Materials
 465,Unique Mushroom,Materials
+466,Golden Fragment,Facilities
+478,Pittance Fang,Facilities
+495,Silver Cricket,Materials
+514,Large Barrel,Materials
 526,Ivy,Materials
+527,Sap Plant,Materials
 528,Woemill Wheat,Materials
 553,Paintberry,Materials
 555,Heftcorn,Materials
@@ -18,11 +23,14 @@ Item ID,Item Name,Category
 607,Bitterbug,Materials
 612,Insect Husk,Materials
 617,Spider Web,Materials
+618,Carpenterbug,Materials
 633,Iron Ore,Materials
 634,Earth Crystal,Materials
 690,Sleepyfish,Materials
 709,Raw Meat,Materials
 711,Quality Meat,Facilities
+723,Screamer Sac,Materials
+745,Larinoth Hide,Materials
 845,Velocidrome Hide,Materials
 846,Velocidrome Claw,Materials
 847,Velocidrome Head,Materials
@@ -34,6 +42,25 @@ Item ID,Item Name,Category
 1179,Konchu Shell,Materials
 1184,Velociprey Scale,Materials
 1196,Kelbi Horn,Materials
+1226,Grill,Key Item
+1227,Iron Pickaxe,Key Item
+1228,Bug Net,Key Item
+1256,Kayna's Recipe,Key Item
+1306,S&S Basics: Defense,Key Item
+1309,Great Sword Moves 1,Key Item
+1310,Great Sword Moves 2,Key Item
+1311,Great Sword Moves 3,Key Item
+1312,Great Sword Moves 4,Key Item
+1313,Hammer: Evasion,Key Item
+1315,H. Horn: A. Evasion,Key Item
+1332,Gunlance: Guard,Key Item
+1334,Gunlance: Seal,Key Item
+1335,Gunlance: Wyv. Fire,Key Item
+1336,Gunlance: Shelling,Key Item
+1337,Gunlance: Wyrmstake,Key Item
+1338,Gunlance: Full Burst,Key Item
+1339,Bow: Evasion,Key Item
+1414,Kamura Garb,Key Item
 1528,Kulu-Ya-Ku Hide,Materials
 1529,Kulu-Ya-Ku Beak,Materials
 1530,Kulu-Ya-Ku Plume,Materials
