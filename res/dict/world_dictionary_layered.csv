@@ -1,4 +1,4 @@
-Flag,Name,Rarity,Category
+Flag,Name,Rarity,Subcategory
 u8 layered_direwolf_plus : 1,Direwolf Layered Headgear+,9,Layered Head Armor
 u8 layered_direwolf_plus : 1,Direwolf Layered Mail+,9,Layered Chest Armor
 u8 layered_direwolf_plus : 1,Direwolf Layered Braces+,9,Layered Arms Armor

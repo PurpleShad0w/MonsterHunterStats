@@ -10,7 +10,8 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 os.chdir(os.path.dirname(sys.argv[0]))
 
-saveslot = int(input('Enter the save slot number (1,2,3) : '))
+# saveslot = int(input('Enter the save slot number (1,2,3) : '))
+saveslot = 1
 
 decrypt(saveslot)
 gather()

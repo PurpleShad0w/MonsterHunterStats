@@ -1,71 +1,71 @@
-Serial,ID,Type,Name,Rarity,Category
-0,1,0,Hunter's Headgear,1,Head Armor
-0,1,1,Hunter's Mail,1,Chest Armor
-0,1,2,Hunter's Vambraces,1,Arms Armor
-0,1,3,Hunter's Coil,1,Waist Armor
-0,1,4,Hunter's Greaves,1,Leg Armor
-0,2,0,Leather Headgear,1,Head Armor
-0,2,1,Leather Mail,1,Chest Armor
-0,2,2,Leather Gloves,1,Arms Armor
-0,2,3,Leather Belt,1,Waist Armor
-0,2,4,Leather Trousers,1,Leg Armor
-0,4,0,Bone Helm,1,Head Armor
-0,4,1,Bone Mail,1,Chest Armor
-0,4,2,Bone Vambraces,1,Arms Armor
-0,4,3,Bone Coil,1,Waist Armor
-0,4,4,Bone Greaves,1,Leg Armor
-0,5,0,Jagras Helm,1,Head Armor
-0,5,1,Jagras Mail,1,Chest Armor
-0,5,2,Jagras Vambraces,1,Arms Armor
-0,5,3,Jagras Coil,1,Waist Armor
-0,5,4,Jagras Greaves,1,Leg Armor
-0,10,0,Kulu Headpiece,1,Head Armor
-0,10,1,Kulu Mail,1,Chest Armor
-0,10,2,Kulu Vambraces,1,Arms Armor
-0,10,3,Kulu Coil,1,Waist Armor
-0,10,4,Kulu Greaves,1,Leg Armor
-0,15,0,Chainmail Headgear,1,Head Armor
-0,15,1,Chainmail Vest,1,Chest Armor
-0,15,2,Chainmail Gloves,1,Arms Armor
-0,15,3,Chainmail Belt,1,Waist Armor
-0,15,4,Chainmail Trousers,1,Leg Armor
-0,164,2,Kestodon Guards,1,Arms Armor
-0,168,0,Shamos Goggles,3,Head Armor
-0,193,0,Blossom Headgear,3,Head Armor
-0,193,1,Blossom Vest,3,Chest Armor
-0,193,2,Blossom Cuffs,3,Arms Armor
-0,193,3,Blossom Coat,3,Waist Armor
-0,193,4,Blossom Boots,3,Leg Armor
-0,304,2,Alloy Vambraces α+,9,Arms Armor
-0,305,1,Alloy Mail β+,9,Chest Armor
-0,334,4,Pukei Greaves α+,9,Leg Armor
-0,340,0,Beo Helm α+,9,Head Armor
-0,340,3,Beo Coil α+,9,Waist Armor
-0,520,0,Guardian Helm α+,6,Head Armor
-0,520,1,Guardian Suit α+,6,Chest Armor
-0,520,2,Guardian Vambraces α+,6,Arms Armor
-0,520,3,Guardian Coil α+,6,Waist Armor
-0,520,4,Guardian Boots α+,6,Leg Armor
-1,10,0,Buster Sword I,1,Great Swords
-1,10,1,Hunter's Knife I,1,Swords and Shields
-1,10,2,Matched Slicers I,1,Dual Blades
-1,10,3,Iron Katana I,1,Long Swords
-1,10,4,Iron Hammer I,1,Hammers
-1,10,5,Metal Bagpipe I,1,Hunting Horns
-1,10,6,Iron Lance I,1,Lances
-1,10,7,Iron Gunlance I,1,Gunlances
-1,10,8,Proto Iron Axe I,1,Switch Axes
-1,10,9,Proto Commission Axe I,1,Charge Blades
-1,10,10,Iron Blade I,1,Insect Glaives
-1,10,13,Chain Blitz I,1,Light Bowguns
-1,20,11,Iron Bow I,1,Bows
-1,20,12,Iron Assault I,1,Heavy Bowguns
-1,39,4,Bone Bludgeon I,1,Hammers
-1,67,4,Carapace Sledge I,2,Hammers
-1,140,4,Defender Warhammer I,1,Hammers
-1,140,12,Defender Heavy Bowgun IV,6,Heavy Bowguns
-1,144,4,Defender Warhammer V,7,Hammers
-1,169,4,Buona Flora+,9,Hammers
+Serial,ID,Type,Name,Rarity,Category,Subcategory
+0,1,0,Hunter's Headgear,1,Armor,Head Armor
+0,1,1,Hunter's Mail,1,Armor,Chest Armor
+0,1,2,Hunter's Vambraces,1,Armor,Arms Armor
+0,1,3,Hunter's Coil,1,Armor,Waist Armor
+0,1,4,Hunter's Greaves,1,Armor,Leg Armor
+0,2,0,Leather Headgear,1,Armor,Head Armor
+0,2,1,Leather Mail,1,Armor,Chest Armor
+0,2,2,Leather Gloves,1,Armor,Arms Armor
+0,2,3,Leather Belt,1,Armor,Waist Armor
+0,2,4,Leather Trousers,1,Armor,Leg Armor
+0,4,0,Bone Helm,1,Armor,Head Armor
+0,4,1,Bone Mail,1,Armor,Chest Armor
+0,4,2,Bone Vambraces,1,Armor,Arms Armor
+0,4,3,Bone Coil,1,Armor,Waist Armor
+0,4,4,Bone Greaves,1,Armor,Leg Armor
+0,5,0,Jagras Helm,1,Armor,Head Armor
+0,5,1,Jagras Mail,1,Armor,Chest Armor
+0,5,2,Jagras Vambraces,1,Armor,Arms Armor
+0,5,3,Jagras Coil,1,Armor,Waist Armor
+0,5,4,Jagras Greaves,1,Armor,Leg Armor
+0,10,0,Kulu Headpiece,1,Armor,Head Armor
+0,10,1,Kulu Mail,1,Armor,Chest Armor
+0,10,2,Kulu Vambraces,1,Armor,Arms Armor
+0,10,3,Kulu Coil,1,Armor,Waist Armor
+0,10,4,Kulu Greaves,1,Armor,Leg Armor
+0,15,0,Chainmail Headgear,1,Armor,Head Armor
+0,15,1,Chainmail Vest,1,Armor,Chest Armor
+0,15,2,Chainmail Gloves,1,Armor,Arms Armor
+0,15,3,Chainmail Belt,1,Armor,Waist Armor
+0,15,4,Chainmail Trousers,1,Armor,Leg Armor
+0,164,2,Kestodon Guards,1,Armor,Arms Armor
+0,168,0,Shamos Goggles,3,Armor,Head Armor
+0,193,0,Blossom Headgear,3,Armor,Head Armor
+0,193,1,Blossom Vest,3,Armor,Chest Armor
+0,193,2,Blossom Cuffs,3,Armor,Arms Armor
+0,193,3,Blossom Coat,3,Armor,Waist Armor
+0,193,4,Blossom Boots,3,Armor,Leg Armor
+0,304,2,Alloy Vambraces α+,9,Armor,Arms Armor
+0,305,1,Alloy Mail β+,9,Armor,Chest Armor
+0,334,4,Pukei Greaves α+,9,Armor,Leg Armor
+0,340,0,Beo Helm α+,9,Armor,Head Armor
+0,340,3,Beo Coil α+,9,Armor,Waist Armor
+0,520,0,Guardian Helm α+,6,Armor,Head Armor
+0,520,1,Guardian Suit α+,6,Armor,Chest Armor
+0,520,2,Guardian Vambraces α+,6,Armor,Arms Armor
+0,520,3,Guardian Coil α+,6,Armor,Waist Armor
+0,520,4,Guardian Boots α+,6,Armor,Leg Armor
+1,10,0,Buster Sword I,1,Weapons,Great Swords
+1,10,1,Hunter's Knife I,1,Weapons,Swords and Shields
+1,10,2,Matched Slicers I,1,Weapons,Dual Blades
+1,10,3,Iron Katana I,1,Weapons,Long Swords
+1,10,4,Iron Hammer I,1,Weapons,Hammers
+1,10,5,Metal Bagpipe I,1,Weapons,Hunting Horns
+1,10,6,Iron Lance I,1,Weapons,Lances
+1,10,7,Iron Gunlance I,1,Weapons,Gunlances
+1,10,8,Proto Iron Axe I,1,Weapons,Switch Axes
+1,10,9,Proto Commission Axe I,1,Weapons,Charge Blades
+1,10,10,Iron Blade I,1,Weapons,Insect Glaives
+1,10,13,Chain Blitz I,1,Weapons,Light Bowguns
+1,20,11,Iron Bow I,1,Weapons,Bows
+1,20,12,Iron Assault I,1,Weapons,Heavy Bowguns
+1,39,4,Bone Bludgeon I,1,Weapons,Hammers
+1,67,4,Carapace Sledge I,2,Weapons,Hammers
+1,140,4,Defender Warhammer I,1,Weapons,Hammers
+1,140,12,Defender Heavy Bowgun IV,6,Weapons,Heavy Bowguns
+1,144,4,Defender Warhammer V,7,Weapons,Hammers
+1,169,4,Buona Flora+,9,Weapons,Hammers
 2,6,5,Defense Charm I,3,Charms
 2,87,5,Master's Charm I,4,Charms
 4,0,255,Culldrone I,1,Kinsects

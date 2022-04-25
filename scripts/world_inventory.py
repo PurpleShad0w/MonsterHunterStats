@@ -93,7 +93,7 @@ def gather():
             df2 = df2.append(s,ignore_index=True)
 
     # Create equipment dataframe
-    df3 = pd.DataFrame(data={'Serial':0,'Type':0,'ID':0,'Name':0,'Level':0,'Points':0,'Quantity':0,'Rarity':0,'Category':0,'Dict':0},index=(0,1))
+    df3 = pd.DataFrame(data={'Serial':0,'Type':0,'ID':0,'Name':0,'Level':0,'Points':0,'Quantity':0,'Rarity':0,'Category':0,'Subcategory':0,'Dict':0},index=(0,1))
 
     # Locate equipment, palico equipment, palico tools, tools and pendants
     df_equipment = df.iloc[index_box+6455:index_box+171456]
@@ -120,7 +120,7 @@ def gather():
             level = df_equipment.iloc[i,1]+1
         if 'points' in df_equipment.iloc[i,0]:
             points = df_equipment.iloc[i,1]
-            s = {'Serial':serial,'Type':type,'ID':id,'Name':0,'Level':level,'Points':points,'Quantity':1,'Rarity':0,'Category':0,'Dict':'hunter'}
+            s = {'Serial':serial,'Type':type,'ID':id,'Name':0,'Level':level,'Points':points,'Quantity':1,'Rarity':0,'Category':0,'Subcategory':0,'Dict':'hunter'}
             df3 = df3.append(s,ignore_index=True)
         if 'decos' in df_equipment.iloc[i,0]:
             if df_equipment.iloc[i,1] > -1:
@@ -140,7 +140,7 @@ def gather():
             level = df_palico_equipment.iloc[i,1]
         if 'points' in df_palico_equipment.iloc[i,0]:
             points = df_palico_equipment.iloc[i,1]
-            s = {'Serial':serial,'Type':type,'ID':id,'Name':0,'Level':level,'Points':points,'Quantity':1,'Rarity':0,'Category':0,'Dict':'palico'}
+            s = {'Serial':serial,'Type':type,'ID':id,'Name':0,'Level':level,'Points':points,'Quantity':1,'Rarity':0,'Category':0,'Subcategory':0,'Dict':'palico'}
             df3 = df3.append(s,ignore_index=True)
 
     # Create palico dataframe
@@ -179,13 +179,13 @@ def gather():
         serial = df3.iloc[i,0]
         type = df3.iloc[i,1]
         id = df3.iloc[i,2]
-        if df3.iloc[i,9] == 'hunter':
+        if df3.iloc[i,10] == 'hunter':
             df_temp = df_dict_equipment[(df_dict_equipment['Serial'] == serial) & (df_dict_equipment['ID'] == id) & (df_dict_equipment['Type'] == type)]
-        elif df3.iloc[i,9] == 'palico':
+        elif df3.iloc[i,10] == 'palico':
             df_temp = df_dict_palico[(df_dict_palico['Serial'] == int(float(serial))) & (df_dict_palico['ID'] == int(float(id))) & (df_dict_palico['Type'] == int(float(type)))]
         try:
             df_temp.reset_index(inplace=True)
-            s = {'Serial':serial,'Type':type,'ID':id,'Name':df_temp.loc[0,'Name'],'Level':0,'Points':0,'Quantity':0,'Rarity':df_temp.loc[0,'Rarity'],'Category':df_temp.loc[0,'Category'],'Dict':0}
+            s = {'Serial':serial,'Type':type,'ID':id,'Name':df_temp.loc[0,'Name'],'Level':0,'Points':0,'Quantity':0,'Rarity':df_temp.loc[0,'Rarity'],'Category':df_temp.loc[0,'Category'],'Subcategory':df_temp.loc[0,'Subcategory'],'Dict':0}
             df3 = df3.append(s,ignore_index=True)
         except KeyError:
             continue
@@ -199,20 +199,20 @@ def gather():
 
     # Define layered armor dataframes
     df_dict_layered = pd.read_csv('res/dict/world_dictionary_layered.csv')
-    df5 = pd.DataFrame(data={'Flag':0,'Name':0,'Rarity':0,'Category':0},index=(0,1))
+    df5 = pd.DataFrame(data={'Flag':0,'Name':0,'Rarity':0,'Subcategory':0},index=(0,1))
 
     # Add layered armor information
     for i in range(len(df_layered)):
         name = df_layered.iloc[i,0]
         for j in range(len(df_dict_layered)):
             if df_dict_layered.iloc[j,0] == name:
-                s = {'Flag':df_dict_layered.iloc[j,0],'Name':df_dict_layered.iloc[j,1],'Rarity':df_dict_layered.iloc[j,2],'Category':df_dict_layered.iloc[j,3]}
+                s = {'Flag':df_dict_layered.iloc[j,0],'Name':df_dict_layered.iloc[j,1],'Rarity':df_dict_layered.iloc[j,2],'Subcategory':df_dict_layered.iloc[j,3]}
                 df5 = df5.append(s,ignore_index=True)
 
     # Rearranging dataframes
     # Adding sort=False to groupby allows sorting by Game Order
     df2 = df2.groupby(df2['Item ID'],sort=False).aggregate({'Item Name':'last','Total Quantity':'sum','Quantity in box':'sum','Quantity on hunter':'sum','Rarity':'last','Item Type':'last'})
-    df3 = df3.groupby([df3['Serial'],df3['Type'],df3['ID']],sort=False).aggregate({'Name':'last','Level':'first','Points':'first','Quantity':'sum','Rarity':'last','Category':'last','Dict':'first'})
+    df3 = df3.groupby([df3['Serial'],df3['Type'],df3['ID']],sort=False).aggregate({'Name':'last','Level':'first','Points':'first','Quantity':'sum','Rarity':'last','Category':'last','Subcategory':'last','Dict':'first'})
     df4 = df4.groupby(df4['Tool'],sort=False).aggregate({'Experience':'first','Rarity':'first'})
     df5 = df5[df5['Flag'] != 0]
 
