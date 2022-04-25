@@ -21,13 +21,13 @@ Serial,ID,Type,Name,Rarity,Category,Subcategory
 0,110,1,Felyne Duffel Coat α+,9,Palico Armor,Palico Chest Armor
 0,180,0,Felyne Rose Headgear α+,11,Palico Armor,Palico Head Armor
 0,180,1,Felyne Rose Dress α+,11,Palico Armor,Palico Chest Armor
-1,1,0,Felyne Acorn Spade,1,Palico Weapons
-1,2,1,Felyne Jag Gunhammer,1,Palico Weapons
-1,3,1,Felyne Kulu Lute,1,Palico Weapons
-1,4,1,Felyne Pukei Bow,2,Palico Weapons
-1,5,1,Felyne Barroth Mace,2,Palico Weapons
-1,6,0,Felyne Jyura Sword,2,Palico Weapons
-1,14,0,Felyne Garon Chainblade,4,Palico Weapons
-1,28,1,Felyne Bone Hammer,1,Palico Weapons
-1,29,0,Felyne Iron Sword,2,Palico Weapons
-1,180,1,Felyne Rose Basket α+,11,Palico Weapons
+1,1,0,Felyne Acorn Spade,1,Palico Weapons,Palico Weapons
+1,2,1,Felyne Jag Gunhammer,1,Palico Weapons,Palico Weapons
+1,3,1,Felyne Kulu Lute,1,Palico Weapons,Palico Weapons
+1,4,1,Felyne Pukei Bow,2,Palico Weapons,Palico Weapons
+1,5,1,Felyne Barroth Mace,2,Palico Weapons,Palico Weapons
+1,6,0,Felyne Jyura Sword,2,Palico Weapons,Palico Weapons
+1,14,0,Felyne Garon Chainblade,4,Palico Weapons,Palico Weapons
+1,28,1,Felyne Bone Hammer,1,Palico Weapons,Palico Weapons
+1,29,0,Felyne Iron Sword,2,Palico Weapons,Palico Weapons
+1,180,1,Felyne Rose Basket α+,11,Palico Weapons,Palico Weapons

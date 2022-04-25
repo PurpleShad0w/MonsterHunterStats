@@ -18,7 +18,7 @@ def gather():
     # print(df.loc['u32 master_rank']['Value'].iloc[0])
 
     # Create items dataframe
-    df2 = pd.DataFrame(data={'Item ID':0,'Item Name':0,'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':0,'Rarity':0,'Item Type':0},index=(0,1))
+    df2 = pd.DataFrame(data={'ID':0,'Name':0,'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':0,'Rarity':0,'Type':0},index=(0,1))
 
     # Locate item pouch items and ammo
     index_pouch = df.index.get_loc('struct mhw_item_pouch item_pouch')
@@ -33,7 +33,7 @@ def gather():
             id = df_item_pouch_items.iloc[i,1]
         if 'amount' in df_item_pouch_items.iloc[i,0]:
             amount = df_item_pouch_items.iloc[i,1]
-            s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':amount,'Rarity':0,'Item Type':0}
+            s = {'ID':id,'Name':0,'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':amount,'Rarity':0,'Type':0}
             df2 = df2.append(s,ignore_index=True)
 
     # Gather item pouch ammo
@@ -42,7 +42,7 @@ def gather():
             id = df_item_pouch_ammo.iloc[i,1]
         if 'amount' in df_item_pouch_ammo.iloc[i,0]:
             amount = df_item_pouch_ammo.iloc[i,1]
-            s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':amount,'Rarity':0,'Item Type':0}
+            s = {'ID':id,'Name':0,'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':amount,'Rarity':0,'Type':0}
             df2 = df2.append(s,ignore_index=True)
 
     # Locate item box items, ammo, materials and decorations
@@ -62,7 +62,7 @@ def gather():
             id = df_item_box_items.iloc[i,1]
         if 'amount' in df_item_box_items.iloc[i,0]:
             amount = df_item_box_items.iloc[i,1]
-            s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0,'Rarity':0,'Item Type':0}
+            s = {'ID':id,'Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0,'Rarity':0,'Type':0}
             df2 = df2.append(s,ignore_index=True)
 
     # Gather item box ammo
@@ -71,7 +71,7 @@ def gather():
             id = df_item_box_ammo.iloc[i,1]
         if 'amount' in df_item_box_ammo.iloc[i,0]:
             amount = df_item_box_ammo.iloc[i,1]
-            s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0,'Rarity':0,'Item Type':0}
+            s = {'ID':id,'Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0,'Rarity':0,'Type':0}
             df2 = df2.append(s,ignore_index=True)
 
     # Gather item box materials
@@ -80,7 +80,7 @@ def gather():
             id = df_item_box_materials.iloc[i,1]
         if 'amount' in df_item_box_materials.iloc[i,0]:
             amount = df_item_box_materials.iloc[i,1]
-            s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0,'Rarity':0,'Item Type':0}
+            s = {'ID':id,'Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0,'Rarity':0,'Type':0}
             df2 = df2.append(s,ignore_index=True)
 
     # Gather item box decorations
@@ -89,7 +89,7 @@ def gather():
             id = df_item_box_decorations.iloc[i,1]
         if 'amount' in df_item_box_decorations.iloc[i,0]:
             amount = df_item_box_decorations.iloc[i,1]
-            s = {'Item ID':id,'Item Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0,'Rarity':0,'Item Type':0}
+            s = {'ID':id,'Name':0,'Total Quantity':0,'Quantity in box':amount,'Quantity on hunter':0,'Rarity':0,'Type':0}
             df2 = df2.append(s,ignore_index=True)
 
     # Create equipment dataframe
@@ -155,7 +155,7 @@ def gather():
     df4 = df4.append({'Tool':'Meowlotov Cocktail','Experience':df_palico_tool.iloc[5,0],'Rarity':4},ignore_index=True)
 
     # Clean dataframes
-    df2 = df2[df2['Item ID'] != 0]
+    df2 = df2[df2['ID'] != 0]
     df3 = df3[(df3['ID'] != 0) | ((df3['Type'] != 0))]
     # df3 = df3[df3['Type'].astype(float).astype(int) >= 0]
     df4 = df4[df4['Tool'] != 0]
@@ -163,7 +163,7 @@ def gather():
 
     # Define dictionaries
     df_dict_items = pd.read_csv('res/dict/world_dictionary_items.csv')
-    df_dict_items.set_index('Item ID', inplace=True)
+    df_dict_items.set_index('ID', inplace=True)
     df_dict_equipment = pd.read_csv('res/dict/world_dictionary_equipment.csv')
     df_dict_palico = pd.read_csv('res/dict/world_dictionary_palico.csv')
 
@@ -171,7 +171,7 @@ def gather():
     for i in range(len(df2)):
         id = df2.iloc[i,0]
         if df_dict_items.index.__contains__(id):
-            s = {'Item ID':id,'Item Name':df_dict_items.loc[id,'Item Name'],'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':0,'Rarity':df_dict_items.loc[id,'Rarity'],'Item Type':df_dict_items.loc[id,'Category']}
+            s = {'ID':id,'Name':df_dict_items.loc[id,'Name'],'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':0,'Rarity':df_dict_items.loc[id,'Rarity'],'Type':df_dict_items.loc[id,'Category']}
             df2 = df2.append(s,ignore_index=True)
 
     # Add equipment information
@@ -211,7 +211,7 @@ def gather():
 
     # Rearranging dataframes
     # Adding sort=False to groupby allows sorting by Game Order
-    df2 = df2.groupby(df2['Item ID'],sort=False).aggregate({'Item Name':'last','Total Quantity':'sum','Quantity in box':'sum','Quantity on hunter':'sum','Rarity':'last','Item Type':'last'})
+    df2 = df2.groupby(df2['ID'],sort=False).aggregate({'Name':'last','Total Quantity':'sum','Quantity in box':'sum','Quantity on hunter':'sum','Rarity':'last','Type':'last'})
     df3 = df3.groupby([df3['Serial'],df3['Type'],df3['ID']],sort=False).aggregate({'Name':'last','Level':'first','Points':'first','Quantity':'sum','Rarity':'last','Category':'last','Subcategory':'last','Dict':'first'})
     df4 = df4.groupby(df4['Tool'],sort=False).aggregate({'Experience':'first','Rarity':'first'})
     df5 = df5[df5['Flag'] != 0]

@@ -1,83 +1,83 @@
-Item ID,Item Name,Category
-1,Herb,Healing Items
-2,Potion,Healing Items
-4,Lifesoot,Healing Items
-11,Antidote,Healing Items
-12,Aloe Leaf,Healing Items
-29,Mahana Dunker,Healing Items
-46,Whetstone,Support Items
-121,Paralysis Knife,Support Items
-129,Stone,Materials
-140,Paintball,Support Items
-145,Tranq Trap,Support Items
-176,Well-Done Steak,Healing Items
-435,Gathering Charm,Facilities
-465,Unique Mushroom,Materials
-466,Golden Fragment,Facilities
-478,Pittance Fang,Facilities
-495,Silver Cricket,Materials
-497,Bottle Cap,Facilities
-510,Trap Tool,Materials
-514,Large Barrel,Materials
-526,Ivy,Materials
-527,Sap Plant,Materials
-528,Woemill Wheat,Materials
-553,Paintberry,Materials
-555,Heftcorn,Materials
-570,Blue Mushroom,Materials
-573,King Truffle,Materials
-575,Toadstool,Materials
-594,Honey,Materials
-595,Mixed Honey,Materials
-596,Snakebee Larva,Materials
-598,Hakolo Honey,Materials
-607,Bitterbug,Materials
-611,Thunderbug,Materials
-612,Insect Husk,Materials
-617,Spider Web,Materials
-618,Carpenterbug,Materials
-633,Iron Ore,Materials
-634,Earth Crystal,Materials
-635,Pelagicite Ore,Materials
-690,Sleepyfish,Materials
-709,Raw Meat,Materials
-711,Quality Meat,Facilities
-723,Screamer Sac,Materials
-745,Larinoth Hide,Materials
-788,Kut-Ku Scale,Materials
-789,Kut-Ku Webbing,Materials
-845,Velocidrome Hide,Materials
-846,Velocidrome Claw,Materials
-847,Velocidrome Head,Materials
-1164,Monster Bone S,Materials
-1165,Monster Bone M,Materials
-1166,Brute Bone S,Materials
-1170,Aptonoth Tail,Materials
-1174,Bullfango Pelt,Materials
-1177,Bnahabra Shell,Materials
-1179,Konchu Shell,Materials
-1184,Velociprey Scale,Materials
-1196,Kelbi Horn,Materials
-1226,Grill,Key Items
-1227,Iron Pickaxe,Key Items
-1228,Bug Net,Key Items
-1256,Kayna's Recipe,Key Items
-1276,Taste of Home,Key Items
-1306,S&S Basics: Defense,Key Items
-1309,Great Sword Moves 1,Key Items
-1310,Great Sword Moves 2,Key Items
-1311,Great Sword Moves 3,Key Items
-1312,Great Sword Moves 4,Key Items
-1313,Hammer: Evasion,Key Items
-1315,H. Horn: A. Evasion,Key Items
-1332,Gunlance: Guard,Key Items
-1334,Gunlance: Seal,Key Items
-1335,Gunlance: Wyv. Fire,Key Items
-1336,Gunlance: Shelling,Key Items
-1337,Gunlance: Wyrmstake,Key Items
-1338,Gunlance: Full Burst,Key Items
-1339,Bow: Evasion,Key Items
-1414,Kamura Garb,Key Items
-1528,Kulu-Ya-Ku Hide,Materials
-1529,Kulu-Ya-Ku Beak,Materials
-1530,Kulu-Ya-Ku Plume,Materials
+ID,Name,Category,Subcategory
+1,Herb,Healing Items,Recovery Items
+2,Potion,Healing Items,Recovery Items
+4,Lifesoot,Healing Items,Recovery Items
+11,Antidote,Healing Items,Recovery Items
+12,Aloe Leaf,Healing Items,Recovery Items
+29,Mahana Dunker,Healing Items,Food
+46,Whetstone,Support Items,Tools
+121,Paralysis Knife,Support Items,Tools
+129,Stone,Materials,Materials
+140,Paintball,Support Items,Tools
+145,Tranq Trap,Support Items,Tools
+176,Well-Done Steak,Healing Items,Food
+435,Gathering Charm,Facilities,Charms
+465,Unique Mushroom,Materials,Mahana Commodities
+466,Golden Fragment,Facilities,Trade-in Items
+478,Pittance Fang,Facilities,Trade-in Items
+495,Silver Cricket,Materials,Mahana Rarities
+497,Bottle Cap,Facilities,Bottle Caps
+510,Trap Tool,Materials,Materials
+514,Large Barrel,Materials,Materials
+526,Ivy,Materials,Materials
+527,Sap Plant,Materials,Materials
+528,Woemill Wheat,Materials,Materials
+553,Paintberry,Materials,Materials
+555,Heftcorn,Materials,Heftcorns
+570,Blue Mushroom,Materials,Materials
+573,King Truffle,Materials,Mahana Commodities
+575,Toadstool,Materials,Materials
+594,Honey,Materials,Materials
+595,Mixed Honey,Materials,Mahana Commodities
+596,Snakebee Larva,Materials,Mahana Rarities
+598,Hakolo Honey,Materials,Materials
+607,Bitterbug,Materials,Materials
+611,Thunderbug,Materials,Materials
+612,Insect Husk,Materials,Low-Grade Bugs
+617,Spider Web,Materials,Materials
+618,Carpenterbug,Materials,Low-Grade Bugs
+633,Iron Ore,Materials,Low-Grade Ores
+634,Earth Crystal,Materials,Crystals
+635,Pelagicite Ore,Materials,Low-Grade Ores
+690,Sleepyfish,Materials,Materials
+709,Raw Meat,Materials,Materials
+711,Quality Meat,Facilities,Trade-in Items
+723,Screamer Sac,Materials,Materials
+745,Larinoth Hide,Materials,Larinoth Materials
+788,Kut-Ku Scale,Materials,Kut-Ku Materials
+789,Kut-Ku Webbing,Materials,Kut-Ku Materials
+845,Velocidrome Hide,Materials,Velocidrome Materials
+846,Velocidrome Claw,Materials,Velocidrome Materials
+847,Velocidrome Head,Materials,Velocidrome Materials
+1164,Monster Bone S,Materials,Bones
+1165,Monster Bone M,Materials,Bones
+1166,Brute Bone S,Materials,Brute Bones
+1170,Aptonoth Tail,Materials,Aptonoth Materials
+1174,Bullfango Pelt,Materials,Bullfango Materials
+1177,Bnahabra Shell,Materials,Bnahabra Materials
+1179,Konchu Shell,Materials,Konchu Materials
+1184,Velociprey Scale,Materials,Velociprey Materials
+1196,Kelbi Horn,Materials,Materials
+1226,Grill,Key Items,Key Items
+1227,Iron Pickaxe,Key Items,Key Items
+1228,Bug Net,Key Items,Key Items
+1256,Kayna's Recipe,Key Items,Books of Combos
+1276,Taste of Home,Key Items,Books of Combos
+1306,S&S Basics: Defense,Key Items,Skill Scrolls
+1309,Great Sword Moves 1,Key Items,Skill Scrolls
+1310,Great Sword Moves 2,Key Items,Skill Scrolls
+1311,Great Sword Moves 3,Key Items,Skill Scrolls
+1312,Great Sword Moves 4,Key Items,Skill Scrolls
+1313,Hammer: Evasion,Key Items,Skill Scrolls
+1315,H. Horn: A. Evasion,Key Items,Skill Scrolls
+1332,Gunlance: Guard,Key Items,Skill Scrolls
+1334,Gunlance: Seal,Key Items,Skill Scrolls
+1335,Gunlance: Wyv. Fire,Key Items,Skill Scrolls
+1336,Gunlance: Shelling,Key Items,Skill Scrolls
+1337,Gunlance: Wyrmstake,Key Items,Skill Scrolls
+1338,Gunlance: Full Burst,Key Items,Skill Scrolls
+1339,Bow: Evasion,Key Items,Skill Scrolls
+1414,Kamura Garb,Key Items,Special Layered Armor
+1528,Kulu-Ya-Ku Hide,Materials,Kulu-Ya-Ku Materials
+1529,Kulu-Ya-Ku Beak,Materials,Kulu-Ya-Ku Materials
+1530,Kulu-Ya-Ku Plume,Materials,Kulu-Ya-Ku Materials

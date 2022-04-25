@@ -13,10 +13,10 @@ df = pd.read_csv('mhr_slot.csv')
 df.set_index('Name', inplace=True)
 
 # Create dataframes
-df2 = pd.DataFrame(data={'Item ID':0,'Item Name':0,'Quantity':0,'Item Type':0},index=(0,1))
-df3 = pd.DataFrame(data={'Weapon Index':0,'Weapon Name':0,'Weapon Level':0,'Weapon Type':0},index=(0,1))
-df4 = pd.DataFrame(data={'Armor Index':0,'Armor Name':0,'Armor Level':0},index=(0,1))
-df5 = pd.DataFrame(data={'Talisman ID':0,'Skill I ID':0,'Skill II ID':0,'Talisman Name':0,'Skill I':0,'Skill II':0},index=(0,1))
+df2 = pd.DataFrame(data={'ID':0,'Name':0,'Quantity':0,'Category':0,'Subcategory':0},index=(0,1))
+df3 = pd.DataFrame(data={'Index':0,'Type ID':0,'Name':0,'Level':0,'Type':0,'Subcategory':0},index=(0,1))
+df4 = pd.DataFrame(data={'Index':0,'Name':0,'Level':0},index=(0,1))
+df5 = pd.DataFrame(data={'ID':0,'Skill I ID':0,'Skill II ID':0,'Name':0,'Skill I':0,'Skill II':0,'Subcategory':0},index=(0,1))
 
 # Locate items, weapons, armor and talismans
 index_item = df.index.get_loc('struct item i[1999]')
@@ -35,18 +35,19 @@ for i in range(0,5998):
             id = df_item.iloc[i,1]
         if 'Amount' in df_item.iloc[i,0]:
             amount = df_item.iloc[i,1]
-            s = {'Item ID':id,'Item Name':0,'Quantity':amount,'Item Type':0}
+            s = {'ID':id,'Name':0,'Quantity':amount,'Category':0,'Subcategory':0}
             df2 = df2.append(s,ignore_index=True)
 
 # Gather weapons
 for i in range(0,4200):
         if 'Weapon Type' in df_weapons.iloc[i,0]:
             type = df_weapons.iloc[i,1]
+            type_id = re.sub('[^0-9]','',type)
         if 'Weapon index' in df_weapons.iloc[i,0]:
             index = df_weapons.iloc[i,1]
         if 'Weapon Level' in df_weapons.iloc[i,0]:
             level = df_weapons.iloc[i,1]
-            s = {'Weapon Index':index,'Weapon Name':0,'Weapon Level':level,'Weapon Type':type}
+            s = {'Index':index,'Type ID':type_id,'Name':0,'Level':level,'Type':type,'Subcategory':0}
             df3 = df3.append(s,ignore_index=True)
 
 # Gather armor
@@ -55,7 +56,7 @@ for i in range(0,9600):
             index = df_armor.iloc[i,1]
         if 'Armor Level' in df_armor.iloc[i,0]:
             level = df_armor.iloc[i,1]
-            s = {'Armor Index':index,'Armor Name':0,'Armor Level':level}
+            s = {'Index':index,'Name':0,'Level':level}
             df4 = df4.append(s,ignore_index=True)
 
 # Gather talismans
@@ -68,30 +69,68 @@ for i in range(0,3001):
         if 'Skill ID 2' in df_talisman.iloc[i,0]:
             skill_2 = df_talisman.iloc[i,1]
             skill_2_id = re.sub('[^0-9]','',skill_2)
-            s = {'Talisman ID':id,'Skill I ID':skill_1_id,'Skill II ID':skill_2_id,'Talisman Name':0,'Skill I':skill_1,'Skill II':skill_2}
+            s = {'ID':id,'Skill I ID':skill_1_id,'Skill II ID':skill_2_id,'Name':0,'Skill I':skill_1,'Skill II':skill_2,'Subcategory':0}
             df5 = df5.append(s,ignore_index=True)
 
 # Cleaning dataframes
-df2 = df2[df2['Item ID'] != 0]
+df2 = df2[df2['ID'] != 0]
 
 # Adding dictionaries
 df_dict_items = pd.read_csv('res/dict/stories_2_dictionary_items.csv')
-df_dict_items.set_index('Item ID', inplace=True)
+df_dict_items.set_index('ID', inplace=True)
+df_dict_armor = pd.read_csv('res/dict/stories_2_dictionary_armor.csv')
+df_dict_armor.set_index('Index', inplace=True)
+df_dict_weapons = pd.read_csv('res/dict/stories_2_dictionary_weapons.csv')
+df_dict_talismans = pd.read_csv('res/dict/stories_2_dictionary_talismans.csv')
 
 # Adding item information
 for i in range(len(df2)):
     id = df2.iloc[i,0]
     try:
-        s = {'Item ID':id,'Item Name':df_dict_items.loc[int(float(id)),'Item Name'],'Quantity':0,'Item Type':df_dict_items.loc[int(float(id)),'Category']}
+        s = {'ID':id,'Name':df_dict_items.loc[int(float(id)),'Name'],'Quantity':0,'Category':df_dict_items.loc[int(float(id)),'Category'],'Subcategory':df_dict_items.loc[int(float(id)),'Subcategory']}
         df2 = df2.append(s,ignore_index=True)
     except KeyError:
         continue
 
+# Adding weapons information
+for i in range(len(df3)):
+        index = df3.iloc[i,0]
+        type_id = df3.iloc[i,1]
+        df_temp = df_dict_weapons[(df_dict_weapons['Index'] == int(float(index))) & (df_dict_weapons['Type ID'] == int(float(type_id)))]
+        try:
+            df_temp.reset_index(inplace=True)
+            s = {'Index':index,'Type ID':type_id,'Name':df_temp.loc[0,'Name'],'Level':0,'Type':0,'Subcategory':df_temp.loc[0,'Subcategory']}
+            df3 = df3.append(s,ignore_index=True)
+        except KeyError:
+            continue
+
+# Adding armor information
+for i in range(len(df4)):
+    index = df4.iloc[i,0]
+    try:
+        s = {'Index':index,'Name':df_dict_armor.loc[int(float(index)),'Name'],'Level':0}
+        df4 = df4.append(s,ignore_index=True)
+    except KeyError:
+        continue
+
+# Adding talismans information
+for i in range(len(df5)):
+        id = df5.iloc[i,0]
+        skill_1_id = df5.iloc[i,1]
+        skill_2_id = df5.iloc[i,2]
+        df_temp = df_dict_talismans[(df_dict_talismans['ID'] == int(float(id))) & (df_dict_talismans['Skill I ID'] == int(float(skill_1_id))) & (df_dict_talismans['Skill II ID'] == int(float(skill_2_id)))]
+        try:
+            df_temp.reset_index(inplace=True)
+            s = {'ID':id,'Skill I ID':skill_1_id,'Skill II ID':skill_2_id,'Name':df_temp.loc[0,'Name'],'Skill I':0,'Skill II':0,'Subcategory':df_temp.loc[0,'Subcategory']}
+            df5 = df5.append(s,ignore_index=True)
+        except KeyError:
+            continue
+
 # Cleaning
-df2 = df2.groupby(df2['Item ID'],sort=False).aggregate({'Item Name':'last','Quantity':'first','Item Type':'last'})
-df3 = df3.groupby(df3['Weapon Index'],sort=False).aggregate({'Weapon Name':'last','Weapon Level':'first','Weapon Type':'first'})
-df4 = df4.groupby(df4['Armor Index'],sort=False).aggregate({'Armor Name':'last','Armor Level':'first'})
-df5 = df5.groupby([df5['Talisman ID'],df5['Skill I ID'],df5['Skill II ID']],sort=False).aggregate({'Talisman Name':'last','Skill I':'first','Skill II':'first'})
+df2 = df2.groupby(df2['ID'],sort=False).aggregate({'Name':'last','Quantity':'first','Category':'last','Subcategory':'last'})
+df3 = df3.groupby([df3['Index'],df3['Type ID']],sort=False).aggregate({'Name':'last','Level':'first','Type':'first','Subcategory':'last'})
+df4 = df4.groupby(df4['Index'],sort=False).aggregate({'Name':'last','Level':'first'})
+df5 = df5.groupby([df5['ID'],df5['Skill I ID'],df5['Skill II ID']],sort=False).aggregate({'Name':'last','Skill I':'first','Skill II':'first','Subcategory':'last'})
 
 # Outputting dataframes
 df2.to_csv(r'stories_2_output_items.csv',encoding='utf-8')
