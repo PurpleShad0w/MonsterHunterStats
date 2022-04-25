@@ -2,6 +2,7 @@ import os
 import sys
 import pandas as pd
 import warnings
+import re
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
@@ -15,7 +16,7 @@ df.set_index('Name', inplace=True)
 df2 = pd.DataFrame(data={'Item ID':0,'Item Name':0,'Quantity':0,'Item Type':0},index=(0,1))
 df3 = pd.DataFrame(data={'Weapon Index':0,'Weapon Name':0,'Weapon Level':0,'Weapon Type':0},index=(0,1))
 df4 = pd.DataFrame(data={'Armor Index':0,'Armor Name':0,'Armor Level':0},index=(0,1))
-df5 = pd.DataFrame(data={'Talisman ID':0,'Talisman Name':0,'Skill I':0,'Skill II':0},index=(0,1))
+df5 = pd.DataFrame(data={'Talisman ID':0,'Skill I ID':0,'Skill II ID':0,'Talisman Name':0,'Skill I':0,'Skill II':0},index=(0,1))
 
 # Locate items, weapons, armor and talismans
 index_item = df.index.get_loc('struct item i[1999]')
@@ -63,9 +64,11 @@ for i in range(0,3001):
             id = df_talisman.iloc[i,1]
         if 'Skill ID 1' in df_talisman.iloc[i,0]:
             skill_1 = df_talisman.iloc[i,1]
+            skill_1_id = re.sub('[^0-9]','',skill_1)
         if 'Skill ID 2' in df_talisman.iloc[i,0]:
             skill_2 = df_talisman.iloc[i,1]
-            s = {'Talisman ID':id,'Talisman Name':0,'Skill I':skill_1,'Skill II':skill_2}
+            skill_2_id = re.sub('[^0-9]','',skill_2)
+            s = {'Talisman ID':id,'Skill I ID':skill_1_id,'Skill II ID':skill_2_id,'Talisman Name':0,'Skill I':skill_1,'Skill II':skill_2}
             df5 = df5.append(s,ignore_index=True)
 
 # Cleaning dataframes
@@ -88,7 +91,7 @@ for i in range(len(df2)):
 df2 = df2.groupby(df2['Item ID'],sort=False).aggregate({'Item Name':'last','Quantity':'first','Item Type':'last'})
 df3 = df3.groupby(df3['Weapon Index'],sort=False).aggregate({'Weapon Name':'last','Weapon Level':'first','Weapon Type':'first'})
 df4 = df4.groupby(df4['Armor Index'],sort=False).aggregate({'Armor Name':'last','Armor Level':'first'})
-df5 = df5.groupby(df5['Talisman ID'],sort=False).aggregate({'Talisman Name':'last','Skill I':'first','Skill II':'first'})
+df5 = df5.groupby([df5['Talisman ID'],df5['Skill I ID'],df5['Skill II ID']],sort=False).aggregate({'Talisman Name':'last','Skill I':'first','Skill II':'first'})
 
 # Outputting dataframes
 df2.to_csv(r'stories_2_output_items.csv',encoding='utf-8')
