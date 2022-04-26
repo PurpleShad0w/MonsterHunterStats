@@ -1,5 +1,7 @@
-ID,Skill I ID,Skill II ID,Name,Subcategory
-1,3000,0,Health (S),Small Talismans
-202,3019,0,Protection (S),Small Talismans
-202,3132,0,Antistench (S),Small Talismans
-202,3222,0,Hero (S),Small Talismans
+Skill I ID,Skill II ID,Name,Subcategory
+3000,0,Health (S),Small Talismans
+3019,0,Protection (S),Small Talismans
+3117,0,Antiburn (S),Small Talismans
+3132,0,Antistench (S),Small Talismans
+3177,0,All-Out (S),Small Talismans
+3222,0,Hero (S),Small Talismans

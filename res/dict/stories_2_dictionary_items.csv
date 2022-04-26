@@ -2,18 +2,27 @@ ID,Name,Category,Subcategory
 1,Herb,Healing Items,Recovery Items
 2,Potion,Healing Items,Recovery Items
 4,Lifesoot,Healing Items,Recovery Items
+10,Antidote Herb,Healing Items,Recovery Items
 11,Antidote,Healing Items,Recovery Items
 12,Aloe Leaf,Healing Items,Recovery Items
+13,Burn Ointment,Healing Items,Recovery Items
+18,Girthy Garlic,Healing Items,Recovery Items
+22,Vital Essence,Healing Items,Recovery Items
 29,Mahana Dunker,Healing Items,Food
 46,Whetstone,Support Items,Tools
+79,Surrogate Gem,Support Items,Tools
 121,Paralysis Knife,Support Items,Tools
+123,Throwing Knife,Support Items,Tools
 129,Stone,Materials,Materials
 140,Paintball,Support Items,Tools
 145,Tranq Trap,Support Items,Tools
 176,Well-Done Steak,Healing Items,Food
 435,Gathering Charm,Facilities,Charms
+436,Lucky Charm,Facilities,Charms
 465,Unique Mushroom,Materials,Mahana Commodities
 466,Golden Fragment,Facilities,Trade-in Items
+475,Crystal Bone,Materials,Rutoh Commodities
+477,Silver Spidersilk,Materials,Rutoh Commodities
 478,Pittance Fang,Facilities,Trade-in Items
 495,Silver Cricket,Materials,Mahana Rarities
 497,Bottle Cap,Facilities,Bottle Caps
@@ -25,12 +34,14 @@ ID,Name,Category,Subcategory
 553,Paintberry,Materials,Materials
 555,Heftcorn,Materials,Heftcorns
 570,Blue Mushroom,Materials,Materials
+572,Nitroshroom,Materials,Materials
 573,King Truffle,Materials,Mahana Commodities
 575,Toadstool,Materials,Materials
 594,Honey,Materials,Materials
 595,Mixed Honey,Materials,Mahana Commodities
 596,Snakebee Larva,Materials,Mahana Rarities
 598,Hakolo Honey,Materials,Materials
+599,Alcala Honey,Materials,Materials
 607,Bitterbug,Materials,Materials
 611,Thunderbug,Materials,Materials
 612,Insect Husk,Materials,Low-Grade Bugs
@@ -43,25 +54,39 @@ ID,Name,Category,Subcategory
 709,Raw Meat,Materials,Materials
 711,Quality Meat,Facilities,Trade-in Items
 723,Screamer Sac,Materials,Materials
+725,Poison Sac,Materials,Poison Sacs
+733,Flame Sac,Materials,Flame Sacs
+735,Aqua Sac,Materials,Aqua Sacs
 745,Larinoth Hide,Materials,Larinoth Materials
 788,Kut-Ku Scale,Materials,Kut-Ku Materials
 789,Kut-Ku Webbing,Materials,Kut-Ku Materials
 845,Velocidrome Hide,Materials,Velocidrome Materials
 846,Velocidrome Claw,Materials,Velocidrome Materials
 847,Velocidrome Head,Materials,Velocidrome Materials
+1091,Bulldrome Hide,Materials,Bulldrome Materials
+1092,Bulldrome Tusk,Materials,Bulldrome Materials
 1164,Monster Bone S,Materials,Bones
 1165,Monster Bone M,Materials,Bones
 1166,Brute Bone S,Materials,Brute Bones
+1167,Monster Fluid,Materials,Insect Materials
+1169,Slagtoth Hide,Materials,Slagtoth Materials
 1170,Aptonoth Tail,Materials,Aptonoth Materials
+1172,Ludroth Pelt,Materials,Ludroth Materials
 1174,Bullfango Pelt,Materials,Bullfango Materials
 1177,Bnahabra Shell,Materials,Bnahabra Materials
 1179,Konchu Shell,Materials,Konchu Materials
+1182,Jaggi Scale,Materials,Jaggi Materials
 1184,Velociprey Scale,Materials,Velociprey Materials
 1196,Kelbi Horn,Materials,Materials
+1218,Brute Bone M,Materials,Brute Bones
 1226,Grill,Key Items,Key Items
 1227,Iron Pickaxe,Key Items,Key Items
 1228,Bug Net,Key Items,Key Items
+1255,Rathalos Egg,Key Items,Key Items
 1256,Kayna's Recipe,Key Items,Books of Combos
+1257,Tracking Basics,Key Items,Books of Combos
+1266,Group Healing 101,Key Items,Books of Combos
+1272,Healer's Comp V.2,Key Items,Books of Combos
 1276,Taste of Home,Key Items,Books of Combos
 1306,S&S Basics: Defense,Key Items,Skill Scrolls
 1309,Great Sword Moves 1,Key Items,Skill Scrolls
@@ -78,6 +103,11 @@ ID,Name,Category,Subcategory
 1338,Gunlance: Full Burst,Key Items,Skill Scrolls
 1339,Bow: Evasion,Key Items,Skill Scrolls
 1414,Kamura Garb,Key Items,Special Layered Armor
+1486,Heart Churro,Healing Items,Food
 1528,Kulu-Ya-Ku Hide,Materials,Kulu-Ya-Ku Materials
 1529,Kulu-Ya-Ku Beak,Materials,Kulu-Ya-Ku Materials
 1530,Kulu-Ya-Ku Plume,Materials,Kulu-Ya-Ku Materials
+1534,Pukei-Pukei Scale,Materials,Pukei-Pukei Materials
+1535,Pukei-Pukei Sac,Materials,Pukei-Pukei Materials
+1579,Anjanath Scale,Materials,Anjanath Materials
+1580,Anjanath Nosebone,Materials,Anjanath Materials
