@@ -36,6 +36,7 @@ AAStories2SaveTool.exe
 SAVEDATA1000.bt
 types.bt
 MonstieEgger.bt
+MHStories2_SaveTemplate.bt
 
 # cache
 __pycache__

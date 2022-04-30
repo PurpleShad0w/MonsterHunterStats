@@ -22,9 +22,9 @@ def gather():
     # Locate items, weapons, armor and talismans
     index_item = df.index.get_loc('struct item i[1999]')
     df_item = df.iloc[index_item:index_item+5998]
-    df_weapons = df.iloc[index_item+5999:index_item+10199]
-    df_armor = df.iloc[index_item+10200:index_item+19800]
-    df_talisman = df.iloc[index_item+19800:index_item+22801]
+    df_weapons = df.iloc[index_item+5998:index_item+17199]
+    df_armor = df.iloc[index_item+17199:index_item+26800]
+    df_talisman = df.iloc[index_item+26800:index_item+29801]
     df_item.reset_index(inplace=True)
     df_weapons.reset_index(inplace=True)
     df_armor.reset_index(inplace=True)
