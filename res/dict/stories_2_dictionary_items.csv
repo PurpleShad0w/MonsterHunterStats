@@ -7,23 +7,32 @@ ID,Name,Category,Subcategory
 12,Aloe Leaf,Healing Items,Recovery Items
 13,Burn Ointment,Healing Items,Recovery Items
 18,Girthy Garlic,Healing Items,Recovery Items
+19,Zest Pill,Healing Items,Recovery Items
 22,Vital Essence,Healing Items,Recovery Items
 29,Mahana Dunker,Healing Items,Food
 46,Whetstone,Support Items,Tools
 79,Surrogate Gem,Support Items,Tools
+118,Flash Bomb,Support Items,Tools
+120,Poison Knife,Support Items,Tools
 121,Paralysis Knife,Support Items,Tools
 123,Throwing Knife,Support Items,Tools
 129,Stone,Materials,Materials
 140,Paintball,Support Items,Tools
 145,Tranq Trap,Support Items,Tools
 176,Well-Done Steak,Healing Items,Food
+177,Muscle Meat,Healing Items,Food
 435,Gathering Charm,Facilities,Charms
 436,Lucky Charm,Facilities,Charms
+440,Buying Charm,Facilities,Charms
+442,Might Charm,Facilities,Charms
 465,Unique Mushroom,Materials,Mahana Commodities
 466,Golden Fragment,Facilities,Trade-in Items
+472,Royal Honey,Materials,Rutoh Commodities
+473,Crimson Coral,Materials,Rutoh Commodities
 475,Crystal Bone,Materials,Rutoh Commodities
 477,Silver Spidersilk,Materials,Rutoh Commodities
 478,Pittance Fang,Facilities,Trade-in Items
+484,Great Shroom,Materials,Alcala Commodities
 495,Silver Cricket,Materials,Mahana Rarities
 497,Bottle Cap,Facilities,Bottle Caps
 510,Trap Tool,Materials,Materials
@@ -50,9 +59,11 @@ ID,Name,Category,Subcategory
 633,Iron Ore,Materials,Low-Grade Ores
 634,Earth Crystal,Materials,Crystals
 635,Pelagicite Ore,Materials,Low-Grade Ores
+636,Machalite Ore,Materials,Low-Grade Ores
 690,Sleepyfish,Materials,Materials
 709,Raw Meat,Materials,Materials
 711,Quality Meat,Facilities,Trade-in Items
+721,Wyvern Barbs,Materials,Materials
 723,Screamer Sac,Materials,Materials
 725,Poison Sac,Materials,Poison Sacs
 733,Flame Sac,Materials,Flame Sacs
@@ -60,11 +71,18 @@ ID,Name,Category,Subcategory
 745,Larinoth Hide,Materials,Larinoth Materials
 788,Kut-Ku Scale,Materials,Kut-Ku Materials
 789,Kut-Ku Webbing,Materials,Kut-Ku Materials
+839,Great Jaggi Hide,Materials,G. Jaggi Materials
+841,King's Frill,Materials,G. Jaggi Materials
 845,Velocidrome Hide,Materials,Velocidrome Materials
 846,Velocidrome Claw,Materials,Velocidrome Materials
 847,Velocidrome Head,Materials,Velocidrome Materials
+1043,Royal Ludroth Scale,Materials,Royal Ludroth Materials
+1044,Royal Ludroth Tail,Materials,Royal Ludroth Materials
+1079,Qurupeco Scale,Materials,Qurupeco Materials
 1091,Bulldrome Hide,Materials,Bulldrome Materials
 1092,Bulldrome Tusk,Materials,Bulldrome Materials
+1097,Arzuros Pelt,Materials,Arzuros Materials
+1098,Arzuros Shell,Materials,Arzuros Materials
 1164,Monster Bone S,Materials,Bones
 1165,Monster Bone M,Materials,Bones
 1166,Brute Bone S,Materials,Brute Bones
@@ -82,13 +100,16 @@ ID,Name,Category,Subcategory
 1226,Grill,Key Items,Key Items
 1227,Iron Pickaxe,Key Items,Key Items
 1228,Bug Net,Key Items,Key Items
+1244,Gargwa Statue,Key Items,Key Items
 1255,Rathalos Egg,Key Items,Key Items
 1256,Kayna's Recipe,Key Items,Books of Combos
 1257,Tracking Basics,Key Items,Books of Combos
 1266,Group Healing 101,Key Items,Books of Combos
+1268,Positivity Pills,Key Items,Books of Combos
 1272,Healer's Comp V.2,Key Items,Books of Combos
 1276,Taste of Home,Key Items,Books of Combos
 1306,S&S Basics: Defense,Key Items,Skill Scrolls
+1308,Great Sword: Guard,Key Items,Skill Scrolls
 1309,Great Sword Moves 1,Key Items,Skill Scrolls
 1310,Great Sword Moves 2,Key Items,Skill Scrolls
 1311,Great Sword Moves 3,Key Items,Skill Scrolls
@@ -111,3 +132,6 @@ ID,Name,Category,Subcategory
 1535,Pukei-Pukei Sac,Materials,Pukei-Pukei Materials
 1579,Anjanath Scale,Materials,Anjanath Materials
 1580,Anjanath Nosebone,Materials,Anjanath Materials
+1594,Paolumu Pelt,Materials,Paolumu Materials
+1595,Paolumu Webbing,Materials,Paolumu Materials
+1652,White Dress,Key Items,Outfits for Ena
