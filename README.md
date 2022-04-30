@@ -8,6 +8,7 @@ Implementation of Monster Hunter Rise planned.
 
 ## Dependencies
 - A compiled version of [IceborneSavecrypt](https://github.com/LEGENDFF/mhw-Savecrypt).
+- A release of [MHST2 Save Tools](https://github.com/AsteriskAmpersand/MHST2-Save-Tools).
 - The following binary tables: [SAVEDATA1000.bt](https://github.com/EnderHDMC/MHWISaveEditor/blob/master/res/mapping/SAVEDATA1000.bt), [types.bt](https://github.com/EnderHDMC/MHWISaveEditor/blob/master/res/mapping/types.bt) and [MHStories2_SaveTemplate.bt](https://github.com/sigve10/MHStories2-SaveTemplate/blob/main/MHStories2_SaveTemplate.bt).
 
 ## Usage
@@ -30,3 +31,4 @@ Implementation of Monster Hunter Rise planned.
 - [EnderHDMC](https://github.com/EnderHDMC) for his personal help and for providing the binary tables of World. <br/>
 - [Legendff](https://github.com/LEGENDFF) for providing the World decryption library.
 - [DSC-173](https://github.com/sigve10) for providing the Stories 2 binary table.
+- [AsteriskAmpersand](https://github.com/AsteriskAmpersand) for providing the Stories 2 save decryption tool.
