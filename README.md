@@ -17,5 +17,6 @@ Implementation of Monster Hunter Rise planned.
 - Contemplate !
 
 ### Credits
-- [EnderHDMC](https://github.com/EnderHDMC) for his personal help and for providing the binary tables. <br/>
-- [Legendff](https://github.com/LEGENDFF) for providing the decryption library.
+- [EnderHDMC](https://github.com/EnderHDMC) for his personal help and for providing the binary tables of World. <br/>
+- [Legendff](https://github.com/LEGENDFF) for providing the World decryption library.
+- [DSC-173](https://github.com/sigve10) for providing the Stories 2 decryption library.
