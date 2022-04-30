@@ -1,0 +1,46 @@
+//------------------------------------------------
+//--- 010 Editor v12.0.1 Binary Template
+//
+//      File: types.bt
+//   Authors: EnderHDMC
+//   Version: 0.1.2
+//   Purpose: Helper types for other templates
+//  Category: Misc
+// File Mask: *
+//  ID Bytes: 
+//   History: 
+//------------------------------------------------
+
+// Convenience types
+typedef byte   i8;
+typedef int16  i16;
+typedef int32  i32;
+typedef int64  i64;
+
+typedef ubyte  u8;
+typedef uint16 u16;
+typedef uint32 u32;
+typedef uint64 u64;
+
+typedef hfloat f16;
+typedef float  f32;
+typedef double f64;
+
+typedef struct { char str[32]; } str32s <read=Str("%s", this.str)>;
+typedef char str32 [ 32] <read=Str("%s", this)>;
+typedef char str64 [ 64] <read=Str("%s", this)>;
+typedef char str128[128] <read=Str("%s", this)>;
+typedef char str256[256] <read=Str("%s", this)>;
+typedef char str54 [ 54] <read=Str("%s", this)>;
+
+// NOTE: you can configure the maximum string length by setting this variable
+local u32 string_max = -1;
+typedef struct {
+  string value;
+} c_string <size=ReadStringLength(startof(this), string_max), read=Str("%s", this.value)>;
+
+// NOTE: you can configure how many strings there are by setting this variable
+local u32 string_count;
+typedef struct {
+  c_string str[string_count] <optimize=false>;
+} string_block;

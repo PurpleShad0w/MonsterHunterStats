@@ -31,12 +31,12 @@ stories_2_output_armor.csv
 stories_2_output_talismans.csv
 
 # libraries
-IceborneSavecrypt.jar
+# IceborneSavecrypt.jar
 AAStories2SaveTool.exe
-SAVEDATA1000.bt
-types.bt
+# SAVEDATA1000.bt
+# types.bt
 MonstieEgger.bt
-MHStories2_SaveTemplate.bt
+# MHStories2_SaveTemplate.bt
 
 # cache
 __pycache__
