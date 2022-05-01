@@ -18,7 +18,7 @@ Implementation of Monster Hunter Rise planned.
 
 ### Usage for Monster Hunter Stories 2
 - Find your save file, usually located at `Steam/userdata/<user_id>/1277400/remote/mhr_slot_X` and copy it in the root folder of this repository.
-- Run `res/lib/AAStories2SaveTool.exe`.
+- Run `libraries/AAStories2SaveTool.exe`.
 - Set your save as the input, set your save as the output as well, except for the file extension, change it from .sav to .bin.
 - Input your Steam ID in the corresponding field. To easily find it, go to your Steam profile and copy the series of numbers in the URL.
 - Press the decrypt button, wait for a message to appear below and close the app.
