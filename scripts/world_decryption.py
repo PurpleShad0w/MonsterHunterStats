@@ -9,10 +9,10 @@ saveslot = 1
 
 def decrypt(saveslot):
     # Remove save file encryption
-    subprocess.call("java -jar res/lib/IceborneSavecrypt.jar SAVEDATA1000 SAVEDATA1000.bin")
+    subprocess.call("java -jar libraries/IceborneSavecrypt.jar SAVEDATA1000 SAVEDATA1000.bin")
     
     # Decode the binary file
-    subprocess.call("C:/Program Files/010 Editor/010Editor.exe SAVEDATA1000.bin -template:res/mapping/SAVEDATA1000.bt -script:scripts/world_editor.1sc -noui")
+    subprocess.call("C:/Program Files/010 Editor/010Editor.exe SAVEDATA1000.bin -template:templates/SAVEDATA1000.bt -script:scripts/world_editor.1sc -noui")
     
     # Load the file
     df = pd.read_csv('SAVEDATA1000_full.csv')

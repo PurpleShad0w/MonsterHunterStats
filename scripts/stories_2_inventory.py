@@ -77,12 +77,12 @@ def gather():
     df2 = df2[df2['ID'] != 0]
 
     # Adding dictionaries
-    df_dict_items = pd.read_csv('res/dict/stories_2_dictionary_items.csv')
+    df_dict_items = pd.read_csv('dictionaries/stories_2_dictionary_items.csv')
     df_dict_items.set_index('ID', inplace=True)
-    df_dict_armor = pd.read_csv('res/dict/stories_2_dictionary_armor.csv')
+    df_dict_armor = pd.read_csv('dictionaries/stories_2_dictionary_armor.csv')
     df_dict_armor.set_index('Index', inplace=True)
-    df_dict_weapons = pd.read_csv('res/dict/stories_2_dictionary_weapons.csv')
-    df_dict_talismans = pd.read_csv('res/dict/stories_2_dictionary_talismans.csv')
+    df_dict_weapons = pd.read_csv('dictionaries/stories_2_dictionary_weapons.csv')
+    df_dict_talismans = pd.read_csv('dictionaries/stories_2_dictionary_talismans.csv')
 
     # Adding item information
     for i in range(len(df2)):
