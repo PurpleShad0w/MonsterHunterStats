@@ -14,3 +14,7 @@ For World :
 For Stories 2 :
 
 - Fill in dictionaries (items, equipment, etc...) -> use save editor github (index +5)
+
+For 3 Ultimate :
+
+- Understand equipment

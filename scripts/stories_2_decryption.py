@@ -14,4 +14,4 @@ def decode():
     df.drop(['Start','Size','Color','Comment'], axis=1, inplace=True)
 
     # Export save
-    df.to_csv(r'mhr_slot.csv',index=False)
+    df.to_csv(r'saves/mhr_slot.csv',index=False)
