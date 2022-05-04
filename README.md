@@ -13,11 +13,11 @@ Implementation of Monster Hunter Rise planned.
 
 ## Usage
 ### Usage for Monster Hunter World
-- Find your save file, usually located at `Steam/userdata/<user_id>/582010/remote/SAVEDATA1000` and copy it in the root folder of this repository.
+- Find your save file, usually located at `Steam/userdata/<user_id>/582010/remote/SAVEDATA1000` and copy it in the `saves` folder of this repository.
 - Run the `world_execution.py` file.
 
 ### Usage for Monster Hunter Stories 2
-- Find your save file, usually located at `Steam/userdata/<user_id>/1277400/remote/mhr_slot_X` and copy it in the root folder of this repository.
+- Find your save file, usually located at `Steam/userdata/<user_id>/1277400/remote/mhr_slot_X` and copy it in the `saves` folder of this repository.
 - Run `libraries/AAStories2SaveTool.exe`.
 - Set your save as the input, set your save as the output as well, except for the file extension, change it from .sav to .bin.
 - Input your Steam ID in the corresponding field. To easily find it, go to your Steam profile and copy the series of numbers in the URL.
@@ -32,3 +32,4 @@ Implementation of Monster Hunter Rise planned.
 - [Legendff](https://github.com/LEGENDFF) for providing the World decryption library.
 - [DSC-173](https://github.com/sigve10) for providing the Stories 2 binary template.
 - [AsteriskAmpersand](https://github.com/AsteriskAmpersand) for providing the Stories 2 save decryption tool.
+- [gocario](https://github.com/gocario) for providing information on the format of the MH3U save file.
