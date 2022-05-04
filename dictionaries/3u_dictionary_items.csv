@@ -12,12 +12,12 @@ ID,Name,Rarity
 89,Felvine Bomb,4
 90,Huskberry,1
 91,Bone Husk S,2
-94,Normal S Lv2,1
-99,Pellet S Lv1,2
-102,Crag S Lv1,3
+94,Normal S Level 2,1
+99,Pellet S Level 1,2
+102,Crag S Level 1,3
 108,Flaming S,3
 109,Water S,3
-113,Recov S Lv1,1
+113,Recov S Level 1,1
 137,Empty Phial,1
 140,Poison Coating,3
 146,Worm,1
@@ -48,7 +48,7 @@ ID,Name,Rarity
 238,Armor Sphere,4
 260,Insect Husk,1
 265,Snakebee Larva,1
-281,Screamer,4
+281,Screamer Sac,4
 299,Dash Extract,4
 301,Monster Bone S,3
 302,Monster Bone M,4
@@ -72,13 +72,13 @@ ID,Name,Rarity
 493,Flintstone,4
 501,Hydro Hide,4
 506,Spongy Hide,4
-509,R. Ludroth Scale,4
-512,R. Ludroth Claw,4
+509,Royal Ludroth Scale,4
+512,Royal Ludroth Claw,4
 525,Barroth Shell,4
 528,Barroth Ridge,4
 534,Barroth Scalp,4
 851,Lagombi Pelt,4
 854,Lagombi Ear,4
-857,Lagom Plastron,4
+857,Lagombi Plastron,4
 860,Lagombi Claw,4
 1091,Voucher,4

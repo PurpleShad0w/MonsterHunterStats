@@ -22,7 +22,7 @@ ID,Name,Category,Subcategory
 145,Tranq Trap,Support Items,Tools
 146,Big Barrel Bomb,Support Items,Tools
 159,Vitality Nutriment,Growth Items,Tools
-176,Well-Done Steak,Healing Items,Food
+176,Well-done Steak,Healing Items,Food
 177,Muscle Meat,Healing Items,Food
 178,Toughness Meat,Healing Items,Food
 182,Stable Blueprint 1,Key Items,Key Items
@@ -81,8 +81,8 @@ ID,Name,Category,Subcategory
 745,Larinoth Hide,Materials,Larinoth Materials
 788,Kut-Ku Scale,Materials,Kut-Ku Materials
 789,Kut-Ku Webbing,Materials,Kut-Ku Materials
-839,Great Jaggi Hide,Materials,G. Jaggi Materials
-841,King's Frill,Materials,G. Jaggi Materials
+839,Great Jaggi Hide,Materials,Great Jaggi Materials
+841,King's Frill,Materials,Great Jaggi Materials
 845,Velocidrome Hide,Materials,Velocidrome Materials
 846,Velocidrome Claw,Materials,Velocidrome Materials
 847,Velocidrome Head,Materials,Velocidrome Materials
@@ -121,23 +121,23 @@ ID,Name,Category,Subcategory
 1255,Rathalos Egg,Key Items,Key Items
 1256,Kayna's Recipe,Key Items,Books of Combos
 1257,Tracking Basics,Key Items,Books of Combos
-1261,Healer's Comp V.1,Key Items,Books of Combos
+1261,Healer's Comp Volume 1,Key Items,Books of Combos
 1266,Group Healing 101,Key Items,Books of Combos
 1268,Positivity Pills,Key Items,Books of Combos
-1272,Healer's Comp V.2,Key Items,Books of Combos
+1272,Healer's Comp Volume 2,Key Items,Books of Combos
 1276,Taste of Home,Key Items,Books of Combos
-1306,S&S Basics: Defense,Key Items,Skill Scrolls
-1307,S&S: Counter,Key Items,Skill Scrolls
+1306,Sword & Shield Basics: Defense,Key Items,Skill Scrolls
+1307,Sword & Shield: Counter,Key Items,Skill Scrolls
 1308,Great Sword: Guard,Key Items,Skill Scrolls
 1309,Great Sword Moves 1,Key Items,Skill Scrolls
 1310,Great Sword Moves 2,Key Items,Skill Scrolls
 1311,Great Sword Moves 3,Key Items,Skill Scrolls
 1312,Great Sword Moves 4,Key Items,Skill Scrolls
 1313,Hammer: Evasion,Key Items,Skill Scrolls
-1315,H. Horn: A. Evasion,Key Items,Skill Scrolls
+1315,Hunting Horn: Absolute Evasion,Key Items,Skill Scrolls
 1332,Gunlance: Guard,Key Items,Skill Scrolls
 1334,Gunlance: Seal,Key Items,Skill Scrolls
-1335,Gunlance: Wyv. Fire,Key Items,Skill Scrolls
+1335,Gunlance: Wyvern Fire,Key Items,Skill Scrolls
 1336,Gunlance: Shelling,Key Items,Skill Scrolls
 1337,Gunlance: Wyrmstake,Key Items,Skill Scrolls
 1338,Gunlance: Full Burst,Key Items,Skill Scrolls

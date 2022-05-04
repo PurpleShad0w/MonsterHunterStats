@@ -171,7 +171,7 @@ Coral Pukei Pukei Fellwing,False,True,False
 Coral Pukei Pukei Lash,False,True,False
 Coral Pukei Pukei Shard,False,True,False
 Cortos Hardclaw,False,True,False
-Crag S Lv1,True,False,False
+Crag S Level 1,True,False,False
 Crimson Coral,False,False,True
 Crisis Jewel 1,False,True,False
 Cryo Sac,False,True,False
@@ -392,18 +392,17 @@ Gunlance: Guard,False,False,True
 Gunlance: Seal,False,False,True
 Gunlance: Shelling,False,False,True
 Gunlance: Wyrmstake,False,False,True
-Gunlance: Wyv. Fire,False,False,True
+Gunlance: Wyvern Fire,False,False,True
 Gunpowder,False,True,False
 Gunpowder Level 2,False,True,False
 Gunpowder Level 3,False,True,False
 Gunpowderfish Bait,False,True,False
-H. Horn: A. Evasion,False,False,True
 Hakolo Honey,False,False,True
 Hammer: Evasion,False,False,True
 Hard Armor Sphere,False,True,False
 Hardshell Powder,False,True,False
-Healer's Comp V.1,False,False,True
-Healer's Comp V.2,False,False,True
+Healer's Comp Volume 1,False,False,True
+Healer's Comp Volume 2,False,False,True
 Health (S),False,False,True
 Heart Churro,False,False,True
 Heavy Armor Sphere,False,True,False
@@ -431,6 +430,7 @@ Hunter's Headgear,False,True,False
 Hunter's Knife I,False,True,False
 Hunter's Mail,False,True,False
 Hunter's Vambraces,False,True,False
+Hunting Horn: Absolute Evasion,False,False,True
 Huskberry,True,False,False
 Hydro Hide,True,False,False
 Ice Crystal,True,False,False
@@ -512,10 +512,10 @@ Kulve Taroth Golden Nugget,False,True,False
 Kut-Ku Pick,False,False,True
 Kut-Ku Scale,False,False,True
 Kut-Ku Webbing,False,False,True
-Lagom Plastron,True,False,False
 Lagombi Claw,True,False,False
 Lagombi Ear,True,False,False
 Lagombi Pelt,True,False,False
+Lagombi Plastron,True,False,False
 Large Barrel,False,True,True
 Large Barrel Bomb,False,True,False
 Large Coral Pukei Pukei Sac,False,True,False
@@ -607,7 +607,7 @@ Nightshade Paolumu Thickfur,False,True,False
 Nitroshroom,True,True,True
 Normal Ammo 2,False,True,False
 Normal Ammo 3,False,True,False
-Normal S Lv2,True,False,False
+Normal S Level 2,True,False,False
 Nourishing Extract,False,True,False
 Novacrystal,False,True,False
 Nulberry,True,True,False
@@ -640,7 +640,7 @@ Paralysis Sac,False,True,False
 Parashroom,True,True,False
 Pearlspring Ticket,False,True,False
 Pelagicite Ore,True,False,True
-Pellet S Lv1,True,False,False
+Pellet S Level 1,True,False,False
 Pierce Ammo 1,False,True,False
 Pierce Ammo 2,False,True,False
 Pierce Ammo 3,False,True,False
@@ -690,8 +690,6 @@ Quality Bone,False,True,False
 Quality Meat,False,False,True
 Qurupeco Feather,True,False,False
 Qurupeco Scale,True,False,True
-R. Ludroth Claw,True,False,False
-R. Ludroth Scale,True,False,False
 Radobaan Carapace,False,True,False
 Radobaan Marrow,False,True,False
 Radobaan Medulla,False,True,False
@@ -724,23 +722,21 @@ Rathian Weave,False,True,False
 Rathian Webbing,False,True,False
 Ration,False,True,False
 Raw Meat,True,True,True
-Recov S Lv1,True,False,False
+Recov S Level 1,True,False,False
 Recover Ammo 1,False,True,False
 Recover Ammo 2,False,True,False
 Red Orb,False,True,False
 Rhenoplos Shell,True,False,False
 Rider Armor,False,False,True
 Royal Honey,False,False,True
-Royal Ludroth Scale,False,False,True
+Royal Ludroth Claw,True,False,False
+Royal Ludroth Scale,True,False,True
 Royal Ludroth Tail,False,False,True
 Rugged Great Sword,False,False,True
-S&S Basics: Defense,False,False,True
-S&S: Counter,False,False,True
 Sap Plant,True,False,True
 Satiated Jewel 1,False,True,False
-Screamer,True,False,False
 Screamer Pod,False,True,False
-Screamer Sac,False,True,True
+Screamer Sac,True,True,True
 Shamos Goggles,False,True,False
 Shamos Hide,False,True,False
 Shamos Hide+,False,True,False
@@ -797,6 +793,8 @@ Surrogate Gem,False,False,True
 Survival Jewel 1,False,True,False
 Sushifish Scale,False,True,False
 Suture Jewel 1,False,True,False
+Sword & Shield Basics: Defense,False,False,True
+Sword & Shield: Counter,False,False,True
 Tailraider Voucher,False,True,False
 Taste of Home,False,False,True
 Teostra Carapace,False,True,False
@@ -872,8 +870,7 @@ Warped Bone,False,True,False
 Water Ammo,False,True,False
 Water Res Jewel+ 4,False,True,False
 Water S,True,False,False
-Well-Done Steak,False,False,True
-Well-done Steak,True,True,False
+Well-done Steak,True,True,True
 Whetfish Fin,False,True,False
 Whetstone,True,False,True
 White Dress,False,False,True
