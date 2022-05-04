@@ -10,4 +10,9 @@
 //------------------------------------------------
 
 ExpandAll();
-ExportCSV("SAVEDATA1000_full.csv");
+string path = FileNameGetPath(GetScriptFileName());
+int len = Strlen(path);
+path[len-8] = '\0';
+path = path + "saves\\SAVEDATA1000_full.csv";
+Printf(path);
+ExportCSV(path);

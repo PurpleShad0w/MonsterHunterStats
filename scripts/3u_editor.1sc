@@ -5,14 +5,9 @@
 //   Authors: Octave Cinquanta
 //   Version: 1.0
 //   Purpose: Monster Hunter Inventory Displayer
-//  Category: Monster Hunter Stories 2
+//  Category: Monster Hunter 3 Ultimate
 //   History: 
 //------------------------------------------------
 
 ExpandAll();
-string path = FileNameGetPath(GetScriptFileName());
-int len = Strlen(path);
-path[len-8] = '\0';
-path = path + "saves\\mhr_slot.csv";
-Printf(path);
-ExportCSV(path);
+ExportCSV("user1.csv");

@@ -10,7 +10,7 @@ os.chdir(os.path.dirname(sys.argv[0]))
 
 def gather():
     # Load the data
-    df = pd.read_csv('mhr_slot.csv')
+    df = pd.read_csv('saves/mhr_slot.csv')
     df.set_index('Name', inplace=True)
 
     # Create dataframes
@@ -133,7 +133,7 @@ def gather():
     df5 = df5.groupby([df5['Skill I ID'],df5['Skill II ID']],sort=False).aggregate({'ID':'first','Name':'last','Quantity':'sum','Skill I':'first','Skill II':'first','Subcategory':'last'})
 
     # Outputting dataframes
-    df2.to_csv(r'stories_2_output_items.csv',encoding='utf-8')
-    df3.to_csv(r'stories_2_output_weapons.csv',encoding='utf-8')
-    df4.to_csv(r'stories_2_output_armor.csv',encoding='utf-8')
-    df5.to_csv(r'stories_2_output_talismans.csv',encoding='utf-8')
+    df2.to_csv(r'outputs/stories_2_output_items.csv',encoding='utf-8')
+    df3.to_csv(r'outputs/stories_2_output_weapons.csv',encoding='utf-8')
+    df4.to_csv(r'outputs/stories_2_output_armor.csv',encoding='utf-8')
+    df5.to_csv(r'outputs/stories_2_output_talismans.csv',encoding='utf-8')

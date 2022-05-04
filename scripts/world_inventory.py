@@ -9,7 +9,7 @@ os.chdir(os.path.dirname(sys.argv[0]))
 
 def gather():
     # Load save data
-    df = pd.read_csv('SAVEDATA1000.csv')
+    df = pd.read_csv('saves/SAVEDATA1000.csv')
     df.drop(['Start','Size','Color','Comment'], axis=1, inplace=True)
     df.set_index('Name', inplace=True)
 
@@ -217,7 +217,7 @@ def gather():
     df5 = df5[df5['Flag'] != 0]
 
     # Outputting dataframes
-    df2.to_csv(r'world_output_items.csv',encoding='utf-8')
-    df3.to_csv(r'world_output_equipment.csv',encoding='utf-8')
-    df4.to_csv(r'world_output_tool.csv',encoding='utf-8')
-    df5.to_csv(r'world_output_layered.csv',encoding='utf-8')
+    df2.to_csv(r'outputs/world_output_items.csv',encoding='utf-8')
+    df3.to_csv(r'outputs/world_output_equipment.csv',encoding='utf-8')
+    df4.to_csv(r'outputs/world_output_tool.csv',encoding='utf-8')
+    df5.to_csv(r'outputs/world_output_layered.csv',encoding='utf-8')
