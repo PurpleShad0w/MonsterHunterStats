@@ -1,0 +1,74 @@
+//------------------------------------------------
+//--- 010 Editor v12.0.1 Binary Template
+//
+//      File: 3u_template
+//   Authors: Octave Cinquanta
+//   Version: 1.0
+//   Purpose: Monster Hunter Inventory Displayer
+//  Category: Monster Hunter 3 Ultimate
+// File Mask: 
+//  ID Bytes: 
+//   History: 
+//------------------------------------------------
+
+struct player{
+    byte gender <name="gender">;
+    byte face <name="face">;
+    byte hair <name="hair">;
+    char name[10] <name="name">;
+    FSeek(36);
+    int32 money <name="money">;
+    int16 skin <name="skin">;
+    FSeek(171);
+    byte voice <name="voice">;
+};
+
+struct item{
+    int16 ID <name="ID">;
+    int16 count <name="count">;
+};
+
+struct equipment{
+    byte type <name="type">;
+    byte level_slots <name="level_or_slot_count">;
+    int16 ID <name="ID">;
+    byte first_skill_ID <name="first_skill_ID">;
+    byte first_skill_value_blue <name="first_skill_value_or_blue">;
+    byte second_skill_ID_green <name="first_skill_ID_or_green">;
+    byte second_skill_value_red <name="second_skill_value_or_red">;
+    int16 first_jewel_ID <name="first_jewel_ID">;
+    int16 second_jewel_ID <name="second_jewel_ID">;
+    int16 third_jewel_ID <name="third_jewel_ID">;
+    int16 unk;
+};
+
+struct inventory{
+    item i[24];
+};
+
+struct pouch{
+    item i[32];
+};
+
+struct chest{
+    item i[1000];
+};
+
+struct box{
+    equipment e[1000];
+};
+
+struct file{
+    FSeek(4);
+    player i;
+    FSeek(172);
+    inventory i;
+    FSeek(268);
+    pouch i;
+    FSeek(396);
+    chest i;
+    FSeek(4396);
+    box i;
+};
+
+file f;
