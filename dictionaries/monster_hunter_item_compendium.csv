@@ -1,4 +1,5 @@
 Name,In MHWI,In MHST2
+Adamant Charm,False,True
 Adamant Pill,True,False
 Adamant Seed,True,False
 Advanced Armor Sphere,True,False
@@ -9,6 +10,7 @@ Alloy Mail β+,True,False
 Alloy Vambraces α+,True,False
 Aloe Leaf,False,True
 Amber Hardfang,True,False
+Amphibian Stimulant,False,True
 Ancient Bone,True,False
 Ancient Potion,True,False
 Anjanath Fang,True,False
@@ -40,6 +42,7 @@ Armor Sphere+,True,False
 Armorcharm,True,False
 Armorskin,True,False
 Arowana Bait,True,False
+Arzuros Brace,False,True
 Arzuros Pelt,False,True
 Arzuros Shell,False,True
 Astera Jerky,True,False
@@ -69,6 +72,9 @@ Barroth Ridge+,True,False
 Barroth Scalp,True,False
 Barroth Shell,True,False
 Barroth Tail,True,False
+Basarios Shell,False,True
+Basarios Tears,False,True
+Basarios Webbing,False,True
 Bathycite Ore,True,False
 Bazelgeuse Carapace,True,False
 Bazelgeuse Fuse,True,False
@@ -81,6 +87,7 @@ Beotodus Cortex,True,False
 Beotodus Grandfin,True,False
 Beotodus Hardhorn,True,False
 Beotodus Shard,True,False
+Big Barrel Bomb,False,True
 Binoculars,True,False
 Bird Wyvern Gem,True,False
 Bitterbug,True,True
@@ -107,6 +114,7 @@ Bone Bludgeon I,True,False
 Bone Coil,True,False
 Bone Greaves,True,False
 Bone Helm,True,False
+Bone Kris,False,True
 Bone Mail,True,False
 Bone Vambraces,True,False
 Boomerang,True,False
@@ -118,6 +126,7 @@ Bow: Evasion,False,True
 Brace Jewel 3,True,False
 Bristly Crake Ticket,True,False
 Brutal Bone,True,False
+Brute Bone L,False,True
 Brute Bone M,False,True
 Brute Bone S,False,True
 Bug Net,False,True
@@ -199,6 +208,7 @@ Direwolf Layered Coil+,True,False
 Direwolf Layered Greaves+,True,False
 Direwolf Layered Headgear+,True,False
 Direwolf Layered Mail+,True,False
+Divine Rhino,False,True
 Dodogama Hide+,True,False
 Dodogama Jaw,True,False
 Dodogama Scale+,True,False
@@ -225,7 +235,7 @@ Electro Sac,True,False
 Eltalite Ore,True,False
 Empty Phial,True,False
 Enduring Jewel 1,True,False
-Energy Drink,True,False
+Energy Drink,True,True
 Enhancer/Maintenance Jewel 4,True,False
 Exciteshroom,True,False
 Exhaust Ammo 1,True,False
@@ -283,6 +293,7 @@ Flight Jewel 2,True,False
 Flood Sac,True,False
 Flowfern,True,False
 Footing Jewel 2,True,False
+Fortify (S),False,True
 Freeze Ammo,True,False
 Friendship Jewel 1,True,False
 Frost Sac,True,False
@@ -294,6 +305,7 @@ Gajau Skin,True,False
 Gajau Thickhide,True,False
 Gajau Whisker,True,False
 Galajaka Sketch,True,False
+Gargwa Feather,False,True
 Gargwa Statue,False,True
 Gastodon Carapace,True,False
 Gastodon Horn,True,False
@@ -310,7 +322,7 @@ Glavenus Hellshell,True,False
 Glavenus Mantle,True,False
 Glavenus Shard,True,False
 Glavenus Tailedge,True,False
-Gloamgrass Bud,True,False
+Gloamgrass Bud,True,True
 Gobbler Jewel 1,True,False
 Godbug,True,False
 Gold Chip Fragment,True,False
@@ -373,6 +385,7 @@ Hakolo Honey,False,True
 Hammer: Evasion,False,True
 Hard Armor Sphere,True,False
 Hardshell Powder,True,False
+Healer's Comp V.1,False,True
 Healer's Comp V.2,False,True
 Health (S),False,True
 Heart Churro,False,True
@@ -452,6 +465,7 @@ Kestodon Shell,True,False
 King Armor Sphere,True,False
 King Truffle,False,True
 King's Frill,False,True
+Kinship (S),False,True
 Kirin Hide,True,False
 Kirin Mane,True,False
 Kirin Tail,True,False
@@ -505,6 +519,7 @@ Lifesoot,False,True
 Lightcrystal,True,False
 Lucky Charm,False,True
 Ludroth Pelt,False,True
+Lumu Armor,False,True
 Lunastra Carapace,True,False
 Lunastra Scale+,True,False
 Machalite Ore,True,True
@@ -533,7 +548,7 @@ Might Seed,True,False
 Mirewalker Jewel+ 4,True,False
 Mixed Honey,False,True
 Molten Bursa,True,False
-Monster Bone L,True,False
+Monster Bone L,True,True
 Monster Bone M,True,True
 Monster Bone S,True,True
 Monster Bone+,True,False
@@ -580,6 +595,7 @@ Odogaron Sinew,True,False
 Odogaron Sinew+,True,False
 Odogaron Tail,True,False
 Omniplegia Sac,True,False
+Paddock Oil,False,True
 Paintball,False,True
 Paintberry,False,True
 Paolumu Cortex,True,False
@@ -604,6 +620,7 @@ Pink Rathian Scale+,True,False
 Pinnacle Coin,True,False
 Pitfall Trap,True,False
 Pittance Fang,False,True
+Plume Flint,False,True
 Poison Ammo 1,True,False
 Poison Ammo 2,True,False
 Poison Coating,True,False
@@ -617,6 +634,7 @@ Potion,True,True
 Power Coating,True,False
 Powercharm,True,False
 Prized Pelt,True,False
+Protection (M),False,True
 Protection (S),False,True
 Proto Commission Axe I,True,False
 Proto Iron Axe I,True,False
@@ -679,7 +697,9 @@ Rider Armor,False,True
 Royal Honey,False,True
 Royal Ludroth Scale,False,True
 Royal Ludroth Tail,False,True
+Rugged Great Sword,False,True
 S&S Basics: Defense,False,True
+S&S: Counter,False,True
 Sap Plant,False,True
 Satiated Jewel 1,True,False
 Screamer Pod,True,False
@@ -713,11 +733,13 @@ Snowman,True,False
 Spider Web,True,True
 Spiritcore Ore,True,False
 Spiritvein Crystal,True,False
+Spongia Bow,False,True
 Spread Ammo 1,True,False
 Spread Ammo 2,True,False
 Spread Ammo 3,True,False
 Spring Blossom Ticket,True,False
 Spring Insect Field Guide,True,False
+Stable Blueprint 1,False,True
 Steam Ticket,True,False
 Steel Egg,True,False
 Steel Gajau Whisker,True,False
@@ -742,6 +764,7 @@ Teostra Claw+,True,False
 Teostra Horn+,True,False
 Teostra Mane,True,False
 Teostra Powder,True,False
+Tetsucabra Scale,False,True
 Thick Bone,True,False
 Throwing Knife,False,True
 Thunder Ammo,True,False
@@ -757,7 +780,9 @@ Tobi-Kadachi Scale,True,False
 Torpor Sac,True,False
 Torrent Sac,True,False
 Tough Claw,True,False
+Toughness Meat,False,True
 Tracking Basics,False,True
+Training Charm,False,True
 Tranq Ammo,True,False
 Tranq Bomb,True,False
 Tranq Trap,False,True
@@ -800,6 +825,7 @@ Viper Tobi-Kadachi Thickfur,True,False
 Viper Tobi-Kadachi Thorn,True,False
 Vital Essence,False,True
 Vitality Jewel 1,True,False
+Vitality Nutriment,False,True
 Voucher,True,False
 Warming Jewel 2,True,False
 Warped Bone,True,False

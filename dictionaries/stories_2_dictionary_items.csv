@@ -6,6 +6,7 @@ ID,Name,Category,Subcategory
 11,Antidote,Healing Items,Recovery Items
 12,Aloe Leaf,Healing Items,Recovery Items
 13,Burn Ointment,Healing Items,Recovery Items
+17,Energy Drink,Healing Items,Recovery Items
 18,Girthy Garlic,Healing Items,Recovery Items
 19,Zest Pill,Healing Items,Recovery Items
 22,Vital Essence,Healing Items,Recovery Items
@@ -19,11 +20,18 @@ ID,Name,Category,Subcategory
 129,Stone,Materials,Materials
 140,Paintball,Support Items,Tools
 145,Tranq Trap,Support Items,Tools
+146,Big Barrel Bomb,Support Items,Tools
+159,Vitality Nutriment,Growth Items,Tools
 176,Well-Done Steak,Healing Items,Food
 177,Muscle Meat,Healing Items,Food
+178,Toughness Meat,Healing Items,Food
+182,Stable Blueprint 1,Key Items,Key Items
+286,Amphibian Stimulant,Growth Items,Awakening Crystals
+433,Training Charm,Facilities,Charms
 435,Gathering Charm,Facilities,Charms
 436,Lucky Charm,Facilities,Charms
 440,Buying Charm,Facilities,Charms
+441,Adamant Charm,Facilities,Charms
 442,Might Charm,Facilities,Charms
 465,Unique Mushroom,Materials,Mahana Commodities
 466,Golden Fragment,Facilities,Trade-in Items
@@ -32,6 +40,7 @@ ID,Name,Category,Subcategory
 475,Crystal Bone,Materials,Rutoh Commodities
 477,Silver Spidersilk,Materials,Rutoh Commodities
 478,Pittance Fang,Facilities,Trade-in Items
+483,Divine Rhino,Materials,Alcala Commodities
 484,Great Shroom,Materials,Alcala Commodities
 495,Silver Cricket,Materials,Mahana Rarities
 497,Bottle Cap,Facilities,Bottle Caps
@@ -40,6 +49,7 @@ ID,Name,Category,Subcategory
 526,Ivy,Materials,Materials
 527,Sap Plant,Materials,Materials
 528,Woemill Wheat,Materials,Materials
+529,Gloamgrass Bud,Materials,Materials
 553,Paintberry,Materials,Materials
 555,Heftcorn,Materials,Heftcorns
 570,Blue Mushroom,Materials,Materials
@@ -76,6 +86,9 @@ ID,Name,Category,Subcategory
 845,Velocidrome Hide,Materials,Velocidrome Materials
 846,Velocidrome Claw,Materials,Velocidrome Materials
 847,Velocidrome Head,Materials,Velocidrome Materials
+923,Basarios Shell,Materials,Basarios Materials
+924,Basarios Webbing,Materials,Basarios Materials
+925,Basarios Tears,Materials,Basarios Materials
 1043,Royal Ludroth Scale,Materials,Royal Ludroth Materials
 1044,Royal Ludroth Tail,Materials,Royal Ludroth Materials
 1079,Qurupeco Scale,Materials,Qurupeco Materials
@@ -83,6 +96,7 @@ ID,Name,Category,Subcategory
 1092,Bulldrome Tusk,Materials,Bulldrome Materials
 1097,Arzuros Pelt,Materials,Arzuros Materials
 1098,Arzuros Shell,Materials,Arzuros Materials
+1099,Arzuros Brace,Materials,Arzuros Materials
 1164,Monster Bone S,Materials,Bones
 1165,Monster Bone M,Materials,Bones
 1166,Brute Bone S,Materials,Brute Bones
@@ -95,8 +109,11 @@ ID,Name,Category,Subcategory
 1179,Konchu Shell,Materials,Konchu Materials
 1182,Jaggi Scale,Materials,Jaggi Materials
 1184,Velociprey Scale,Materials,Velociprey Materials
+1191,Gargwa Feather,Materials,Gargwa Materials
+1192,Monster Bone L,Materials,Bones
 1196,Kelbi Horn,Materials,Materials
 1218,Brute Bone M,Materials,Brute Bones
+1219,Brute Bone L,Materials,Brute Bones
 1226,Grill,Key Items,Key Items
 1227,Iron Pickaxe,Key Items,Key Items
 1228,Bug Net,Key Items,Key Items
@@ -104,11 +121,13 @@ ID,Name,Category,Subcategory
 1255,Rathalos Egg,Key Items,Key Items
 1256,Kayna's Recipe,Key Items,Books of Combos
 1257,Tracking Basics,Key Items,Books of Combos
+1261,Healer's Comp V.1,Key Items,Books of Combos
 1266,Group Healing 101,Key Items,Books of Combos
 1268,Positivity Pills,Key Items,Books of Combos
 1272,Healer's Comp V.2,Key Items,Books of Combos
 1276,Taste of Home,Key Items,Books of Combos
 1306,S&S Basics: Defense,Key Items,Skill Scrolls
+1307,S&S: Counter,Key Items,Skill Scrolls
 1308,Great Sword: Guard,Key Items,Skill Scrolls
 1309,Great Sword Moves 1,Key Items,Skill Scrolls
 1310,Great Sword Moves 2,Key Items,Skill Scrolls
@@ -130,6 +149,8 @@ ID,Name,Category,Subcategory
 1530,Kulu-Ya-Ku Plume,Materials,Kulu-Ya-Ku Materials
 1534,Pukei-Pukei Scale,Materials,Pukei-Pukei Materials
 1535,Pukei-Pukei Sac,Materials,Pukei-Pukei Materials
+1549,Tetsucabra Scale,Materials,Tetsucabra Materials
+1550,Paddock Oil,Materials,Tetsucabra Materials
 1579,Anjanath Scale,Materials,Anjanath Materials
 1580,Anjanath Nosebone,Materials,Anjanath Materials
 1594,Paolumu Pelt,Materials,Paolumu Materials
