@@ -184,6 +184,7 @@ ID,Name,Rarity,Category
 247,Poison Sac,4,Materials
 249,Paralysis Sac,4,Materials
 250,Omniplegia Sac,6,Materials
+251,Sleep Sac,4,Materials
 252,Coma Sac,6,Materials
 253,Flame Sac,4,Materials
 254,Inferno Sac,6,Materials
@@ -427,6 +428,9 @@ ID,Name,Rarity,Category
 592,Steel Egg,4,Materials
 593,Silver Egg,4,Materials
 594,Golden Egg,4,Materials
+600,Bhernastone,4,Materials
+601,Dundormarin,4,Materials
+604,Minegardenite,7,Materials
 727,Antidote Jewel 1,5,Decorations
 728,Antipara Jewel 1,5,Decorations
 732,Suture Jewel 1,5,Decorations
