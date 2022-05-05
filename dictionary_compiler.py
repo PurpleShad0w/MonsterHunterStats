@@ -17,6 +17,7 @@ df_stories_2_armor = pd.read_csv('dictionaries/stories_2_dictionary_armor.csv')
 df_stories_2_weapons = pd.read_csv('dictionaries/stories_2_dictionary_weapons.csv')
 df_stories_2_talismans = pd.read_csv('dictionaries/stories_2_dictionary_talismans.csv')
 df_3u_items = pd.read_csv('dictionaries/3u_dictionary_items.csv')
+df_3u_equipment = pd.read_csv('dictionaries/3u_dictionary_equipment.csv')
 
 # Create dataframe
 df_general = pd.DataFrame(data={'Name':0,'In MH3U':0,'In MHWI':0,'In MHST2':0},index=(0,1))
@@ -64,6 +65,11 @@ for i in range(len(df_stories_2_talismans)):
 # Input 3u items
 for i in range(len(df_3u_items)):
     s = {'Name':df_3u_items.iloc[i,1],'In MH3U':True,'In MHWI':False,'In MHST2':False}
+    df_general = df_general.append(s,ignore_index=True)
+
+# Input 3u equipment
+for i in range(len(df_3u_equipment)):
+    s = {'Name':df_3u_equipment.iloc[i,2],'In MH3U':True,'In MHWI':False,'In MHST2':False}
     df_general = df_general.append(s,ignore_index=True)
 
 # Clean and output data

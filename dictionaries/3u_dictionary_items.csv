@@ -23,6 +23,8 @@ ID,Name,Rarity
 146,Worm,1
 149,Frog,2
 159,Mega Pickaxe,3
+162,Mega Bug Net,3
+163,Fishing Harpoon,1
 165,BBQ Spit,4
 167,Whetstone,1
 169,Garbage,1
@@ -46,6 +48,7 @@ ID,Name,Rarity
 218,Pelagicite Ore,4
 236,Ice Crystal,4
 238,Armor Sphere,4
+246,Sushifish,1
 260,Insect Husk,1
 265,Snakebee Larva,1
 281,Screamer Sac,4
@@ -71,6 +74,7 @@ ID,Name,Rarity
 490,Strange Beak,4
 493,Flintstone,4
 501,Hydro Hide,4
+504,Immature Sponge,4
 506,Spongy Hide,4
 509,Royal Ludroth Scale,4
 512,Royal Ludroth Claw,4

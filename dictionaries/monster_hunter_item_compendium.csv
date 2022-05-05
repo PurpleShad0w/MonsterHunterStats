@@ -115,9 +115,12 @@ Boaboa Ticket,False,True,False
 Bolt Jewel 1,False,True,False
 Bomberry,False,True,False
 Bone,True,False,False
+Bone Axe,True,False,False
+Bone Blaster,True,False,False
 Bone Bludgeon I,False,True,False
 Bone Coil,False,True,False
 Bone Greaves,False,True,False
+Bone Hammer,True,False,False
 Bone Helm,False,True,False
 Bone Husk S,True,False,False
 Bone Kris,False,False,True
@@ -174,6 +177,7 @@ Cortos Hardclaw,False,True,False
 Crag S Level 1,True,False,False
 Crimson Coral,False,False,True
 Crisis Jewel 1,False,True,False
+Cross Bowgun,True,False,False
 Cryo Sac,False,True,False
 Crystal Bone,False,False,True
 Culldrone I,False,True,False
@@ -295,6 +299,7 @@ Firecell Stone,False,True,False
 First Fleet Ticket,False,True,False
 First Wyverian Print,False,True,False
 Fish Finder,True,False,False
+Fishing Harpoon,True,False,False
 Flame Sac,False,True,True
 Flamenut,False,True,False
 Flaming Ammo,False,True,False
@@ -424,18 +429,23 @@ Hornetaur Wing,False,True,False
 Hot Drink,True,True,False
 Hot Pepper,False,True,False
 Hunter Runestone,False,True,False
+Hunter's Bow I,True,False,False
 Hunter's Coil,False,True,False
-Hunter's Greaves,False,True,False
+Hunter's Faulds,True,False,False
+Hunter's Greaves,True,True,False
 Hunter's Headgear,False,True,False
+Hunter's Helm,True,False,False
+Hunter's Knife,True,False,False
 Hunter's Knife I,False,True,False
-Hunter's Mail,False,True,False
-Hunter's Vambraces,False,True,False
+Hunter's Mail,True,True,False
+Hunter's Vambraces,True,True,False
 Hunting Horn: Absolute Evasion,False,False,True
 Huskberry,True,False,False
 Hydro Hide,True,False,False
 Ice Crystal,True,False,False
 Ice Res Jewel 1,False,True,False
 Ice Res Jewel+ 4,False,True,False
+Immature Sponge,True,False,False
 Immortal Dragonscale,False,True,False
 Immunizer,False,True,False
 Inferno Sac,False,True,False
@@ -443,14 +453,17 @@ Insect Husk,True,False,True
 Iron Assault I,False,True,False
 Iron Blade I,False,True,False
 Iron Bow I,False,True,False
+Iron Gunlance,True,False,False
 Iron Gunlance I,False,True,False
-Iron Hammer,False,False,True
+Iron Hammer,True,False,True
 Iron Hammer I,False,True,False
+Iron Katana,True,False,False
 Iron Katana I,False,True,False
+Iron Lance,True,False,False
 Iron Lance I,False,True,False
 Iron Ore,True,True,True
 Iron Pickaxe,False,False,True
-Iron Sword,False,False,True
+Iron Sword,True,False,True
 Ivy,True,True,True
 Jaggi Hide,True,False,False
 Jaggi Scale,False,False,True
@@ -523,11 +536,13 @@ Large Pukei Pukei Sac,False,True,False
 Larinoth Hide,False,False,True
 Latchberry,False,True,False
 Lavasioth Scale+,False,True,False
-Leather Belt,False,True,False
-Leather Gloves,False,True,False
-Leather Headgear,False,True,False
+Leather Belt,True,True,False
+Leather Gloves,True,True,False
+Leather Headgear,True,True,False
 Leather Mail,False,True,False
+Leather Pants,True,False,False
 Leather Trousers,False,True,False
+Leather Vest,True,False,False
 Legiana Claw,False,True,False
 Legiana Claw+,False,True,False
 Legiana Hide,False,True,False
@@ -554,12 +569,14 @@ Majestic Horn,False,True,False
 Mandragora,False,True,False
 Master Craftsman's Blueprint,False,True,False
 Master's Charm I,False,True,False
+Matched Slicers,True,False,False
 Matched Slicers I,False,True,False
 Mauldrone I,False,True,False
 Max Potion,False,True,False
 Mega Armorskin,False,True,False
 Mega Barrel Bomb,False,True,False
 Mega Bounce Bomb,False,True,False
+Mega Bug Net,True,False,False
 Mega Demondrug,False,True,False
 Mega Man Ticket,False,True,False
 Mega Nutrients,False,True,False
@@ -567,6 +584,7 @@ Mega Pickaxe,True,False,False
 Mega Potion,False,True,False
 Meldspar Ore,False,True,False
 Meowster Jewel 1,False,True,False
+Metal Bagpipe,True,False,False
 Metal Bagpipe I,False,True,False
 Miasma Jewel 1,False,True,False
 Might Charm,False,False,True
@@ -638,6 +656,7 @@ Paralysis Coating,False,True,False
 Paralysis Knife,False,False,True
 Paralysis Sac,False,True,False
 Parashroom,True,True,False
+Pawn Talisman,True,False,False
 Pearlspring Ticket,False,True,False
 Pelagicite Ore,True,False,True
 Pellet S Level 1,True,False,False
@@ -791,6 +810,7 @@ Sturdy Bone,False,True,False
 Summer Insect Field Guide,False,True,False
 Surrogate Gem,False,False,True
 Survival Jewel 1,False,True,False
+Sushifish,True,False,False
 Sushifish Scale,False,True,False
 Suture Jewel 1,False,True,False
 Sword & Shield Basics: Defense,False,False,True

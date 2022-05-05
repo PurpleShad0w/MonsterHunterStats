@@ -17,4 +17,4 @@ For Stories 2 :
 
 For 3 Ultimate :
 
-- Understand equipment
+- Fill in dictionaries (items, equipment, etc...)
