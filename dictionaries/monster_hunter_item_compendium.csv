@@ -34,6 +34,7 @@ Antidote Jewel+ 4,False,True,False
 Antipara Jewel 1,False,True,False
 Antipara Jewel+ 4,False,True,False
 Antistench (S),False,False,True
+Apceros Shell,False,False,True
 Aptonoth Tail,False,False,True
 Aqua Sac,False,False,True
 Aquacore Ore,False,True,False
@@ -242,6 +243,7 @@ Dragonstrike Nut,False,True,False
 Dragonvein Coal,False,True,False
 Dragonvein Crystal,False,True,False
 Dragonvein Shard,False,True,False
+Drawbridge Lever,False,False,True
 Dreamcore Ore,False,True,False
 Drugged Meat,False,True,False
 Dundormarin,False,True,False
@@ -624,9 +626,11 @@ Mosswine Hide,False,True,False
 Mosswine Mask Layered Head,False,True,False
 Muscle Meat,False,False,True
 Mystery Bone,True,False,False
+Nargacuga Blackfur,False,False,True
 Nargacuga Blackfur+,False,True,False
 Nargacuga Cutwing+,False,True,False
 Nargacuga Hardfang,False,True,False
+Nargacuga Scale,False,False,True
 Nargacuga Shard,False,True,False
 Nargacuga Tailspear,False,True,False
 Needleberry,False,True,False

@@ -25,6 +25,7 @@ ID,Name,Category,Subcategory
 145,Tranq Trap,Support Items,Tools
 146,Big Barrel Bomb,Support Items,Tools
 159,Vitality Nutriment,Growth Items,Tools
+162,Drawbridge Lever,Key Items,Key Items
 176,Well-done Steak,Healing Items,Food
 177,Muscle Meat,Healing Items,Food
 178,Toughness Meat,Healing Items,Food
@@ -106,6 +107,8 @@ ID,Name,Category,Subcategory
 1097,Arzuros Pelt,Materials,Arzuros Materials
 1098,Arzuros Shell,Materials,Arzuros Materials
 1099,Arzuros Brace,Materials,Arzuros Materials
+1151,Nargacuga Scale,Materials,Nargacuga Materials
+1152,Nargacuga Blackfur,Materials,Nargacuga Materials
 1164,Monster Bone S,Materials,Bones
 1165,Monster Bone M,Materials,Bones
 1166,Brute Bone S,Materials,Brute Bones
@@ -121,6 +124,7 @@ ID,Name,Category,Subcategory
 1191,Gargwa Feather,Materials,Gargwa Materials
 1192,Monster Bone L,Materials,Bones
 1196,Kelbi Horn,Materials,Materials
+1197,Apceros Shell,Materials,Apceros Materials
 1218,Brute Bone M,Materials,Brute Bones
 1219,Brute Bone L,Materials,Brute Bones
 1226,Grill,Key Items,Key Items
