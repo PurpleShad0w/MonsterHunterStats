@@ -2,6 +2,7 @@ ID,Name,Category,Subcategory
 1,Herb,Healing Items,Recovery Items
 2,Potion,Healing Items,Recovery Items
 4,Lifesoot,Healing Items,Recovery Items
+9,Immunizer,Healing Items,Recovery Items
 10,Antidote Herb,Healing Items,Recovery Items
 11,Antidote,Healing Items,Recovery Items
 12,Aloe Leaf,Healing Items,Recovery Items
@@ -12,6 +13,7 @@ ID,Name,Category,Subcategory
 22,Vital Essence,Healing Items,Recovery Items
 29,Mahana Dunker,Healing Items,Food
 46,Whetstone,Support Items,Tools
+47,Super Whetstone,Support Items,Tools
 79,Surrogate Gem,Support Items,Tools
 118,Flash Bomb,Support Items,Tools
 120,Poison Knife,Support Items,Tools
@@ -19,6 +21,7 @@ ID,Name,Category,Subcategory
 123,Throwing Knife,Support Items,Tools
 129,Stone,Materials,Materials
 140,Paintball,Support Items,Tools
+144,Shock Trap,Support Items,Tools
 145,Tranq Trap,Support Items,Tools
 146,Big Barrel Bomb,Support Items,Tools
 159,Vitality Nutriment,Growth Items,Tools
@@ -26,6 +29,8 @@ ID,Name,Category,Subcategory
 177,Muscle Meat,Healing Items,Food
 178,Toughness Meat,Healing Items,Food
 182,Stable Blueprint 1,Key Items,Key Items
+183,Stable Blueprint 2,Key Items,Key Items
+278,Herbivore Stimulant,Growth Items,Awakening Crystals
 286,Amphibian Stimulant,Growth Items,Awakening Crystals
 433,Training Charm,Facilities,Charms
 435,Gathering Charm,Facilities,Charms
@@ -81,11 +86,15 @@ ID,Name,Category,Subcategory
 745,Larinoth Hide,Materials,Larinoth Materials
 788,Kut-Ku Scale,Materials,Kut-Ku Materials
 789,Kut-Ku Webbing,Materials,Kut-Ku Materials
+794,Blue Kut-Ku Scale,Materials,Blue Kut-Ku Materials
+795,Blue Kut-Ku Shell,Materials,Blue Kut-Ku Materials
 839,Great Jaggi Hide,Materials,Great Jaggi Materials
 841,King's Frill,Materials,Great Jaggi Materials
 845,Velocidrome Hide,Materials,Velocidrome Materials
 846,Velocidrome Claw,Materials,Velocidrome Materials
 847,Velocidrome Head,Materials,Velocidrome Materials
+887,Garuga Scale,Materials,Yian Garuga Materials
+888,Garuga Ear,Materials,Yian Garuga Materials
 923,Basarios Shell,Materials,Basarios Materials
 924,Basarios Webbing,Materials,Basarios Materials
 925,Basarios Tears,Materials,Basarios Materials
@@ -122,6 +131,7 @@ ID,Name,Category,Subcategory
 1256,Kayna's Recipe,Key Items,Books of Combos
 1257,Tracking Basics,Key Items,Books of Combos
 1261,Healer's Comp Volume 1,Key Items,Books of Combos
+1264,Hunter's Life: Summer,Key Items,Books of Combos
 1266,Group Healing 101,Key Items,Books of Combos
 1268,Positivity Pills,Key Items,Books of Combos
 1272,Healer's Comp Volume 2,Key Items,Books of Combos
@@ -151,6 +161,9 @@ ID,Name,Category,Subcategory
 1535,Pukei-Pukei Sac,Materials,Pukei-Pukei Materials
 1549,Tetsucabra Scale,Materials,Tetsucabra Materials
 1550,Paddock Oil,Materials,Tetsucabra Materials
+1564,Duramboros Shell,Materials,Duramboros Materials
+1565,Duramboros Horn,Materials,Duramboros Materials
+1566,Duramboros Tailbone,Materials,Duramboros Materials
 1579,Anjanath Scale,Materials,Anjanath Materials
 1580,Anjanath Nosebone,Materials,Anjanath Materials
 1594,Paolumu Pelt,Materials,Paolumu Materials

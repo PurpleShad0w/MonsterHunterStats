@@ -75,6 +75,7 @@ Barroth Ridge+,False,True,False
 Barroth Scalp,True,True,False
 Barroth Shell,True,True,False
 Barroth Tail,False,True,False
+Basarios Blow,False,False,True
 Basarios Shell,False,False,True
 Basarios Tears,False,False,True
 Basarios Webbing,False,False,True
@@ -109,6 +110,8 @@ Blossom Cuffs,False,True,False
 Blossom Fireworks,False,True,False
 Blossom Headgear,False,True,False
 Blossom Vest,False,True,False
+Blue Kut-Ku Scale,False,False,True
+Blue Kut-Ku Shell,False,False,True
 Blue Mushroom,True,True,True
 Bnahabra Armor,False,False,True
 Bnahabra Shell,False,False,True
@@ -179,6 +182,7 @@ Crag S Level 1,True,False,False
 Crimson Coral,False,False,True
 Crisis Jewel 1,False,True,False
 Cross Bowgun,True,False,False
+Crow Bow,False,False,True
 Cryo Sac,False,True,False
 Crystal Bone,False,False,True
 Culldrone I,False,True,False
@@ -243,6 +247,10 @@ Drugged Meat,False,True,False
 Dundormarin,False,True,False
 Dung,True,True,False
 Dung Pod,False,True,False
+Duramboros Armor,False,False,True
+Duramboros Horn,False,False,True
+Duramboros Shell,False,False,True
+Duramboros Tailbone,False,False,True
 Dust of Life,False,True,False
 Earth Crystal,True,True,True
 Elder Dragon Blood,False,True,False
@@ -331,6 +339,8 @@ Galajaka Sketch,False,True,False
 Garbage,True,False,False
 Gargwa Feather,False,False,True
 Gargwa Statue,False,False,True
+Garuga Ear,False,False,True
+Garuga Scale,False,False,True
 Gastodon Carapace,False,True,False
 Gastodon Horn,False,True,False
 Gathering Charm,False,False,True
@@ -418,6 +428,7 @@ Heftcorn,False,False,True
 Herb,True,True,True
 Herbal Medecine,False,True,False
 Herbal Powder,False,True,False
+Herbivore Stimulant,False,False,True
 Hero (S),False,False,True
 High Commendation,False,True,False
 High-quality Pelt,False,True,False
@@ -430,6 +441,7 @@ Hornetaur Shell,False,True,False
 Hornetaur Wing,False,True,False
 Hot Drink,True,True,False
 Hot Pepper,False,True,False
+Hounding (S),False,False,True
 Hunter Runestone,False,True,False
 Hunter's Bow I,True,False,False
 Hunter's Coil,False,True,False
@@ -439,6 +451,7 @@ Hunter's Headgear,False,True,False
 Hunter's Helm,True,False,False
 Hunter's Knife,True,False,False
 Hunter's Knife I,False,True,False
+Hunter's Life: Summer,False,False,True
 Hunter's Mail,True,True,False
 Hunter's Vambraces,True,True,False
 Hunting Horn: Absolute Evasion,False,False,True
@@ -449,7 +462,7 @@ Ice Res Jewel 1,False,True,False
 Ice Res Jewel+ 4,False,True,False
 Immature Sponge,True,False,False
 Immortal Dragonscale,False,True,False
-Immunizer,False,True,False
+Immunizer,False,True,True
 Inferno Sac,False,True,False
 Insect Husk,True,False,True
 Iron Assault I,False,True,False
@@ -748,6 +761,7 @@ Recov S Level 1,True,False,False
 Recover Ammo 1,False,True,False
 Recover Ammo 2,False,True,False
 Red Orb,False,True,False
+Revival (S),False,False,True
 Rhenoplos Shell,True,False,False
 Rider Armor,False,False,True
 Royal Honey,False,False,True
@@ -755,6 +769,7 @@ Royal Ludroth Claw,True,False,False
 Royal Ludroth Scale,True,False,True
 Royal Ludroth Tail,False,False,True
 Rugged Great Sword,False,False,True
+Santoku Reaver,False,False,True
 Sap Plant,True,False,True
 Satiated Jewel 1,False,True,False
 Screamer Pod,False,True,False
@@ -765,7 +780,7 @@ Shamos Hide+,False,True,False
 Shamos Scale,False,True,False
 Shamos Scale+,False,True,False
 Sharp Claw,False,True,False
-Shock Trap,False,True,False
+Shock Trap,False,True,True
 Shroom Germ,True,False,False
 Silver Cricket,False,False,True
 Silver Egg,False,True,False
@@ -798,6 +813,7 @@ Spread Ammo 3,False,True,False
 Spring Blossom Ticket,False,True,False
 Spring Insect Field Guide,False,True,False
 Stable Blueprint 1,False,False,True
+Stable Blueprint 2,False,False,True
 Steam Ticket,False,True,False
 Steel Egg,False,True,False
 Steel Gajau Whisker,False,True,False
@@ -812,6 +828,7 @@ Stream Jewel 1,False,True,False
 Streamstone Shard,False,True,False
 Sturdy Bone,False,True,False
 Summer Insect Field Guide,False,True,False
+Super Whetstone,False,False,True
 Surrogate Gem,False,False,True
 Survival Jewel 1,False,True,False
 Sushifish,True,False,False
