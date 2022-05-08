@@ -13,6 +13,6 @@ ExpandAll();
 string path = FileNameGetPath(GetScriptFileName());
 int len = Strlen(path);
 path[len-8] = '\0';
-path = path + "saves\\user1.csv";
+path = path + "saves\\MH3U_user.csv";
 Printf(path);
 ExportCSV(path);

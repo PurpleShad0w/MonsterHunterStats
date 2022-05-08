@@ -10,7 +10,7 @@ os.chdir(os.path.dirname(sys.argv[0]))
 
 def gather():
     # Load the data
-    df = pd.read_csv('saves/user1.csv')
+    df = pd.read_csv('saves/MH3U_user.csv')
     df.set_index('Name', inplace=True)
 
     # Create dataframes
