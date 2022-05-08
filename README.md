@@ -16,6 +16,7 @@ Currently supports:
 ## Usage
 ### Usage for Monster Hunter 3 Ultimate
 - Find your save file and copy it in the `saves` folder of this repository.
+- Rename it `MH3U_user`.
 - Run the `MH3U_execution.py` file.
 
 ### Usage for Monster Hunter World
@@ -24,6 +25,7 @@ Currently supports:
 
 ### Usage for Monster Hunter Stories 2
 - Find your save file, usually located at `Steam/userdata/<user_id>/1277400/remote/mhr_slot_X` and copy it in the `saves` folder of this repository.
+- Rename it `mhr_slot.sav`.
 - Run `libraries/AAStories2SaveTool.exe`.
 - Set your save as the input, set your save as the output as well, except for the file extension, change it from .sav to .bin.
 - Input your Steam ID in the corresponding field. To easily find it, go to your Steam profile and copy the series of numbers in the URL.
