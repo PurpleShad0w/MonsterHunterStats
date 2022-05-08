@@ -77,12 +77,12 @@ def gather():
     df2 = df2[df2['ID'] != 0]
 
     # Adding dictionaries
-    df_dict_items = pd.read_csv('dictionaries/stories_2_dictionary_items.csv')
+    df_dict_items = pd.read_csv('dictionaries/MHS2_dictionary_items.csv')
     df_dict_items.set_index('ID', inplace=True)
-    df_dict_armor = pd.read_csv('dictionaries/stories_2_dictionary_armor.csv')
+    df_dict_armor = pd.read_csv('dictionaries/MHS2_dictionary_armor.csv')
     df_dict_armor.set_index('Index', inplace=True)
-    df_dict_weapons = pd.read_csv('dictionaries/stories_2_dictionary_weapons.csv')
-    df_dict_talismans = pd.read_csv('dictionaries/stories_2_dictionary_talismans.csv')
+    df_dict_weapons = pd.read_csv('dictionaries/MHS2_dictionary_weapons.csv')
+    df_dict_talismans = pd.read_csv('dictionaries/MHS2_dictionary_talismans.csv')
 
     # Adding item information
     for i in range(len(df2)):
@@ -133,7 +133,7 @@ def gather():
     df5 = df5.groupby([df5['Skill I ID'],df5['Skill II ID']],sort=False).aggregate({'ID':'first','Name':'last','Quantity':'sum','Skill I':'first','Skill II':'first','Subcategory':'last'})
 
     # Outputting dataframes
-    df2.to_csv(r'outputs/stories_2_output_items.csv',encoding='utf-8')
-    df3.to_csv(r'outputs/stories_2_output_weapons.csv',encoding='utf-8')
-    df4.to_csv(r'outputs/stories_2_output_armor.csv',encoding='utf-8')
-    df5.to_csv(r'outputs/stories_2_output_talismans.csv',encoding='utf-8')
+    df2.to_csv(r'outputs/MHS2_output_items.csv',encoding='utf-8')
+    df3.to_csv(r'outputs/MHS2_output_weapons.csv',encoding='utf-8')
+    df4.to_csv(r'outputs/MHS2_output_armor.csv',encoding='utf-8')
+    df5.to_csv(r'outputs/MHS2_output_talismans.csv',encoding='utf-8')

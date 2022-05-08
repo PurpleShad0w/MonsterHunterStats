@@ -9,10 +9,10 @@ os.chdir(os.path.dirname(sys.argv[0]))
 
 def merge():
     # Load the outputs of the inventory
-    df_items = pd.read_csv('outputs/stories_2_output_items.csv')
-    df_weapons = pd.read_csv('outputs/stories_2_output_weapons.csv')
-    df_armor = pd.read_csv('outputs/stories_2_output_armor.csv')
-    df_talismans = pd.read_csv('outputs/stories_2_output_talismans.csv')
+    df_items = pd.read_csv('outputs/MHS2_output_items.csv')
+    df_weapons = pd.read_csv('outputs/MHS2_output_weapons.csv')
+    df_armor = pd.read_csv('outputs/MHS2_output_armor.csv')
+    df_talismans = pd.read_csv('outputs/MHS2_output_talismans.csv')
     df_general = pd.DataFrame(data={'Name':0,'Quantity':0,'Level':0,'Category':0,'Subcategory':0},index=(0,1))
 
     # Fill in the items
@@ -37,4 +37,4 @@ def merge():
 
     # Clean and output the data
     df_general = df_general.groupby(df_general['Name']).aggregate({'Quantity':'sum','Level':'max','Category':'first','Subcategory':'first'})
-    df_general.to_csv(r'outputs/stories_2_output.csv',encoding='utf-8')
+    df_general.to_csv(r'outputs/MHS2_output.csv',encoding='utf-8')

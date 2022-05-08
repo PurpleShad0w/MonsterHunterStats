@@ -162,10 +162,10 @@ def gather():
     df2['Total Quantity'] = df2['Quantity in box'] + df2['Quantity on hunter']
 
     # Define dictionaries
-    df_dict_items = pd.read_csv('dictionaries/world_dictionary_items.csv')
+    df_dict_items = pd.read_csv('dictionaries/MHWI_dictionary_items.csv')
     df_dict_items.set_index('ID', inplace=True)
-    df_dict_equipment = pd.read_csv('dictionaries/world_dictionary_equipment.csv')
-    df_dict_palico = pd.read_csv('dictionaries/world_dictionary_palico.csv')
+    df_dict_equipment = pd.read_csv('dictionaries/MHWI_dictionary_equipment.csv')
+    df_dict_palico = pd.read_csv('dictionaries/MHWI_dictionary_palico.csv')
 
     # Add item information
     for i in range(len(df2)):
@@ -198,7 +198,7 @@ def gather():
     df_layered.reset_index(inplace=True)
 
     # Define layered armor dataframes
-    df_dict_layered = pd.read_csv('dictionaries/world_dictionary_layered.csv')
+    df_dict_layered = pd.read_csv('dictionaries/MHWI_dictionary_layered.csv')
     df5 = pd.DataFrame(data={'Flag':0,'Name':0,'Rarity':0,'Subcategory':0},index=(0,1))
 
     # Add layered armor information
@@ -217,7 +217,7 @@ def gather():
     df5 = df5[df5['Flag'] != 0]
 
     # Outputting dataframes
-    df2.to_csv(r'outputs/world_output_items.csv',encoding='utf-8')
-    df3.to_csv(r'outputs/world_output_equipment.csv',encoding='utf-8')
-    df4.to_csv(r'outputs/world_output_tool.csv',encoding='utf-8')
-    df5.to_csv(r'outputs/world_output_layered.csv',encoding='utf-8')
+    df2.to_csv(r'outputs/MHWI_output_items.csv',encoding='utf-8')
+    df3.to_csv(r'outputs/MHWI_output_equipment.csv',encoding='utf-8')
+    df4.to_csv(r'outputs/MHWI_output_tool.csv',encoding='utf-8')
+    df5.to_csv(r'outputs/MHWI_output_layered.csv',encoding='utf-8')
