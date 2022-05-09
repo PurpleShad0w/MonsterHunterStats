@@ -1,11 +1,11 @@
 //------------------------------------------------
 //--- 010 Editor v12.0.1 Script File
 //
-//      File: 3u_editor
+//      File: 4u_editor
 //   Authors: Octave Cinquanta
 //   Version: 1.0
 //   Purpose: Monster Hunter Inventory Displayer
-//  Category: Monster Hunter 3 Ultimate
+//  Category: Monster Hunter 4 Ultimate
 //   History: 
 //------------------------------------------------
 
@@ -13,6 +13,6 @@ ExpandAll();
 string path = FileNameGetPath(GetScriptFileName());
 int len = Strlen(path);
 path[len-8] = '\0';
-path = path + "saves\\MH3U_user.csv";
+path = path + "saves\\MH4U_user.csv";
 Printf(path);
 ExportCSV(path);

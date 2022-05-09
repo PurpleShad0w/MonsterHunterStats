@@ -18,3 +18,8 @@ For Stories 2 :
 For 3 Ultimate :
 
 - Fill in dictionaries (items, equipment, etc...)
+
+For 4 Ultimate :
+
+- Fix the template's equipment size issue
+- Find pouch ?

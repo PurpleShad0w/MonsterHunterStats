@@ -1,0 +1,232 @@
+//------------------------------------------------
+//--- 010 Editor v12.0.1 Binary Template
+//
+//      File: 4u_template
+//   Authors: Octave Cinquanta
+//   Version: 1.0
+//   Purpose: Monster Hunter Inventory Displayer
+//  Category: Monster Hunter 4 Ultimate
+// File Mask: 
+//  ID Bytes: 
+//   History: 
+//------------------------------------------------
+
+struct player{
+    char name[24] <name="name">;
+    ubyte gender <name="gender">;
+    ubyte face <name="face">;
+    ubyte hair <name="hair">;
+    ubyte clothing <name="clothing">;
+    ubyte voice <name="voice">;
+    ubyte eye_color <name="eye_color">;
+    ubyte face_feature <name="face_feature">;
+    ubyte face_feature_color[3] <name="face_feature_color">;
+    ubyte hair_color[3] <name="hair_color">;
+    ubyte clothing_color[3] <name="clothing_color">;
+    ubyte skin_tone[3] <name="skin_tone">;
+    ubyte padding;
+    uint32 hunter_rank <name="hunter_rank">;
+    uint32 hunter_rank_points <name="hunter_rank_points">;
+    uint32 zenny <name="zenny">;
+    uint32 playtime <name="playtime">;
+    uint32 padding;
+};
+
+struct deco_slot{
+    uint16 decoration <name="decoration">;
+    uint16 fixed <name="is_fixed">;
+};
+
+struct info{
+    ubyte polished <name="polished">;
+    ubyte glow <name="glow">;
+    ubyte slots <name="slots">;
+    ubyte padding;
+};
+
+struct hone{
+    ubyte padding;
+    ubyte honing <name="honing">;
+};
+
+struct status{
+    ubyte status_amount <name="status_amount">;
+    union uniona{
+        ubyte status_type <name="status_type">;
+        ubyte kinsect_type <name="kinsect_type">;
+    } ua;
+};
+
+struct sharp{
+    union unionb{
+        ubyte sharpness <name="sharpness">;
+        ubyte clip_size_type <name="clip_size_type">;
+    };
+    ubyte atk_aff_def <name="atk_aff_def">;
+};
+
+struct res_def{
+    ubyte resistance <name="resistance">;
+    ubyte defence <name="defence">;
+};
+
+struct relic_and_stuff{
+    ubyte relic_level <name="relic_level">;
+    union unionc{
+        ubyte atk_bonus <name="atk_bonus">;
+        ubyte aff_bonus <name="aff_bonus">;
+        ubyte def_bonus <name="def_bonus">;
+        ubyte fire_type <name="fire_type">;
+        ubyte phial_type <name="phial_type">;
+        ubyte shot_type <name="shot_type">;
+        ubyte song_color <name="song_color">;
+        ubyte kinsect_type_relics <name="kinsect_type_relics">;
+    } uc;
+};
+
+struct skill_2{
+    uint16 skill2 <name="skill2">;
+    int16 skill2_amount <name="skill2_amount">;
+};
+
+struct weapon{
+    ubyte type <name="type">;
+    union union8{
+        ubyte level <name="level">;
+        ubyte upgrade_type <name="upgrade_type">;
+        ubyte kinsect_level <name="kinsect_level">;
+    } u8;
+    uint16 id <name="ID">;
+    status i;
+    deco_slot d[3];
+    sharp i;
+    relic_and_stuff i;
+    info i;
+    ubyte rarity <name="rarity">;
+    ubyte excavated_type <name="excavated_type">;
+    hone i;
+    ubyte kinsect_power <name="kinsect_power">;
+    ubyte kinsect_stamina <name="kinsect_stamina">;
+    ubyte kinsect_speed <name="kinsect_speed">;
+    ubyte kinsect_fire_atk <name="kinsect_fire_atk">;
+    ubyte kinsect_water_atk <name="kinsect_water_atk">;
+    ubyte kinsect_thunder_atk <name="kinsect_thunder_atk">;
+    ubyte kinsect_ice_atk <name="kinsect_ice_atk">;
+    ubyte kinsect_dragon_atk <name="kinsect_dragon_atk">;
+};
+
+struct armor{
+    ubyte type <name="type">;
+    ubyte level <name="level">;
+    uint16 id <name="ID">;
+    uint16 color <name="color">;
+    deco_slot d[3];
+    ubyte resistance <name="resistance">;
+    ubyte defence <name="defence">;
+    uint16 unk;
+    info i;
+    ubyte rarity <name="rarity">;
+    ubyte excavated_type <name="excavated_type">;
+    ubyte color_mode <name="color_mode">;
+    uint32 padding[2];
+};
+
+struct talisman{
+    ubyte type <name="type">;
+    ubyte number_of_slots <name="number_of_slots">;
+    ubyte id <name="ID">;
+    ubyte unk[3];
+    deco_slot d[3];
+    uint16 skill1 <name="skill1">;
+    int16 skill1_amount <name="skill1_amount">;
+    uint16 skill2 <name="skill2">;
+    int16 skill2_amount <name="skill2_amount">;
+    uint32 padding[2];
+};
+
+struct equipment{
+    ubyte type <name="type">;
+    union union1{
+        ubyte level <name="level">;
+        ubyte upgrade_type <name="upgrade_type">;
+        ubyte kinsect_level <name="kinsect_level">;
+        ubyte number_of_slots <name="number_of_slots">;
+    } u1;
+    union union2{
+        uint16 id <name="ID">;
+        ubyte id <name="ID">;
+    } u2;
+    union union3{
+        status i;
+        uint16 color <name="color">;
+    } u3;
+    deco_slot d[3];
+    union union4{
+        sharp i;
+        uint16 skill1 <name="skill1">;
+        res_def i;
+    } u4;
+    union union5{
+        relic_and_stuff i;
+        int16 skill1_amount <name="skill1_amount">;
+    } u5;
+    union union6{
+        info i;
+        skill_2 i;
+    } u6;
+    ubyte rarity <name="rarity">;
+    ubyte excavated_type <name="excavated_type">;
+    union union7{
+        hone i;
+        ubyte color_mode <name="color_mode">;
+    } u7;
+    ubyte kinsect_power <name="kinsect_power">;
+    ubyte kinsect_stamina <name="kinsect_stamina">;
+    ubyte kinsect_speed <name="kinsect_speed">;
+    ubyte kinsect_fire_atk <name="kinsect_fire_atk">;
+    ubyte kinsect_water_atk <name="kinsect_water_atk">;
+    ubyte kinsect_thunder_atk <name="kinsect_thunder_atk">;
+    ubyte kinsect_ice_atk <name="kinsect_ice_atk">;
+    ubyte kinsect_dragon_atk <name="kinsect_dragon_atk">;
+};
+
+struct current_equipment{
+    weapon i <name="equipped_weapon">;
+    equipment i <name="equipped_head">;
+    equipment i <name="equipped_chest">;
+    equipment i <name="equipped_arms">;
+    equipment i <name="equipped_waist">;
+    equipment i <name="equipped_legs">;
+    equipment i <name="equipped_talisman">;
+    uint32 weapon_box_slot <name="equipped_weapon_box_slot">;
+    uint32 chest_box_slot <name="equipped_chest_box_slot">;
+    uint32 arms_box_slot <name="equipped_arms_box_slot">;
+    uint32 waist_box_slot <name="equipped_waist_box_slot">;
+    uint32 legs_box_slot <name="equipped_legs_box_slot">;
+    uint32 head_box_slot <name="equipped_head_box_slot">;
+    uint32 talisman_box_slot <name="equipped_talisman_box_slot">;
+    uint32 unk[5];
+    uint32 padding[10];
+    uint16 padding;
+};
+
+struct item{
+    uint16 id <name="ID">;
+    uint16 amount <name="amount">;
+};
+
+struct item_box{
+    item i[1400];
+};
+
+struct equipment_box{
+    equipment e[1500];
+};
+
+struct file{
+    player i;
+    FSeek(350);
+    item_box i;
+};
+
+file f;
