@@ -10,6 +10,7 @@ Currently supports:
 
 ## Dependencies
 - A compiled version of [IceborneSavecrypt](https://github.com/LEGENDFF/mhw-Savecrypt).
+- A [fork](https://github.com/DaemonTsun/mhef) of [mhef](https://github.com/svanheulen/mhef).
 - A release of [MHST2 Save Tools](https://github.com/AsteriskAmpersand/MHST2-Save-Tools).
 - The following binary templates: [SAVEDATA1000.bt](https://github.com/EnderHDMC/MHWISaveEditor/blob/master/res/mapping/SAVEDATA1000.bt), [types.bt](https://github.com/EnderHDMC/MHWISaveEditor/blob/master/res/mapping/types.bt) and [MHStories2_SaveTemplate.bt](https://github.com/sigve10/MHStories2-SaveTemplate/blob/main/MHStories2_SaveTemplate.bt).
 
@@ -41,3 +42,4 @@ Currently supports:
 - [DSC-173](https://github.com/sigve10) for providing the Stories 2 binary template.
 - [AsteriskAmpersand](https://github.com/AsteriskAmpersand) for providing the Stories 2 save decryption tool.
 - [gocario](https://github.com/gocario) for providing information on the format of the MH3U save file.
+- [Seth VanHeulen](https://github.com/svanheulen) for providing the decryption library for MH4U, and [DaemonTsun](https://github.com/DaemonTsun) for updating it to python 3.9.
