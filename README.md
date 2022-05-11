@@ -1,7 +1,8 @@
-# Monster Hunter Inventory Displayer
+# Monster Hunter Inventory Displayer - WIP
 Scripts that read Monster Hunter save files and display a unified inventory of all the player's possessions. <br/>
 Currently supports:
 - Monster Hunter 3 Ultimate
+- Monster Hunter 4 Ultimate
 - Monster Hunter World Iceborne
 - Monster Hunter Stories 2
 
