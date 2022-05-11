@@ -1,12 +1,18 @@
 ID,Name,Rarity
+8,Potion,1
 9,Mega Potion,2
 12,Antidote,1
+13,Immunizer,3
 22,Cool Drink,1
 23,Hot Drink,1
+26,Psychoserum,3
 31,Energy Drink,2
 44,Raw Meat,1
+60,Bomb Casing,1
 61,Paintball,1
 64,Dung,1
+68,Farcaster,3
+69,Tranq Bomb,4
 70,Spider Web,1
 85,Huskberry,1
 88,Normal S Level 2,1
@@ -18,9 +24,18 @@ ID,Name,Rarity
 126,Power Coating,2
 128,Poison Coating,3
 134,Power Nectar: Fire,3
+136,Speed Nectar: Thunder,3
 139,Power+ Nectar,4
+147,Power+ Nectar: Fire,5
+148,Stamina+ Nectar: Water,5
+149,Speed+ Nectar: Thunder,5
 155,Worm,1
+161,Old Pickaxe,1
+162,Iron Pickaxe,1
+164,Old Bug Net,1
+165,Bug Net,1
 168,Whetstone,1
+169,Binoculars,1
 176,Honey,2
 177,Herb,1
 178,Antidote Herb,1
@@ -30,6 +45,7 @@ ID,Name,Rarity
 182,Sap Plant,1
 183,Felvine,1
 184,Gloamgrass Root,2
+186,Cathangea Seed,4
 189,Blue Mushroom,2
 190,Nitroshroom,2
 191,Parashroom,3
@@ -37,34 +53,66 @@ ID,Name,Rarity
 194,Mopeshroom,2
 196,Paintberry,1
 199,Nulberry,2
+201,Scatternut,2
 202,Needleberry,1
+203,Latchberry,1
 206,Stone,1
 207,Iron Ore,4
 208,Earth Crystal,4
 209,Machalite Ore,4
+221,Abrasive,4
 225,Armor Sphere,4
+232,Sushifish,1
+233,Sleepyfish,2
+240,Glutton Tuna,4
+242,Small Goldenfish,4
 248,Insect Husk,1
+251,Snakebee Larva,1
 253,Bitterbug,1
+255,Thunderbug,4
 256,Glueglopper,4
 263,Monster Bone S,3
+264,Monster Bone M,4
 266,Mystery Bone,1
+267,Unknown Skull,4
 274,Jumbo Bone,4
+277,Wyvern Fang,3
+278,Wyvern Claw,3
+286,Screamer Sac,4
+297,Aqua Sac,4
 299,Dash Extract,4
+301,Gargwa Feather,4
 302,Kelbi Horn,4
+306,Rhenoplos Shell,4
+308,Rhenoplos Scalp,4
 313,Bnahabra Wing,4
 317,Sharp Fang,4
 318,Konchu Shell,4
 324,Jaggi Scale,4
+326,Jaggi Hide,4
 327,Bird Wyvern Fang,4
+335,Velociprey Scale,4
+339,Velocidrome Hide,4
+340,Velocidrome Claw,4
+366,Kut-Ku Scale,4
+368,Kut-Ku Shell,4
+370,Kut-Ku Ear,4
+378,Rubbery Hide,4
 394,Kecha Pelt,4
+396,Kecha Longbone,4
 398,Kecha Talon,4
 399,Kecha Ear,4
 401,Kecha Tail,4
 423,Tetsucabra Scale,4
 425,Tetsucabra Shell,4
 427,Tetsucabra Claw,4
+429,Tetsucabra Tusks,4
+431,Dignified Skull,4
+432,Paddock Oil,4
 463,Monster Fluid,4
 465,Seltas Shell,4
+467,Seltas Wing,4
 469,Seltas Horn,4
 842,Voucher,4
+843,Gourmet Voucher,5
 955,Aquaglow Jewel,4
