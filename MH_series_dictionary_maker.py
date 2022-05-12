@@ -19,6 +19,8 @@ df_stories_2_talismans = pd.read_csv('dictionaries/MHS2_dictionary_talismans.csv
 df_3u_items = pd.read_csv('dictionaries/MH3U_dictionary_items.csv')
 df_3u_equipment = pd.read_csv('dictionaries/MH3U_dictionary_equipment.csv')
 df_4u_items = pd.read_csv('dictionaries/MH4U_dictionary_items.csv')
+df_4u_equipment = pd.read_csv('dictionaries/MH4U_dictionary_equipment.csv')
+df_4u_palico = pd.read_csv('dictionaries/MH4U_dictionary_palico.csv')
 
 # Create dataframe
 df_general = pd.DataFrame(data={'Name':0,'In MH3U':0,'In MH4U':0,'In MHWI':0,'In MHS2':0},index=(0,1))
@@ -76,6 +78,16 @@ for i in range(len(df_3u_equipment)):
 # Input 4u items
 for i in range(len(df_4u_items)):
     s = {'Name':df_4u_items.iloc[i,1],'In MH3U':False,'In MH4U':True,'In MHWI':False,'In MHS2':False}
+    df_general = df_general.append(s,ignore_index=True)
+
+# Input 4u equipment
+for i in range(len(df_4u_equipment)):
+    s = {'Name':df_4u_equipment.iloc[i,2],'In MH3U':False,'In MH4U':True,'In MHWI':False,'In MHS2':False}
+    df_general = df_general.append(s,ignore_index=True)
+
+# Input 4u palico equipment
+for i in range(len(df_4u_palico)):
+    s = {'Name':df_4u_palico.iloc[i,2],'In MH3U':False,'In MH4U':True,'In MHWI':False,'In MHS2':False}
     df_general = df_general.append(s,ignore_index=True)
 
 # Clean and output data

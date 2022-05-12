@@ -1,0 +1,28 @@
+ID,Type,Name,Rarity,Category,Subcategory
+1,1,Derring Jacket,1,Armor,Chest Armor
+1,2,Derring Gloves,1,Armor,Arms Armor
+1,3,Derring Belt,1,Armor,Waist Armor
+1,4,Derring Trousers,1,Armor,Leg Armor
+1,5,Derring Headgear,1,Armor,Head Armor
+1,7,Iron Sword,1,Weapons,Great Swords
+1,8,Hunter's Knife,1,Weapons,Swords and Shields
+1,9,War Hammer,1,Weapons,Hammers
+1,10,Iron Lance,1,Weapons,Lances
+1,11,Cross Bowgun,1,Weapons,Light Bowguns
+1,12,Bone Shooter,1,Weapons,Heavy Bowguns
+1,13,Iron Katana,1,Weapons,Long Swords
+1,14,Bone Axe,1,Weapons,Switch Axes
+1,15,Iron Gunlance,1,Weapons,Gunlances
+1,16,Hunter's Bow I,1,Weapons,Bows
+1,17,Matched Slicers,1,Weapons,Dual Blades
+1,18,Metal Bagpipe,1,Weapons,Hunting Horns
+1,19,Bone Staff,1,Weapons,Insect Glaives
+1,20,Elite Blade,1,Weapons,Charge Blades
+2,6,Bishop Talisman,2,Talismans,Talismans
+14,2,Hunter's Vambraces,2,Armor,Arms Armor
+20,5,Alloy Helm,1,Armor,Head Armor
+38,9,Bone Hammer,1,Weapons,Hammers
+142,2,Kecha Vambraces,2,Armor,Arms Armor
+147,1,Kecha Mail,2,Armor,Chest Armor
+153,4,Tetsucabra Greaves,2,Armor,Leg Armor
+265,3,Seltas Faulds,3,Armor,Waist Armor

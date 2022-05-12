@@ -15,7 +15,7 @@ def gather():
 
     # Create dataframes
     df2 = pd.DataFrame(data={'ID':0,'Name':0,'Total Quantity':0,'Quantity in box':0,'Quantity on hunter':0,'Rarity':0},index=(0,1))
-    df3 = pd.DataFrame(data={'Type':0,'ID':0,'Name':0,'Level':0,'Quantity':0,'Rarity':0,'Category':0,'Subcategory':0},index=(0,1))
+    df3 = pd.DataFrame(data={'ID':0,'Type':0,'Name':0,'Level':0,'Quantity':0,'Rarity':0,'Category':0,'Subcategory':0},index=(0,1))
 
     # Locate items and equipment
     index_inv = df.index.get_loc('struct inventory i[1]')
@@ -66,7 +66,7 @@ def gather():
             level = df_box.iloc[i,1]
         if 'ID' in df_box.iloc[i,0]:
             id = df_box.iloc[i,1]
-            s = {'Type':type,'ID':id,'Name':0,'Level':level,'Quantity':1,'Rarity':0,'Category':0,'Subcategory':0}
+            s = {'ID':id,'Type':type,'Name':0,'Level':level,'Quantity':1,'Rarity':0,'Category':0,'Subcategory':0}
             df3 = df3.append(s,ignore_index=True)
 
     # Clean dataframes
@@ -88,19 +88,19 @@ def gather():
 
     # Adding equipment information
     for i in range(len(df3)):
-        type = df3.iloc[i,0]
-        id = df3.iloc[i,1]
+        id = df3.iloc[i,0]
+        type = df3.iloc[i,1]
         df_temp = df_dict_equipment[(df_dict_equipment['ID'] == int(float(id))) & (df_dict_equipment['Type'] == int(float(type)))]
         try:
             df_temp.reset_index(inplace=True)
-            s = {'Type':type,'ID':id,'Name':df_temp.loc[0,'Name'],'Level':0,'Quantity':0,'Rarity':df_temp.loc[0,'Rarity'],'Category':df_temp.loc[0,'Category'],'Subcategory':df_temp.loc[0,'Subcategory']}
+            s = {'ID':id,'Type':type,'Name':df_temp.loc[0,'Name'],'Level':0,'Quantity':0,'Rarity':df_temp.loc[0,'Rarity'],'Category':df_temp.loc[0,'Category'],'Subcategory':df_temp.loc[0,'Subcategory']}
             df3 = df3.append(s,ignore_index=True)
         except KeyError:
             continue
 
     # Cleaning
     df2 = df2.groupby(df2['ID'],sort=False).aggregate({'Name':'last','Total Quantity':'sum','Quantity in box':'sum','Quantity on hunter':'sum','Rarity':'last'})
-    df3 = df3.groupby([df3['Type'],df3['ID']],sort=False).aggregate({'Name':'last','Level':'first','Quantity':'sum','Rarity':'last','Category':'last','Subcategory':'last'})
+    df3 = df3.groupby([df3['ID'],df3['Type']],sort=False).aggregate({'Name':'last','Level':'first','Quantity':'sum','Rarity':'last','Category':'last','Subcategory':'last'})
 
     # Outputting dataframes
     df2.to_csv(r'outputs/MH3U_output_items.csv',encoding='utf-8')

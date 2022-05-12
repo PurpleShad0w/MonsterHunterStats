@@ -128,7 +128,6 @@ struct armor{
     ubyte rarity <name="rarity">;
     ubyte excavated_type <name="excavated_type">;
     ubyte color_mode <name="color_mode">;
-    uint32 padding[2];
 };
 
 struct talisman{
@@ -141,7 +140,6 @@ struct talisman{
     int16 skill1_amount <name="skill1_amount">;
     uint16 skill2 <name="skill2">;
     int16 skill2_amount <name="skill2_amount">;
-    uint32 padding[2];
 };
 
 struct equipment{
@@ -190,14 +188,21 @@ struct equipment{
     ubyte kinsect_dragon_atk <name="kinsect_dragon_atk">;
 };
 
+struct equipment_temp{
+    ubyte type <name="type">;
+    ubyte padding;
+    uint16 id <name="ID">;
+    ubyte data[24];
+};
+
 struct current_equipment{
-    weapon i <name="equipped_weapon">;
-    equipment i <name="equipped_head">;
-    equipment i <name="equipped_chest">;
-    equipment i <name="equipped_arms">;
-    equipment i <name="equipped_waist">;
-    equipment i <name="equipped_legs">;
-    equipment i <name="equipped_talisman">;
+    equipment_temp i <name="equipped_weapon">;
+    equipment_temp i <name="equipped_head">;
+    equipment_temp i <name="equipped_chest">;
+    equipment_temp i <name="equipped_arms">;
+    equipment_temp i <name="equipped_waist">;
+    equipment_temp i <name="equipped_legs">;
+    equipment_temp i <name="equipped_talisman">;
     uint32 weapon_box_slot <name="equipped_weapon_box_slot">;
     uint32 chest_box_slot <name="equipped_chest_box_slot">;
     uint32 arms_box_slot <name="equipped_arms_box_slot">;
@@ -220,13 +225,27 @@ struct item_box{
 };
 
 struct equipment_box{
-    equipment e[1500];
+    equipment_temp e[1500];
+};
+
+struct palico_equipment{
+    uint16 type <name="type">;
+    uint16 id <name="ID">;
+};
+
+struct palico_box{
+    palico_equipment p[600];
 };
 
 struct file{
     player i;
+    current_equipment i;
     FSeek(350);
     item_box i;
+    FSeek(5950);
+    equipment_box i;
+    FSeek(47950);
+    palico_box i;
 };
 
 file f;
