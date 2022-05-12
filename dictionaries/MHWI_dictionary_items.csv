@@ -241,15 +241,15 @@ ID,Name,Rarity,Category
 314,Kulu-Ya-Ku Hide+,6,Materials
 315,Kulu-Ya-Ku Plume+,6,Materials
 316,Kulu-Ya-Ku Beak+,6,Materials
-317,Pukei Pukei Scale,4,Materials
-318,Pukei Pukei Shell,4,Materials
-319,Pukei Pukei Quill,4,Materials
-320,Pukei Pukei Sac,4,Materials
-321,Pukei Pukei Tail,4,Materials
-322,Pukei Pukei Scale+,6,Materials
-323,Pukei Pukei Carapace,6,Materials
-324,Pukei Pukei Wing,6,Materials
-325,Pukei Pukei Sac+,6,Materials
+317,Pukei-Pukei Scale,4,Materials
+318,Pukei-Pukei Shell,4,Materials
+319,Pukei-Pukei Quill,4,Materials
+320,Pukei-Pukei Sac,4,Materials
+321,Pukei-Pukei Tail,4,Materials
+322,Pukei-Pukei Scale+,6,Materials
+323,Pukei-Pukei Carapace,6,Materials
+324,Pukei-Pukei Wing,6,Materials
+325,Pukei-Pukei Sac+,6,Materials
 326,Barroth Shell,4,Materials
 327,Barroth Ridge,4,Materials
 328,Barroth Claw,4,Materials
@@ -533,15 +533,15 @@ ID,Name,Rarity,Category
 1094,Great Jagras Thickhide,9,Materials
 1095,Great Jagras Hardclaw,9,Materials
 1096,Great Jagras Mane+,9,Materials
-1101,Pukei Pukei Shard,9,Materials
-1102,Pukei Pukei Cortex,9,Materials
-1103,Pukei Pukei Fellwing,9,Materials
-1104,Large Pukei Pukei Sac,9,Materials
-1106,Coral Pukei Pukei Shard,9,Materials
-1107,Coral Pukei Pukei Cortex,9,Materials
-1108,Coral Pukei Pukei Fellwing,9,Materials
-1109,Large Coral Pukei Pukei Sac,9,Materials
-1110,Coral Pukei Pukei Lash,9,Materials
+1101,Pukei-Pukei Shard,9,Materials
+1102,Pukei-Pukei Cortex,9,Materials
+1103,Pukei-Pukei Fellwing,9,Materials
+1104,Large Pukei-Pukei Sac,9,Materials
+1106,Coral Pukei-Pukei Shard,9,Materials
+1107,Coral Pukei-Pukei Cortex,9,Materials
+1108,Coral Pukei-Pukei Fellwing,9,Materials
+1109,Large Coral Pukei-Pukei Sac,9,Materials
+1110,Coral Pukei-Pukei Lash,9,Materials
 1111,Barroth Cortex,9,Materials
 1117,Jyuratodus Shard,9,Materials
 1118,Jyuratodus Cortex,9,Materials

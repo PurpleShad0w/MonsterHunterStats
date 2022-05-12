@@ -179,10 +179,10 @@ Conflagrant Sac,False,False,True,False
 Cool Drink,True,True,True,False
 Coral Bone,False,False,True,False
 Coral Crystal,False,False,True,False
-Coral Pukei Pukei Cortex,False,False,True,False
-Coral Pukei Pukei Fellwing,False,False,True,False
-Coral Pukei Pukei Lash,False,False,True,False
-Coral Pukei Pukei Shard,False,False,True,False
+Coral Pukei-Pukei Cortex,False,False,True,False
+Coral Pukei-Pukei Fellwing,False,False,True,False
+Coral Pukei-Pukei Lash,False,False,True,False
+Coral Pukei-Pukei Shard,False,False,True,False
 Cortos Hardclaw,False,False,True,False
 Crag S Level 1,True,False,False,False
 Crimson Coral,False,False,False,True
@@ -564,8 +564,8 @@ Lagombi Pelt,True,False,False,False
 Lagombi Plastron,True,False,False,False
 Large Barrel,False,False,True,True
 Large Barrel Bomb,False,False,True,False
-Large Coral Pukei Pukei Sac,False,False,True,False
-Large Pukei Pukei Sac,False,False,True,False
+Large Coral Pukei-Pukei Sac,False,False,True,False
+Large Pukei-Pukei Sac,False,False,True,False
 Larinoth Hide,False,False,False,True
 Latchberry,False,True,True,False
 Lavasioth Scale+,False,False,True,False
@@ -733,20 +733,18 @@ Proto Iron Axe I,False,False,True,False
 Psychoserum,False,True,False,False
 Pukei Coin,False,False,True,False
 Pukei Greaves α+,False,False,True,False
-Pukei Pukei Carapace,False,False,True,False
-Pukei Pukei Cortex,False,False,True,False
-Pukei Pukei Fellwing,False,False,True,False
-Pukei Pukei Quill,False,False,True,False
-Pukei Pukei Sac,False,False,True,False
-Pukei Pukei Sac+,False,False,True,False
-Pukei Pukei Scale,False,False,True,False
-Pukei Pukei Scale+,False,False,True,False
-Pukei Pukei Shard,False,False,True,False
-Pukei Pukei Shell,False,False,True,False
-Pukei Pukei Tail,False,False,True,False
-Pukei Pukei Wing,False,False,True,False
-Pukei-Pukei Sac,False,False,False,True
-Pukei-Pukei Scale,False,False,False,True
+Pukei-Pukei Carapace,False,False,True,False
+Pukei-Pukei Cortex,False,False,True,False
+Pukei-Pukei Fellwing,False,False,True,False
+Pukei-Pukei Quill,False,False,True,False
+Pukei-Pukei Sac,False,False,True,True
+Pukei-Pukei Sac+,False,False,True,False
+Pukei-Pukei Scale,False,False,True,True
+Pukei-Pukei Scale+,False,False,True,False
+Pukei-Pukei Shard,False,False,True,False
+Pukei-Pukei Shell,False,False,True,False
+Pukei-Pukei Tail,False,False,True,False
+Pukei-Pukei Wing,False,False,True,False
 Purecrystal,False,False,True,False
 Quality Bone,False,False,True,False
 Quality Meat,False,False,False,True
