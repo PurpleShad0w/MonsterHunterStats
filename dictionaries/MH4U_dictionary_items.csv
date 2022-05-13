@@ -1,10 +1,12 @@
 ID,Name,Rarity
+1,Book of Combos 1,4
 8,Potion,1
 9,Mega Potion,2
 12,Antidote,1
 13,Immunizer,3
 22,Cool Drink,1
 23,Hot Drink,1
+24,Cleanser,2
 26,Psychoserum,3
 31,Energy Drink,2
 44,Raw Meat,1
@@ -14,16 +16,20 @@ ID,Name,Rarity
 68,Farcaster,3
 69,Tranq Bomb,4
 70,Spider Web,1
+81,Bounce Bomb,2
 85,Huskberry,1
 88,Normal S Level 2,1
+90,Pierce S Level 1,2
 93,Pellet S Level 1,2
 102,Flaming S,3
+105,Freeze S,3
 118,Recover S Level 1,1
 123,Tranq S,3
 125,Empty Phial,1
 126,Power Coating,2
 128,Poison Coating,3
 134,Power Nectar: Fire,3
+135,Stamina Nectar: Water,3
 136,Speed Nectar: Thunder,3
 139,Power+ Nectar,4
 147,Power+ Nectar: Fire,5
@@ -32,10 +38,12 @@ ID,Name,Rarity
 155,Worm,1
 161,Old Pickaxe,1
 162,Iron Pickaxe,1
+163,Mega Pickaxe,3
 164,Old Bug Net,1
 165,Bug Net,1
 168,Whetstone,1
 169,Binoculars,1
+170,Garbage,1
 176,Honey,2
 177,Herb,1
 178,Antidote Herb,1
@@ -79,6 +87,8 @@ ID,Name,Rarity
 277,Wyvern Fang,3
 278,Wyvern Claw,3
 286,Screamer Sac,4
+289,Paralysis Sac,4
+290,Sleep Sac,4
 297,Aqua Sac,4
 299,Dash Extract,4
 301,Gargwa Feather,4
@@ -94,10 +104,14 @@ ID,Name,Rarity
 335,Velociprey Scale,4
 339,Velocidrome Hide,4
 340,Velocidrome Claw,4
+343,Genprey Fang,4
+346,Genprey Hide,4
+348,Gendrome Hide,4
 366,Kut-Ku Scale,4
 368,Kut-Ku Shell,4
 370,Kut-Ku Ear,4
 378,Rubbery Hide,4
+380,Gypceros Head,4
 394,Kecha Pelt,4
 396,Kecha Longbone,4
 398,Kecha Talon,4
@@ -109,10 +123,15 @@ ID,Name,Rarity
 429,Tetsucabra Tusks,4
 431,Dignified Skull,4
 432,Paddock Oil,4
+455,Nerscylla Shell,4
+457,Nerscylla Chelicera,4
+459,Nerscylla Claw,4
+461,Nerscylla Spike,4
 463,Monster Fluid,4
 465,Seltas Shell,4
 467,Seltas Wing,4
 469,Seltas Horn,4
+594,Gore Magala Ripclaw,4
 842,Voucher,4
 843,Gourmet Voucher,5
 955,Aquaglow Jewel,4

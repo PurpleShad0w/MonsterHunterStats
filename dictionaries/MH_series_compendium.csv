@@ -1,5 +1,6 @@
 Name,In MH3U,In MH4U,In MHWI,In MHS2
 Abrasive,False,True,False,False
+Accelerated Hammer,False,True,False,False
 Adamant Charm,False,False,False,True
 Adamant Pill,False,False,True,False
 Adamant Seed,False,False,True,False
@@ -140,11 +141,12 @@ Bone Mail,False,False,True,False
 Bone Shooter,False,True,False,False
 Bone Staff,False,True,False,False
 Bone Vambraces,False,False,True,False
+Book of Combos 1,False,True,False,False
 Boomerang,False,False,True,False
 Botany Jewel 1,False,False,True,False
 Bottle Cap,False,False,False,True
 Boulder Bone,False,False,True,False
-Bounce Bomb,False,False,True,False
+Bounce Bomb,False,True,True,False
 Bow: Evasion,False,False,False,True
 Brace Jewel 3,False,False,True,False
 Bristly Crake Ticket,False,False,True,False
@@ -174,7 +176,7 @@ Chainmail Headgear,False,False,True,False
 Chainmail Trousers,False,False,True,False
 Chainmail Vest,False,False,True,False
 Chillshroom,False,False,True,False
-Cleanser,True,False,False,False
+Cleanser,True,True,False,False
 Cluster Bomb 1,False,False,True,False
 Cluster Bomb 2,False,False,True,False
 Cluster Bomb 3,False,False,True,False
@@ -348,6 +350,7 @@ Flowfern,False,False,True,False
 Footing Jewel 2,False,False,True,False
 Fortify (S) Talisman,False,False,False,True
 Freeze Ammo,False,False,True,False
+Freeze S,False,True,False,False
 Friendship Jewel 1,False,False,True,False
 Frog,True,False,False,False
 Frost Sac,False,False,True,False
@@ -359,7 +362,7 @@ Gajau Skin,False,False,True,False
 Gajau Thickhide,False,False,True,False
 Gajau Whisker,False,False,True,False
 Galajaka Sketch,False,False,True,False
-Garbage,True,False,False,False
+Garbage,True,True,False,False
 Gargwa Feather,False,True,False,True
 Gargwa Statue,False,False,False,True
 Garuga Ear,False,False,False,True
@@ -367,6 +370,9 @@ Garuga Scale,False,False,False,True
 Gastodon Carapace,False,False,True,False
 Gastodon Horn,False,False,True,False
 Gathering Charm,False,False,False,True
+Gendrome Hide,False,True,False,False
+Genprey Fang,False,True,False,False
+Genprey Hide,False,True,False,False
 Geology Jewel 1,False,False,True,False
 Giant Beak,False,False,False,True
 Girros Fang,False,False,True,False
@@ -394,6 +400,7 @@ Golden Egg,False,False,True,False
 Golden Fragment,False,False,True,True
 Goldenfish Bait,False,False,True,False
 Goldenfry,False,False,False,True
+Gore Magala Ripclaw,False,True,False,False
 Gourmet Voucher,False,True,True,False
 Gracium,False,False,True,False
 Great Burst Arowana Scale,False,False,True,False
@@ -442,6 +449,7 @@ Gunpowder,False,False,True,False
 Gunpowder Level 2,False,False,True,False
 Gunpowder Level 3,False,False,True,False
 Gunpowderfish Bait,False,False,True,False
+Gypceros Head,False,True,False,False
 Hakolo Honey,False,False,False,True
 Hammer: Evasion,False,False,False,True
 Hard Armor Sphere,False,False,True,False
@@ -635,7 +643,7 @@ Mega Bug Net,True,False,False,False
 Mega Demondrug,False,False,True,False
 Mega Man Ticket,False,False,True,False
 Mega Nutrients,False,False,True,False
-Mega Pickaxe,True,False,False,False
+Mega Pickaxe,True,True,False,False
 Mega Potion,False,True,True,False
 Meldspar Ore,False,False,True,False
 Meowster Jewel 1,False,False,True,False
@@ -677,6 +685,11 @@ Nergigante Carapace,False,False,True,False
 Nergigante Horn+,False,False,True,False
 Nergigante Regrowth Plate,False,False,True,False
 Nergigante Talon,False,False,True,False
+Nerscylla Chelicera,False,True,False,False
+Nerscylla Claw,False,True,False,False
+Nerscylla Helm,False,True,False,False
+Nerscylla Shell,False,True,False,False
+Nerscylla Spike,False,True,False,False
 Net,False,False,True,False
 Nightshade Paolumu Fellwing,False,False,True,False
 Nightshade Paolumu Shard,False,False,True,False
@@ -715,7 +728,7 @@ Paralysis Ammo 1,False,False,True,False
 Paralysis Ammo 2,False,False,True,False
 Paralysis Coating,False,False,True,False
 Paralysis Knife,False,False,False,True
-Paralysis Sac,False,False,True,False
+Paralysis Sac,False,True,True,False
 Parashroom,True,True,True,False
 Pawn Talisman,True,False,False,False
 Pearlspring Ticket,False,False,True,False
@@ -724,6 +737,7 @@ Pellet S Level 1,True,True,False,False
 Pierce Ammo 1,False,False,True,False
 Pierce Ammo 2,False,False,True,False
 Pierce Ammo 3,False,False,True,False
+Pierce S Level 1,False,True,False,False
 Piercing Claw,False,False,True,False
 Pink Rathian Carapace,False,False,True,False
 Pink Rathian Scale+,False,False,True,False
@@ -851,7 +865,7 @@ Sleep Ammo 1,False,False,True,False
 Sleep Ammo 2,False,False,True,False
 Sleep Coating,False,False,True,False
 Sleep Herb,False,True,True,False
-Sleep Sac,False,False,True,False
+Sleep Sac,False,True,True,False
 Sleepyfish,False,True,False,True
 Slicing Ammo,False,False,True,False
 Small Barrel,False,False,True,False
@@ -875,6 +889,7 @@ Spring Blossom Ticket,False,False,True,False
 Spring Insect Field Guide,False,False,True,False
 Stable Blueprint 1,False,False,False,True
 Stable Blueprint 2,False,False,False,True
+Stamina Nectar: Water,False,True,False,False
 Stamina+ Nectar: Water,False,True,False,False
 Steam Ticket,False,False,True,False
 Steel Egg,False,False,True,False
