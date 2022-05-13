@@ -21,6 +21,11 @@ Currently supports:
 - Rename it `MH3U_user`.
 - Run the `MH3U_execution.py` file.
 
+### Usage for Monster Hunter 4 Ultimate
+- Find your save file and copy it in the `saves` folder of this repository.
+- Rename it `MH4U_user`.
+- Run the `MH4U_execution.py` file.
+
 ### Usage for Monster Hunter World
 - Find your save file, usually located at `Steam/userdata/<user_id>/582010/remote/SAVEDATA1000` and copy it in the `saves` folder of this repository.
 - Run the `MHWI_execution.py` file.
