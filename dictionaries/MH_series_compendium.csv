@@ -7,7 +7,7 @@ Advanced Armor Sphere,False,False,True,False
 Aetheryte Shard,False,False,True,False
 Airweed,True,False,False,False
 Alcala Honey,False,False,False,True
-All-Out (S),False,False,False,True
+All-Out (S) Talisman,False,False,False,True
 Alloy Helm,False,True,False,False
 Alloy Mail β+,False,False,True,False
 Alloy Vambraces α+,False,False,True,False
@@ -28,14 +28,14 @@ Anjanath Scale+,False,False,True,False
 Anjanath Shard,False,False,True,False
 Anjanath Tail,False,False,True,False
 Anteka Antler,False,False,True,False
-Antiburn (S),False,False,False,True
+Antiburn (S) Talisman,False,False,False,True
 Antidote,False,True,True,True
 Antidote Herb,False,True,True,True
 Antidote Jewel 1,False,False,True,False
 Antidote Jewel+ 4,False,False,True,False
 Antipara Jewel 1,False,False,True,False
 Antipara Jewel+ 4,False,False,True,False
-Antistench (S),False,False,False,True
+Antistench (S) Talisman,False,False,False,True
 Apceros Shell,False,False,False,True
 Aptonoth Tail,False,False,False,True
 Aqua Sac,False,True,False,True
@@ -344,7 +344,7 @@ Flintstone,True,False,False,False
 Flood Sac,False,False,True,False
 Flowfern,False,False,True,False
 Footing Jewel 2,False,False,True,False
-Fortify (S),False,False,False,True
+Fortify (S) Talisman,False,False,False,True
 Freeze Ammo,False,False,True,False
 Friendship Jewel 1,False,False,True,False
 Frog,True,False,False,False
@@ -444,7 +444,7 @@ Hard Armor Sphere,False,False,True,False
 Hardshell Powder,False,False,True,False
 Healer's Comp Volume 1,False,False,False,True
 Healer's Comp Volume 2,False,False,False,True
-Health (S),False,False,False,True
+Health (S) Talisman,False,False,False,True
 Heart Churro,False,False,False,True
 Heavy Armor Sphere,False,False,True,False
 Heavy Artillery Jewel 1,False,False,True,False
@@ -453,7 +453,7 @@ Herb,True,True,True,True
 Herbal Medecine,False,False,True,False
 Herbal Powder,False,False,True,False
 Herbivore Stimulant,False,False,False,True
-Hero (S),False,False,False,True
+Hero (S) Talisman,False,False,False,True
 High Commendation,False,False,True,False
 High-quality Pelt,False,False,True,False
 Honey,True,True,True,True
@@ -465,7 +465,7 @@ Hornetaur Shell,False,False,True,False
 Hornetaur Wing,False,False,True,False
 Hot Drink,True,True,True,False
 Hot Pepper,False,False,True,False
-Hounding (S),False,False,False,True
+Hounding (S) Talisman,False,False,False,True
 Hunter Runestone,False,False,True,False
 Hunter's Bow I,True,True,False,False
 Hunter's Coil,False,False,True,False
@@ -546,7 +546,7 @@ Kestodon Shell,False,False,True,False
 King Armor Sphere,False,False,True,False
 King Truffle,False,False,False,True
 King's Frill,False,False,False,True
-Kinship (S),False,False,False,True
+Kinship (S) Talisman,False,False,False,True
 Kirin Hide,False,False,True,False
 Kirin Mane,False,False,True,False
 Kirin Tail,False,False,True,False
@@ -741,8 +741,8 @@ Power+ Nectar: Fire,False,True,False,False
 Powercharm,False,False,True,False
 Prismshroom Lamp,True,False,False,False
 Prized Pelt,False,False,True,False
-Protection (M),False,False,False,True
-Protection (S),False,False,False,True
+Protection (M) Talisman,False,False,False,True
+Protection (S) Talisman,False,False,False,True
 Proto Commission Axe I,False,False,True,False
 Proto Iron Axe I,False,False,True,False
 Psychoserum,False,True,False,False
@@ -802,7 +802,7 @@ Recover Ammo 1,False,False,True,False
 Recover Ammo 2,False,False,True,False
 Recover S Level 1,False,True,False,False
 Red Orb,False,False,True,False
-Revival (S),False,False,False,True
+Revival (S) Talisman,False,False,False,True
 Rhenoplos Scalp,False,True,False,False
 Rhenoplos Shell,True,True,False,False
 Rider Armor,False,False,False,True

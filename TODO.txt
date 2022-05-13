@@ -23,3 +23,7 @@ For 4 Ultimate :
 
 - Fix the template's equipment size issue
 - Find pouch ?
+
+For all games :
+
+- Update overall_merge

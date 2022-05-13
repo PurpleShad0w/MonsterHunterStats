@@ -1,12 +1,12 @@
 Skill I ID,Skill II ID,Name,Subcategory
-3000,0,Health (S),Small Talismans
-3019,0,Protection (S),Small Talismans
-3020,0,Protection (M),Medium Talismans
-3101,0,Hounding (S),Small Talismans
-3117,0,Antiburn (S),Small Talismans
-3132,0,Antistench (S),Small Talismans
-3162,0,Kinship (S),Small Talismans
-3177,0,All-Out (S),Small Talismans
-3207,0,Revival (S),Small Talismans
-3222,0,Hero (S),Small Talismans
-3257,0,Fortify (S),Small Talismans
+3000,0,Health (S) Talisman,Small Talismans
+3019,0,Protection (S) Talisman,Small Talismans
+3020,0,Protection (M) Talisman,Medium Talismans
+3101,0,Hounding (S) Talisman,Small Talismans
+3117,0,Antiburn (S) Talisman,Small Talismans
+3132,0,Antistench (S) Talisman,Small Talismans
+3162,0,Kinship (S) Talisman,Small Talismans
+3177,0,All-Out (S) Talisman,Small Talismans
+3207,0,Revival (S) Talisman,Small Talismans
+3222,0,Hero (S) Talisman,Small Talismans
+3257,0,Fortify (S) Talisman,Small Talismans
