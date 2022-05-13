@@ -12,6 +12,7 @@ Alloy Helm,False,True,False,False
 Alloy Mail β+,False,False,True,False
 Alloy Vambraces α+,False,False,True,False
 Aloe Leaf,False,False,False,True
+Alwin's Specialty,False,False,False,True
 Amber Hardfang,False,False,True,False
 Amphibian Stimulant,False,False,False,True
 Ancient Bone,False,False,True,False
@@ -211,6 +212,7 @@ Defender Heavy Bowgun IV,False,False,True,False
 Defender Warhammer I,False,False,True,False
 Defender Warhammer V,False,False,True,False
 Defense Charm I,False,False,True,False
+Defense Nutriment,False,False,False,True
 Deluxe First Wyverian Print,False,False,True,False
 Demon Ammo,False,False,True,False
 Demon Powder,False,False,True,False
@@ -366,6 +368,7 @@ Gastodon Carapace,False,False,True,False
 Gastodon Horn,False,False,True,False
 Gathering Charm,False,False,False,True
 Geology Jewel 1,False,False,True,False
+Giant Beak,False,False,False,True
 Girros Fang,False,False,True,False
 Girros Hide,False,False,True,False
 Girros Hide+,False,False,True,False
@@ -390,6 +393,7 @@ Golden Chunk,False,False,True,False
 Golden Egg,False,False,True,False
 Golden Fragment,False,False,True,True
 Goldenfish Bait,False,False,True,False
+Goldenfry,False,False,False,True
 Gourmet Voucher,False,True,True,False
 Gracium,False,False,True,False
 Great Burst Arowana Scale,False,False,True,False
@@ -464,7 +468,9 @@ Hornetaur Razorwing,False,False,True,False
 Hornetaur Shell,False,False,True,False
 Hornetaur Wing,False,False,True,False
 Hot Drink,True,True,True,False
+Hot Mist,False,False,False,True
 Hot Pepper,False,False,True,False
+Hounding (M) Talisman,False,False,False,True
 Hounding (S) Talisman,False,False,False,True
 Hunter Runestone,False,False,True,False
 Hunter's Bow I,True,True,False,False
@@ -603,7 +609,7 @@ Legiana Wing,False,False,True,False
 Leshen Claw,False,False,True,False
 Leshen Resin,False,False,True,False
 Leshen Skull,False,False,True,False
-Lifepowder,False,False,True,False
+Lifepowder,False,False,True,True
 Lifesoot,False,False,False,True
 Lightcrystal,False,False,True,False
 Lucky Charm,False,False,False,True
@@ -615,6 +621,7 @@ Machalite Ore,True,True,True,True
 Mahana Dunker,False,False,False,True
 Majestic Horn,False,False,True,False
 Mandragora,False,False,True,False
+Manyberry,False,False,False,True
 Master Craftsman's Blueprint,False,False,True,False
 Master's Charm I,False,False,True,False
 Matched Slicers,True,True,False,False
@@ -791,8 +798,8 @@ Rathian Ruby,False,False,True,False
 Rathian Scale,False,False,True,False
 Rathian Scale+,False,False,True,False
 Rathian Shard,False,False,True,False
-Rathian Shell,False,False,True,False
-Rathian Spike,False,False,True,False
+Rathian Shell,False,False,True,True
+Rathian Spike,False,False,True,True
 Rathian Weave,False,False,True,False
 Rathian Webbing,False,False,True,False
 Ration,False,False,True,False
@@ -812,6 +819,7 @@ Royal Ludroth Scale,True,False,False,True
 Royal Ludroth Tail,False,False,False,True
 Rubbery Hide,False,True,False,False
 Rugged Great Sword,False,False,False,True
+Rutoh Ringer,False,False,False,True
 Santoku Reaver,False,False,False,True
 Sap Plant,True,True,False,True
 Satiated Jewel 1,False,False,True,False
@@ -829,6 +837,7 @@ Shamos Scale,False,False,True,False
 Shamos Scale+,False,False,True,False
 Sharp Claw,False,False,True,False
 Sharp Fang,False,True,False,False
+Shiny Beetle,False,False,False,True
 Shock Trap,False,False,True,True
 Shroom Germ,True,False,False,False
 Silver Cricket,False,False,False,True
@@ -875,10 +884,12 @@ Steel Wyverian Print,False,False,True,False
 Sticky Ammo 1,False,False,True,False
 Sticky Ammo 2,False,False,True,False
 Sticky Ammo 3,False,False,True,False
+Stinkshroom,False,False,False,True
 Stone,True,True,False,True
 Strange Beak,True,False,False,False
 Stream Jewel 1,False,False,True,False
 Streamstone Shard,False,False,True,False
+Strength Nutriment,False,False,False,True
 Sturdy Bone,False,False,True,False
 Summer Insect Field Guide,False,False,True,False
 Super Whetstone,False,False,False,True
@@ -945,6 +956,7 @@ VIP Full Bloom Ticket,False,False,True,False
 Vaal Hazak Carapace,False,False,True,False
 Vaal Hazak Membrane,False,False,True,False
 Vaal Hazak Talon,False,False,True,False
+Valuable Scale,False,False,False,True
 Velocidrome Claw,False,True,False,True
 Velocidrome Head,False,False,False,True
 Velocidrome Hide,False,True,False,True
