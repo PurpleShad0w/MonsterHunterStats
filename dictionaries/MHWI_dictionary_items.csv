@@ -93,6 +93,7 @@ ID,Name,Rarity,Category
 98,Latchberry,1,Support Items
 99,Bomberry,2,Support Items
 100,Flamenut,2,Support Items
+101,Blazenut,2,Support Items
 102,Gunpowder Level 2,2,Support Items
 103,Gunpowder Level 3,2,Support Items
 104,Whetfish Fin,2,Support Items
@@ -182,12 +183,14 @@ ID,Name,Rarity,Category
 245,Monster Fluid,4,Materials
 246,Monster Broth,6,Materials
 247,Poison Sac,4,Materials
+248,Toxin Sac,6,Materials
 249,Paralysis Sac,4,Materials
 250,Omniplegia Sac,6,Materials
 251,Sleep Sac,4,Materials
 252,Coma Sac,6,Materials
 253,Flame Sac,4,Materials
 254,Inferno Sac,6,Materials
+255,Aqua Sac,4,Materials
 256,Torrent Sac,6,Materials
 257,Frost Sac,4,Materials
 259,Electro Sac,4,Materials
@@ -209,8 +212,10 @@ ID,Name,Rarity,Category
 277,Gajau Whisker,4,Materials
 278,Gajau Scale,6,Materials
 280,Wingdrake Hide,4,Materials
+281,Wingdrake Hide+,6,Materials
 284,Kestodon Shell,4,Materials
 285,Kestodon Scalp,4,Materials
+286,Kestodon Carapace,6,Materials
 287,Gastodon Carapace,6,Materials
 288,Gastodon Horn,6,Materials
 289,Jagras Scale,4,Materials
@@ -322,6 +327,7 @@ ID,Name,Rarity,Category
 408,Legiana Scale,4,Materials
 409,Legiana Hide,4,Materials
 410,Legiana Claw,4,Materials
+411,Legiana Webbing,4,Materials
 412,Legiana Tail Webbing,4,Materials
 413,Legiana Plate,5,Materials
 414,Legiana Scale+,6,Materials
@@ -383,6 +389,7 @@ ID,Name,Rarity,Category
 485,Uragaan Jaw,6,Materials
 486,Uragaan Scute,6,Materials
 487,Uragaan Marrow,6,Materials
+488,Uragaan Ruby,7,Materials
 490,Bazelgeuse Scale+,6,Materials
 491,Bazelgeuse Carapace,6,Materials
 493,Bazelgeuse Fuse,6,Materials
@@ -395,7 +402,10 @@ ID,Name,Rarity,Category
 505,Deceased Scale,7,Materials
 506,Vaal Hazak Carapace,7,Materials
 507,Vaal Hazak Membrane,7,Materials
+508,Vaal Hazak Tail,7,Materials
+509,Vaal Hazak Fang+,7,Materials
 510,Vaal Hazak Talon,7,Materials
+511,Vaal Hazak Wing,7,Materials
 514,Teostra Carapace,7,Materials
 515,Teostra Mane,7,Materials
 517,Teostra Horn+,7,Materials
@@ -430,26 +440,33 @@ ID,Name,Rarity,Category
 594,Golden Egg,4,Materials
 600,Bhernastone,4,Materials
 601,Dundormarin,4,Materials
+602,Loc Lac Ore,5,Materials
+603,Val Habar Quartz,6,Materials
 604,Minegardenite,7,Materials
 727,Antidote Jewel 1,5,Decorations
 728,Antipara Jewel 1,5,Decorations
+729,Pep Jewel 1,5,Decorations
+730,Steadfast Jewel 1,6,Decorations
 732,Suture Jewel 1,5,Decorations
 733,Def Lock Jewel 1,5,Decorations
 736,Footing Jewel 2,6,Decorations
 741,Vitality Jewel 1,6,Decorations
 743,Fire Res Jewel 1,5,Decorations
+744,Water Res Jewel 1,5,Decorations
 745,Ice Res Jewel 1,5,Decorations
 750,Stream Jewel 1,6,Decorations
 752,Bolt Jewel 1,6,Decorations
 754,Venom Jewel 1,6,Decorations
 758,Poisoncoat Jewel 3,6,Decorations
 774,Flight Jewel 2,5,Decorations
+779,Fortitude Jewel 1,5,Decorations
 785,Heavy Artillery Jewel 1,5,Decorations
 792,Jumping Jewel 2,6,Decorations
 795,Friendship Jewel 1,6,Decorations
 796,Enduring Jewel 1,6,Decorations
 797,Satiated Jewel 1,5,Decorations
 798,Gobbler Jewel 1,6,Decorations
+799,Grinder Jewel 1,6,Decorations
 809,Meowster Jewel 1,5,Decorations
 810,Botany Jewel 1,5,Decorations
 811,Geology Jewel 1,5,Decorations
@@ -457,6 +474,7 @@ ID,Name,Rarity,Category
 815,Brace Jewel 3,6,Decorations
 819,Survival Jewel 1,9,Decorations
 825,Miasma Jewel 1,5,Decorations
+828,Intimidator Jewel 1,5,Decorations
 838,Crisis Jewel 1,5,Decorations
 870,Chillshroom,3,Support Items
 871,Tailraider Voucher,4,Materials
