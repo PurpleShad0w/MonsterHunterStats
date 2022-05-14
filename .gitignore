@@ -4,6 +4,7 @@ saves
 # outputs
 outputs
 test.csv
+status.txt
 
 # libraries
 MonstieEgger.bt
