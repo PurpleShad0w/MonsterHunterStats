@@ -17,6 +17,7 @@ Alwin's Specialty,False,False,False,True
 Amber Hardfang,False,False,True,False
 Amphibian Stimulant,False,False,False,True
 Ancient Bone,False,False,True,False
+Ancient Fragment,False,False,True,False
 Ancient Potion,False,False,True,False
 Anjanath Fang,False,False,True,False
 Anjanath Fang+,False,False,True,False
@@ -71,6 +72,7 @@ Barioth Greatspike,False,False,True,False
 Barioth Hardclaw,False,False,True,False
 Barioth Lash,False,False,True,False
 Barioth Thickfur,False,False,True,False
+Barioth Vambraces β+,False,False,True,False
 Barrel Bomb,False,False,True,False
 Barroth Carapace,False,False,True,False
 Barroth Claw,False,False,True,False
@@ -360,6 +362,7 @@ Freeze Ammo,False,False,True,False
 Freeze S,False,True,False,False
 Friendship Jewel 1,False,False,True,False
 Frog,True,False,False,False
+Frost Jewel+ 4,False,False,True,False
 Frost Sac,False,False,True,True
 Frozen Bone,False,False,True,False
 Fucium Ore,False,False,True,False
@@ -512,6 +515,7 @@ Immature Sponge,True,False,False,False
 Immortal Dragonscale,False,False,True,False
 Immunizer,False,True,True,True
 Inferno Sac,False,False,True,False
+Ingot Mail β+,False,False,True,False
 Insect Husk,True,True,False,True
 Intimidator Jewel 1,False,False,True,False
 Iron Assault I,False,False,True,False
@@ -567,6 +571,7 @@ Kecha Vambraces,False,True,False,False
 Kelbi Horn,True,True,True,True
 Kestodon Carapace,False,False,True,False
 Kestodon Guards,False,False,True,False
+Kestodon Husk,False,False,True,False
 Kestodon Scalp,False,False,True,False
 Kestodon Shell,False,False,True,False
 King Armor Sphere,False,False,True,False
@@ -593,6 +598,8 @@ Kulu-Ya-Ku Plume,False,False,True,True
 Kulu-Ya-Ku Plume+,False,False,True,False
 Kulu-Ya-Ku Scale,False,False,True,False
 Kulu-Ya-Ku Scale+,False,False,True,False
+Kulu-Ya-Ku Shard,False,False,True,False
+Kulu-Ya-Ku Thickhide,False,False,True,False
 Kulu-Ya-Ku Ticket,False,False,True,False
 Kulve Taroth Golden Nugget,False,False,True,False
 Kut-Ku Ear,False,True,False,False
@@ -607,6 +614,7 @@ Lagombi Plastron,True,False,False,False
 Large Barrel,False,False,True,True
 Large Barrel Bomb,False,False,True,False
 Large Coral Pukei-Pukei Sac,False,False,True,False
+Large Kulu-Ya-Ku Beak,False,False,True,False
 Large Pukei-Pukei Sac,False,False,True,False
 Larinoth Hide,False,False,False,True
 Latchberry,False,True,True,False
@@ -625,6 +633,7 @@ Legiana Hide+,False,False,True,False
 Legiana Plate,False,False,True,False
 Legiana Scale,False,False,True,False
 Legiana Scale+,False,False,True,False
+Legiana Shard,False,False,True,False
 Legiana Tail Webbing,False,False,True,False
 Legiana Webbing,False,False,True,False
 Legiana Wing,False,False,True,False
@@ -815,6 +824,7 @@ Radobaan Shell,False,False,True,False
 Rath Wingtalon,False,False,True,False
 Rathalos Carapace,False,False,True,False
 Rathalos Egg,False,False,False,True
+Rathalos Marrow,False,False,True,False
 Rathalos Medulla,False,False,True,False
 Rathalos Plate,False,False,True,False
 Rathalos Scale,False,False,True,False
@@ -845,6 +855,8 @@ Revival (S) Talisman,False,False,False,True
 Rhenoplos Scalp,False,True,False,False
 Rhenoplos Shell,True,True,False,False
 Rider Armor,False,False,False,True
+Rose Boots α+,False,False,True,False
+Rose Headpiece α+,False,False,True,False
 Royal Honey,False,False,False,True
 Royal Ludroth Claw,True,False,False,False
 Royal Ludroth Scale,True,False,False,True
@@ -880,6 +892,7 @@ Silver Spidersilk,False,False,False,True
 Silver Wyverian Print,False,False,True,False
 Sinister Cloth,False,False,True,False
 Slagtoth Hide,False,False,False,True
+Slashberry,False,False,True,False
 Sleep Ammo 1,False,False,True,False
 Sleep Ammo 2,False,False,True,False
 Sleep Coating,False,False,True,False
@@ -922,6 +935,7 @@ Sticky Ammo 2,False,False,True,False
 Sticky Ammo 3,False,False,True,False
 Stinkshroom,False,False,False,True
 Stone,True,True,False,True
+Stonethrower Jewel 1,False,False,True,False
 Strange Beak,True,False,False,False
 Stream Jewel 1,False,False,True,False
 Streamstone Shard,False,False,True,False
@@ -1029,6 +1043,7 @@ Well-done Steak,True,False,True,True
 Whetfish Fin,False,False,True,False
 Whetstone,True,True,False,True
 White Dress,False,False,False,True
+Wingdrake Finehide,False,False,True,False
 Wingdrake Hide,False,False,True,False
 Wingdrake Hide+,False,False,True,False
 Woemill Wheat,False,False,False,True

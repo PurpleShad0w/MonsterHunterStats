@@ -90,6 +90,7 @@ ID,Name,Rarity,Category
 94,Needleberry,1,Support Items
 95,Blastnut,1,Support Items
 96,Dragonstrike Nut,2,Support Items
+97,Slashberry,1,Support Items
 98,Latchberry,1,Support Items
 99,Bomberry,2,Support Items
 100,Flamenut,2,Support Items
@@ -349,6 +350,7 @@ ID,Name,Rarity,Category
 432,Rathalos Webbing,4,Materials
 433,Rathalos Tail,4,Materials
 434,Rath Wingtalon,4,Materials
+435,Rathalos Marrow,4,Materials
 436,Rathalos Plate,5,Materials
 437,Rathalos Scale+,6,Materials
 438,Rathalos Carapace,6,Materials
@@ -470,6 +472,7 @@ ID,Name,Rarity,Category
 809,Meowster Jewel 1,5,Decorations
 810,Botany Jewel 1,5,Decorations
 811,Geology Jewel 1,5,Decorations
+813,Stonethrower Jewel 1,6,Decorations
 814,Tip Toe Jewel 1,5,Decorations
 815,Brace Jewel 3,6,Decorations
 819,Survival Jewel 1,9,Decorations
@@ -529,6 +532,7 @@ ID,Name,Rarity,Category
 1040,King Armor Sphere,9,Materials
 1042,Thick Bone,9,Materials
 1043,Frozen Bone,9,Materials
+1048,Ancient Fragment,9,Materials
 1049,Monster Toughbone,9,Materials
 1050,Monster Slogbone,10,Materials
 1054,Tough Claw,9,Materials
@@ -544,13 +548,18 @@ ID,Name,Rarity,Category
 1073,Hornetaur Razorwing,9,Materials
 1075,Gajau Thickhide,9,Materials
 1076,Steel Gajau Whisker,9,Materials
+1077,Wingdrake Finehide,9,Materials
 1080,Cortos Hardclaw,9,Materials
+1081,Kestodon Husk,9,Materials
 1085,Jagras Shard,9,Materials
 1091,Wulg Thickfur,9,Materials
 1093,Great Jagras Shard,9,Materials
 1094,Great Jagras Thickhide,9,Materials
 1095,Great Jagras Hardclaw,9,Materials
 1096,Great Jagras Mane+,9,Materials
+1097,Kulu-Ya-Ku Shard,9,Materials
+1098,Kulu-Ya-Ku Thickhide,9,Materials
+1100,Large Kulu-Ya-Ku Beak,9,Materials
 1101,Pukei-Pukei Shard,9,Materials
 1102,Pukei-Pukei Cortex,9,Materials
 1103,Pukei-Pukei Fellwing,9,Materials
@@ -588,6 +597,7 @@ ID,Name,Rarity,Category
 1170,Nightshade Paolumu Shard,9,Materials
 1171,Nightshade Paolumu Fellwing,9,Materials
 1177,Radobaan Shard,9,Materials
+1181,Legiana Shard,10,Materials
 1193,Odogaron Shard,10,Materials
 1221,Diablos Chine,10,Materials
 1242,Barioth Cortex,10,Materials
@@ -613,6 +623,7 @@ ID,Name,Rarity,Category
 1966,Steam Ticket,11,Materials
 1972,Water Res Jewel+ 4,9,Decorations
 1973,Ice Res Jewel+ 4,9,Decorations
+1978,Frost Jewel+ 4,11,Decorations
 1990,Antidote Jewel+ 4,9,Decorations
 1991,Antipara Jewel+ 4,9,Decorations
 2011,Mirewalker Jewel+ 4,9,Decorations
