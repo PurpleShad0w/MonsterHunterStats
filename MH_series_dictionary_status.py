@@ -53,10 +53,14 @@ for i in range(max(df_4u_items)):
 
 with open('status.txt', 'w') as f:
     f.write('--- Items Dictionary Completion Status ---')
-    f.write('\n\nMHWI: ' + str(len(df_world_items)/max(df_world_items)*100) + '%')
-    f.write('\nMHS2: ' + str(len(df_stories_2_items)/max(df_stories_2_items)*100) + '%')
-    f.write('\nMH3U: ' + str(len(df_3u_items)/max(df_3u_items)*100) + '%')
-    f.write('\nMH4U: ' + str(len(df_4u_items)/max(df_4u_items)*100) + '%')
+    f.write('\n\nMHWI: ' + str(len(df_world_items)/max(df_world_items)*100) + ' %')
+    f.write('\nMHS2: ' + str(len(df_stories_2_items)/max(df_stories_2_items)*100) + ' %')
+    f.write('\nMH3U: ' + str(len(df_3u_items)/max(df_3u_items)*100) + ' %')
+    f.write('\nMH4U: ' + str(len(df_4u_items)/max(df_4u_items)*100) + ' %')
+    f.write('\n\nMHWI: ' + str(len(df_world_items)) + '/' + str(max(df_world_items)))
+    f.write('\nMHS2: ' + str(len(df_stories_2_items)) + '/' + str(max(df_stories_2_items)))
+    f.write('\nMH3U: ' + str(len(df_3u_items)) + '/' + str(max(df_3u_items)))
+    f.write('\nMH4U: ' + str(len(df_4u_items)) + '/' + str(max(df_4u_items)))
     f.write('\n\n--- Amount of missing IDs ---')
     f.write('\n\nMHWI: ' + str(len(df_world_missing_IDs)))
     f.write('\nMHS2: ' + str(len(df_stories_2_missing_IDs)))

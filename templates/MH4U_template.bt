@@ -237,6 +237,89 @@ struct palico_box{
     palico_equipment p[600];
 };
 
+struct date{
+    ubyte day <name="day">;
+    ubyte month <name="month">;
+    uint16 year <name="year">;
+};
+
+struct journal{
+    date i;
+    int16 type <name="type">;
+    uint16 quest_level <name="quest_level">;
+    ubyte milestone_type[3] <name="milestone_type">;
+    ubyte padding;
+    uint32 player_number[3] <name="player_number">;
+    uint32 faint_number[3] <name="faint_number">;
+    char player2_name[24] <name="player2_name">;
+    ubyte padding;
+    char player3_name[24] <name="player3_name">;
+    ubyte padding;
+    char player4_name[24] <name="player4_name">;
+    ubyte padding;
+    char quest_name[42] <name="quest_name">;
+    ubyte padding;
+    ubyte player_weapon[4] <name="player_weapon">;
+    uint16 padding;
+};
+
+struct monster_log{
+    uint16 hunts <name="hunts">;
+    uint16 captures <name="captures">;
+    uint16 big_crown <name="big_crown">;
+    uint16 small_crown <name="small_crown">;
+    uint16 is_discovered <name="is_discovered">;
+    uint16 is_big_crown <name="is_big_crown">;
+    uint16 is_small_crown <name="is_small_crown">;
+};
+
+struct guild_card{
+    ubyte background_id <name="background_ID">;
+    ubyte title_middle_id <name="title_middle_ID">;
+    uint16 title_start_id <name="title_start_ID">;
+    uint16 title_end_id <name="title_end_ID">;
+    uint16 hr <name="HR">;
+    char name[24] <name="name">;
+    uint16 caravan_low <name="caravan_low">;
+    uint16 guild_hall_low <name="guild_hall_low">;
+    uint16 guild_hall_high <name="guild_hall_high">;
+    uint16 guild_quests <name="guild_quests">;
+    uint16 arena <name="arena">;
+    uint16 caravan_high <name="caravan_high">;
+    uint16 g_rank <name="g_rank">;
+    uint16 padding;
+    equipment_temp i <name="weapon">;
+    equipment_temp i <name="head">;
+    equipment_temp i <name="chest">;
+    equipment_temp i <name="arms">;
+    equipment_temp i <name="waist">;
+    equipment_temp i <name="legs">;
+    equipment_temp i <name="talisman">;
+    uint16 unity <name="unity">;
+    uint16 street_pass_tags <name="street_pass_tags">;
+    char greeting[130] <name="greeting">;
+    ubyte gender <name="gender">;
+    ubyte face <name="face">;
+    ubyte voice <name="voice">;
+    ubyte eye_color <name="eye_color">;
+    ubyte face_feature <name="face_feature">;
+    ubyte clothing <name="clothing">;
+    ubyte hair <name="hair">;
+    ubyte registered <name="registered">;
+    ubyte scene <name="scene">;
+    ubyte pose <name="pose">;
+    ubyte clothing_color[2] <name="clothing_color">;
+    ubyte hair_color[2] <name="hair_color">;
+    ubyte face_feature_color[2] <name="face_feature_color">;
+    ubyte skin_tone[2] <name="skin_tone">;
+    ubyte unk[8];
+    ubyte unk2[64];
+    uint32 unk3;
+    journal j[10];
+    FSeek(77404);
+    monster_log l[59];
+};
+
 struct file{
     player i;
     current_equipment i;
@@ -246,6 +329,10 @@ struct file{
     equipment_box i;
     FSeek(47950);
     palico_box i;
+    FSeek(59552);
+    uint32 caravan_points <name="caravan_points">;
+    FSeek(75264);
+    guild_card i;
 };
 
 file f;
