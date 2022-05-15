@@ -7,17 +7,20 @@ ID,Name,Rarity
 22,Cool Drink,1
 23,Hot Drink,1
 24,Cleanser,2
+25,Deodorant,2
 26,Psychoserum,3
 31,Energy Drink,2
 44,Raw Meat,1
 60,Bomb Casing,1
 61,Paintball,1
 64,Dung,1
+65,Dung Bomb,2
 68,Farcaster,3
 69,Tranq Bomb,4
 70,Spider Web,1
 81,Bounce Bomb,2
 85,Huskberry,1
+86,Bone Husk,2
 88,Normal S Level 2,1
 90,Pierce S Level 1,2
 93,Pellet S Level 1,2
@@ -31,11 +34,16 @@ ID,Name,Rarity
 134,Power Nectar: Fire,3
 135,Stamina Nectar: Water,3
 136,Speed Nectar: Thunder,3
+137,Speed Nectar: Ice,3
+138,Stamina Nectar: Dragon,3
 139,Power+ Nectar,4
 147,Power+ Nectar: Fire,5
 148,Stamina+ Nectar: Water,5
 149,Speed+ Nectar: Thunder,5
 155,Worm,1
+156,Mega Fishing Fly,3
+157,Frog,2
+158,Sushifish Bait,2
 161,Old Pickaxe,1
 162,Iron Pickaxe,1
 163,Mega Pickaxe,3
@@ -53,13 +61,16 @@ ID,Name,Rarity
 182,Sap Plant,1
 183,Felvine,1
 184,Gloamgrass Root,2
+185,Hot Pepper,2
 186,Cathangea Seed,4
 189,Blue Mushroom,2
 190,Nitroshroom,2
 191,Parashroom,3
+192,Toadstool,2
 193,Exciteshroom,3
 194,Mopeshroom,2
 196,Paintberry,1
+197,Might Seed,2
 199,Nulberry,2
 201,Scatternut,2
 202,Needleberry,1
@@ -68,27 +79,39 @@ ID,Name,Rarity
 207,Iron Ore,4
 208,Earth Crystal,4
 209,Machalite Ore,4
+212,Ice Crystal,4
 221,Abrasive,4
 225,Armor Sphere,4
+231,Whetfish,1
 232,Sushifish,1
 233,Sleepyfish,2
+234,Pin Tuna,1
+236,Popfish,2
+237,Scatterfish,4
+238,Burst Arowana,4
 240,Glutton Tuna,4
 242,Small Goldenfish,4
+243,Wanchovy,2
 248,Insect Husk,1
 251,Snakebee Larva,1
 253,Bitterbug,1
+254,Flashbug,2
 255,Thunderbug,4
 256,Glueglopper,4
+257,Killer Beetle,4
 263,Monster Bone S,3
 264,Monster Bone M,4
+265,Monster Bone L,4
 266,Mystery Bone,1
 267,Unknown Skull,4
+273,Brute Bone,4
 274,Jumbo Bone,4
 277,Wyvern Fang,3
 278,Wyvern Claw,3
 286,Screamer Sac,4
 289,Paralysis Sac,4
 290,Sleep Sac,4
+295,Frost Sac,4
 297,Aqua Sac,4
 299,Dash Extract,4
 301,Gargwa Feather,4
@@ -107,6 +130,9 @@ ID,Name,Rarity
 343,Genprey Fang,4
 346,Genprey Hide,4
 348,Gendrome Hide,4
+358,Lagombi Pelt,4
+360,Lagombi Ear,4
+362,Lagombi Plastron,4
 366,Kut-Ku Scale,4
 368,Kut-Ku Shell,4
 370,Kut-Ku Ear,4
@@ -117,12 +143,27 @@ ID,Name,Rarity
 398,Kecha Talon,4
 399,Kecha Ear,4
 401,Kecha Tail,4
+404,Sharp Claw,4
+405,Congalala Pelt,4
+407,Vibrant Pelt,4
+408,Congalala Claw,4
+410,Congalala Fang,4
 423,Tetsucabra Scale,4
 425,Tetsucabra Shell,4
 427,Tetsucabra Claw,4
 429,Tetsucabra Tusks,4
 431,Dignified Skull,4
 432,Paddock Oil,4
+437,Zamtrios Hide,4
+439,Zamtrios Scale,4
+441,Zamtrios Fin,4
+443,Zamtrios Sawtooth,4
+444,Zamtrios Tailblade,4
+445,Najarala Shell,4
+447,Najarala Hide,4
+451,Najarala Sounder,4
+453,Najarala Fang,4
+454,Chilling Beak,5
 455,Nerscylla Shell,4
 457,Nerscylla Chelicera,4
 459,Nerscylla Claw,4
@@ -132,6 +173,10 @@ ID,Name,Rarity
 467,Seltas Wing,4
 469,Seltas Horn,4
 594,Gore Magala Ripclaw,4
+691,Small Lobstershell,4
+692,Lobster Tail Fan,4
+694,Plesioth Fin,4
 842,Voucher,4
 843,Gourmet Voucher,5
+952,Royal Ludroth Scrap,4
 955,Aquaglow Jewel,4
