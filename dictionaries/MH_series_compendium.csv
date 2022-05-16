@@ -31,6 +31,7 @@ Anjanath Scale+,False,False,True,False
 Anjanath Shard,False,False,True,False
 Anjanath Tail,False,False,True,False
 Anteka Antler,False,False,True,False
+Antiblast Jewel 1,False,False,True,False
 Antiburn (S) Talisman,False,False,False,True
 Antidote,False,True,True,True
 Antidote Herb,False,True,True,True
@@ -54,6 +55,7 @@ Arzuros Brace,False,False,False,True
 Arzuros Pelt,False,False,False,True
 Arzuros Shell,False,False,False,True
 Astera Jerky,False,False,True,False
+Attack Jewel 1,False,False,True,False
 Azure Rathalos Carapace,False,False,True,False
 Azure Rathalos Scale+,False,False,True,False
 Azure Rathalos Tail,False,False,True,False
@@ -135,6 +137,7 @@ Bone,True,False,False,False
 Bone Axe,True,True,False,False
 Bone Blaster,True,False,False,False
 Bone Bludgeon I,False,False,True,False
+Bone Bludgeon II,False,False,True,False
 Bone Coil,False,False,True,False
 Bone Greaves,False,False,True,False
 Bone Hammer,True,True,False,False
@@ -209,6 +212,9 @@ Crimson Coral,False,False,False,True
 Crisis Jewel 1,False,False,True,False
 Cross Bowgun,True,True,False,False
 Crow Bow,False,False,False,True
+Crushing Beak I,False,False,True,False
+Crushing Beak II,False,False,True,False
+Crushing Beak III,False,False,True,False
 Cryo Sac,False,False,True,False
 Crystal Bone,False,False,False,True
 Culldrone I,False,False,True,False
@@ -238,6 +244,7 @@ Derring Gloves,False,True,False,False
 Derring Headgear,False,True,False,False
 Derring Jacket,False,True,False,False
 Derring Trousers,False,True,False,False
+Destroyer Jewel 2,False,False,True,False
 Devil's Blight,False,False,True,False
 Deviljho Gem,False,False,True,False
 Deviljho Hide,False,False,True,False
@@ -271,6 +278,7 @@ Downy Crake Ticket,False,False,True,False
 Dragon Ammo,False,False,True,False
 Dragon Toadstool,True,False,False,False
 Dragonbone Relic,False,False,True,False
+Dragoncore Ore,False,False,True,False
 Dragonfell Berry,False,False,True,False
 Dragonite Ore,False,False,True,True
 Dragonstrike Nut,False,False,True,False
@@ -344,6 +352,7 @@ Felyne Rose Basket α+,False,False,True,False
 Felyne Rose Dress α+,False,False,True,False
 Felyne Rose Headgear α+,False,False,True,False
 Fertile Mud,True,False,True,False
+Fey Wyvern Gem,False,False,True,False
 Fire Dragon Scale+,False,False,True,False
 Fire Herb,False,True,True,False
 Fire Res Jewel 1,False,False,True,False
@@ -376,6 +385,7 @@ Frost Sac,False,True,True,True
 Frozen Bone,False,False,True,False
 Fucium Ore,False,False,True,False
 Full Bloom Ticket,False,False,True,False
+Furor/Protection Jewel 4,False,False,True,False
 Gajau Scale,False,False,True,False
 Gajau Skin,False,False,True,False
 Gajau Thickhide,False,False,True,False
@@ -401,6 +411,7 @@ Girros Scale,False,False,True,False
 Girros Scale+,False,False,True,False
 Girthy Garlic,False,False,False,True
 Glavenus Cortex,False,False,True,False
+Glavenus Hardfang,False,False,True,False
 Glavenus Hellshell,False,False,True,False
 Glavenus Mantle,False,False,True,False
 Glavenus Shard,False,False,True,False
@@ -568,6 +579,7 @@ Jyuratodus Scale,False,False,True,False
 Jyuratodus Scale+,False,False,True,False
 Jyuratodus Shard,False,False,True,False
 Jyuratodus Shell,False,False,True,False
+KO Jewel 2,False,False,True,False
 Kamura Garb,False,False,False,True
 Kayna's Recipe,False,False,False,True
 Kecha Ear,False,True,False,False
@@ -595,6 +607,9 @@ Kirin Thunderhorn,False,False,True,False
 Konchu Shell,False,True,False,True
 Kuan Cruller,False,False,False,True
 Kulu Arrow,False,False,False,True
+Kulu Beak I,False,False,True,False
+Kulu Beak II,False,False,True,False
+Kulu Beak III,False,False,True,False
 Kulu Coil,False,False,True,False
 Kulu Greaves,False,False,True,False
 Kulu Headpiece,False,False,True,False
@@ -625,6 +640,7 @@ Large Barrel,False,False,True,True
 Large Barrel Bomb,False,False,True,False
 Large Coral Pukei-Pukei Sac,False,False,True,False
 Large Kulu-Ya-Ku Beak,False,False,True,False
+Large Kulu-Ya-Ku Plume,False,False,True,False
 Large Pukei-Pukei Sac,False,False,True,False
 Larinoth Hide,False,False,False,True
 Latchberry,False,True,True,False
@@ -653,6 +669,7 @@ Leshen Skull,False,False,True,False
 Lifepowder,False,False,True,True
 Lifesoot,False,False,False,True
 Lightcrystal,False,False,True,False
+Lightning Sac,False,False,True,False
 Lobster Tail Fan,False,True,False,False
 Loc Lac Ore,False,False,True,False
 Loloska Honey,False,False,False,True
@@ -664,6 +681,8 @@ Lunastra Scale+,False,False,True,False
 Machalite Ore,True,True,True,True
 Mahana Dunker,False,False,False,True
 Majestic Horn,False,False,True,False
+Makhlab al-Nasr I,False,False,True,False
+Makhlab al-Nasr II,False,False,True,False
 Mandragora,False,False,True,False
 Manyberry,False,False,False,True
 Master Craftsman's Blueprint,False,False,True,False
@@ -901,6 +920,7 @@ Shamos Hide,False,False,True,False
 Shamos Hide+,False,False,True,False
 Shamos Scale,False,False,True,False
 Shamos Scale+,False,False,True,False
+Shamos Shard,False,False,True,False
 Sharp Claw,False,True,True,False
 Sharp Fang,False,True,False,False
 Shiny Beetle,False,False,False,True

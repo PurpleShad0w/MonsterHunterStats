@@ -156,6 +156,7 @@ ID,Name,Rarity,Category
 216,Aquacore Ore,4,Materials
 217,Spiritcore Ore,6,Materials
 218,Dreamcore Ore,7,Materials
+219,Dragoncore Ore,8,Materials
 220,Armor Sphere,4,Materials
 221,Armor Sphere+,5,Materials
 222,Advanced Armor Sphere,6,Materials
@@ -449,9 +450,11 @@ ID,Name,Rarity,Category
 728,Antipara Jewel 1,5,Decorations
 729,Pep Jewel 1,5,Decorations
 730,Steadfast Jewel 1,6,Decorations
+731,Antiblast Jewel 1,5,Decorations
 732,Suture Jewel 1,5,Decorations
 733,Def Lock Jewel 1,5,Decorations
 736,Footing Jewel 2,6,Decorations
+739,Attack Jewel 1,7,Decorations
 741,Vitality Jewel 1,6,Decorations
 743,Fire Res Jewel 1,5,Decorations
 744,Water Res Jewel 1,5,Decorations
@@ -460,6 +463,8 @@ ID,Name,Rarity,Category
 752,Bolt Jewel 1,6,Decorations
 754,Venom Jewel 1,6,Decorations
 758,Poisoncoat Jewel 3,6,Decorations
+770,Destroyer Jewel 2,6,Decorations
+771,KO Jewel 2,6,Decorations
 774,Flight Jewel 2,5,Decorations
 779,Fortitude Jewel 1,5,Decorations
 785,Heavy Artillery Jewel 1,5,Decorations
@@ -542,6 +547,8 @@ ID,Name,Rarity,Category
 1059,Conflagrant Sac,9,Materials
 1060,Flood Sac,9,Materials
 1061,Cryo Sac,9,Materials
+1062,Lightning Sac,9,Materials
+1063,Fey Wyvern Gem,9,Materials
 1068,Prized Pelt,9,Materials
 1069,Anteka Antler,9,Materials
 1071,Vespoid Razorwing,9,Materials
@@ -552,6 +559,7 @@ ID,Name,Rarity,Category
 1080,Cortos Hardclaw,9,Materials
 1081,Kestodon Husk,9,Materials
 1085,Jagras Shard,9,Materials
+1087,Shamos Shard,9,Materials
 1091,Wulg Thickfur,9,Materials
 1093,Great Jagras Shard,9,Materials
 1094,Great Jagras Thickhide,9,Materials
@@ -559,6 +567,7 @@ ID,Name,Rarity,Category
 1096,Great Jagras Mane+,9,Materials
 1097,Kulu-Ya-Ku Shard,9,Materials
 1098,Kulu-Ya-Ku Thickhide,9,Materials
+1099,Large Kulu-Ya-Ku Plume,9,Materials
 1100,Large Kulu-Ya-Ku Beak,9,Materials
 1101,Pukei-Pukei Shard,9,Materials
 1102,Pukei-Pukei Cortex,9,Materials
@@ -613,6 +622,7 @@ ID,Name,Rarity,Category
 1253,Nargacuga Hardfang,10,Materials
 1265,Glavenus Shard,10,Materials
 1266,Glavenus Cortex,10,Materials
+1267,Glavenus Hardfang,10,Materials
 1268,Glavenus Hellshell,10,Materials
 1269,Glavenus Tailedge,10,Materials
 1270,Molten Bursa,10,Materials
@@ -630,6 +640,7 @@ ID,Name,Rarity,Category
 2026,Expert Jewel+ 4,12,Decorations
 2073,Guardian/Evasion Jewel 4,9,Decorations
 2160,Flawless/Protection Jewel 4,10,Decorations
+2161,Furor/Protection Jewel 4,10,Decorations
 2212,Enhancer/Maintenance Jewel 4,10,Decorations
 2272,Warming Jewel 2,9,Decorations
 2676,Pearlspring Ticket,9,Materials
