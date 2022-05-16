@@ -108,6 +108,7 @@ Bird Wyvern Fang,True,True,False,False
 Bird Wyvern Gem,False,False,True,False
 Bishop Talisman,False,True,False,False
 Bitterbug,False,True,True,True
+Black Bandage,False,False,True,False
 Black Crystal Ticket,False,False,True,False
 Black Diablos Carapace,False,False,True,False
 Black Diablos Ridge+,False,False,True,False
@@ -275,6 +276,7 @@ Dodogama Scale+,False,False,True,False
 Dodogama Tail,False,False,True,False
 Dodogama Talon,False,False,True,False
 Downy Crake Ticket,False,False,True,False
+Downy Crake Ticket II,False,False,True,False
 Dragon Ammo,False,False,True,False
 Dragon Toadstool,True,False,False,False
 Dragonbone Relic,False,False,True,False
@@ -285,6 +287,8 @@ Dragonstrike Nut,False,False,True,False
 Dragonvein Coal,False,False,True,False
 Dragonvein Crystal,False,False,True,False
 Dragonvein Shard,False,False,True,False
+Drain Jewel 1,False,False,True,False
+Drain/Evasion Jewel 4,False,False,True,False
 Drawbridge Lever,False,False,False,True
 Dreamcore Ore,False,False,True,False
 Drugged Meat,False,False,True,False
@@ -314,6 +318,7 @@ Expert Jewel+ 4,False,False,True,False
 Family Favorite,False,False,False,True
 Farcaster,False,True,True,False
 Faux Ticket,False,False,True,False
+Faux Ticket II,False,False,True,False
 Felvine,True,True,False,False
 Felvine Bomb,True,False,False,False
 Felyne Acorn Spade,False,False,True,False
@@ -331,6 +336,8 @@ Felyne Derring Lorica,False,True,False,False
 Felyne Duffel Coat α+,False,False,True,False
 Felyne Duffel Hood α+,False,False,True,False
 Felyne Garon Chainblade,False,False,True,False
+Felyne Glavenus Helm α+,False,False,True,False
+Felyne Glavenus Mail α+,False,False,True,False
 Felyne Iron Sword,False,False,True,False
 Felyne Jag Gunhammer,False,False,True,False
 Felyne Jagras Helm,False,False,True,False
@@ -351,6 +358,7 @@ Felyne Pukei Mantle,False,False,True,False
 Felyne Rose Basket α+,False,False,True,False
 Felyne Rose Dress α+,False,False,True,False
 Felyne Rose Headgear α+,False,False,True,False
+Felyne Scorching Blade α+,False,False,True,False
 Fertile Mud,True,False,True,False
 Fey Wyvern Gem,False,False,True,False
 Fire Dragon Scale+,False,False,True,False
@@ -385,6 +393,7 @@ Frost Sac,False,True,True,True
 Frozen Bone,False,False,True,False
 Fucium Ore,False,False,True,False
 Full Bloom Ticket,False,False,True,False
+Furor/Medecine Jewel 4,False,False,True,False
 Furor/Protection Jewel 4,False,False,True,False
 Gajau Scale,False,False,True,False
 Gajau Skin,False,False,True,False
@@ -485,6 +494,7 @@ Gypceros Head,False,True,False,False
 Hakolo Honey,False,False,False,True
 Hammer: Evasion,False,False,False,True
 Hard Armor Sphere,False,False,True,False
+Hard Defense Jewel 4,False,False,True,False
 Hardshell Powder,False,False,True,False
 Healer's Comp Volume 1,False,False,False,True
 Healer's Comp Volume 2,False,False,False,True
@@ -497,6 +507,7 @@ Herb,True,True,True,True
 Herbal Medecine,False,False,True,False
 Herbal Powder,False,False,True,False
 Herbivore Stimulant,False,False,False,True
+Herbivore Ticket I,False,False,True,False
 Hercudrome,False,False,False,True
 Hero (S) Talisman,False,False,False,True
 High Commendation,False,False,True,False
@@ -642,6 +653,7 @@ Large Coral Pukei-Pukei Sac,False,False,True,False
 Large Kulu-Ya-Ku Beak,False,False,True,False
 Large Kulu-Ya-Ku Plume,False,False,True,False
 Large Pukei-Pukei Sac,False,False,True,False
+Large Wyvern Gem,False,False,True,False
 Larinoth Hide,False,False,False,True
 Latchberry,False,True,True,False
 Lavasioth Scale+,False,False,True,False
@@ -654,6 +666,8 @@ Leather Trousers,False,False,True,False
 Leather Vest,True,False,False,False
 Legiana Claw,False,False,True,False
 Legiana Claw+,False,False,True,False
+Legiana Fellwing,False,False,True,False
+Legiana Hardclaw,False,False,True,False
 Legiana Hide,False,False,True,False
 Legiana Hide+,False,False,True,False
 Legiana Plate,False,False,True,False
@@ -661,6 +675,7 @@ Legiana Scale,False,False,True,False
 Legiana Scale+,False,False,True,False
 Legiana Shard,False,False,True,False
 Legiana Tail Webbing,False,False,True,False
+Legiana Thickhide,False,False,True,False
 Legiana Webbing,False,False,True,False
 Legiana Wing,False,False,True,False
 Leshen Claw,False,False,True,False
@@ -676,6 +691,7 @@ Loloska Honey,False,False,False,True
 Lucky Charm,False,False,False,True
 Ludroth Pelt,False,False,False,True
 Lumu Armor,False,False,False,True
+Lumu Phantasm Coil β+,False,False,True,False
 Lunastra Carapace,False,False,True,False
 Lunastra Scale+,False,False,True,False
 Machalite Ore,True,True,True,True
@@ -691,6 +707,7 @@ Matched Slicers,True,True,False,False
 Matched Slicers I,False,False,True,False
 Mauldrone I,False,False,True,False
 Max Potion,False,False,True,False
+Medecine Jewel 1,False,False,True,False
 Mega Armorskin,False,False,True,False
 Mega Barrel Bomb,False,False,True,False
 Mega Bounce Bomb,False,False,True,False
@@ -794,6 +811,7 @@ Pawn Talisman,True,False,False,False
 Pearlspring Ticket,False,False,True,False
 Pelagicite Ore,True,False,False,True
 Pellet S Level 1,True,True,False,False
+Penguin Ticket,False,False,True,False
 Pep Jewel 1,False,False,True,False
 Pierce Ammo 1,False,False,True,False
 Pierce Ammo 2,False,False,True,False
@@ -941,6 +959,7 @@ Sleep Herb,False,True,True,False
 Sleep Sac,False,True,True,True
 Sleepyfish,False,True,False,True
 Slicing Ammo,False,False,True,False
+Slider/Attack Jewel 4,False,False,True,False
 Small Barrel,False,False,True,False
 Small Goldenfish,False,True,False,False
 Small Lobstershell,False,True,False,False
@@ -1089,14 +1108,19 @@ Water S,True,False,False,False
 Well-done Steak,True,False,True,True
 Whetfish,False,True,False,False
 Whetfish Fin,False,False,True,False
+Whetfish Fin+,False,False,True,False
+Whetfish Ticket,False,False,True,False
 Whetstone,True,True,False,True
 White Dress,False,False,False,True
+Wiggler Ticket,False,False,True,False
+Wind Resist Jewel 2,False,False,True,False
 Wingdrake Finehide,False,False,True,False
 Wingdrake Hide,False,False,True,False
 Wingdrake Hide+,False,False,True,False
 Woemill Wheat,False,False,False,True
 Worm,True,True,False,False
 Wulg Thickfur,False,False,True,False
+Wyverian Ticket,False,False,True,False
 Wyvern Ammo,False,False,True,False
 Wyvern Barbs,False,False,False,True
 Wyvern Bonemass,False,False,True,False

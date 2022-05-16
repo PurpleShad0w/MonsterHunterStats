@@ -98,6 +98,7 @@ ID,Name,Rarity,Category
 102,Gunpowder Level 2,2,Support Items
 103,Gunpowder Level 3,2,Support Items
 104,Whetfish Fin,2,Support Items
+105,Whetfish Fin+,4,Support Items
 106,Sushifish Scale,2,Support Items
 107,Great Sushifish Scale,4,Support Items
 110,Burst Arowana Scale,2,Support Items
@@ -453,6 +454,7 @@ ID,Name,Rarity,Category
 731,Antiblast Jewel 1,5,Decorations
 732,Suture Jewel 1,5,Decorations
 733,Def Lock Jewel 1,5,Decorations
+735,Wind Resist Jewel 2,6,Decorations
 736,Footing Jewel 2,6,Decorations
 739,Attack Jewel 1,7,Decorations
 741,Vitality Jewel 1,6,Decorations
@@ -465,6 +467,7 @@ ID,Name,Rarity,Category
 758,Poisoncoat Jewel 3,6,Decorations
 770,Destroyer Jewel 2,6,Decorations
 771,KO Jewel 2,6,Decorations
+772,Drain Jewel 1,6,Decorations
 774,Flight Jewel 2,5,Decorations
 779,Fortitude Jewel 1,5,Decorations
 785,Heavy Artillery Jewel 1,5,Decorations
@@ -483,6 +486,7 @@ ID,Name,Rarity,Category
 819,Survival Jewel 1,9,Decorations
 825,Miasma Jewel 1,5,Decorations
 828,Intimidator Jewel 1,5,Decorations
+833,Medecine Jewel 1,6,Decorations
 838,Crisis Jewel 1,5,Decorations
 870,Chillshroom,3,Support Items
 871,Tailraider Voucher,4,Materials
@@ -505,8 +509,10 @@ ID,Name,Rarity,Category
 908,Spring Blossom Ticket,4,Materials
 913,Spring Insect Field Guide,4,Materials
 914,Summer Insect Field Guide,4,Materials
+922,Black Bandage,6,Materials
 923,Black Crystal Ticket,6,Materials
 924,Kulu-Ya-Ku Ticket,6,Materials
+925,Wiggler Ticket,6,Materials
 928,Mega Man Ticket,6,Materials
 932,Azure Star Shard,4,Materials
 933,Azure Stargem,6,Materials
@@ -519,6 +525,7 @@ ID,Name,Rarity,Category
 962,Bristly Crake Ticket,4,Materials
 963,First Fleet Ticket,4,Materials
 969,Faux Ticket,4,Materials
+970,Faux Ticket II,4,Materials
 979,Leshen Claw,6,Materials
 981,Leshen Skull,7,Materials
 983,Cursed Bone,6,Materials
@@ -549,6 +556,7 @@ ID,Name,Rarity,Category
 1061,Cryo Sac,9,Materials
 1062,Lightning Sac,9,Materials
 1063,Fey Wyvern Gem,9,Materials
+1064,Large Wyvern Gem,9,Materials
 1068,Prized Pelt,9,Materials
 1069,Anteka Antler,9,Materials
 1071,Vespoid Razorwing,9,Materials
@@ -607,6 +615,9 @@ ID,Name,Rarity,Category
 1171,Nightshade Paolumu Fellwing,9,Materials
 1177,Radobaan Shard,9,Materials
 1181,Legiana Shard,10,Materials
+1182,Legiana Thickhide,10,Materials
+1183,Legiana Hardclaw,10,Materials
+1184,Legiana Fellwing,10,Materials
 1193,Odogaron Shard,10,Materials
 1221,Diablos Chine,10,Materials
 1242,Barioth Cortex,10,Materials
@@ -637,10 +648,14 @@ ID,Name,Rarity,Category
 1990,Antidote Jewel+ 4,9,Decorations
 1991,Antipara Jewel+ 4,9,Decorations
 2011,Mirewalker Jewel+ 4,9,Decorations
+2021,Hard Defense Jewel 4,10,Decorations
 2026,Expert Jewel+ 4,12,Decorations
+2055,Drain/Evasion Jewel 4,10,Decorations
 2073,Guardian/Evasion Jewel 4,9,Decorations
+2091,Slider/Attack Jewel 4,9,Decorations
 2160,Flawless/Protection Jewel 4,10,Decorations
 2161,Furor/Protection Jewel 4,10,Decorations
+2181,Furor/Medecine Jewel 4,10,Decorations
 2212,Enhancer/Maintenance Jewel 4,10,Decorations
 2272,Warming Jewel 2,9,Decorations
 2676,Pearlspring Ticket,9,Materials
@@ -648,5 +663,10 @@ ID,Name,Rarity,Category
 2686,Steel Melding Ticket,6,Materials
 2687,Silver Melding Ticket,7,Materials
 2690,Gold Melding Ticket,10,Materials
+2711,Penguin Ticket,10,Materials
+2716,Wyverian Ticket,10,Materials
 2721,Full Bloom Ticket,9,Materials
+2722,Whetfish Ticket,10,Materials
+2723,Downy Crake Ticket II,10,Materials
 2737,VIP Full Bloom Ticket,12,Materials
+2762,Herbivore Ticket I,10,Materials
