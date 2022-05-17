@@ -116,7 +116,6 @@ Blast Coating,False,False,True,False
 Blastnut,False,False,True,False
 Blazenut,False,False,True,False
 Blooming Blade,False,False,False,True
-Blos Medulla,False,False,True,False
 Blossom Boots,False,False,True,False
 Blossom Coat,False,False,True,False
 Blossom Cuffs,False,False,True,False
@@ -258,6 +257,7 @@ Deviljho Talon,False,False,True,False
 Diablos Carapace,False,False,True,False
 Diablos Chine,False,False,True,False
 Diablos Fang,False,False,True,False
+Diablos Medulla,False,False,True,False
 Diablos Ridge,False,False,True,False
 Diablos Ridge+,False,False,True,False
 Diablos Shell,False,False,True,False
@@ -877,7 +877,6 @@ Radobaan Scale,False,False,True,False
 Radobaan Scale+,False,False,True,False
 Radobaan Shard,False,False,True,False
 Radobaan Shell,False,False,True,False
-Rath Wingtalon,False,False,True,False
 Rathalos Carapace,False,False,True,False
 Rathalos Egg,False,False,False,True
 Rathalos Marrow,False,False,True,False
@@ -889,6 +888,7 @@ Rathalos Shell,False,False,True,False
 Rathalos Tail,False,False,True,False
 Rathalos Webbing,False,False,True,False
 Rathalos Wing,False,False,True,False
+Rathalos Wingtalon,False,False,True,False
 Rathian Carapace,False,False,True,False
 Rathian Cortex,False,False,True,False
 Rathian Plate,False,False,True,False
