@@ -216,6 +216,8 @@ ID,Name,Rarity,Category
 278,Gajau Scale,6,Materials
 280,Wingdrake Hide,4,Materials
 281,Wingdrake Hide+,6,Materials
+282,Barnos Hide+,6,Materials
+283,Barnos Talon,6,Materials
 284,Kestodon Shell,4,Materials
 285,Kestodon Scalp,4,Materials
 286,Kestodon Carapace,6,Materials
@@ -388,6 +390,7 @@ ID,Name,Rarity,Category
 477,Dodogama Talon,6,Materials
 478,Dodogama Tail,6,Materials
 479,Lavasioth Scale+,6,Materials
+481,Lavasioth Fang+,6,Materials
 483,Uragaan Scale+,6,Materials
 484,Uragaan Carapace,6,Materials
 485,Uragaan Jaw,6,Materials
@@ -457,6 +460,7 @@ ID,Name,Rarity,Category
 735,Wind Resist Jewel 2,6,Decorations
 736,Footing Jewel 2,6,Decorations
 739,Attack Jewel 1,7,Decorations
+740,Defense Jewel 1,6,Decorations
 741,Vitality Jewel 1,6,Decorations
 743,Fire Res Jewel 1,5,Decorations
 744,Water Res Jewel 1,5,Decorations
@@ -471,6 +475,7 @@ ID,Name,Rarity,Category
 774,Flight Jewel 2,5,Decorations
 779,Fortitude Jewel 1,5,Decorations
 785,Heavy Artillery Jewel 1,5,Decorations
+787,Physique Jewel 2,6,Decorations
 792,Jumping Jewel 2,6,Decorations
 795,Friendship Jewel 1,6,Decorations
 796,Enduring Jewel 1,6,Decorations
@@ -544,6 +549,7 @@ ID,Name,Rarity,Category
 1040,King Armor Sphere,9,Materials
 1042,Thick Bone,9,Materials
 1043,Frozen Bone,9,Materials
+1044,Dragonbone Artifact,10,Materials
 1048,Ancient Fragment,9,Materials
 1049,Monster Toughbone,9,Materials
 1050,Monster Slogbone,10,Materials
@@ -564,6 +570,7 @@ ID,Name,Rarity,Category
 1075,Gajau Thickhide,9,Materials
 1076,Steel Gajau Whisker,9,Materials
 1077,Wingdrake Finehide,9,Materials
+1078,Barnos Hardclaw,9,Materials
 1080,Cortos Hardclaw,9,Materials
 1081,Kestodon Husk,9,Materials
 1085,Jagras Shard,9,Materials
@@ -605,6 +612,7 @@ ID,Name,Rarity,Category
 1137,Banbaro Great Horn,9,Materials
 1138,Banbaro Lash,9,Materials
 1139,Anjanath Shard,9,Materials
+1145,Fulgur Anjanath Shard,10,Materials
 1151,Rathian Shard,9,Materials
 1152,Rathian Cortex,9,Materials
 1153,Rathian Weave,9,Materials
@@ -620,6 +628,7 @@ ID,Name,Rarity,Category
 1184,Legiana Fellwing,10,Materials
 1193,Odogaron Shard,10,Materials
 1221,Diablos Chine,10,Materials
+1233,Lavasioth Shard,10,Materials
 1242,Barioth Cortex,10,Materials
 1243,Barioth Thickfur,10,Materials
 1244,Barioth Hardclaw,10,Materials
@@ -651,12 +660,16 @@ ID,Name,Rarity,Category
 2021,Hard Defense Jewel 4,10,Decorations
 2026,Expert Jewel+ 4,12,Decorations
 2055,Drain/Evasion Jewel 4,10,Decorations
+2057,Crisis/Evasion Jewel 4,9,Decorations
 2073,Guardian/Evasion Jewel 4,9,Decorations
+2089,Bomber/Attack Jewel 4,10,Decorations
 2091,Slider/Attack Jewel 4,9,Decorations
+2110,Slider/Expert Jewel 4,9,Decorations
 2160,Flawless/Protection Jewel 4,10,Decorations
 2161,Furor/Protection Jewel 4,10,Decorations
 2181,Furor/Medecine Jewel 4,10,Decorations
 2212,Enhancer/Maintenance Jewel 4,10,Decorations
+2241,Furor/Physique Jewel 4,11,Decorations
 2272,Warming Jewel 2,9,Decorations
 2676,Pearlspring Ticket,9,Materials
 2678,Snowman,4,Support Items

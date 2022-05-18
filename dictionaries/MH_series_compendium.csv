@@ -75,6 +75,9 @@ Barioth Hardclaw,False,False,True,False
 Barioth Lash,False,False,True,False
 Barioth Thickfur,False,False,True,False
 Barioth Vambraces β+,False,False,True,False
+Barnos Hardclaw,False,False,True,False
+Barnos Hide+,False,False,True,False
+Barnos Talon,False,False,True,False
 Barrel Bomb,False,False,True,False
 Barroth Carapace,False,False,True,False
 Barroth Claw,False,False,True,False
@@ -132,6 +135,7 @@ Bnahabra Wing,False,True,False,False
 Boaboa Ticket,False,False,True,False
 Bolt Jewel 1,False,False,True,False
 Bomb Casing,False,True,False,False
+Bomber/Attack Jewel 4,False,False,True,False
 Bomberry,False,False,True,False
 Bone,True,False,False,False
 Bone Axe,True,True,False,False
@@ -210,6 +214,7 @@ Cortos Hardclaw,False,False,True,False
 Crag S Level 1,True,False,False,False
 Crimson Coral,False,False,False,True
 Crisis Jewel 1,False,False,True,False
+Crisis/Evasion Jewel 4,False,False,True,False
 Cross Bowgun,True,True,False,False
 Crow Bow,False,False,False,True
 Crushing Beak I,False,False,True,False
@@ -233,6 +238,7 @@ Defender Heavy Bowgun IV,False,False,True,False
 Defender Warhammer I,False,False,True,False
 Defender Warhammer V,False,False,True,False
 Defense Charm I,False,False,True,False
+Defense Jewel 1,False,False,True,False
 Defense Nutriment,False,False,False,True
 Deluxe First Wyverian Print,False,False,True,False
 Demon Ammo,False,False,True,False
@@ -279,6 +285,7 @@ Downy Crake Ticket,False,False,True,False
 Downy Crake Ticket II,False,False,True,False
 Dragon Ammo,False,False,True,False
 Dragon Toadstool,True,False,False,False
+Dragonbone Artifact,False,False,True,False
 Dragonbone Relic,False,False,True,False
 Dragoncore Ore,False,False,True,False
 Dragonfell Berry,False,False,True,False
@@ -392,8 +399,10 @@ Frost Jewel+ 4,False,False,True,False
 Frost Sac,False,True,True,True
 Frozen Bone,False,False,True,False
 Fucium Ore,False,False,True,False
+Fulgur Anjanath Shard,False,False,True,False
 Full Bloom Ticket,False,False,True,False
 Furor/Medecine Jewel 4,False,False,True,False
+Furor/Physique Jewel 4,False,False,True,False
 Furor/Protection Jewel 4,False,False,True,False
 Gajau Scale,False,False,True,False
 Gajau Skin,False,False,True,False
@@ -656,7 +665,9 @@ Large Pukei-Pukei Sac,False,False,True,False
 Large Wyvern Gem,False,False,True,False
 Larinoth Hide,False,False,False,True
 Latchberry,False,True,True,False
+Lavasioth Fang+,False,False,True,False
 Lavasioth Scale+,False,False,True,False
+Lavasioth Shard,False,False,True,False
 Leather Belt,True,False,True,False
 Leather Gloves,True,False,True,False
 Leather Headgear,True,False,True,False
@@ -813,6 +824,7 @@ Pelagicite Ore,True,False,False,True
 Pellet S Level 1,True,True,False,False
 Penguin Ticket,False,False,True,False
 Pep Jewel 1,False,False,True,False
+Physique Jewel 2,False,False,True,False
 Pierce Ammo 1,False,False,True,False
 Pierce Ammo 2,False,False,True,False
 Pierce Ammo 3,False,False,True,False
@@ -960,6 +972,7 @@ Sleep Sac,False,True,True,True
 Sleepyfish,False,True,False,True
 Slicing Ammo,False,False,True,False
 Slider/Attack Jewel 4,False,False,True,False
+Slider/Expert Jewel 4,False,False,True,False
 Small Barrel,False,False,True,False
 Small Goldenfish,False,True,False,False
 Small Lobstershell,False,True,False,False
