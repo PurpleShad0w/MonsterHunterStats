@@ -612,6 +612,7 @@ ID,Name,Rarity,Category
 1137,Banbaro Great Horn,9,Materials
 1138,Banbaro Lash,9,Materials
 1139,Anjanath Shard,9,Materials
+1141,Anjanath Hardfang,9,Materials
 1145,Fulgur Anjanath Shard,10,Materials
 1151,Rathian Shard,9,Materials
 1152,Rathian Cortex,9,Materials
@@ -627,6 +628,8 @@ ID,Name,Rarity,Category
 1183,Legiana Hardclaw,10,Materials
 1184,Legiana Fellwing,10,Materials
 1193,Odogaron Shard,10,Materials
+1196,Odogaron Hardfang,10,Materials
+1211,Azure Rathalos Shard,10,Materials
 1221,Diablos Chine,10,Materials
 1233,Lavasioth Shard,10,Materials
 1242,Barioth Cortex,10,Materials
@@ -637,9 +640,13 @@ ID,Name,Rarity,Category
 1247,Amber Hardfang,10,Materials
 1248,Nargacuga Shard,10,Materials
 1249,Nargacuga Blackfur+,10,Materials
+1250,Nargacuga Lash,10,Materials
 1251,Nargacuga Tailspear,10,Materials
 1252,Nargacuga Cutwing+,10,Materials
 1253,Nargacuga Hardfang,10,Materials
+1255,Tigrex Shard,10,Materials
+1256,Tigrex Cortex,10,Materials
+1258,Tigrex Hardclaw,10,Materials
 1265,Glavenus Shard,10,Materials
 1266,Glavenus Cortex,10,Materials
 1267,Glavenus Hardfang,10,Materials
@@ -647,12 +654,19 @@ ID,Name,Rarity,Category
 1269,Glavenus Tailedge,10,Materials
 1270,Molten Bursa,10,Materials
 1271,Glavenus Mantle,11,Materials
+1279,Brachydios Cortex,10,Materials
+1280,Fine Brachydios Ebonshell,10,Materials
+1281,Brachydios Crown,10,Materials
+1282,Glowing Slime,10,Materials
+1283,Brachydios Pounder+,10,Materials
+1284,Brachydios Lash,10,Materials
 1445,Boaboa Ticket,9,Materials
 1478,Dragonvein Shard,4,Materials
 1479,Dragonvein Coal,5,Materials
 1966,Steam Ticket,11,Materials
 1972,Water Res Jewel+ 4,9,Decorations
 1973,Ice Res Jewel+ 4,9,Decorations
+1975,Dragon Res Jewel+ 4,9,Decorations
 1978,Frost Jewel+ 4,11,Decorations
 1990,Antidote Jewel+ 4,9,Decorations
 1991,Antipara Jewel+ 4,9,Decorations
@@ -664,9 +678,11 @@ ID,Name,Rarity,Category
 2073,Guardian/Evasion Jewel 4,9,Decorations
 2089,Bomber/Attack Jewel 4,10,Decorations
 2091,Slider/Attack Jewel 4,9,Decorations
+2107,Grinder/Expert Jewel 4,10,Decorations
 2110,Slider/Expert Jewel 4,9,Decorations
 2160,Flawless/Protection Jewel 4,10,Decorations
 2161,Furor/Protection Jewel 4,10,Decorations
+2177,Draw/Medecine Jewel 4,10,Decorations
 2181,Furor/Medecine Jewel 4,10,Decorations
 2212,Enhancer/Maintenance Jewel 4,10,Decorations
 2241,Furor/Physique Jewel 4,11,Decorations

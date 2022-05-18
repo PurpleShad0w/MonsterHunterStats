@@ -21,6 +21,7 @@ Ancient Fragment,False,False,True,False
 Ancient Potion,False,False,True,False
 Anjanath Fang,False,False,True,False
 Anjanath Fang+,False,False,True,False
+Anjanath Hardfang,False,False,True,False
 Anjanath Nosebone,False,False,True,True
 Anjanath Nosebone+,False,False,True,False
 Anjanath Pelt,False,False,True,False
@@ -58,6 +59,7 @@ Astera Jerky,False,False,True,False
 Attack Jewel 1,False,False,True,False
 Azure Rathalos Carapace,False,False,True,False
 Azure Rathalos Scale+,False,False,True,False
+Azure Rathalos Shard,False,False,True,False
 Azure Rathalos Tail,False,False,True,False
 Azure Rathalos Wing,False,False,True,False
 Azure Star Shard,False,False,True,False
@@ -161,6 +163,10 @@ Boulder Bone,False,False,True,False
 Bounce Bomb,False,True,True,False
 Bow: Evasion,False,False,False,True
 Brace Jewel 3,False,False,True,False
+Brachydios Cortex,False,False,True,False
+Brachydios Crown,False,False,True,False
+Brachydios Lash,False,False,True,False
+Brachydios Pounder+,False,False,True,False
 Breaker (M) and Cold Res Talisman,False,False,False,True
 Bristly Crake Ticket,False,False,True,False
 Brutal Bone,False,False,True,False
@@ -284,6 +290,7 @@ Dodogama Talon,False,False,True,False
 Downy Crake Ticket,False,False,True,False
 Downy Crake Ticket II,False,False,True,False
 Dragon Ammo,False,False,True,False
+Dragon Res Jewel+ 4,False,False,True,False
 Dragon Toadstool,True,False,False,False
 Dragonbone Artifact,False,False,True,False
 Dragonbone Relic,False,False,True,False
@@ -296,6 +303,7 @@ Dragonvein Crystal,False,False,True,False
 Dragonvein Shard,False,False,True,False
 Drain Jewel 1,False,False,True,False
 Drain/Evasion Jewel 4,False,False,True,False
+Draw/Medecine Jewel 4,False,False,True,False
 Drawbridge Lever,False,False,False,True
 Dreamcore Ore,False,False,True,False
 Drugged Meat,False,False,True,False
@@ -368,6 +376,7 @@ Felyne Rose Headgear α+,False,False,True,False
 Felyne Scorching Blade α+,False,False,True,False
 Fertile Mud,True,False,True,False
 Fey Wyvern Gem,False,False,True,False
+Fine Brachydios Ebonshell,False,False,True,False
 Fire Dragon Scale+,False,False,True,False
 Fire Herb,False,True,True,False
 Fire Res Jewel 1,False,False,True,False
@@ -436,6 +445,7 @@ Glavenus Shard,False,False,True,False
 Glavenus Tailedge,False,False,True,False
 Gloamgrass Bud,False,False,True,True
 Gloamgrass Root,False,True,False,False
+Glowing Slime,False,False,True,False
 Glueglopper,False,True,False,False
 Glutton Tuna,False,True,False,False
 Gobbler Jewel 1,False,False,True,False
@@ -482,6 +492,7 @@ Great Sword Moves 4,False,False,False,True
 Great Sword: Guard,False,False,False,True
 Grill,False,False,False,True
 Grinder Jewel 1,False,False,True,False
+Grinder/Expert Jewel 4,False,False,True,False
 Group Healing 101,False,False,False,True
 Guardian Boots α+,False,False,True,False
 Guardian Coil α+,False,False,True,False
@@ -765,6 +776,7 @@ Nargacuga Blackfur,False,False,False,True
 Nargacuga Blackfur+,False,False,True,False
 Nargacuga Cutwing+,False,False,True,False
 Nargacuga Hardfang,False,False,True,False
+Nargacuga Lash,False,False,True,False
 Nargacuga Scale,False,False,False,True
 Nargacuga Shard,False,False,True,False
 Nargacuga Tailspear,False,False,True,False
@@ -794,6 +806,7 @@ Odogaron Claw,False,False,True,False
 Odogaron Claw+,False,False,True,False
 Odogaron Fang,False,False,True,False
 Odogaron Fang+,False,False,True,False
+Odogaron Hardfang,False,False,True,False
 Odogaron Plate,False,False,True,False
 Odogaron Scale,False,False,True,False
 Odogaron Scale+,False,False,True,False
@@ -925,6 +938,7 @@ Rhenoplos Shell,True,True,False,False
 Rider Armor,False,False,False,True
 Rose Boots α+,False,False,True,False
 Rose Headpiece α+,False,False,True,False
+Rose Jacket α+,False,False,True,False
 Royal Honey,False,False,False,True
 Royal Ludroth Claw,True,False,False,False
 Royal Ludroth Scale,True,False,False,True
@@ -1043,6 +1057,9 @@ Thick Bone,False,False,True,False
 Throwing Knife,False,False,False,True
 Thunder Ammo,False,False,True,False
 Thunderbug,False,True,True,True
+Tigrex Cortex,False,False,True,False
+Tigrex Hardclaw,False,False,True,False
+Tigrex Shard,False,False,True,False
 Tinged Meat,False,False,True,False
 Tip Toe Jewel 1,False,False,True,False
 Toadstool,False,True,True,True
