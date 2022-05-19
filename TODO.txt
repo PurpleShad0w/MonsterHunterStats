@@ -1,6 +1,6 @@
 For World :
 
- - Fill in dictionaries (items, equipment, etc...)
+ - Fill in dictionaries (equipment, armor, weapons, etc.)
  - Understand the tools
  - Understand and gather the pendants
  - Find out how to check whether a Palico Gadget is unlocked or not

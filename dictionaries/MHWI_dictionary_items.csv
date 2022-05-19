@@ -1,701 +1,2573 @@
-ID,Name,Rarity,Category
-1,Potion,1,Support Items
-2,Mega Potion,2,Support Items
-3,Max Potion,3,Support Items
-4,Ancient Potion,5,Support Items
-5,Antidote,1,Support Items
-6,Herbal Medecine,2,Support Items
-7,Nulberry,2,Support Items
-8,Energy Drink,2,Support Items
-9,Ration,1,Support Items
-11,Well-done Steak,2,Support Items
-12,Burnt Meat,1,Support Items
-13,Cool Drink,1,Support Items
-14,Nutrients,2,Support Items
-15,Mega Nutrients,3,Support Items
-16,Immunizer,3,Support Items
-17,Astera Jerky,2,Support Items
-18,Dash Juice,2,Support Items
-20,Might Seed,2,Support Items
-21,Demondrug,4,Support Items
-22,Mega Demondrug,5,Support Items
-23,Might Pill,4,Support Items
-24,Adamant Seed,2,Support Items
-25,Armorskin,4,Support Items
-26,Mega Armorskin,5,Support Items
-27,Adamant Pill,4,Support Items
-28,Lifepowder,4,Support Items
-29,Herbal Powder,4,Support Items
-30,Demon Powder,4,Support Items
-31,Hardshell Powder,4,Support Items
-32,Honey,2,Support Items
-33,Herb,1,Support Items
-34,Antidote Herb,1,Support Items
-35,Fire Herb,2,Support Items
-36,Flowfern,1,Support Items
-37,Snow Herb,2,Support Items
-38,Sleep Herb,1,Support Items
-39,Ivy,1,Support Items
-40,Smokenut,1,Support Items
-41,Dragonfell Berry,4,Support Items
-42,Blue Mushroom,2,Support Items
-43,Mandragora,3,Support Items
-44,Nitroshroom,2,Support Items
-45,Devil's Blight,2,Support Items
-46,Parashroom,3,Support Items
-47,Toadstool,2,Support Items
-48,Exciteshroom,3,Support Items
-49,Bitterbug,1,Support Items
-50,Flashbug,2,Support Items
-51,Godbug,4,Support Items
-52,Thunderbug,4,Support Items
-53,Baitbug,3,Support Items
-54,Kelbi Horn,4,Support Items
-55,Dash Extract,4,Support Items
-56,Nourishing Extract,4,Support Items
-57,Screamer Sac,2,Support Items
-58,Catalyst,2,Support Items
-59,Tranq Bomb,3,Support Items
-60,Flash Pod,2,Support Items
-61,Screamer Pod,2,Support Items
-62,Smoke Bomb,2,Support Items
-63,Poison Smoke Bomb,2,Support Items
-64,Farcaster,3,Support Items
-65,Raw Meat,1,Support Items
-66,Poisoned Meat,2,Support Items
-67,Tinged Meat,2,Support Items
-68,Drugged Meat,2,Support Items
-69,Gunpowder,2,Support Items
-70,Small Barrel,1,Support Items
-71,Barrel Bomb,2,Support Items
-72,Bounce Bomb,2,Support Items
-73,Mega Bounce Bomb,4,Support Items
-74,Large Barrel,2,Support Items
-75,Large Barrel Bomb,3,Support Items
-76,Mega Barrel Bomb,4,Support Items
-77,Spider Web,1,Support Items
-78,Net,2,Support Items
-79,Trap Tool,3,Support Items
-80,Pitfall Trap,3,Support Items
-81,Shock Trap,3,Support Items
-83,Dung,1,Support Items
-84,Dung Pod,2,Support Items
-85,Arowana Bait,2,Support Items
-86,Gunpowderfish Bait,2,Support Items
-87,Goldenfish Bait,2,Support Items
-88,Boomerang,4,Support Items
-89,Binoculars,1,Support Items
-90,Powercharm,5,Support Items
-92,Armorcharm,5,Support Items
-94,Needleberry,1,Support Items
-95,Blastnut,1,Support Items
-96,Dragonstrike Nut,2,Support Items
-97,Slashberry,1,Support Items
-98,Latchberry,1,Support Items
-99,Bomberry,2,Support Items
-100,Flamenut,2,Support Items
-101,Blazenut,2,Support Items
-102,Gunpowder Level 2,2,Support Items
-103,Gunpowder Level 3,2,Support Items
-104,Whetfish Fin,2,Support Items
-105,Whetfish Fin+,4,Support Items
-106,Sushifish Scale,2,Support Items
-107,Great Sushifish Scale,4,Support Items
-110,Burst Arowana Scale,2,Support Items
-111,Great Burst Arowana Scale,4,Support Items
-138,Normal Ammo 2,2,Ammo
-139,Normal Ammo 3,3,Ammo
-140,Pierce Ammo 1,1,Ammo
-141,Pierce Ammo 2,2,Ammo
-142,Pierce Ammo 3,3,Ammo
-143,Spread Ammo 1,1,Ammo
-144,Spread Ammo 2,2,Ammo
-145,Spread Ammo 3,3,Ammo
-146,Sticky Ammo 1,1,Ammo
-147,Sticky Ammo 2,2,Ammo
-148,Sticky Ammo 3,3,Ammo
-149,Cluster Bomb 1,2,Ammo
-150,Cluster Bomb 2,3,Ammo
-151,Cluster Bomb 3,4,Ammo
-152,Flaming Ammo,2,Ammo
-153,Water Ammo,2,Ammo
-154,Thunder Ammo,2,Ammo
-155,Freeze Ammo,2,Ammo
-156,Dragon Ammo,3,Ammo
-157,Poison Ammo 1,2,Ammo
-158,Poison Ammo 2,3,Ammo
-159,Paralysis Ammo 1,2,Ammo
-160,Paralysis Ammo 2,3,Ammo
-161,Sleep Ammo 1,2,Ammo
-162,Sleep Ammo 2,3,Ammo
-163,Exhaust Ammo 1,2,Ammo
-164,Exhaust Ammo 2,3,Ammo
-165,Recover Ammo 1,2,Ammo
-166,Recover Ammo 2,3,Ammo
-167,Wyvern Ammo,3,Ammo
-168,Slicing Ammo,2,Ammo
-169,Tranq Ammo,3,Ammo
-170,Demon Ammo,4,Ammo
-171,Armor Ammo,4,Ammo
-174,Empty Phial,1,Ammo
-175,Power Coating,2,Ammo
-176,Poison Coating,3,Ammo
-177,Paralysis Coating,3,Ammo
-178,Sleep Coating,3,Ammo
-180,Blast Coating,3,Ammo
-205,Iron Ore,4,Materials
-206,Machalite Ore,4,Materials
-207,Dragonite Ore,4,Materials
-208,Carbalite Ore,6,Materials
-209,Fucium Ore,6,Materials
-210,Earth Crystal,4,Materials
-211,Coral Crystal,4,Materials
-212,Dragonvein Crystal,6,Materials
-213,Lightcrystal,5,Materials
-214,Novacrystal,7,Materials
-215,Firecell Stone,7,Materials
-216,Aquacore Ore,4,Materials
-217,Spiritcore Ore,6,Materials
-218,Dreamcore Ore,7,Materials
-219,Dragoncore Ore,8,Materials
-220,Armor Sphere,4,Materials
-221,Armor Sphere+,5,Materials
-222,Advanced Armor Sphere,6,Materials
-223,Hard Armor Sphere,7,Materials
-224,Heavy Armor Sphere,8,Materials
-225,Sturdy Bone,4,Materials
-226,Quality Bone,6,Materials
-227,Ancient Bone,4,Materials
-228,Boulder Bone,4,Materials
-229,Coral Bone,4,Materials
-230,Warped Bone,4,Materials
-231,Brutal Bone,6,Materials
-232,Dragonbone Relic,7,Materials
-233,Unknown Skull,7,Materials
-234,Great Hornfly,5,Materials
-235,Sinister Cloth,5,Materials
-236,Monster Bone S,4,Materials
-237,Monster Bone M,4,Materials
-238,Monster Bone L,4,Materials
-239,Monster Bone+,4,Materials
-240,Monster Keenbone,6,Materials
-241,Monster Hardbone,6,Materials
-242,Elder Dragon Bone,7,Materials
-243,Sharp Claw,4,Materials
-244,Piercing Claw,6,Materials
-245,Monster Fluid,4,Materials
-246,Monster Broth,6,Materials
-247,Poison Sac,4,Materials
-248,Toxin Sac,6,Materials
-249,Paralysis Sac,4,Materials
-250,Omniplegia Sac,6,Materials
-251,Sleep Sac,4,Materials
-252,Coma Sac,6,Materials
-253,Flame Sac,4,Materials
-254,Inferno Sac,6,Materials
-255,Aqua Sac,4,Materials
-256,Torrent Sac,6,Materials
-257,Frost Sac,4,Materials
-259,Electro Sac,4,Materials
-261,Bird Wyvern Gem,7,Materials
-262,Wyvern Gem,7,Materials
-263,Elder Dragon Blood,7,Materials
-264,Mosswine Hide,4,Materials
-266,High-quality Pelt,6,Materials
-267,Vespoid Shell,4,Materials
-268,Vespoid Carapace,6,Materials
-269,Vespoid Wing,4,Materials
-270,Vespoid Innerwing,6,Materials
-271,Hornetaur Shell,4,Materials
-272,Hornetaur Wing,4,Materials
-273,Hornetaur Head,4,Materials
-274,Hornetaur Carapace,6,Materials
-275,Hornetaur Innerwing,6,Materials
-276,Gajau Skin,4,Materials
-277,Gajau Whisker,4,Materials
-278,Gajau Scale,6,Materials
-280,Wingdrake Hide,4,Materials
-281,Wingdrake Hide+,6,Materials
-282,Barnos Hide+,6,Materials
-283,Barnos Talon,6,Materials
-284,Kestodon Shell,4,Materials
-285,Kestodon Scalp,4,Materials
-286,Kestodon Carapace,6,Materials
-287,Gastodon Carapace,6,Materials
-288,Gastodon Horn,6,Materials
-289,Jagras Scale,4,Materials
-290,Jagras Hide,4,Materials
-291,Jagras Scale+,6,Materials
-292,Jagras Hide+,6,Materials
-293,Shamos Scale,4,Materials
-294,Shamos Hide,4,Materials
-295,Shamos Scale+,6,Materials
-296,Shamos Hide+,6,Materials
-297,Girros Scale,4,Materials
-298,Girros Hide,4,Materials
-299,Girros Fang,4,Materials
-300,Girros Scale+,6,Materials
-301,Girros Hide+,6,Materials
-302,Great Jagras Scale,4,Materials
-303,Great Jagras Hide,4,Materials
-304,Great Jagras Mane,4,Materials
-305,Great Jagras Claw,4,Materials
-306,Great Jagras Scale+,6,Materials
-307,Great Jagras Hide+,6,Materials
-308,Great Jagras Claw+,6,Materials
-309,Kulu-Ya-Ku Scale,4,Materials
-310,Kulu-Ya-Ku Hide,4,Materials
-311,Kulu-Ya-Ku Plume,4,Materials
-312,Kulu-Ya-Ku Beak,4,Materials
-313,Kulu-Ya-Ku Scale+,6,Materials
-314,Kulu-Ya-Ku Hide+,6,Materials
-315,Kulu-Ya-Ku Plume+,6,Materials
-316,Kulu-Ya-Ku Beak+,6,Materials
-317,Pukei-Pukei Scale,4,Materials
-318,Pukei-Pukei Shell,4,Materials
-319,Pukei-Pukei Quill,4,Materials
-320,Pukei-Pukei Sac,4,Materials
-321,Pukei-Pukei Tail,4,Materials
-322,Pukei-Pukei Scale+,6,Materials
-323,Pukei-Pukei Carapace,6,Materials
-324,Pukei-Pukei Wing,6,Materials
-325,Pukei-Pukei Sac+,6,Materials
-326,Barroth Shell,4,Materials
-327,Barroth Ridge,4,Materials
-328,Barroth Claw,4,Materials
-329,Barroth Scalp,4,Materials
-330,Barroth Tail,4,Materials
-331,Fertile Mud,4,Materials
-332,Barroth Carapace,6,Materials
-333,Barroth Ridge+,6,Materials
-334,Barroth Claw+,6,Materials
-335,Jyuratodus Scale,4,Materials
-336,Jyuratodus Shell,4,Materials
-337,Jyuratodus Fang,4,Materials
-338,Jyuratodus Fin,4,Materials
-339,Jyuratodus Scale+,6,Materials
-340,Jyuratodus Carapace,6,Materials
-341,Jyuratodus Fang+,6,Materials
-342,Jyuratodus Fin+,6,Materials
-343,Tobi-Kadachi Scale,4,Materials
-344,Tobi-Kadachi Pelt,4,Materials
-345,Tobi-Kadachi Membrane,4,Materials
-346,Tobi-Kadachi Claw,4,Materials
-347,Tobi-Kadachi Electrode,4,Materials
-352,Anjanath Scale,4,Materials
-353,Anjanath Pelt,4,Materials
-354,Anjanath Fang,4,Materials
-355,Anjanath Nosebone,4,Materials
-356,Anjanath Tail,4,Materials
-357,Anjanath Plate,5,Materials
-358,Anjanath Scale+,6,Materials
-359,Anjanath Pelt+,6,Materials
-360,Anjanath Fang+,6,Materials
-361,Anjanath Nosebone+,6,Materials
-363,Rathian Scale,4,Materials
-364,Rathian Shell,4,Materials
-365,Rathian Webbing,4,Materials
-366,Rathian Spike,4,Materials
-367,Rathian Plate,5,Materials
-368,Rathian Scale+,6,Materials
-369,Rathian Carapace,6,Materials
-371,Rathian Ruby,7,Materials
-372,Pink Rathian Scale+,6,Materials
-373,Pink Rathian Carapace,6,Materials
-374,Tzitzi-Ya-Ku Scale,4,Materials
-375,Tzitzi-Ya-Ku Hide,4,Materials
-376,Tzitzi-Ya-Ku Claw,4,Materials
-377,Tzitzi-Ya-Ku Photophore,4,Materials
-378,Tzitzi-Ya-Ku Scale+,6,Materials
-379,Tzitzi-Ya-Ku Hide+,6,Materials
-380,Tzitzi-Ya-Ku Claw+,6,Materials
-381,Tzitzi-Ya-Ku Photophore+,6,Materials
-382,Paolumu Pelt,4,Materials
-383,Paolumu Scale,4,Materials
-384,Paolumu Shell,4,Materials
-385,Paolumu Webbing,4,Materials
-390,Great Girros Scale,4,Materials
-391,Great Girros Hide,4,Materials
-392,Great Girros Hood,4,Materials
-395,Great Girros Scale+,6,Materials
-396,Great Girros Hide+,6,Materials
-397,Great Girros Hood+,6,Materials
-398,Great Girros Fang+,6,Materials
-399,Radobaan Scale,4,Materials
-400,Radobaan Shell,4,Materials
-401,Radobaan Oilshell,4,Materials
-402,Wyvern Bonemass,4,Materials
-404,Radobaan Marrow,4,Materials
-405,Radobaan Scale+,6,Materials
-406,Radobaan Carapace,6,Materials
-407,Radobaan Medulla,6,Materials
-408,Legiana Scale,4,Materials
-409,Legiana Hide,4,Materials
-410,Legiana Claw,4,Materials
-411,Legiana Webbing,4,Materials
-412,Legiana Tail Webbing,4,Materials
-413,Legiana Plate,5,Materials
-414,Legiana Scale+,6,Materials
-415,Legiana Hide+,6,Materials
-416,Legiana Claw+,6,Materials
-417,Legiana Wing,6,Materials
-419,Odogaron Scale,4,Materials
-420,Odogaron Sinew,4,Materials
-421,Odogaron Claw,4,Materials
-422,Odogaron Fang,4,Materials
-423,Odogaron Tail,4,Materials
-424,Odogaron Plate,5,Materials
-425,Odogaron Scale+,6,Materials
-426,Odogaron Sinew+,6,Materials
-427,Odogaron Claw+,6,Materials
-428,Odogaron Fang+,6,Materials
-430,Rathalos Scale,4,Materials
-431,Rathalos Shell,4,Materials
-432,Rathalos Webbing,4,Materials
-433,Rathalos Tail,4,Materials
-434,Rathalos Wingtalon,4,Materials
-435,Rathalos Marrow,4,Materials
-436,Rathalos Plate,5,Materials
-437,Rathalos Scale+,6,Materials
-438,Rathalos Carapace,6,Materials
-439,Rathalos Wing,6,Materials
-440,Rathalos Medulla,6,Materials
-442,Azure Rathalos Scale+,6,Materials
-443,Azure Rathalos Carapace,6,Materials
-444,Azure Rathalos Tail,6,Materials
-445,Azure Rathalos Wing,6,Materials
-446,Diablos Shell,4,Materials
-447,Diablos Ridge,4,Materials
-448,Diablos Tailcase,4,Materials
-449,Diablos Fang,4,Materials
-450,Twisted Horn,4,Materials
-452,Diablos Carapace,6,Materials
-453,Diablos Ridge+,6,Materials
-454,Majestic Horn,6,Materials
-455,Diablos Medulla,6,Materials
-456,Black Diablos Carapace,6,Materials
-457,Black Diablos Ridge+,6,Materials
-459,Kirin Hide,4,Materials
-460,Kirin Tail,4,Materials
-461,Kirin Mane,4,Materials
-462,Kirin Thunderhorn,4,Materials
-467,Zorah Magdaros Heat Scale,6,Materials
-468,Zorah Magdaros Carapace,6,Materials
-470,Zorah Magdaros Pleura,6,Materials
-472,Zorah Magdaros Magma,6,Materials
-473,Zorah Magdaros Gem,7,Materials
-474,Dodogama Scale+,6,Materials
-475,Dodogama Hide+,6,Materials
-476,Dodogama Jaw,6,Materials
-477,Dodogama Talon,6,Materials
-478,Dodogama Tail,6,Materials
-479,Lavasioth Scale+,6,Materials
-481,Lavasioth Fang+,6,Materials
-483,Uragaan Scale+,6,Materials
-484,Uragaan Carapace,6,Materials
-485,Uragaan Jaw,6,Materials
-486,Uragaan Scute,6,Materials
-487,Uragaan Marrow,6,Materials
-488,Uragaan Ruby,7,Materials
-490,Bazelgeuse Scale+,6,Materials
-491,Bazelgeuse Carapace,6,Materials
-493,Bazelgeuse Fuse,6,Materials
-494,Bazelgeuse Talon,6,Materials
-497,Immortal Dragonscale,7,Materials
-498,Nergigante Carapace,7,Materials
-501,Nergigante Horn+,7,Materials
-502,Nergigante Talon,7,Materials
-503,Nergigante Regrowth Plate,7,Materials
-505,Deceased Scale,7,Materials
-506,Vaal Hazak Carapace,7,Materials
-507,Vaal Hazak Membrane,7,Materials
-508,Vaal Hazak Tail,7,Materials
-509,Vaal Hazak Fang+,7,Materials
-510,Vaal Hazak Talon,7,Materials
-511,Vaal Hazak Wing,7,Materials
-514,Teostra Carapace,7,Materials
-515,Teostra Mane,7,Materials
-517,Teostra Horn+,7,Materials
-518,Fire Dragon Scale+,7,Materials
-519,Teostra Claw+,7,Materials
-521,Teostra Powder,7,Materials
-524,Daora Dragon Scale+,7,Materials
-525,Daora Webbing,7,Materials
-526,Daora Horn+,7,Materials
-528,Daora Claw+,7,Materials
-530,Xeno'jiiva Soulscale,7,Materials
-531,Xeno'jiiva Shell,7,Materials
-532,Xeno'jiiva Veil,7,Materials
-533,Xeno'jiiva Tail,7,Materials
-534,Xeno'jiiva Horn,7,Materials
-535,Xeno'jiiva Claw,7,Materials
-536,Xeno'jiiva Wing,7,Materials
-538,Xeno'jiiva Gem,8,Materials
-554,Streamstone Shard,6,Materials
-571,Voucher,4,Materials
-572,First Wyverian Print,4,Materials
-573,Deluxe First Wyverian Print,4,Materials
-574,Steel Wyverian Print,4,Materials
-575,Silver Wyverian Print,4,Materials
-576,Gold Wyverian Print,4,Materials
-577,Commendation,5,Materials
-578,High Commendation,7,Materials
-580,Pukei Coin,4,Materials
-589,Pinnacle Coin,4,Materials
-592,Steel Egg,4,Materials
-593,Silver Egg,4,Materials
-594,Golden Egg,4,Materials
-600,Bhernastone,4,Materials
-601,Dundormarin,4,Materials
-602,Loc Lac Ore,5,Materials
-603,Val Habar Quartz,6,Materials
-604,Minegardenite,7,Materials
-727,Antidote Jewel 1,5,Decorations
-728,Antipara Jewel 1,5,Decorations
-729,Pep Jewel 1,5,Decorations
-730,Steadfast Jewel 1,6,Decorations
-731,Antiblast Jewel 1,5,Decorations
-732,Suture Jewel 1,5,Decorations
-733,Def Lock Jewel 1,5,Decorations
-735,Wind Resist Jewel 2,6,Decorations
-736,Footing Jewel 2,6,Decorations
-739,Attack Jewel 1,7,Decorations
-740,Defense Jewel 1,6,Decorations
-741,Vitality Jewel 1,6,Decorations
-743,Fire Res Jewel 1,5,Decorations
-744,Water Res Jewel 1,5,Decorations
-745,Ice Res Jewel 1,5,Decorations
-750,Stream Jewel 1,6,Decorations
-752,Bolt Jewel 1,6,Decorations
-754,Venom Jewel 1,6,Decorations
-758,Poisoncoat Jewel 3,6,Decorations
-770,Destroyer Jewel 2,6,Decorations
-771,KO Jewel 2,6,Decorations
-772,Drain Jewel 1,6,Decorations
-774,Flight Jewel 2,5,Decorations
-779,Fortitude Jewel 1,5,Decorations
-785,Heavy Artillery Jewel 1,5,Decorations
-787,Physique Jewel 2,6,Decorations
-792,Jumping Jewel 2,6,Decorations
-795,Friendship Jewel 1,6,Decorations
-796,Enduring Jewel 1,6,Decorations
-797,Satiated Jewel 1,5,Decorations
-798,Gobbler Jewel 1,6,Decorations
-799,Grinder Jewel 1,6,Decorations
-809,Meowster Jewel 1,5,Decorations
-810,Botany Jewel 1,5,Decorations
-811,Geology Jewel 1,5,Decorations
-813,Stonethrower Jewel 1,6,Decorations
-814,Tip Toe Jewel 1,5,Decorations
-815,Brace Jewel 3,6,Decorations
-819,Survival Jewel 1,9,Decorations
-825,Miasma Jewel 1,5,Decorations
-828,Intimidator Jewel 1,5,Decorations
-833,Medecine Jewel 1,6,Decorations
-838,Crisis Jewel 1,5,Decorations
-870,Chillshroom,3,Support Items
-871,Tailraider Voucher,4,Materials
-873,Galajaka Sketch,4,Materials
-879,Deviljho Scale,6,Materials
-880,Deviljho Hide,6,Materials
-881,Deviljho Tallfang,6,Materials
-882,Deviljho Talon,6,Materials
-883,Deviljho Scalp,6,Materials
-884,Deviljho Tail,6,Materials
-885,Deviljho Saliva,6,Materials
-886,Deviljho Gem,7,Materials
-889,Kulve Taroth Golden Nugget,7,Materials
-893,Golden Fragment,4,Materials
-894,Golden Chunk,4,Materials
-895,Lunastra Scale+,7,Materials
-898,Lunastra Carapace,7,Materials
-903,Behemoth Bone,7,Materials
-907,Aetheryte Shard,7,Materials
-908,Spring Blossom Ticket,4,Materials
-913,Spring Insect Field Guide,4,Materials
-914,Summer Insect Field Guide,4,Materials
-922,Black Bandage,6,Materials
-923,Black Crystal Ticket,6,Materials
-924,Kulu-Ya-Ku Ticket,6,Materials
-925,Wiggler Ticket,6,Materials
-928,Mega Man Ticket,6,Materials
-932,Azure Star Shard,4,Materials
-933,Azure Stargem,6,Materials
-934,Red Orb,8,Materials
-935,Master Craftsman's Blueprint,6,Materials
-940,Blossom Fireworks,3,Support Items
-952,Gold Chip Fragment,4,Materials
-956,Hunter Runestone,4,Support Items
-961,Downy Crake Ticket,4,Materials
-962,Bristly Crake Ticket,4,Materials
-963,First Fleet Ticket,4,Materials
-969,Faux Ticket,4,Materials
-970,Faux Ticket II,4,Materials
-979,Leshen Claw,6,Materials
-981,Leshen Skull,7,Materials
-983,Cursed Bone,6,Materials
-987,Leshen Resin,6,Materials
-1000,Hot Drink,1,Support Items
-1003,Gourmet Voucher,5,Materials
-1006,Hot Pepper,1,Support Items
-1007,Gloamgrass Bud,4,Support Items
-1008,Dust of Life,6,Support Items
-1030,Eltalite Ore,9,Materials
-1031,Meldspar Ore,9,Materials
-1032,Spiritvein Crystal,9,Materials
-1034,Purecrystal,10,Materials
-1036,Bathycite Ore,9,Materials
-1037,Gracium,9,Materials
-1040,King Armor Sphere,9,Materials
-1042,Thick Bone,9,Materials
-1043,Frozen Bone,9,Materials
-1044,Dragonbone Artifact,10,Materials
-1048,Ancient Fragment,9,Materials
-1049,Monster Toughbone,9,Materials
-1050,Monster Slogbone,10,Materials
-1054,Tough Claw,9,Materials
-1055,Monster Essence,9,Materials
-1056,Deadly Poison Sac,9,Materials
-1058,Torpor Sac,9,Materials
-1059,Conflagrant Sac,9,Materials
-1060,Flood Sac,9,Materials
-1061,Cryo Sac,9,Materials
-1062,Lightning Sac,9,Materials
-1063,Fey Wyvern Gem,9,Materials
-1064,Large Wyvern Gem,9,Materials
-1068,Prized Pelt,9,Materials
-1069,Anteka Antler,9,Materials
-1071,Vespoid Razorwing,9,Materials
-1073,Hornetaur Razorwing,9,Materials
-1075,Gajau Thickhide,9,Materials
-1076,Steel Gajau Whisker,9,Materials
-1077,Wingdrake Finehide,9,Materials
-1078,Barnos Hardclaw,9,Materials
-1080,Cortos Hardclaw,9,Materials
-1081,Kestodon Husk,9,Materials
-1085,Jagras Shard,9,Materials
-1087,Shamos Shard,9,Materials
-1091,Wulg Thickfur,9,Materials
-1093,Great Jagras Shard,9,Materials
-1094,Great Jagras Thickhide,9,Materials
-1095,Great Jagras Hardclaw,9,Materials
-1096,Great Jagras Mane+,9,Materials
-1097,Kulu-Ya-Ku Shard,9,Materials
-1098,Kulu-Ya-Ku Thickhide,9,Materials
-1099,Large Kulu-Ya-Ku Plume,9,Materials
-1100,Large Kulu-Ya-Ku Beak,9,Materials
-1101,Pukei-Pukei Shard,9,Materials
-1102,Pukei-Pukei Cortex,9,Materials
-1103,Pukei-Pukei Fellwing,9,Materials
-1104,Large Pukei-Pukei Sac,9,Materials
-1106,Coral Pukei-Pukei Shard,9,Materials
-1107,Coral Pukei-Pukei Cortex,9,Materials
-1108,Coral Pukei-Pukei Fellwing,9,Materials
-1109,Large Coral Pukei-Pukei Sac,9,Materials
-1110,Coral Pukei-Pukei Lash,9,Materials
-1111,Barroth Cortex,9,Materials
-1117,Jyuratodus Shard,9,Materials
-1118,Jyuratodus Cortex,9,Materials
-1119,Jyuratodus Hardfang,9,Materials
-1120,Jyuratodus Grandfin,9,Materials
-1121,Beotodus Shard,9,Materials
-1122,Beotodus Cortex,9,Materials
-1123,Beotodus Hardhorn,9,Materials
-1124,Beotodus Grandfin,9,Materials
-1130,Viper Tobi-Kadachi Shard,9,Materials
-1131,Viper Tobi-Kadachi Thickfur,9,Materials
-1132,Viper Tobi-Kadachi Membrane+,9,Materials
-1133,Viper Tobi-Kadachi Hardclaw,9,Materials
-1134,Viper Tobi-Kadachi Thorn,9,Materials
-1135,Banbaro Cortex,9,Materials
-1136,Banbaro Chine,9,Materials
-1137,Banbaro Great Horn,9,Materials
-1138,Banbaro Lash,9,Materials
-1139,Anjanath Shard,9,Materials
-1141,Anjanath Hardfang,9,Materials
-1145,Fulgur Anjanath Shard,10,Materials
-1151,Rathian Shard,9,Materials
-1152,Rathian Cortex,9,Materials
-1153,Rathian Weave,9,Materials
-1161,Tzitzi-Ya-Ku Shard,9,Materials
-1167,Paolumu Cortex,9,Materials
-1169,Nightshade Paolumu Thickfur,9,Materials
-1170,Nightshade Paolumu Shard,9,Materials
-1171,Nightshade Paolumu Fellwing,9,Materials
-1177,Radobaan Shard,9,Materials
-1181,Legiana Shard,10,Materials
-1182,Legiana Thickhide,10,Materials
-1183,Legiana Hardclaw,10,Materials
-1184,Legiana Fellwing,10,Materials
-1193,Odogaron Shard,10,Materials
-1196,Odogaron Hardfang,10,Materials
-1211,Azure Rathalos Shard,10,Materials
-1221,Diablos Chine,10,Materials
-1233,Lavasioth Shard,10,Materials
-1242,Barioth Cortex,10,Materials
-1243,Barioth Thickfur,10,Materials
-1244,Barioth Hardclaw,10,Materials
-1245,Barioth Greatspike,10,Materials
-1246,Barioth Lash,10,Materials
-1247,Amber Hardfang,10,Materials
-1248,Nargacuga Shard,10,Materials
-1249,Nargacuga Blackfur+,10,Materials
-1250,Nargacuga Lash,10,Materials
-1251,Nargacuga Tailspear,10,Materials
-1252,Nargacuga Cutwing+,10,Materials
-1253,Nargacuga Hardfang,10,Materials
-1255,Tigrex Shard,10,Materials
-1256,Tigrex Cortex,10,Materials
-1258,Tigrex Hardclaw,10,Materials
-1265,Glavenus Shard,10,Materials
-1266,Glavenus Cortex,10,Materials
-1267,Glavenus Hardfang,10,Materials
-1268,Glavenus Hellshell,10,Materials
-1269,Glavenus Tailedge,10,Materials
-1270,Molten Bursa,10,Materials
-1271,Glavenus Mantle,11,Materials
-1279,Brachydios Cortex,10,Materials
-1280,Fine Brachydios Ebonshell,10,Materials
-1281,Brachydios Crown,10,Materials
-1282,Glowing Slime,10,Materials
-1283,Brachydios Pounder+,10,Materials
-1284,Brachydios Lash,10,Materials
-1445,Boaboa Ticket,9,Materials
-1478,Dragonvein Shard,4,Materials
-1479,Dragonvein Coal,5,Materials
-1966,Steam Ticket,11,Materials
-1972,Water Res Jewel+ 4,9,Decorations
-1973,Ice Res Jewel+ 4,9,Decorations
-1975,Dragon Res Jewel+ 4,9,Decorations
-1978,Frost Jewel+ 4,11,Decorations
-1990,Antidote Jewel+ 4,9,Decorations
-1991,Antipara Jewel+ 4,9,Decorations
-2011,Mirewalker Jewel+ 4,9,Decorations
-2021,Hard Defense Jewel 4,10,Decorations
-2026,Expert Jewel+ 4,12,Decorations
-2055,Drain/Evasion Jewel 4,10,Decorations
-2057,Crisis/Evasion Jewel 4,9,Decorations
-2073,Guardian/Evasion Jewel 4,9,Decorations
-2089,Bomber/Attack Jewel 4,10,Decorations
-2091,Slider/Attack Jewel 4,9,Decorations
-2107,Grinder/Expert Jewel 4,10,Decorations
-2110,Slider/Expert Jewel 4,9,Decorations
-2160,Flawless/Protection Jewel 4,10,Decorations
-2161,Furor/Protection Jewel 4,10,Decorations
-2177,Draw/Medecine Jewel 4,10,Decorations
-2181,Furor/Medecine Jewel 4,10,Decorations
-2212,Enhancer/Maintenance Jewel 4,10,Decorations
-2241,Furor/Physique Jewel 4,11,Decorations
-2272,Warming Jewel 2,9,Decorations
-2676,Pearlspring Ticket,9,Materials
-2678,Snowman,4,Support Items
-2686,Steel Melding Ticket,6,Materials
-2687,Silver Melding Ticket,7,Materials
-2690,Gold Melding Ticket,10,Materials
-2711,Penguin Ticket,10,Materials
-2716,Wyverian Ticket,10,Materials
-2721,Full Bloom Ticket,9,Materials
-2722,Whetfish Ticket,10,Materials
-2723,Downy Crake Ticket II,10,Materials
-2737,VIP Full Bloom Ticket,12,Materials
-2762,Herbivore Ticket I,10,Materials
+﻿ID,Name,Rarity,Category,Sell,Buy
+1,Potion,1,Support Items,8,66
+2,Mega Potion,2,Support Items,16,165
+3,Max Potion,3,Support Items,210,2138
+4,Ancient Potion,5,Support Items,345,3454
+5,Antidote,1,Support Items,6,60
+6,Herbal Medicine,2,Support Items,25,250
+7,Nulberry,2,Support Items,120,1200
+8,Energy Drink,2,Support Items,6,60
+9,Ration,1,Support Items,3,30
+10,Rare Steak,1,Support Items,3,30
+11,Well-done Steak,2,Support Items,48,96
+12,Burnt Meat,1,Support Items,1,10
+13,Cool Drink,1,Support Items,30,300
+14,Nutrients,2,Support Items,25,760
+15,Mega Nutrients,3,Support Items,92,920
+16,Immunizer,3,Support Items,92,923
+17,Astera Jerky,2,Support Items,10,98
+18,Dash Juice,2,Support Items,29,293
+19,Mega Dash Juice,4,Support Items,205,1028
+20,Might Seed,2,Support Items,140,280
+21,Demondrug,4,Support Items,67,668
+22,Mega Demondrug,5,Support Items,283,2831
+23,Might Pill,4,Support Items,280,2831
+24,Adamant Seed,2,Support Items,110,220
+25,Armorskin,4,Support Items,58,578
+26,Mega Armorskin,5,Support Items,269,2696
+27,Adamant Pill,4,Support Items,260,2696
+28,Lifepowder,4,Support Items,190,480
+29,Herbal Powder,4,Support Items,315,6300
+30,Demon Powder,4,Support Items,315,6300
+31,Hardshell Powder,4,Support Items,315,6300
+32,Honey,2,Support Items,45,90
+33,Herb,1,Support Items,2,20
+34,Antidote Herb,1,Support Items,2,20
+35,Fire Herb,2,Support Items,4,44
+36,Flowfern,1,Support Items,4,44
+37,Snow Herb,2,Support Items,6,64
+38,Sleep Herb,1,Support Items,5,50
+39,Ivy,1,Support Items,8,75
+40,Smokenut,1,Support Items,4,44
+41,Dragonfell Berry,4,Support Items,78,780
+42,Blue Mushroom,2,Support Items,2,24
+43,Mandragora,3,Support Items,40,400
+44,Nitroshroom,2,Support Items,6,60
+45,Devil's Blight,2,Support Items,60,600
+46,Parashroom,3,Support Items,15,150
+47,Toadstool,2,Support Items,8,75
+48,Exciteshroom,3,Support Items,18,180
+49,Bitterbug,1,Support Items,2,20
+50,Flashbug,2,Support Items,48,96
+51,Godbug,4,Support Items,120,320
+52,Thunderbug,4,Support Items,80,300
+53,Baitbug,3,Support Items,2,20
+54,Kelbi Horn,4,Support Items,52,240
+55,Dash Extract,4,Support Items,56,560
+56,Nourishing Extract,4,Support Items,122,1220
+57,Screamer Sac,2,Support Items,15,150
+58,Catalyst,2,Support Items,48,480
+59,Tranq Bomb,3,Support Items,35,350
+60,Flash Pod,2,Support Items,57,572
+61,Screamer Pod,2,Support Items,45,450
+62,Smoke Bomb,2,Support Items,44,100
+63,Poison Smoke Bomb,2,Support Items,60,600
+64,Farcaster,3,Support Items,30,150
+65,Raw Meat,1,Support Items,5,50
+66,Poisoned Meat,2,Support Items,19,188
+67,Tinged Meat,2,Support Items,30,300
+68,Drugged Meat,2,Support Items,32,315
+69,Gunpowder,2,Support Items,45,90
+70,Small Barrel,1,Support Items,8,80
+71,Barrel Bomb,2,Support Items,16,156
+72,Bounce Bomb,2,Support Items,18,150
+73,Mega Bounce Bomb,4,Support Items,68,680
+74,Large Barrel,2,Support Items,21,210
+75,Large Barrel Bomb,3,Support Items,52,518
+76,Mega Barrel Bomb,4,Support Items,80,800
+77,Spider Web,1,Support Items,6,60
+78,Net,2,Support Items,54,108
+79,Trap Tool,3,Support Items,20,200
+80,Pitfall Trap,3,Support Items,200,400
+81,Shock Trap,3,Support Items,160,320
+82,Rolled-up Dung,1,Support Items,10,100
+83,Dung,1,Support Items,1,10
+84,Dung Pod,2,Support Items,20,120
+85,Arowana Bait,2,Support Items,15,150
+86,Gunpowderfish Bait,2,Support Items,15,150
+87,Goldenfish Bait,2,Support Items,30,300
+88,Boomerang,4,Support Items,15,150
+89,Binoculars,1,Support Items,5,50
+90,Powercharm,5,Support Items,3600,36000
+91,Powertalon,5,Support Items,6840,68400
+92,Armorcharm,5,Support Items,2400,24000
+93,Armortalon,5,Support Items,5040,50400
+94,Needleberry,1,Support Items,1,22
+95,Blastnut,1,Support Items,4,40
+96,Dragonstrike Nut,2,Support Items,12,60
+97,Slashberry,1,Support Items,4,40
+98,Latchberry,1,Support Items,4,40
+99,Bomberry,2,Support Items,12,60
+100,Flamenut,2,Support Items,12,60
+101,Blazenut,2,Support Items,12,60
+102,Gunpowder Level 2,2,Support Items,1,16
+103,Gunpowder Level 3,2,Support Items,3,30
+104,Whetfish Fin,2,Support Items,45,135
+105,Whetfish Fin+,4,Support Items,45,135
+106,Sushifish Scale,2,Support Items,45,90
+107,Great Sushifish Scale,4,Support Items,45,90
+108,Gunpowderfish Scale,3,Support Items,150,300
+109,Great Gunpowderfish Scale,4,Support Items,150,300
+110,Burst Arowana Scale,2,Support Items,45,90
+111,Great Burst Arowana Scale,4,Support Items,45,90
+112,Bomb Arowana Scale,2,Support Items,135,270
+113,Great Bomb Arowana Scale,4,Support Items,135,270
+114,Whetstone,4,Fixed Items,0,0
+115,Capture Net,4,Fixed Items,0,0
+116,Fishing Rod,4,Fixed Items,0,0
+117,BBQ Spit,4,Fixed Items,0,0
+118,Ghillie Mantle,4,Specialized Tools,0,0
+119,Temporal Mantle,4,Specialized Tools,0,0
+120,Health Booster,4,Specialized Tools,0,0
+121,Rocksteady Mantle,4,Specialized Tools,0,0
+122,Challenger Mantle,4,Specialized Tools,0,0
+123,Vitality Mantle,4,Specialized Tools,0,0
+124,Fireproof Mantle,4,Specialized Tools,0,0
+125,Waterproof Mantle,4,Specialized Tools,0,0
+126,Iceproof Mantle,4,Specialized Tools,0,0
+127,Thunderproof Mantle,4,Specialized Tools,0,0
+128,Dragonproof Mantle,4,Specialized Tools,0,0
+129,Cleanser Booster,4,Specialized Tools,0,0
+130,Glider Mantle,4,Specialized Tools,0,0
+131,Evasion Mantle,4,Specialized Tools,0,0
+132,Impact Mantle,4,Specialized Tools,0,0
+133,Apothecary Mantle,4,Specialized Tools,0,0
+134,Immunity Mantle,4,Specialized Tools,0,0
+135,Affinity Booster,4,Specialized Tools,0,0
+136,Bandit Mantle,4,Specialized Tools,0,0
+137,Normal Ammo 1,4,Ammo,0,0
+138,Normal Ammo 2,2,Ammo,1,3
+139,Normal Ammo 3,3,Ammo,2,5
+140,Pierce Ammo 1,1,Ammo,2,4
+141,Pierce Ammo 2,2,Ammo,2,8
+142,Pierce Ammo 3,3,Ammo,3,12
+143,Spread Ammo 1,1,Ammo,1,4
+144,Spread Ammo 2,2,Ammo,2,8
+145,Spread Ammo 3,3,Ammo,2,12
+146,Sticky Ammo 1,1,Ammo,2,12
+147,Sticky Ammo 2,2,Ammo,3,24
+148,Sticky Ammo 3,3,Ammo,4,36
+149,Cluster Bomb 1,2,Ammo,6,30
+150,Cluster Bomb 2,3,Ammo,6,60
+151,Cluster Bomb 3,4,Ammo,10,90
+152,Flaming Ammo,2,Ammo,2,20
+153,Water Ammo,2,Ammo,2,20
+154,Thunder Ammo,2,Ammo,2,20
+155,Freeze Ammo,2,Ammo,2,20
+156,Dragon Ammo,3,Ammo,10,100
+157,Poison Ammo 1,2,Ammo,2,15
+158,Poison Ammo 2,3,Ammo,2,30
+159,Paralysis Ammo 1,2,Ammo,3,15
+160,Paralysis Ammo 2,3,Ammo,5,30
+161,Sleep Ammo 1,2,Ammo,2,15
+162,Sleep Ammo 2,3,Ammo,3,30
+163,Exhaust Ammo 1,2,Ammo,3,15
+164,Exhaust Ammo 2,3,Ammo,5,30
+165,Recover Ammo 1,2,Ammo,2,8
+166,Recover Ammo 2,3,Ammo,2,15
+167,Wyvern Ammo,3,Ammo,6,62
+168,Slicing Ammo,2,Ammo,3,12
+169,Tranq Ammo,3,Ammo,4,45
+170,Demon Ammo,4,Ammo,9,1
+171,Armor Ammo,4,Ammo,7,1
+172,(None),1,(None),0,0
+173,Close-range Coating,4,Ammo,0,0
+174,Empty Phial,1,Ammo,1,5
+175,Power Coating,2,Ammo,2,20
+176,Poison Coating,3,Ammo,2,17
+177,Paralysis Coating,3,Ammo,3,26
+178,Sleep Coating,3,Ammo,2,17
+179,Exhaust Coating,4,Ammo,2,19
+180,Blast Coating,3,Ammo,6,20
+181,First-aid Med,1,Supply Items,0,1
+182,First-aid Med+,2,Supply Items,0,1
+183,EZ Ration,1,Supply Items,0,1
+184,EZ Lifepowder,2,Supply Items,0,1
+185,EZ Max Potion,2,Supply Items,0,1
+186,EZ Large Barrel Bomb,3,Supply Items,0,1
+187,EZ Shock Trap,3,Supply Items,0,1
+188,EZ Pitfall Trap,3,Supply Items,0,1
+189,EZ Herbal Powder,4,Supply Items,0,1
+190,EZ Demon Powder,4,Supply Items,0,1
+191,EZ Hardshell Powder,4,Supply Items,0,1
+192,EZ Dung Pod,2,Supply Items,0,1
+193,EZ Flash Pod,2,Supply Items,0,1
+194,EZ Screamer Pod,2,Supply Items,0,1
+195,Throwing Knife,1,Supply Items,0,1
+196,Poison Knife,2,Supply Items,0,1
+197,Sleep Knife,2,Supply Items,0,1
+198,Paralysis Knife,2,Supply Items,0,1
+199,Tranq Knife,3,Supply Items,0,1
+200,EZ Farcaster,3,Supply Items,0,1
+201,EZ Tranq Bomb,3,Supply Items,0,1
+202,Ballista Ammo,4,Supply Items,0,1
+203,One-shot Binder,4,Supply Items,0,1
+204,Cannon Ammo,4,Supply Items,0,0
+205,Iron Ore,4,Materials,60,600
+206,Machalite Ore,4,Materials,160,1600
+207,Dragonite Ore,4,Materials,480,4800
+208,Carbalite Ore,6,Materials,680,6800
+209,Fucium Ore,6,Materials,1020,10200
+210,Earth Crystal,4,Materials,80,800
+211,Coral Crystal,4,Materials,600,6000
+212,Dragonvein Crystal,6,Materials,800,800
+213,Lightcrystal,5,Materials,1150,11500
+214,Novacrystal,7,Materials,2440,24400
+215,Firecell Stone,7,Materials,1720,17200
+216,Aquacore Ore,4,Materials,400,4000
+217,Spiritcore Ore,6,Materials,800,8000
+218,Dreamcore Ore,7,Materials,1200,12000
+219,Dragoncore Ore,8,Materials,2000,20000
+220,Armor Sphere,4,Materials,80,800
+221,Armor Sphere+,5,Materials,200,2000
+222,Advanced Armor Sphere,6,Materials,300,3000
+223,Hard Armor Sphere,7,Materials,400,4000
+224,Heavy Armor Sphere,8,Materials,600,6000
+225,Sturdy Bone,4,Materials,500,5000
+226,Quality Bone,6,Materials,750,7500
+227,Ancient Bone,4,Materials,400,4000
+228,Boulder Bone,4,Materials,400,4000
+229,Coral Bone,4,Materials,800,8000
+230,Warped Bone,4,Materials,800,8000
+231,Brutal Bone,6,Materials,1200,12000
+232,Dragonbone Relic,7,Materials,1600,12000
+233,Unknown Skull,7,Materials,1800,18000
+234,Great Hornfly,5,Materials,200,2000
+235,Sinister Cloth,5,Materials,350,3500
+236,Monster Bone S,4,Materials,30,300
+237,Monster Bone M,4,Materials,300,3000
+238,Monster Bone L,4,Materials,400,4000
+239,Monster Bone+,4,Materials,500,5000
+240,Monster Keenbone,6,Materials,800,8000
+241,Monster Hardbone,6,Materials,1200,12000
+242,Elder Dragon Bone,7,Materials,1600,16000
+243,Sharp Claw,4,Materials,200,2000
+244,Piercing Claw,6,Materials,800,8000
+245,Monster Fluid,4,Materials,200,2000
+246,Monster Broth,6,Materials,800,8000
+247,Poison Sac,4,Materials,600,6000
+248,Toxin Sac,6,Materials,1600,16000
+249,Paralysis Sac,4,Materials,800,8000
+250,Omniplegia Sac,6,Materials,1600,16000
+251,Sleep Sac,4,Materials,800,8000
+252,Coma Sac,6,Materials,1600,16000
+253,Flame Sac,4,Materials,800,8000
+254,Inferno Sac,6,Materials,1600,16000
+255,Aqua Sac,4,Materials,600,6000
+256,Torrent Sac,6,Materials,1600,16000
+257,Frost Sac,4,Materials,1000,10000
+258,Freezer Sac,6,Materials,2400,24000
+259,Electro Sac,4,Materials,1000,10000
+260,Thunder Sac,6,Materials,1600,16000
+261,Bird Wyvern Gem,7,Materials,4000,40000
+262,Wyvern Gem,7,Materials,4000,40000
+263,Elder Dragon Blood,7,Materials,1600,16000
+264,Mosswine Hide,4,Materials,200,2000
+265,Warm Pelt,4,Materials,120,1200
+266,High-quality Pelt,6,Materials,320,3200
+267,Vespoid Shell,4,Materials,160,1600
+268,Vespoid Carapace,6,Materials,460,4600
+269,Vespoid Wing,4,Materials,210,2100
+270,Vespoid Innerwing,6,Materials,560,5600
+271,Hornetaur Shell,4,Materials,260,2600
+272,Hornetaur Wing,4,Materials,310,3100
+273,Hornetaur Head,4,Materials,360,3600
+274,Hornetaur Carapace,6,Materials,560,5600
+275,Hornetaur Innerwing,6,Materials,660,6600
+276,Gajau Skin,4,Materials,220,2200
+277,Gajau Whisker,4,Materials,270,2700
+278,Gajau Scale,6,Materials,420,4200
+279,Grand Gajau Whisker,6,Materials,520,5200
+280,Wingdrake Hide,4,Materials,180,1800
+281,Wingdrake Hide+,6,Materials,380,3800
+282,Barnos Hide+,6,Materials,720,7200
+283,Barnos Talon,6,Materials,820,8200
+284,Kestodon Shell,4,Materials,180,1800
+285,Kestodon Scalp,4,Materials,230,2300
+286,Kestodon Carapace,6,Materials,430,4300
+287,Gastodon Carapace,6,Materials,760,7600
+288,Gastodon Horn,6,Materials,860,8600
+289,Jagras Scale,4,Materials,140,1400
+290,Jagras Hide,4,Materials,180,1800
+291,Jagras Scale+,6,Materials,340,3400
+292,Jagras Hide+,6,Materials,480,4800
+293,Shamos Scale,4,Materials,220,2200
+294,Shamos Hide,4,Materials,280,2800
+295,Shamos Scale+,6,Materials,420,4200
+296,Shamos Hide+,6,Materials,480,4800
+297,Girros Scale,4,Materials,240,2400
+298,Girros Hide,4,Materials,300,3000
+299,Girros Fang,4,Materials,260,2600
+300,Girros Scale+,6,Materials,460,4600
+301,Girros Hide+,6,Materials,520,5200
+302,Great Jagras Scale,4,Materials,260,260
+303,Great Jagras Hide,4,Materials,360,360
+304,Great Jagras Mane,4,Materials,440,440
+305,Great Jagras Claw,4,Materials,420,420
+306,Great Jagras Scale+,6,Materials,860,860
+307,Great Jagras Hide+,6,Materials,1220,1220
+308,Great Jagras Claw+,6,Materials,1620,1620
+309,Kulu-Ya-Ku Scale,4,Materials,290,290
+310,Kulu-Ya-Ku Hide,4,Materials,390,390
+311,Kulu-Ya-Ku Plume,4,Materials,460,460
+312,Kulu-Ya-Ku Beak,4,Materials,490,490
+313,Kulu-Ya-Ku Scale+,6,Materials,890,890
+314,Kulu-Ya-Ku Hide+,6,Materials,1290,1290
+315,Kulu-Ya-Ku Plume+,6,Materials,1660,1660
+316,Kulu-Ya-Ku Beak+,6,Materials,1660,1660
+317,Pukei-Pukei Scale,4,Materials,360,360
+318,Pukei-Pukei Shell,4,Materials,470,470
+319,Pukei-Pukei Quill,4,Materials,640,640
+320,Pukei-Pukei Sac,4,Materials,660,660
+321,Pukei-Pukei Tail,4,Materials,620,620
+322,Pukei-Pukei Scale+,6,Materials,950,950
+323,Pukei-Pukei Carapace,6,Materials,1350,1350
+324,Pukei-Pukei Wing,6,Materials,1700,1700
+325,Pukei-Pukei Sac+,6,Materials,1750,1750
+326,Barroth Shell,4,Materials,330,330
+327,Barroth Ridge,4,Materials,480,480
+328,Barroth Claw,4,Materials,630,630
+329,Barroth Scalp,4,Materials,870,870
+330,Barroth Tail,4,Materials,800,800
+331,Fertile Mud,4,Materials,390,390
+332,Barroth Carapace,6,Materials,870,870
+333,Barroth Ridge+,6,Materials,1270,1270
+334,Barroth Claw+,6,Materials,1670,1670
+335,Jyuratodus Scale,4,Materials,340,340
+336,Jyuratodus Shell,4,Materials,490,490
+337,Jyuratodus Fang,4,Materials,640,640
+338,Jyuratodus Fin,4,Materials,720,720
+339,Jyuratodus Scale+,6,Materials,1040,1040
+340,Jyuratodus Carapace,6,Materials,1540,1540
+341,Jyuratodus Fang+,6,Materials,2040,2040
+342,Jyuratodus Fin+,6,Materials,2120,2120
+343,Tobi-Kadachi Scale,4,Materials,360,360
+344,Tobi-Kadachi Pelt,4,Materials,510,510
+345,Tobi-Kadachi Membrane,4,Materials,800,800
+346,Tobi-Kadachi Claw,4,Materials,660,660
+347,Tobi-Kadachi Electrode,4,Materials,720,720
+348,Tobi-Kadachi Scale+,6,Materials,1050,1050
+349,Tobi-Kadachi Pelt+,6,Materials,1550,1550
+350,Tobi-Kadachi Claw+,6,Materials,1650,1650
+351,Tobi-Kadachi Electrode+,6,Materials,1750,1750
+352,Anjanath Scale,4,Materials,430,430
+353,Anjanath Pelt,4,Materials,630,630
+354,Anjanath Fang,4,Materials,830,830
+355,Anjanath Nosebone,4,Materials,890,890
+356,Anjanath Tail,4,Materials,860,860
+357,Anjanath Plate,5,Materials,2400,2400
+358,Anjanath Scale+,6,Materials,1060,1060
+359,Anjanath Pelt+,6,Materials,1560,1560
+360,Anjanath Fang+,6,Materials,2060,2060
+361,Anjanath Nosebone+,6,Materials,2120,2120
+362,Anjanath Gem,7,Materials,6000,6000
+363,Rathian Scale,4,Materials,460,460
+364,Rathian Shell,4,Materials,660,660
+365,Rathian Webbing,4,Materials,860,860
+366,Rathian Spike,4,Materials,980,980
+367,Rathian Plate,5,Materials,2400,2400
+368,Rathian Scale+,6,Materials,1060,1060
+369,Rathian Carapace,6,Materials,1560,1560
+370,Rathian Spike+,6,Materials,2240,2240
+371,Rathian Ruby,7,Materials,6000,6000
+372,Pink Rathian Scale+,6,Materials,1260,1260
+373,Pink Rathian Carapace,6,Materials,1860,1860
+374,Tzitzi-Ya-Ku Scale,4,Materials,440,440
+375,Tzitzi-Ya-Ku Hide,4,Materials,640,640
+376,Tzitzi-Ya-Ku Claw,4,Materials,840,840
+377,Tzitzi-Ya-Ku Photophore,4,Materials,920,920
+378,Tzitzi-Ya-Ku Scale+,6,Materials,840,840
+379,Tzitzi-Ya-Ku Hide+,6,Materials,1240,1240
+380,Tzitzi-Ya-Ku Claw+,6,Materials,1640,1640
+381,Tzitzi-Ya-Ku Photophore+,6,Materials,1680,1680
+382,Paolumu Pelt,4,Materials,650,650
+383,Paolumu Scale,4,Materials,450,450
+384,Paolumu Shell,4,Materials,950,950
+385,Paolumu Webbing,4,Materials,850,850
+386,Paolumu Pelt+,6,Materials,1570,1570
+387,Paolumu Scale+,6,Materials,1070,1070
+388,Paolumu Carapace+,6,Materials,2140,2140
+389,Paolumu Wing,6,Materials,2070,2070
+390,Great Girros Scale,4,Materials,450,450
+391,Great Girros Hide,4,Materials,650,650
+392,Great Girros Hood,4,Materials,950,950
+393,Great Girros Fang,4,Materials,750,750
+394,Great Girros Tail,4,Materials,850,850
+395,Great Girros Scale+,6,Materials,1060,1060
+396,Great Girros Hide+,6,Materials,1560,1560
+397,Great Girros Hood+,6,Materials,2180,2180
+398,Great Girros Fang+,6,Materials,2060,2060
+399,Radobaan Scale,4,Materials,480,480
+400,Radobaan Shell,4,Materials,680,680
+401,Radobaan Oilshell,4,Materials,960,960
+402,Wyvern Bonemass,4,Materials,880,880
+404,Radobaan Marrow,4,Materials,1120,1120
+405,Radobaan Scale+,6,Materials,1080,1080
+406,Radobaan Carapace,6,Materials,1580,1580
+407,Radobaan Medulla,6,Materials,2240,2240
+408,Legiana Scale,4,Materials,540,540
+409,Legiana Hide,4,Materials,790,790
+410,Legiana Claw,4,Materials,1040,1040
+411,Legiana Webbing,4,Materials,1080,1080
+412,Legiana Tail Webbing,4,Materials,1160,1160
+413,Legiana Plate,5,Materials,3000,3000
+414,Legiana Scale+,6,Materials,1230,1230
+415,Legiana Hide+,6,Materials,1830,1830
+416,Legiana Claw+,6,Materials,2430,2430
+417,Legiana Wing,6,Materials,2460,2460
+418,Legiana Gem,7,Materials,7200,7200
+419,Odogaron Scale,4,Materials,560,560
+420,Odogaron Sinew,4,Materials,810,810
+421,Odogaron Claw,4,Materials,1060,1060
+422,Odogaron Fang,4,Materials,1120,1120
+423,Odogaron Tail,4,Materials,1240,1240
+424,Odogaron Plate,5,Materials,3000,3000
+425,Odogaron Scale+,6,Materials,1240,1240
+426,Odogaron Sinew+,6,Materials,1840,1840
+427,Odogaron Claw+,6,Materials,2440,2440
+428,Odogaron Fang+,6,Materials,2480,2480
+429,Odogaron Gem,7,Materials,7200,7200
+430,Rathalos Scale,4,Materials,590,590
+431,Rathalos Shell,4,Materials,840,840
+432,Rathalos Webbing,4,Materials,1180,1180
+433,Rathalos Tail,4,Materials,1270,1270
+434,Rath Wingtalon,4,Materials,1090,1090
+435,Rathalos Marrow,4,Materials,1360,1360
+436,Rathalos Plate,5,Materials,3000,3000
+437,Rathalos Scale+,6,Materials,1250,1250
+438,Rathalos Carapace,6,Materials,1850,1850
+439,Rathalos Wing,6,Materials,2500,2500
+440,Rathalos Medulla,6,Materials,2600,2600
+441,Rathalos Ruby,7,Materials,7200,7200
+442,Azure Rathalos Scale+,6,Materials,1450,1450
+443,Azure Rathalos Carapace,6,Materials,2150,2150
+444,Azure Rathalos Tail,6,Materials,3000,3000
+445,Azure Rathalos Wing,6,Materials,2850,2850
+446,Diablos Shell,4,Materials,620,620
+447,Diablos Ridge,4,Materials,870,870
+448,Diablos Tailcase,4,Materials,1240,1240
+449,Diablos Fang,4,Materials,1120,1120
+450,Twisted Horn,4,Materials,1360,1360
+451,Diablos Marrow,4,Materials,1480,1480
+452,Diablos Carapace,6,Materials,1260,1260
+453,Diablos Ridge+,6,Materials,1860,1860
+454,Majestic Horn,6,Materials,2980,2980
+455,Blos Medulla,6,Materials,3040,3040
+456,Black Diablos Carapace,6,Materials,1450,1450
+457,Black Diablos Ridge+,6,Materials,2150,2150
+458,Black Spiral Horn+,6,Materials,5700,5700
+459,Kirin Hide,4,Materials,750,750
+460,Kirin Tail,4,Materials,1000,1000
+461,Kirin Mane,4,Materials,1250,1250
+462,Kirin Thunderhorn,4,Materials,1750,1750
+463,Kirin Hide+,7,Materials,1630,1630
+464,Kirin Thundertail,7,Materials,2430,2430
+465,Kirin Azure Horn,7,Materials,3200,3200
+467,Zorah Magdaros Heat Scale,6,Materials,800,800
+468,Zorah Magdaros Carapace,6,Materials,1200,1200
+469,Zorah Magdaros Ridge,6,Materials,1400,1400
+470,Zorah Magdaros Pleura,6,Materials,1600,1600
+472,Zorah Magdaros Magma,6,Materials,3200,3200
+473,Zorah Magdaros Gem,7,Materials,6000,6000
+474,Dodogama Scale+,6,Materials,1030,1030
+475,Dodogama Hide+,6,Materials,1530,1530
+476,Dodogama Jaw,6,Materials,2120,2120
+477,Dodogama Talon,6,Materials,2060,2060
+478,Dodogama Tail,6,Materials,2210,2210
+479,Lavasioth Scale+,6,Materials,1280,1280
+480,Lavasioth Carapace,6,Materials,1880,1880
+481,Lavasioth Fang+,6,Materials,2480,2480
+482,Lavasioth Fin+,6,Materials,2560,2560
+483,Uragaan Scale+,6,Materials,1460,1460
+484,Uragaan Carapace,6,Materials,2160,2160
+485,Uragaan Jaw,6,Materials,2980,2980
+486,Uragaan Scute,6,Materials,2880,2880
+487,Uragaan Marrow,6,Materials,3100,3100
+488,Uragaan Ruby,7,Materials,8400,8400
+489,Lava Nugget,6,Materials,1580,1580
+490,Bazelgeuse Scale+,6,Materials,1600,1600
+491,Bazelgeuse Carapace,6,Materials,2400,2400
+492,Bazelgeuse Tail,6,Materials,3600,3600
+493,Bazelgeuse Fuse,6,Materials,4000,4000
+494,Bazelgeuse Talon,6,Materials,3200,3200
+495,Bazelgeuse Wing,6,Materials,3400,3400
+496,Bazelgeuse Gem,7,Materials,9600,9600
+497,Immortal Dragonscale,7,Materials,2100,2100
+498,Nergigante Carapace,7,Materials,3200,3200
+500,Nergigante Tail,7,Materials,4300,4300
+501,Nergigante Horn+,7,Materials,5000,5000
+502,Nergigante Talon,7,Materials,4500,4500
+503,Nergigante Regrowth Plate,7,Materials,3400,3400
+504,Nergigante Gem,8,Materials,12000,12000
+505,Deceased Scale,7,Materials,2250,2250
+506,Vaal Hazak Carapace,7,Materials,3350,3350
+507,Vaal Hazak Membrane,7,Materials,3500,3500
+508,Vaal Hazak Tail,7,Materials,4900,4900
+509,Vaal Hazak Fang+,7,Materials,4600,4600
+510,Vaal Hazak Talon,7,Materials,4750,4750
+511,Vaal Hazak Wing,7,Materials,4450,4450
+513,Vaal Hazak Gem,8,Materials,12000,12000
+514,Teostra Carapace,7,Materials,3400,3400
+515,Teostra Mane,7,Materials,3400,3400
+516,Teostra Tail,7,Materials,4900,4900
+517,Teostra Horn+,7,Materials,5500,5500
+518,Fire Dragon Scale+,7,Materials,2300,2300
+519,Teostra Claw+,7,Materials,4700,4700
+520,Teostra Webbing,7,Materials,4500,4500
+521,Teostra Powder,7,Materials,3600,3600
+522,Teostra Gem,8,Materials,12000,12000
+523,Daora Carapace,7,Materials,3300,3300
+524,Daora Dragon Scale+,7,Materials,2200,2200
+525,Daora Webbing,7,Materials,4300,4300
+526,Daora Horn+,7,Materials,4500,4500
+527,Daora Tail,7,Materials,4800,4800
+528,Daora Claw+,7,Materials,4400,4400
+529,Daora Gem,8,Materials,12000,12000
+530,Xeno'jiiva Soulscale,7,Materials,3000,3000
+531,Xeno'jiiva Shell,7,Materials,4000,4000
+532,Xeno'jiiva Veil,7,Materials,4300,4300
+533,Xeno'jiiva Tail,7,Materials,6000,6000
+534,Xeno'jiiva Horn,7,Materials,5600,5600
+535,Xeno'jiiva Claw,7,Materials,5300,5300
+536,Xeno'jiiva Wing,7,Materials,5000,5000
+538,Xeno'jiiva Gem,8,Materials,15000,15000
+539,??? Scale,7,Materials,3000,3000
+540,??? Shell,7,Materials,4000,4000
+541,??? Membrane,7,Materials,4300,4300
+542,??? Tail,7,Materials,6000,6000
+543,??? Horn,7,Materials,5600,5600
+544,??? Claw,7,Materials,5300,5300
+545,??? Wing,7,Materials,5000,5000
+546,??? Crystal,7,Materials,4320,4320
+547,??? Gem,8,Materials,15000,15000
+548,Mysterious Feystone,4,Materials,25,90
+549,Glowing Feystone,5,Materials,25,90
+550,Worn Feystone,6,Materials,25,90
+551,Warped Feystone,7,Materials,25,90
+552,Sullied Streamstone,6,Materials,25,90
+553,Shining Streamstone,8,Materials,25,90
+554,Streamstone Shard,6,Materials,1000,10000
+555,Streamstone,7,Materials,2000,20000
+556,Gleaming Streamstone,8,Materials,3000,30000
+557,Warrior's Streamstone: Sword,6,Materials,10000,100000
+558,Warrior's Streamstone: Blade,6,Materials,10000,100000
+559,Warrior's Streamstone: Hammer,6,Materials,10000,100000
+560,Warrior's Streamstone: Lance,6,Materials,10000,100000
+561,Warrior's Streamstone: Axe,6,Materials,10000,100000
+562,Warrior's Streamstone: Shaft,6,Materials,10000,100000
+563,Warrior's Streamstone: Ranged,6,Materials,10000,100000
+564,Hero's Streamstone: Sword,8,Materials,20000,200000
+565,Hero's Streamstone: Blade,8,Materials,20000,200000
+566,Hero's Streamstone: Hammer,8,Materials,20000,200000
+567,Hero's Streamstone: Lance,8,Materials,20000,200000
+568,Hero's Streamstone: Axe,8,Materials,20000,200000
+569,Hero's Streamstone: Shaft,8,Materials,20000,200000
+570,Hero's Streamstone: Ranged,8,Materials,20000,200000
+571,Voucher,4,Materials,500,5000
+572,First Wyverian Print,4,Materials,0,1
+573,Deluxe First Wyverian Print,4,Materials,0,1
+574,Steel Wyverian Print,4,Materials,0,1
+575,Silver Wyverian Print,4,Materials,0,1
+576,Gold Wyverian Print,4,Materials,0,1
+577,Commendation,5,Materials,0,1
+578,High Commendation,7,Materials,0,1
+579,Research Commission Ticket,7,Materials,0,1
+580,Pukei Coin,4,Materials,500,5000
+581,Kulu Coin,4,Materials,500,5000
+582,Rathian Coin,4,Materials,500,5000
+583,Tzitzi Coin,4,Materials,800,8000
+584,Barroth Coin,4,Materials,800,8000
+585,Gama Coin,4,Materials,800,8000
+586,Rathalos Coin,4,Materials,800,8000
+587,Brute Coin,4,Materials,1500,15000
+588,Flying Coin,4,Materials,1500,15000
+589,Pinnacle Coin,4,Materials,800,8000
+590,Hunter King Coin,6,Materials,1200,12000
+591,Ace Hunter Coin,8,Materials,2000,20000
+592,Steel Egg,4,Materials,1000,10000
+593,Silver Egg,4,Materials,10000,100000
+594,Golden Egg,4,Materials,20000,200000
+595,Chipped Scale,4,Materials,500,5000
+596,Large Scale,4,Materials,1000,10000
+597,Beautiful Scale,5,Materials,2000,20000
+598,Lustrous Scale,6,Materials,3000,30000
+599,Glimmering Scale,7,Materials,5000,50000
+600,Bhernastone,4,Materials,400,4000
+601,Dundormarin,4,Materials,800,8000
+602,Loc Lac Ore,5,Materials,1500,15000
+603,Val Habar Quartz,6,Materials,2000,20000
+604,Minegardenite,7,Materials,5000,50000
+605,Golden Scale,4,Materials,1000,10000
+606,Golden Scale+,5,Materials,10000,100000
+607,Platinum Scale,4,Materials,2000,20000
+608,Platinum Scale+,5,Materials,20000,200000
+609,Gilded Scale,4,Materials,500,5000
+610,Gilded Scale+,5,Materials,5000,50000
+611,White Liver,2,Account Items,40,400
+612,Wyvern Tear,3,Account Items,200,2000
+613,Large Wyvern Tear,5,Account Items,500,5000
+614,Dragon Treasure,3,Account Items,800,8000
+616,Sunbloom,2,Account Items,12,120
+617,Shinebloom,3,Account Items,27,270
+618,Goldbloom,4,Account Items,140,1400
+619,Gourmet Shroomcap,2,Account Items,10,100
+620,Exquisite Shroomcap,3,Account Items,25,250
+621,Spirit Shroomcap,4,Account Items,150,1500
+622,Bauble Cactus,2,Account Items,14,140
+623,Jewel Cactus,3,Account Items,28,280
+624,Kingly Cactus,4,Account Items,160,1600
+625,Hardfruit,2,Account Items,12,120
+626,Rockfruit,3,Account Items,24,240
+627,Wildfruit,4,Account Items,145,1450
+628,Super Abalone,2,Account Items,16,160
+629,Choice Abalone,3,Account Items,36,360
+630,Precious Abalone,4,Account Items,210,2100
+631,Light Pearl,2,Account Items,18,180
+632,Deep Pearl,3,Account Items,38,380
+633,Innocent Pearl,4,Account Items,180,1800
+634,Forgotten Fossil,2,Account Items,15,150
+635,Legendary Fossil,3,Account Items,35,350
+636,Mystical Fossil,4,Account Items,200,2000
+637,Underground Fruit,2,Account Items,14,140
+638,Tainted Fruit,3,Account Items,34,340
+639,Elysian Fruit,4,Account Items,190,1900
+640,Gaia Amber,2,Account Items,30,300
+641,Dragonvein Amber,3,Account Items,50,500
+642,Ancient Amber,4,Account Items,250,2500
+643,Blue Beryl,2,Account Items,32,320
+644,True Beryl,3,Account Items,54,540
+645,Abyssal Beryl,4,Account Items,260,2600
+646,Sunkissed Grass,4,Account Items,100,1000
+647,Moonlit Mushroom,4,Account Items,88,880
+648,Dragonbloom,4,Account Items,84,840
+649,Divineapple,4,Account Items,80,800
+650,Violet Abalone,4,Account Items,78,780
+651,Platinum Pearl,4,Account Items,90,900
+652,Wicked Fossil,4,Account Items,110,1100
+653,Heavenberry,4,Account Items,90,900
+654,Twilight Stone,4,Account Items,190,1900
+655,Noahstone,4,Account Items,210,2100
+656,Wyvern Egg,5,Account Items,250,2500
+657,Herbivore Egg,4,Account Items,200,2000
+658,Lump of Meat,4,Account Items,300,3000
+659,Shepherd Hare,2,Endemic Life,7,70
+660,Pilot Hare,4,Endemic Life,77,770
+661,Woodland Pteryx,2,Endemic Life,8,80
+662,Forest Pteryx,4,Endemic Life,200,2000
+663,Cobalt Flutterfly,2,Endemic Life,6,60
+664,Phantom Flutterfly,4,Endemic Life,120,1200
+665,Climbing Joyperch,2,Endemic Life,5,50
+666,Forest Gekko,2,Endemic Life,7,70
+667,Wildspire Gekko,2,Endemic Life,6,60
+668,Gloom Gekko,3,Endemic Life,8,80
+669,Moonlight Gekko,4,Endemic Life,220,2200
+670,Vaporonid,2,Endemic Life,5,50
+671,Scavantula,3,Endemic Life,8,80
+672,Revolture,2,Endemic Life,12,120
+673,Blissbill,2,Endemic Life,15,150
+674,Omenfly,2,Endemic Life,6,60
+675,Augurfly,4,Endemic Life,180,1800
+676,Scalebat,2,Endemic Life,7,70
+677,Dung Beetle,2,Endemic Life,6,60
+678,Bomb Beetle,3,Endemic Life,10,100
+679,Pink Parexus,2,Endemic Life,15,150
+680,Great Pink Parexus,4,Endemic Life,200,2000
+681,Burst Arowana,2,Endemic Life,18,180
+682,Bomb Arowana,2,Endemic Life,20,200
+683,Great Burst Arowana,4,Endemic Life,180,1800
+684,Great Bomb Arowana,4,Endemic Life,200,2000
+685,Elegant Coralbird,3,Endemic Life,8,80
+686,Dapper Coralbird,4,Endemic Life,180,1800
+687,Andangler,3,Endemic Life,20,200
+688,Downy Crake,4,Endemic Life,200,2000
+689,Bristly Crake,4,Endemic Life,800,8000
+690,Hopguppy,2,Endemic Life,3,30
+691,Petricanths,4,Endemic Life,500,500
+692,Paratoad,2,Endemic Life,20,200
+693,Sleeptoad,3,Endemic Life,24,240
+694,Nitrotoad,3,Endemic Life,30,300
+695,Wiggler,3,Endemic Life,12,120
+696,Wiggler Queen,4,Endemic Life,180,1800
+697,Vigorwasp,2,Endemic Life,10,100
+698,Giant Vigorwasp,2,Endemic Life,40,400
+699,Flying Meduso,3,Endemic Life,7,70
+700,Carrier Ant,2,Endemic Life,6,60
+701,Hercudrome,2,Endemic Life,25,250
+702,Gold Hercudrome,2,Endemic Life,200,2000
+703,Prism Hercudrome,4,Endemic Life,500,5000
+704,Emperor Hopper,2,Endemic Life,8,80
+705,Tyrant Hopper,4,Endemic Life,10,100
+706,Flashfly,2,Endemic Life,12,120
+707,Grandfather Mantagrell,3,Endemic Life,25,250
+708,Iron Helmcrab,2,Endemic Life,8,80
+709,Soldier Helmcrab,3,Endemic Life,11,110
+710,Emerald Helmcrab,4,Endemic Life,240,2400
+711,Whetfish,2,Endemic Life,12,120
+712,Great Whetfish,4,Endemic Life,120,1200
+713,Gastronome Tuna,2,Endemic Life,150,1500
+714,Great Gastronome Tuna,4,Endemic Life,400,4000
+715,King Marlin,4,Endemic Life,180,1800
+716,Great King Marlin,4,Endemic Life,560,5600
+717,Goldenfish,3,Endemic Life,30,300
+718,Platinumfish,3,Endemic Life,60,600
+719,Great Goldenfish,4,Endemic Life,150,1500
+720,Great Platinumfish,4,Endemic Life,300,3000
+721,Goldenfry,2,Endemic Life,20,200
+722,Great Goldenfry,4,Endemic Life,200,2000
+723,Sushifish,2,Endemic Life,15,150
+724,Great Sushifish,4,Endemic Life,150,1500
+725,Gunpowderfish,3,Endemic Life,22,220
+726,Great Gunpowderfish,4,Endemic Life,170,1700
+727,Antidote Jewel 1,5,Decorations,100,1000
+728,Antipara Jewel 1,5,Decorations,100,1000
+729,Pep Jewel 1,5,Decorations,100,1000
+730,Steadfast Jewel 1,6,Decorations,400,4000
+731,Antiblast Jewel 1,5,Decorations,100,1000
+732,Suture Jewel 1,5,Decorations,100,1000
+733,Def Lock Jewel 1,5,Decorations,100,1000
+734,Earplug Jewel 3,6,Decorations,400,4000
+735,Wind Resist Jewel 2,6,Decorations,400,4000
+736,Footing Jewel 2,6,Decorations,400,4000
+739,Attack Jewel 1,7,Decorations,400,4000
+740,Defense Jewel 1,6,Decorations,400,4000
+741,Vitality Jewel 1,6,Decorations,400,4000
+742,Recovery Jewel 1,6,Decorations,400,4000
+743,Fire Res Jewel 1,5,Decorations,100,1000
+744,Water Res Jewel 1,5,Decorations,100,1000
+745,Ice Res Jewel 1,5,Decorations,100,1000
+746,Thunder Res Jewel 1,5,Decorations,100,1000
+747,Dragon Res Jewel 1,5,Decorations,100,1000
+748,Resistor Jewel 1,6,Decorations,400,4000
+749,Blaze Jewel 1,6,Decorations,400,4000
+750,Stream Jewel 1,6,Decorations,400,4000
+751,Frost Jewel 1,6,Decorations,400,4000
+752,Bolt Jewel 1,6,Decorations,400,4000
+753,Dragon Jewel 1,6,Decorations,400,4000
+754,Venom Jewel 1,6,Decorations,400,4000
+755,Paralyzer Jewel 1,7,Decorations,2000,20000
+756,Sleep Jewel 1,7,Decorations,2000,20000
+757,Blast Jewel 1,7,Decorations,2000,20000
+758,Poisoncoat Jewel 3,6,Decorations,400,4000
+759,Paracoat Jewel 3,7,Decorations,2000,20000
+760,Sleepcoat Jewel 3,7,Decorations,2000,20000
+761,Blastcoat Jewel 3,7,Decorations,2000,20000
+763,Release Jewel 3,8,Decorations,4000,40000
+764,Expert Jewel 1,6,Decorations,2000,20000
+765,Critical Jewel 2,8,Decorations,4000,40000
+766,Tenderizer Jewel 2,6,Decorations,400,4000
+767,Charger Jewel 2,8,Decorations,4000,40000
+768,Handicraft Jewel 3,8,Decorations,4000,40000
+769,Draw Jewel 2,8,Decorations,4000,40000
+770,Destroyer Jewel 2,6,Decorations,400,4000
+771,KO Jewel 2,6,Decorations,400,4000
+772,Drain Jewel 1,6,Decorations,400,4000
+774,Flight Jewel 2,5,Decorations,100,1000
+775,Throttle Jewel 2,7,Decorations,2000,20000
+776,Challenger Jewel 2,7,Decorations,2000,20000
+777,Flawless Jewel 2,7,Decorations,2000,20000
+778,Potential Jewel 2,7,Decorations,2000,20000
+779,Fortitude Jewel 1,5,Decorations,100,1000
+780,Furor Jewel 2,7,Decorations,2000,20000
+781,Sonorous Jewel 1,6,Decorations,400,4000
+782,Magazine Jewel 2,7,Decorations,2000,20000
+783,Trueshot Jewel 1,7,Decorations,2000,20000
+784,Artillery Jewel 1,8,Decorations,4000,40000
+785,Heavy Artillery Jewel 1,5,Decorations,100,1000
+786,Sprinter Jewel 2,8,Decorations,4000,40000
+787,Physique Jewel 2,6,Decorations,400,4000
+789,Refresh Jewel 2,7,Decorations,2000,20000
+790,Hungerless Jewel 1,5,Decorations,100,1000
+791,Evasion Jewel 2,6,Decorations,400,4000
+792,Jumping Jewel 2,6,Decorations,400,4000
+793,Ironwall Jewel 1,7,Decorations,2000,20000
+794,Sheath Jewel 1,6,Decorations,400,4000
+795,Friendship Jewel 1,6,Decorations,400,4000
+796,Enduring Jewel 1,6,Decorations,400,4000
+797,Satiated Jewel 1,5,Decorations,100,1000
+798,Gobbler Jewel 1,6,Decorations,400,4000
+799,Grinder Jewel 1,6,Decorations,400,4000
+800,Bomber Jewel 1,6,Decorations,400,4000
+801,Fungiform Jewel 1,8,Decorations,4000,40000
+808,Protection Jewel 1,5,Decorations,50,500
+809,Meowster Jewel 1,5,Decorations,100,1000
+810,Botany Jewel 1,5,Decorations,100,1000
+811,Geology Jewel 1,5,Decorations,100,1000
+812,Mighty Jewel 2,7,Decorations,2000,20000
+813,Stonethrower Jewel 1,6,Decorations,400,4000
+814,Tip Toe Jewel 1,5,Decorations,100,1000
+815,Brace Jewel 3,6,Decorations,400,4000
+819,Smoke Jewel 1,5,Decorations,100,1000
+820,Mirewalker Jewel 1,5,Decorations,100,1000
+824,Specimen Jewel 1,5,Decorations,100,1000
+825,Miasma Jewel 1,5,Decorations,100,1000
+826,Scent Jewel 1,5,Decorations,100,1000
+828,Intimidator Jewel 1,5,Decorations,100,1000
+832,Slider Jewel 2,6,Decorations,400,4000
+833,Medicine Jewel 1,6,Decorations,400,4000
+834,Forceshot Jewel 3,7,Decorations,2000,20000
+835,Pierce Jewel 3,8,Decorations,4000,40000
+836,Spread Jewel 3,8,Decorations,4000,40000
+837,Enhancer Jewel 2,7,Decorations,2000,20000
+838,Crisis Jewel 1,5,Decorations,100,1000
+839,Dragonseal Jewel 3,7,Decorations,2000,20000
+842,Maintenance Jewel 1,5,Decorations,100,1000
+843,Vigorwasp Delivery,4,Palico Gadgets,0,0
+844,Vigorwasp Station,4,Palico Gadgets,0,0
+845,Flashfly Cage,4,Palico Gadgets,0,0
+846,Thunderbug Cage,4,Palico Gadgets,0,0
+847,Shieldspire Taunt,4,Palico Gadgets,0,0
+848,Shieldspire Bash,4,Palico Gadgets,0,0
+849,Coral Cheerhorn,4,Palico Gadgets,0,0
+850,Coral Cheerbongo,4,Palico Gadgets,0,0
+851,Plunderblade,4,Palico Gadgets,0,0
+852,Palarang,4,Palico Gadgets,0,0
+853,Meowlotov Assault,4,Palico Gadgets,0,0
+854,Rath-of-Meow,4,Palico Gadgets,0,0
+859,Stone,1,Slinger Ammo,0,0
+860,Redpit,1,Slinger Ammo,0,0
+861,Brightmoss,1,Slinger Ammo,0,0
+862,Scatternut,1,Slinger Ammo,0,0
+863,Torch Pod,1,Slinger Ammo,0,0
+864,Bomb Pod,1,Slinger Ammo,0,0
+865,Thorn Pod,1,Slinger Ammo,0,0
+866,Piercing Pod,1,Slinger Ammo,0,0
+867,Dragon Pod,1,Slinger Ammo,0,0
+868,Crystalburst,1,Slinger Ammo,0,0
+869,Puddle Pod,1,Slinger Ammo,0,0
+870,Chillshroom,3,Materials,18,180
+871,Tailraider Voucher,4,Materials,200,2000
+872,Emerald Shell,4,Materials,1500,15000
+873,Gajalaka Sketch,4,Materials,200,2000
+874,Mighty Bow Jewel 2,8,Decorations,4000,40000
+875,Mind's Eye Jewel 2,8,Decorations,4000,40000
+876,Shield Jewel 2,7,Decorations,2000,20000
+877,Sharp Jewel 2,7,Decorations,2000,20000
+878,Elementless Jewel 2,6,Decorations,400,4000
+879,Deviljho Scale,6,Materials,1600,1600
+880,Deviljho Hide,6,Materials,2400,2400
+881,Deviljho Tallfang,6,Materials,3200,3200
+882,Deviljho Talon,6,Materials,3400,3400
+883,Deviljho Scalp,6,Materials,4000,4000
+884,Deviljho Tail,6,Materials,3600,3600
+885,Deviljho Saliva,6,Materials,2200,2200
+886,Deviljho Gem,7,Materials,9600,9600
+887,Kulve Taroth Golden Scale,7,Materials,3000,3000
+888,Kulve Taroth Golden Shell,7,Materials,4000,4000
+889,Kulve Taroth Golden Nugget,7,Materials,1000,1000
+890,Kulve Taroth Golden Spiralhorn,7,Materials,6000,6000
+891,Kulve Taroth Golden Tailshell,7,Materials,5000,5000
+892,Kulve Taroth Golden Glimstone,8,Materials,15000,15000
+893,Golden Fragment,4,Materials,750,750
+894,Golden Chunk,4,Materials,1500,1500
+895,Lunastra Scale+,7,Materials,2300,2300
+896,Lunastra Wing,7,Materials,4500,4500
+897,Lunastra Gem,8,Materials,12000,12000
+898,Lunastra Carapace,7,Materials,3400,3400
+899,Lunastra Mane,7,Materials,3400,3400
+900,Lunastra Tail,7,Materials,4900,4900
+901,Lunastra Horn,7,Materials,5500,5500
+902,Behemoth Mane,7,Materials,8000,8000
+903,Behemoth Bone,7,Materials,7000,7000
+904,Behemoth Great Horn,8,Materials,15000,15000
+905,Behemoth Shearclaw,8,Materials,10000,10000
+906,Behemoth Tail,8,Materials,12000,12000
+907,Aetheryte Shard,7,Materials,5000,5000
+908,Spring Blossom Ticket,4,Materials,200,2000
+909,Summer Twilight Ticket,4,Materials,200,2000
+910,Autumn Harvest Ticket,4,Materials,200,2000
+911,Winter Star Ticket,4,Materials,200,2000
+912,Appreciation Ticket,4,Materials,200,2000
+913,Spring Insect Field Guide,4,Materials,200,2000
+914,Summer Insect Field Guide,4,Materials,200,2000
+915,Vaal Hazak Ticket,8,Materials,800,8000
+916,Kirin Ticket,8,Materials,800,8000
+917,Teostra Ticket,8,Materials,800,8000
+918,Kushala Daora Ticket,8,Materials,800,8000
+919,Nergigante Ticket,8,Materials,800,8000
+920,Zorah Magdaros Ticket,8,Materials,800,8000
+921,Xeno'jiiva Ticket,8,Materials,800,8000
+922,Black Bandage,6,Materials,400,4000
+923,Black Crystal Ticket,6,Materials,400,4000
+924,Kulu-Ya-Ku Ticket,6,Materials,400,4000
+925,Wiggler Ticket,6,Materials,400,4000
+928,Mega Man Ticket,6,Materials,400,4000
+929,SFV Ticket,4,Materials,200,2000
+930,SFV Ticket III,6,Materials,400,4000
+931,SFV Ticket II,6,Materials,400,4000
+932,Azure Star Shard,4,Materials,200,2000
+933,Azure Stargem,6,Materials,400,4000
+934,Red Orb,8,Materials,800,8000
+935,Master Craftsman's Blueprint,6,Materials,800,8000
+936,Dissolved Weapon,4,Materials,400,4000
+937,Melded Weapon,5,Materials,500,5000
+938,Sublimated Weapon,6,Materials,600,6000
+939,Bushi Ticket,4,Materials,400,4000
+940,Blossom Fireworks,3,Materials,7,70
+941,Twilight Fireworks,3,Materials,7,70
+942,Harvest Fireworks,3,Materials,7,70
+943,Star Fireworks,3,Materials,7,70
+944,Appreciation Fireworks,3,Materials,7,70
+945,Gold Scalebat,2,Endemic Life,11,110
+946,Gold Helmcrab,3,Endemic Life,14,140
+947,Shiny Gold Helmcrab,4,Endemic Life,120,1200
+948,Copper Calappa,3,Endemic Life,8,80
+949,Gold Calappa,4,Endemic Life,100,1000
+950,Tsuchinoko,4,Endemic Life,500,5000
+951,Cactuar Cutting,4,Endemic Life,85,850
+952,Gold Chip Fragment,4,Materials,300,3000
+953,Gold Nugget Fragment,4,Materials,900,9000
+955,Senu's Feather,4,Materials,400,4000
+956,Igni Sign,4,Support Items,0,0
+957,Hunter Runestone,4,Support Items,0,0
+958,Nekker,4,Endemic Life,350,3500
+961,Downy Crake Ticket,4,Materials,400,4000
+962,Bristly Crake Ticket,4,Materials,400,4000
+963,First Fleet Ticket,4,Materials,400,4000
+964,Fifth Fleet Ticket,4,Materials,400,4000
+965,Lunastra Ticket,8,Materials,800,8000
+966,Transparent Stone,5,Account Items,500,5000
+967,Flowering Cactuar Cutting,4,Endemic Life,1000,10000
+968,Cactuar,4,Endemic Life,300,3000
+969,Faux Ticket,4,Materials,400,4000
+970,Faux Ticket II,4,Materials,400,4000
+971,Faux Ticket III,4,Materials,400,4000
+972,Beetle Ticket,4,Materials,400,4000
+975,Glamour Prism,8,Materials,800,8000
+977,Incandescent Weapon,7,Materials,700,7000
+978,Kulve Taroth Emperor Nugget,8,Materials,2000,2000
+979,Leshen Claw,6,Materials,3000,3000
+980,Ancient Leshen Claw,7,Materials,3600,3600
+981,Leshen Skull,7,Materials,4000,4000
+982,Ancient Leshen Skull,8,Materials,5000,5000
+983,Cursed Bone,6,Materials,2800,2800
+984,Ancient Cursed Bone,7,Materials,3400,3400
+985,Leshen Antlers,6,Materials,3400,3400
+986,Ancient Leshen Antlers,7,Materials,4000,4000
+987,Leshen Resin,6,Materials,2600,2600
+988,Mutagen,8,Materials,9600,9600
+989,Nekker Card (Weapon),8,Materials,0,0
+990,Nekker Card (Armor),8,Materials,0,0
+999,Assassin's Hood,4,Specialized Tools,0,0
+1000,Hot Drink,1,Support Items,25,250
+1003,Gourmet Voucher,5,Materials,1000,10000
+1004,Surveyor Set,4,Fixed Items,0,0
+1005,Raider Ride,4,Fixed Items,0,0
+1006,Hot Pepper,1,Support Items,14,140
+1007,Gloamgrass Bud,4,Support Items,40,400
+1008,Dust of Life,6,Support Items,690,6900
+1009,Crystalized Bone Shard,9,Account Items,100,1000
+1010,Crystalized Monster Bone,10,Account Items,250,2500
+1011,Crystalized Elder Dragon Bone,11,Account Items,700,7000
+1022,Vigorwasp Revival,4,Palico Gadgets,0,0
+1023,Boombug Cage,4,Palico Gadgets,0,0
+1024,Shieldspire Stooge,4,Palico Gadgets,0,0
+1025,Coral Sonicgong,4,Palico Gadgets,0,0
+1026,Mount & Plunder,4,Palico Gadgets,0,0
+1027,Meowcano,4,Palico Gadgets,0,0
+1028,zenny,1,Currencies,1,1
+1029,Research Points,1,Currencies,1,1
+1030,Eltalite Ore,9,Materials,1280,12800
+1031,Meldspar Ore,9,Materials,1920,19200
+1032,Spiritvein Crystal,9,Materials,1280,12800
+1034,Purecrystal,10,Materials,7320,73200
+1036,Bathycite Ore,9,Materials,1620,16200
+1037,Gracium,9,Materials,1540,15400
+1038,Phantomcore Ore,10,Materials,3200,32000
+1039,Shadowcore Ore,11,Materials,4000,40000
+1040,King Armor Sphere,9,Materials,700,7000
+1041,True Armor Sphere,10,Materials,800,8000
+1042,Thick Bone,9,Materials,1200,12000
+1043,Frozen Bone,9,Materials,2400,24000
+1044,Dragonbone Artifact,10,Materials,2000,20000
+1048,Ancient Fragment,9,Materials,540,5400
+1049,Monster Toughbone,9,Materials,2000,20000
+1050,Monster Slogbone,10,Materials,2300,23000
+1051,Monster Solidbone,10,Materials,2600,26000
+1053,Large Elder Dragon Bone,12,Materials,3200,32000
+1054,Tough Claw,9,Materials,2000,20000
+1055,Monster Essence,9,Materials,2000,20000
+1056,Deadly Poison Sac,9,Materials,3400,34000
+1057,Ultraplegia Sac,9,Materials,3400,34000
+1058,Torpor Sac,9,Materials,3400,34000
+1059,Conflagrant Sac,9,Materials,3400,34000
+1060,Flood Sac,9,Materials,3400,34000
+1061,Cryo Sac,9,Materials,4200,42000
+1062,Lightning Sac,9,Materials,3400,34000
+1063,Fey Wyvern Gem,9,Materials,8000,80000
+1064,Large Wyvern Gem,9,Materials,8000,80000
+1065,Pure Dragon Blood,11,Materials,4800,48000
+1066,Large Elder Dragon Gem,12,Materials,21000,210000
+1068,Prized Pelt,9,Materials,1020,10200
+1069,Anteka Antler,9,Materials,460,4600
+1071,Vespoid Razorwing,9,Materials,1960,19600
+1073,Hornetaur Razorwing,9,Materials,2120,21200
+1075,Gajau Thickhide,9,Materials,1680,16800
+1076,Steel Gajau Whisker,9,Materials,1920,19200
+1077,Wingdrake Finehide,9,Materials,1240,12400
+1078,Barnos Hardclaw,9,Materials,2280,22800
+1080,Cortos Hardclaw,9,Materials,1450,14500
+1081,Kestodon Husk,9,Materials,1320,13200
+1083,Gastodon Husk,9,Materials,2140,21400
+1085,Jagras Shard,9,Materials,960,9600
+1087,Shamos Shard,9,Materials,1580,15800
+1089,Girros Shard,9,Materials,1760,17600
+1091,Wulg Thickfur,9,Materials,1240,12400
+1093,Great Jagras Shard,9,Materials,1320,13200
+1094,Great Jagras Thickhide,9,Materials,1840,1840
+1095,Great Jagras Hardclaw,9,Materials,2440,24400
+1096,Great Jagras Mane+,9,Materials,2480,24800
+1097,Kulu-Ya-Ku Shard,9,Materials,1350,13500
+1098,Kulu-Ya-Ku Thickhide,9,Materials,1950,19500
+1099,Large Kulu-Ya-Ku Plume,9,Materials,2500,25000
+1100,Large Kulu-Ya-Ku Beak,9,Materials,2550,25500
+1101,Pukei-Pukei Shard,9,Materials,1580,15800
+1102,Pukei-Pukei Cortex,9,Materials,2220,22200
+1103,Pukei-Pukei Fellwing,9,Materials,2920,29200
+1104,Large Pukei-Pukei Sac,9,Materials,2980,29800
+1105,Pukei-Pukei Lash,9,Materials,2860,28600
+1106,Coral Pukei-Pukei Shard,9,Materials,2340,23400
+1107,Coral Pukei-Pukei Cortex,9,Materials,3360,33600
+1108,Coral Pukei-Pukei Fellwing,9,Materials,4460,44600
+1109,Large Coral Pukei-Pukei Sac,9,Materials,4540,45400
+1110,Coral Pukei-Pukei Lash,9,Materials,4380,43800
+1111,Barroth Cortex,9,Materials,1470,14700
+1112,Barroth Chine,9,Materials,2170,21700
+1113,Barroth Hardclaw,9,Materials,2870,28700
+1114,Barroth Crown,9,Materials,3430,34300
+1115,Barroth Lash,9,Materials,3280,32800
+1116,Rich Mud,9,Materials,1610,16100
+1117,Jyuratodus Shard,9,Materials,1480,14800
+1118,Jyuratodus Cortex,9,Materials,2180,21800
+1119,Jyuratodus Hardfang,9,Materials,2880,28800
+1120,Jyuratodus Grandfin,9,Materials,3040,30400
+1121,Beotodus Shard,9,Materials,1530,15300
+1122,Beotodus Cortex,9,Materials,2230,22300
+1123,Beotodus Hardhorn,9,Materials,2930,29300
+1124,Beotodus Grandfin,9,Materials,3190,31900
+1125,Tobi-Kadachi Shard,9,Materials,1490,14900
+1126,Tobi-Kadachi Thickfur,9,Materials,2190,21900
+1127,Tobi-Kadachi Membrane+,9,Materials,3200,32000
+1128,Tobi-Kadachi Hardclaw,9,Materials,2890,28900
+1129,Tobi-Kadachi Cathode,9,Materials,3070,30700
+1130,Viper Tobi-Kadachi Shard,9,Materials,2190,21900
+1131,Viper Tobi-Kadachi Thickfur,9,Materials,3290,32900
+1132,Viper Tobi-Kadachi Membrane+,9,Materials,4700,47000
+1133,Viper Tobi-Kadachi Hardclaw,9,Materials,4390,43900
+1134,Viper Tobi-Kadachi Thorn,9,Materials,4570,45700
+1135,Banbaro Cortex,9,Materials,1540,15400
+1136,Banbaro Chine,9,Materials,2240,22400
+1137,Banbaro Great Horn,9,Materials,2940,29400
+1138,Banbaro Lash,9,Materials,3220,32200
+1139,Anjanath Shard,9,Materials,2160,21600
+1140,Anjanath Fur,9,Materials,3260,32600
+1141,Anjanath Hardfang,9,Materials,4360,43600
+1142,Heavy Anjanath Nosebone,9,Materials,4480,44800
+1143,Anjanath Lash,9,Materials,4420,44200
+1144,Anjanath Mantle,11,Materials,12000,120000
+1145,Fulgur Anjanath Shard,10,Materials,2900,29000
+1146,Fulgur Anjanath Thickfur,10,Materials,4400,44000
+1147,Fulgur Anjanath Hardfang,10,Materials,5900,59000
+1148,Heavy Fulgur Anjanath Nosebone,10,Materials,6100,61000
+1149,Fulgur Anjanath Lash,10,Materials,6000,60000
+1150,Fulgur Anjanath Mantle,11,Materials,15000,150000
+1151,Rathian Shard,9,Materials,2170,21700
+1152,Rathian Cortex,9,Materials,3270,32700
+1153,Rathian Weave,9,Materials,4370,43700
+1154,Rathian Surspike,9,Materials,4510,45100
+1155,Rathian Mantle,11,Materials,12000,120000
+1156,Pink Rathian Shard,9,Materials,2430,24300
+1157,Pink Rathian Cortex,9,Materials,3530,35300
+1158,Gold Rathian Shard,11,Materials,4350,43500
+1159,Gold Rathian Cortex,11,Materials,6650,66500
+1160,Gold Rathian Surspike,11,Materials,9150,91500
+1161,Tzitzi-Ya-Ku Shard,9,Materials,1300,13000
+1162,Tzitzi-Ya-Ku Thickhide,9,Materials,1900,19000
+1163,Tzitzi-Ya-Ku Hardclaw,9,Materials,2500,25000
+1164,Tzitzi-Ya-Ku Photomembrane,9,Materials,2600,26000
+1165,Paolumu Thickfur,9,Materials,3240,32400
+1166,Paolumu Shard,9,Materials,2140,21400
+1167,Paolumu Cortex,9,Materials,4380,43800
+1168,Paolumu Fellwing,9,Materials,4340,43400
+1169,Nightshade Paolumu Thickfur,9,Materials,3300,33000
+1170,Nightshade Paolumu Shard,9,Materials,2200,22000
+1171,Nightshade Paolumu Fellwing,9,Materials,4400,44000
+1172,Great Girros Shard,9,Materials,1310,13100
+1173,Great Girros Thickhide,9,Materials,1910,19100
+1174,Great Girros Hardhood,9,Materials,2730,27300
+1175,Great Girros Hardfang,9,Materials,2130,21300
+1176,Great Girros Lash,9,Materials,2510,25100
+1177,Radobaan Shard,9,Materials,2150,21500
+1178,Radobaan Cortex,9,Materials,3250,32500
+1179,Radobaan Oilshell+,9,Materials,4400,44000
+1180,Large Wyvern Bonemass,9,Materials,4350,43500
+1181,Legiana Shard,10,Materials,2840,28400
+1182,Legiana Thickhide,10,Materials,4340,43400
+1183,Legiana Hardclaw,10,Materials,5840,58400
+1184,Legiana Fellwing,10,Materials,5880,58800
+1185,Legiana Tail Webbing+,10,Materials,5920,59200
+1186,Legiana Mantle,11,Materials,15000,150000
+1188,Rimed Hide,10,Materials,5460,54600
+1189,Obsidian Icetalon,10,Materials,7360,73600
+1190,Stark Wing,10,Materials,7420,74200
+1193,Odogaron Shard,10,Materials,2850,28500
+1194,Hard Odogaron Sinew,10,Materials,4350,43500
+1195,Odogaron Hardclaw,10,Materials,5850,58500
+1196,Odogaron Hardfang,10,Materials,5900,59000
+1197,Odogaron Lash,10,Materials,6000,6000
+1198,Odogaron Mantle,11,Materials,15000,150000
+1199,Ebony Odogaron Shard,10,Materials,3580,35800
+1200,Hard Ebony Odogaron Sinew,10,Materials,5480,54800
+1201,Ebony Odogaron Hardclaw,10,Materials,7380,73800
+1202,Ebony Odogaron Hardfang,10,Materials,7460,74600
+1203,Ebony Odogaron Lash,10,Materials,7620,76200
+1204,Ebony Odogaron Mantle,11,Materials,18000,180000
+1205,Rathalos Shard,10,Materials,2870,28700
+1206,Rathalos Cortex,10,Materials,4370,43700
+1207,Rathalos Fellwing,10,Materials,5940,59400
+1208,Rathalos Lash,10,Materials,6010,60100
+1209,Rath Wingtalon+,10,Materials,5870,58700
+1210,Rathalos Mantle,11,Materials,15000,150000
+1211,Azure Rathalos Shard,10,Materials,3550,35500
+1212,Azure Rathalos Cortex,10,Materials,5450,54500
+1213,Azure Rathalos Lash,10,Materials,7500,75000
+1214,Azure Rathalos Fellwing,10,Materials,7350,73500
+1215,Silver Rathalos Shard,11,Materials,4370,43700
+1216,Silver Rathalos Cortex,11,Materials,6670,66700
+1217,Silver Rathalos Fellwing,11,Materials,9140,91400
+1218,Silver Rathalos Lash,11,Materials,9480,94800
+1219,Rath Gleam,11,Materials,8970,89700
+1220,Diablos Cortex,10,Materials,2880,28800
+1221,Diablos Chine,10,Materials,4380,43800
+1222,Diablos Tailcase+,10,Materials,5960,59600
+1223,Twisted Stouthorn,10,Materials,7540,75400
+1224,Diablos Hardhorn,11,Materials,15000,150000
+1225,Black Diablos Cortex,10,Materials,3540,35400
+1226,Black Diablos Chine,10,Materials,5440,54400
+1227,Blackcurl Stouthorn,10,Materials,8140,81400
+1228,Dodogama Shard,9,Materials,1520,15200
+1229,Dodogama Thickhide,9,Materials,2220,22200
+1230,Dodogama Mandible,9,Materials,3280,32800
+1231,Dodogama Hardclaw,9,Materials,3040,30400
+1232,Dodogama Lash,9,Materials,3520,35200
+1233,Lavasioth Shard,10,Materials,2860,28600
+1234,Lavasioth Cortex,10,Materials,4360,43600
+1235,Lavasioth Hardfang,10,Materials,5860,58600
+1236,Lavasioth Grandfin,10,Materials,5920,59200
+1237,Uragaan Shard,10,Materials,2890,28900
+1238,Uragaan Cortex,10,Materials,4390,43900
+1239,Uragaan Jaw+,10,Materials,6070,60700
+1240,Uragaan Scute+,10,Materials,5470,54700
+1241,Uragaan Pallium,11,Materials,15000,150000
+1242,Barioth Cortex,10,Materials,2910,29100
+1243,Barioth Thickfur,10,Materials,4410,44100
+1244,Barioth Hardclaw,10,Materials,5910,59100
+1245,Barioth Greatspike,10,Materials,6020,60200
+1246,Barioth Lash,10,Materials,6130,61300
+1247,Amber Hardfang,10,Materials,6240,62400
+1248,Nargacuga Shard,10,Materials,2940,29400
+1249,Nargacuga Blackfur+,10,Materials,4440,44400
+1250,Nargacuga Lash,10,Materials,6220,62200
+1251,Nargacuga Tailspear,10,Materials,6340,63400
+1252,Nargacuga Cutwing+,10,Materials,5940,59400
+1253,Nargacuga Hardfang,10,Materials,6080,60800
+1254,Nargacuga Mantle,11,Materials,15000,150000
+1255,Tigrex Shard,10,Materials,2920,29200
+1256,Tigrex Cortex,10,Materials,4420,44200
+1257,Tigrex Lash,10,Materials,6160,61600
+1258,Tigrex Hardclaw,10,Materials,6040,60400
+1259,Tigrex Hardfang,10,Materials,5920,59200
+1260,Tigrex Mantle,11,Materials,15000,150000
+1261,Brute Tigrex Shard,10,Materials,3640,36400
+1262,Brute Tigrex Cortex,10,Materials,5540,55400
+1263,Brute Tigrex Hardclaw,10,Materials,7440,74400
+1264,Brute Tigrex Hardfang,10,Materials,7720,77200
+1265,Glavenus Shard,10,Materials,2930,29300
+1266,Glavenus Cortex,10,Materials,4430,44300
+1267,Glavenus Hardfang,10,Materials,5930,59300
+1268,Glavenus Hellshell,10,Materials,6190,61900
+1269,Glavenus Tailedge,10,Materials,6450,64500
+1270,Molten Bursa,10,Materials,6060,60600
+1271,Glavenus Mantle,11,Materials,15000,150000
+1272,Acidic Glavenus Shard,10,Materials,3570,35700
+1273,Acidic Glavenus Cortex,10,Materials,5470,54700
+1274,Acidic Glavenus Hardfang,10,Materials,7370,73700
+1275,Acidic Glavenus Spineshell,10,Materials,7510,75100
+1276,Acidic Glavenus Tailedge,10,Materials,7650,76500
+1277,Honed Acidcryst,10,Materials,7440,74400
+1279,Brachydios Cortex,10,Materials,2950,29500
+1280,Fine Brachydios Ebonshell,10,Materials,4450,44500
+1281,Brachydios Crown,10,Materials,5950,59500
+1282,Glowing Slime,10,Materials,4600,46000
+1283,Brachydios Pounder+,10,Materials,6100,61000
+1284,Brachydios Lash,10,Materials,6250,62500
+1285,Brachydios Pallium,11,Materials,15000,150000
+1286,Brach Warhead,11,Materials,10600,106000
+1287,Flashpoint Slime,11,Materials,7900,79000
+1288,Brach Obliterator,11,Materials,10900,109000
+1289,Immortal Reactor,12,Materials,24000,240000
+1290,Garuga Shard,10,Materials,3620,36200
+1291,Garuga Cortex,10,Materials,5520,55200
+1292,Garuga Auricle,10,Materials,5920,59200
+1293,Fancy Beak,10,Materials,6040,60400
+1294,Garuga Fellwing,10,Materials,7540,75400
+1295,Garuga Lash,10,Materials,7660,76600
+1296,Garuga Silverpelt,10,Materials,7420,74200
+1297,Zinogre Cortex,9,Materials,5560,55600
+1298,Zinogre Electrofur+,9,Materials,3660,36600
+1299,Zinogre Hardhorn,9,Materials,7780,77800
+1300,Zinogre Hardclaw,9,Materials,7460,74600
+1301,Zinogre Lash,9,Materials,8100,81000
+1302,Zinogre Deathly Shocker,9,Materials,7620,76200
+1303,Fulgurbug,10,Materials,4600,46000
+1304,Zinogre Skymerald,11,Materials,18000,180000
+1305,Stygian Zinogre Cortex,9,Materials,6630,66300
+1306,Stygian Zinogre Dragonlocks,9,Materials,4330,43300
+1307,Stygian Zinogre Hardhorn,9,Materials,9190,91900
+1308,Stygian Zinogre Hardclaw,9,Materials,8930,89300
+1309,Stygian Zinogre Lash,9,Materials,9450,94500
+1310,Stygian Zinogre Dragonhold,9,Materials,9060,90600
+1311,Dracophage Bug,10,Materials,5520,55200
+1312,Stygian Zinogre Skymerald,11,Materials,21000,210000
+1313,Bazelgeuse Shard,11,Materials,4220,42200
+1314,Flickering Silvershell,11,Materials,6520,65200
+1315,Bazelgeuse Flail,11,Materials,8880,88800
+1316,Distilled Blast Fluid,11,Materials,8920,89200
+1317,Bazelgeuse Hardclaw,11,Materials,8840,88400
+1318,Scorching Silverwing,11,Materials,8860,88600
+1319,Bazelgeuse Mantle,11,Materials,21000,210000
+1320,Deviljho Shard,11,Materials,4240,42400
+1321,Deviljho Blackpiel,11,Materials,6540,65400
+1323,Vile Fang,11,Materials,9000,90000
+1324,Deviljho Ripper,11,Materials,8920,89200
+1325,Deviljho Flail,11,Materials,9200,92000
+1326,Black Blood,11,Materials,8840,88400
+1327,Deviljho Crook,11,Materials,21000,210000
+1328,Rajang Wildpelt,11,Materials,6690,66900
+1329,Rajang Hardfang,11,Materials,8990,89900
+1330,Rajang Hardclaw,11,Materials,9180,91800
+1331,Rajang Tail,11,Materials,9750,97500
+1332,Gold Rajang Pelt+,11,Materials,21000,210000
+1333,Rajang Apoplexy,11,Materials,7800,78000
+1334,Rajang Hardhorn,11,Materials,9370,93700
+1335,Ghoulish Gold Gorer,11,Materials,10900,109000
+1336,Rajang Heart,12,Materials,24000,240000
+1337,Kirin Finehide,11,Materials,4300,43000
+1338,Kirin Thundertail+,11,Materials,6600,66000
+1339,Kirin Silvermane,11,Materials,8900,89000
+1340,Kirin Azure Horn+,11,Materials,9100,91000
+1341,Immortal Shard,11,Materials,4380,43800
+1342,Nergigante Cortex,11,Materials,6680,66800
+1343,Nergigante Flail,11,Materials,8980,89800
+1344,Annihilating Greathorn,11,Materials,9340,93400
+1345,Nergigante Hardclaw,11,Materials,9160,91600
+1346,Eternal Regrowth Plate,11,Materials,6860,68600
+1347,Crystal Shard,11,Materials,4340,43400
+1348,Velkhana Cortex,11,Materials,6640,66400
+1349,Velkhana Fellwing,11,Materials,8940,89400
+1350,Velkhana Crownhorn,11,Materials,9640,96400
+1351,Velkhana Lash,11,Materials,9220,92200
+1352,Velkhana Hardclaw,11,Materials,9080,90800
+1353,Velkhana Crystal,12,Materials,21000,210000
+1354,Teostra Cortex,11,Materials,6580,65800
+1355,Teostra Mane+,11,Materials,6580,65800
+1356,Teostra Lash,11,Materials,9040,90400
+1357,Teostra Hardhorn,11,Materials,9280,92800
+1358,Hellfire Shard,11,Materials,4280,42800
+1359,Fire Dragon Hardclaw,11,Materials,8960,89600
+1360,Teostra Fellwing,11,Materials,8880,88000
+1361,Lunastra Cortex,11,Materials,6610,66100
+1362,Lunastra Mane+,11,Materials,6610,66100
+1363,Lunastra Lash,11,Materials,9130,91300
+1364,Lunastra Hardhorn,11,Materials,9460,94600
+1365,Lunastra Shard,11,Materials,4310,43100
+1366,Lunastra Fellwing,11,Materials,8910,89100
+1367,Daora Cortex,11,Materials,6560,65600
+1368,Daora Shard,11,Materials,4260,42600
+1369,Daora Fellwing,11,Materials,8800,88000
+1370,Daora Hardhorn,11,Materials,8920,89200
+1371,Daora Lash,11,Materials,9100,91000
+1372,Daora Hardclaw,11,Materials,8860,88600
+1373,Deceased Shard,11,Materials,4320,43200
+1374,Vaal Hazak Cortex,11,Materials,6620,66200
+1375,Deathweaver Membrane,11,Materials,6740,67400
+1376,Vaal Hazak Flail,11,Materials,9280,92800
+1377,Shadowpierce Fang,11,Materials,9040,90400
+1378,Vaal Hazak Hardclaw,11,Materials,9160,91600
+1379,Vaal Hazak Fellwing,11,Materials,8920,89200
+1380,Namielle Finehide,11,Materials,4360,43600
+1382,Namielle Fellwing,11,Materials,8960,89600
+1383,Namielle Whisker,11,Materials,9600,96000
+1384,Namielle Lash,11,Materials,9280,92800
+1385,Namielle Hardclaw,11,Materials,9120,91200
+1387,Safi'jiiva Shard,11,Materials,4900,49000
+1388,Safi'jiiva Cortex,11,Materials,7600,76000
+1389,Pulsing Dragonshell,11,Materials,8100,81000
+1390,Safi'jiiva Lash,11,Materials,11800,118000
+1391,Safi'jiiva Hardhorn,11,Materials,11300,113000
+1392,Safi'jiiva Hardclaw,11,Materials,10800,108000
+1393,Safi'jiiva Fellwing,11,Materials,10300,103000
+1394,Zionium Crystal,12,Materials,24000,240000
+1395,Shara Ishvalda Tenderscale,11,Materials,7600,76000
+1396,Shara Ishvalda Boulderplate,11,Materials,4900,49000
+1398,Shara Ishvalda Tenderplate,11,Materials,10300,103000
+1399,Shara Ishvalda Petalstone,11,Materials,4900,49000
+1400,Shara Ishvalda Tenderclaw,11,Materials,10300,103000
+1401,Shara Ishvalda Gem,12,Materials,24000,240000
+1402,Alatreon Pallium,11,Materials,8800,88000
+1403,Alatreon Mantle,11,Materials,7800,78000
+1404,Alatreon Riptalon,11,Materials,8000,80000
+1405,Alatreon Direwing,11,Materials,10700,107000
+1406,Alatreon Diretail,11,Materials,11100,111000
+1407,Skyswayer,11,Materials,11500,115000
+1408,Azure Dragonsphire,12,Materials,24000,240000
+1409,Ancient Feystone,9,Materials,25,90
+1410,Carved Feystone,10,Materials,25,90
+1411,Sealed Feystone,11,Materials,25,90
+1412,Decayed Scale,4,Materials,250,2500
+1413,Luminous Scale,4,Materials,1000,10000
+1414,Old Dragon Treasure,9,Materials,1600,16000
+1415,Indestructible Ebonshell,11,Materials,7800,78000
+1417,??? Shard,11,Materials,7600,76000
+1418,??? Boulderplate,11,Materials,4900,49000
+1419,??? Cortex,11,Materials,10300,103000
+1420,??? Rock,11,Materials,4900,49000
+1421,??? Hardclaw,11,Materials,10300,103000
+1422,Large ??? Gem,12,Materials,24000,240000
+1423,Kulve Taroth Golden Scale+,11,Materials,9000,90000
+1424,Kulve Taroth Golden Shell+,11,Materials,12000,120000
+1425,Kulve Taroth Golden Nugget+,11,Materials,3000,30000
+1426,Kulve Taroth Golden Spiralhorn+,11,Materials,18000,180000
+1427,Kulve Taroth Golden Tailshell+,11,Materials,15000,150000
+1428,Golden Dragonsphire,12,Materials,24000,240000
+1431,Celestial Wyverian Print,9,Materials,0,1
+1432,Conqueror's Seal,9,Materials,0,1
+1433,Research Commission Ticket+,11,Materials,0,1
+1434,Banbaro Coin,9,Materials,1200,12000
+1435,Paolumu Coin,9,Materials,1200,12000
+1436,Nargacuga Coin,9,Materials,1200,12000
+1437,Glavenus Coin,9,Materials,1200,12000
+1438,Odogaron Coin,9,Materials,1200,12000
+1439,Zinogre Coin,9,Materials,1200,12000
+1440,Black Belt Coin,9,Materials,1500,15000
+1441,Hero King Coin,10,Materials,2000,20000
+1442,Tigrex Coin,11,Materials,5000,50000
+1443,Giant Scale,9,Materials,8000,80000
+1444,Magnificent Scale,10,Materials,10000,100000
+1445,Boaboa Ticket,9,Materials,500,5000
+1446,Young Butterbur,2,Account Items,30,300
+1447,Exquisite Butterbur,3,Account Items,50,500
+1448,Millennium Butterbur,4,Account Items,250,2500
+1449,Icebloom,2,Account Items,32,320
+1450,Moonlight Icebloom,3,Account Items,54,540
+1451,Snowpeak Icebloom,4,Account Items,260,2600
+1452,Snow White,4,Account Items,190,1900
+1453,Petalcryst,4,Account Items,210,2100
+1454,EZ Dust of Life,2,Supply Items,0,1
+1455,Pearlspring Macaque,3,Endemic Life,12,150
+1456,Goldspring Macaque,4,Endemic Life,120,150
+1458,Crowned Prawn,3,Endemic Life,8,150
+1459,Moon Slug,3,Endemic Life,12,150
+1460,Duffel Penguin,3,Endemic Life,8,150
+1461,Arrowhead Gekko,4,Endemic Life,400,150
+1462,Blue Diva,4,Endemic Life,470,150
+1463,Sealord's Crestfish,4,Endemic Life,600,150
+1464,Glass Parexus,3,Endemic Life,12,150
+1465,Wintermoon Nettle,4,Endemic Life,800,150
+1466,Moly,4,Endemic Life,600,150
+1467,Mossy Moly,4,Endemic Life,800,150
+1468,Rocky Moly,4,Endemic Life,800,150
+1469,Fluffy Moly,4,Endemic Life,800,150
+1470,Spiny Moly,4,Endemic Life,800,150
+1471,Rowdy Moly,4,Endemic Life,800,150
+1472,Frosty Moly,4,Endemic Life,800,150
+1473,Great Glass Parexus,4,Endemic Life,200,150
+1478,Dragonvein Shard,4,Materials,300,3000
+1479,Dragonvein Coal,5,Materials,600,6000
+1480,Dragonvein Coal Chunk,6,Materials,900,9000
+1481,Cloth Curtain (Small),4,Furniture,900,9000
+1482,Pelt Curtain (Small),4,Furniture,900,9000
+1483,Elegant Curtain (Small),4,Furniture,900,9000
+1484,Cute Curtain (Small),4,Furniture,900,9000
+1485,Cloth Curtain (Large),4,Furniture,900,9000
+1486,Pelt Curtain (Large),4,Furniture,900,9000
+1487,Elegant Curtain (Large),4,Furniture,900,9000
+1488,Cute Curtain (Large),4,Furniture,900,9000
+1489,Familiar Sofa,4,Furniture,900,9000
+1491,Luxury Sofa,4,Furniture,900,9000
+1492,Elegant Sofa,4,Furniture,900,9000
+1493,Cute Sofa,4,Furniture,900,9000
+1494,Rustic Bed,4,Furniture,900,9000
+1495,Familiar Bed,4,Furniture,900,9000
+1496,Luxury Bed,4,Furniture,900,9000
+1497,Cute Bed,4,Furniture,900,9000
+1498,Familiar Table,4,Furniture,900,9000
+1499,Luxury Table,4,Furniture,900,9000
+1500,Elegant Table,4,Furniture,900,9000
+1501,Cute Table,4,Furniture,900,9000
+1502,Rustic Chairs,4,Furniture,900,9000
+1503,Familiar Chairs,4,Furniture,900,9000
+1504,Luxury Chairs,4,Furniture,900,9000
+1505,Elegant Chairs,4,Furniture,900,9000
+1506,Cute Chairs,4,Furniture,900,9000
+1507,Carnivore Carnival,4,Furniture,900,9000
+1508,Party Platter,4,Furniture,900,9000
+1509,Tropical Lunch,4,Furniture,900,9000
+1510,Sumptuous Stew,4,Furniture,900,9000
+1511,Hunter's Brunch,4,Furniture,900,9000
+1512,Familiar Chest,4,Furniture,900,9000
+1513,Luxury Chest,4,Furniture,900,9000
+1514,Cute Chest,4,Furniture,900,9000
+1515,Hoarfrost Reach Plant 1,4,Furniture,900,9000
+1516,Hoarfrost Reach Plant 2,4,Furniture,900,9000
+1517,Hoarfrost Reach Plant 4,4,Furniture,900,9000
+1518,Hoarfrost Reach Plant 3,4,Furniture,900,9000
+1519,Ancient Forest Plant 1,4,Furniture,900,9000
+1520,Wildspire Wastes Plant 3,4,Furniture,900,9000
+1521,Ancient Forest Plant 4,4,Furniture,900,9000
+1522,Ancient Forest Plant 5,4,Furniture,900,9000
+1523,Ancient Forest Plant 3,4,Furniture,900,9000
+1524,Wildspire Wastes Plant 2,4,Furniture,900,9000
+1525,Wildspire Wastes Plant 4,4,Furniture,900,9000
+1526,Wildspire Wastes Plant 1,4,Furniture,900,9000
+1527,Ancient Forest Plant 2,4,Furniture,900,9000
+1528,Rotten Vale Plant 1,4,Furniture,900,9000
+1529,Rotten Vale Plant 2,4,Furniture,900,9000
+1530,Simple Urn,4,Furniture,900,9000
+1531,Grimalkyne Doll,4,Furniture,900,9000
+1532,Gajalaka Doll,4,Furniture,900,9000
+1533,Boaboa Doll,4,Furniture,900,9000
+1534,Felyne Doll,4,Furniture,900,9000
+1535,Grimalkyne Doll (Black),4,Furniture,900,9000
+1536,Grimalkyne Doll (Navy),4,Furniture,900,9000
+1537,Grimalkyne Doll (Blue),4,Furniture,900,9000
+1538,Poogie Doll (Memorial Stripes),4,Furniture,900,9000
+1539,Poogie Doll (Emperor's Duds),4,Furniture,900,9000
+1543,Luxury Pitcher,4,Furniture,900,9000
+1544,Luxury Vase,4,Furniture,900,9000
+1545,Simple Urn Set,4,Furniture,900,9000
+1546,Burlap Sacks,4,Furniture,900,9000
+1547,Bottled Spirit,4,Furniture,900,9000
+1548,Assorted Bottle Set,4,Furniture,900,9000
+1549,Crafting Tools,4,Furniture,900,9000
+1550,Dyed Silk Rolls,4,Furniture,900,9000
+1551,Ornamental Horn,4,Furniture,900,9000
+1552,Display Fossil,4,Furniture,900,9000
+1553,Simple Pottery,4,Furniture,900,9000
+1554,Pottery Set,4,Furniture,900,9000
+1555,Ornamental Plate Set (Small),4,Furniture,900,9000
+1556,Ornamental Plate (Large),4,Furniture,900,9000
+1557,Basket of Ore,4,Furniture,900,9000
+1558,Sake Barrel,4,Furniture,900,9000
+1559,First Aid Kit,4,Furniture,900,9000
+1560,Refined Vase (Small),4,Furniture,900,9000
+1561,Potted Plant,4,Furniture,900,9000
+1562,Research Tomes,4,Furniture,900,9000
+1563,Scholarly Tomes,4,Furniture,900,9000
+1564,Refined Vase (Large),4,Furniture,900,9000
+1565,Potted Cactus,4,Furniture,900,9000
+1566,Colorful Planting,4,Furniture,900,9000
+1567,Basket of Mushrooms,4,Furniture,900,9000
+1568,Fruit Bowl,4,Furniture,900,9000
+1569,Vegetable Display,4,Furniture,900,9000
+1570,Fierce Gajalaka Mask,4,Furniture,900,9000
+1571,Grimacing Gajalaka Mask,4,Furniture,900,9000
+1572,Surprised Gajalaka Mask,4,Furniture,900,9000
+1573,Amber,4,Furniture,900,9000
+1574,Blue Ore,4,Furniture,900,9000
+1575,Red Ore,4,Furniture,900,9000
+1576,Seashell,4,Furniture,900,9000
+1577,Symbol of Assistance,4,Furniture,900,9000
+1578,Symbol of Contribution,4,Furniture,900,9000
+1579,Symbol of Dedication,4,Furniture,900,9000
+1580,Symbol of Valor,4,Furniture,900,9000
+1581,Goldenfry Mobile,4,Furniture,900,9000
+1582,Whetfish Mobile,4,Furniture,900,9000
+1583,Marlin Mobile,4,Furniture,900,9000
+1584,Memorial Ornament,4,Furniture,900,9000
+1585,Emperor Ornament,4,Furniture,900,9000
+1586,Fun Spheres Ornament,4,Furniture,900,9000
+1587,Barrel Ornament,4,Furniture,900,9000
+1588,Catch-of-the-Day Ornament,4,Furniture,900,9000
+1589,Fish Ornament,4,Furniture,900,9000
+1590,Marlin Ornament,4,Furniture,900,9000
+1591,Elegant Flag,4,Furniture,900,9000
+1592,Nargacuga Painting,4,Furniture,900,9000
+1593,Research Base Painting,4,Furniture,900,9000
+1594,Handler Portrait,4,Furniture,900,9000
+1595,Elegant Ornamental Plate,4,Furniture,900,9000
+1596,Gajalaka Painting 1,4,Furniture,900,9000
+1597,Boaboa Painting 1,4,Furniture,900,9000
+1598,Grimalkyne Painting 1,4,Furniture,900,9000
+1599,Poogie Painting,4,Furniture,900,9000
+1600,Palico Portraits,4,Furniture,900,9000
+1605,Familiar Desk,4,Furniture,900,9000
+1606,Luxury Desk,4,Furniture,900,9000
+1607,Cute Desk,4,Furniture,900,9000
+1608,Familiar Shelves,4,Furniture,900,9000
+1609,Intellectual Shelves,4,Furniture,900,9000
+1610,Cluttered Shelves,4,Furniture,900,9000
+1611,Luxury Shelves,4,Furniture,900,9000
+1612,Elegant Shelves,4,Furniture,900,9000
+1613,Cute Shelves,4,Furniture,900,9000
+1614,Music Player,4,Furniture,900,9000
+1615,Familiar Lights,4,Furniture,900,9000
+1616,Sturdy Lights,4,Furniture,900,9000
+1617,Luxury Lights,4,Furniture,900,9000
+1618,Cute Lights,4,Furniture,900,9000
+1619,Simple Lights,4,Furniture,900,9000
+1623,Familiar Rack,4,Furniture,900,9000
+1624,Luxury Rack,4,Furniture,900,9000
+1625,Cute Rack,4,Furniture,900,9000
+1626,Simple Wall Shelf (Large),4,Furniture,900,9000
+1627,Luxury Wall Shelf (Large),4,Furniture,900,9000
+1628,Cute Wall Shelf (Large),4,Furniture,900,9000
+1629,Simple Wall Shelf (Small),4,Furniture,900,9000
+1630,Luxury Wall Shelf (Small),4,Furniture,900,9000
+1631,Cute Wall Shelf (Small),4,Furniture,900,9000
+1632,Elegant Wall-Hanging (Red),4,Furniture,900,9000
+1633,Elegant Wall-Hanging (Blue),4,Furniture,900,9000
+1634,Zorah Magdaros Painting,4,Furniture,900,9000
+1635,Cloth Wall-Hanging,4,Furniture,900,9000
+1636,Fur Wall-Hanging,4,Furniture,900,9000
+1637,Ship's Wheel Wall-Hanging,4,Furniture,900,9000
+1638,Ornamental Plate Set,4,Furniture,900,9000
+1639,Gajalaka Painting 2,4,Furniture,900,9000
+1640,Boaboa Painting 2,4,Furniture,900,9000
+1641,Grimalkyne Painting 2,4,Furniture,900,9000
+1642,Ancient Forest Painting,4,Furniture,900,9000
+1643,Wildspire Wastes Painting,4,Furniture,900,9000
+1644,Coral Highlands Painting,4,Furniture,900,9000
+1645,Rotten Vale Painting,4,Furniture,900,9000
+1646,Elder's Recess Painting,4,Furniture,900,9000
+1647,Hoarfrost Reach Painting,4,Furniture,900,9000
+1648,Books and Documents,4,Furniture,900,9000
+1649,Healthy Refreshments,4,Furniture,900,9000
+1650,Stuffed Doll Crafting Set,4,Furniture,900,9000
+1651,Maps,4,Furniture,900,9000
+1652,Crafting Set,4,Furniture,900,9000
+1653,Baking Set,4,Furniture,900,9000
+1654,Tool Set,4,Furniture,900,9000
+1655,Familiar Rugs (1F),4,Furniture,900,9000
+1656,Luxury Rugs (1F),4,Furniture,900,9000
+1657,Cute Rugs (1F),4,Furniture,900,9000
+1658,Fur Rugs (1F),4,Furniture,900,9000
+1659,Familiar Rugs (2F),4,Furniture,900,9000
+1660,Luxury Rugs (2F),4,Furniture,900,9000
+1661,Cute Rugs (2F),4,Furniture,900,9000
+1662,Fur Rugs (2F),4,Furniture,900,9000
+1663,Lantern,4,Furniture,900,9000
+1664,Hanging Lantern,4,Furniture,900,9000
+1665,Lamp,4,Furniture,900,9000
+1666,Candle,4,Furniture,900,9000
+1667,Candlestick,4,Furniture,900,9000
+1668,Songbird Lamp,4,Furniture,900,9000
+1669,Jellyfish Lamp,4,Furniture,900,9000
+1670,Angler Fish Lamp,4,Furniture,900,9000
+1674,Botanical Pattern,4,Furniture,900,9000
+1675,Elegant Pattern,4,Furniture,900,9000
+1676,Patchwork,4,Furniture,900,9000
+1677,Patchwork (Brown),4,Furniture,900,9000
+1678,Patchwork (Gray),4,Furniture,900,9000
+1679,Check (Red),4,Furniture,900,9000
+1680,Check (White),4,Furniture,900,9000
+1681,Check (Blue),4,Furniture,900,9000
+1682,Trap and Beast (Brown),4,Furniture,900,9000
+1683,Trap and Beast (Navy),4,Furniture,900,9000
+1684,Trap and Beast (Aqua),4,Furniture,900,9000
+1685,Trap and Beast (Yellow),4,Furniture,900,9000
+1686,Wild Nature (Vibrant),4,Furniture,900,9000
+1687,Wild Nature (Red),4,Furniture,900,9000
+1688,Wild Nature (Green),4,Furniture,900,9000
+1689,Nature Check (Green),4,Furniture,900,9000
+1690,Nature Check (Blue),4,Furniture,900,9000
+1691,Traditional Pattern (Black),4,Furniture,900,9000
+1692,Traditional Pattern (Vibrant),4,Furniture,900,9000
+1693,Traditional Pattern (Brown),4,Furniture,900,9000
+1694,Traditional Pattern (Pink),4,Furniture,900,9000
+1695,Traditional Pattern (Aqua),4,Furniture,900,9000
+1696,Traditional Pattern (Warm),4,Furniture,900,9000
+1697,Traditional Pattern (Red),4,Furniture,900,9000
+1698,Hunter Pattern (Brown),4,Furniture,900,9000
+1699,Hunter Pattern (White),4,Furniture,900,9000
+1700,Hunter Pattern (Gold),4,Furniture,900,9000
+1701,Hunter Pattern (Red),4,Furniture,900,9000
+1702,Polka Dot (White),4,Furniture,900,9000
+1703,Polka Dot (Pink),4,Furniture,900,9000
+1704,Polka Dot (Yellow),4,Furniture,900,9000
+1705,Check (Vibrant),4,Furniture,900,9000
+1706,Check (Green),4,Furniture,900,9000
+1707,Palico Print (Pink),4,Furniture,900,9000
+1708,Palico Print (Brown),4,Furniture,900,9000
+1709,Felyne Print (Yellow),4,Furniture,900,9000
+1710,Felyne Print (Blue),4,Furniture,900,9000
+1711,Life Print: Small (White),4,Furniture,900,9000
+1712,Life Print: Small (Blue),4,Furniture,900,9000
+1713,Life Print: Small (Pink),4,Furniture,900,9000
+1714,Life Print: Large (White),4,Furniture,900,9000
+1715,Life Print: Large (Yellow),4,Furniture,900,9000
+1716,Stripes,4,Furniture,900,9000
+1721,Light Wood,4,Furniture,900,9000
+1722,Dark Wood,4,Furniture,900,9000
+1723,Light Iron,4,Furniture,900,9000
+1724,Dark Iron,4,Furniture,900,9000
+1725,Silver,4,Furniture,900,9000
+1726,Gold,4,Furniture,900,9000
+1727,Stone,4,Furniture,900,9000
+1728,Home Sweet Home,4,Furniture,900,9000
+1729,Traditional Room,4,Furniture,900,9000
+1730,Elegant Refinement,4,Furniture,900,9000
+1731,Sweet Tooth,4,Furniture,900,9000
+1732,Pure Decadence,4,Furniture,900,9000
+1733,The Minimalist,4,Furniture,900,9000
+1734,Wooden Floor,4,Furniture,900,9000
+1735,Chic Wooden Floor,4,Furniture,900,9000
+1736,Simple Stone Floor,4,Furniture,900,9000
+1737,Elegant Floor (Red),4,Furniture,900,9000
+1738,Luxury Stone Floor,4,Furniture,900,9000
+1739,Marble Tile Floor,4,Furniture,900,9000
+1740,Cute Floor (Peach),4,Furniture,900,9000
+1741,Ceramic Tile Floor (Brown),4,Furniture,900,9000
+1742,Marble Floor (Black),4,Furniture,900,9000
+1743,Chic Stone Floor,4,Furniture,900,9000
+1744,Wooden Wall,4,Furniture,900,9000
+1745,Chic Wooden Wall,4,Furniture,900,9000
+1746,Simple Stone Wall,4,Furniture,900,9000
+1747,Botanical Patterned Wall,4,Furniture,900,9000
+1748,Luxury Wood-carved Wall,4,Furniture,900,9000
+1749,Simple Stucco Wall,4,Furniture,900,9000
+1750,Striped Wall (Blue),4,Furniture,900,9000
+1751,Ceramic Tile Wall (Brown),4,Furniture,900,9000
+1752,Elegant Wall,4,Furniture,900,9000
+1753,Marble Wall,4,Furniture,900,9000
+1754,Elegant Stucco Wall,4,Furniture,900,9000
+1755,Wooden Floor (White),4,Furniture,900,9000
+1756,Wooden Floor (Green),4,Furniture,900,9000
+1757,Wooden Floor (Blue),4,Furniture,900,9000
+1758,Wooden Floor (Red),4,Furniture,900,9000
+1759,Wooden Floor (Yellow),4,Furniture,900,9000
+1760,Light Wooden Floor,4,Furniture,900,9000
+1761,Wooden Wall (White),4,Furniture,900,9000
+1762,Wooden Wall (Green),4,Furniture,900,9000
+1763,Wooden Wall (Blue),4,Furniture,900,9000
+1764,Wooden Wall (Red),4,Furniture,900,9000
+1765,Wooden Wall (Yellow),4,Furniture,900,9000
+1766,Stucco Wall (Orange),4,Furniture,900,9000
+1767,Stucco Wall (Green),4,Furniture,900,9000
+1768,Stucco Wall (Red),4,Furniture,900,9000
+1769,Stucco Wall (Blue),4,Furniture,900,9000
+1770,Traditional Bench,4,Furniture,900,9000
+1771,Traditional Bed,4,Furniture,900,9000
+1772,Traditional Table,4,Furniture,900,9000
+1773,Traditional Meal,4,Furniture,900,9000
+1774,Traditional Chest,4,Furniture,900,9000
+1775,Traditional Rugs (1F),4,Furniture,900,9000
+1776,Traditional Rugs (2F),4,Furniture,900,9000
+1777,Traditional Wall,4,Furniture,900,9000
+1778,Traditional Floor,4,Furniture,900,9000
+1779,Traditional Lights,4,Furniture,900,9000
+1781,Dragonrazer Fuel Cell,4,Supply Items,0,0
+1782,Tailraider Signal,4,Palico Gadgets,0,0
+1784,Bugtrappers: Fried Dragonfly,5,Palico Gadgets,500,5000
+1785,Protectors: Dried Goldenfish,5,Palico Gadgets,500,5000
+1786,Troupers: Horned Urchin,5,Palico Gadgets,500,5000
+1787,Plunderers: Steamed Cricket,5,Palico Gadgets,500,5000
+1788,Grimalkyne: Pot-au-magma,5,Palico Gadgets,500,5000
+1789,Boaboa: Boaboa Bread,5,Palico Gadgets,500,5000
+1790,Thermae Ticket,9,Materials,0,1
+1791,Scratched Shell,10,Materials,6660,66600
+1792,Stonebill,3,Endemic Life,20,120
+1793,Rime Beetle,3,Endemic Life,8,60
+1794,Hot Spring Stone,4,Account Items,400,4000
+1795,Decayed Crystal,9,Materials,800,8000
+1796,Forest Crystal,9,Materials,1200,12000
+1797,Prosperous Crystal,10,Materials,1600,16000
+1798,Guiding Forest Crystal,11,Materials,2000,20000
+1799,Cracked Crystal,9,Materials,800,8000
+1800,Wasteland Crystal,9,Materials,1200,12000
+1801,Serene Crystal,10,Materials,1600,16000
+1802,Guiding Wasteland Crystal,11,Materials,2000,20000
+1803,Pale Crystal,9,Materials,800,8000
+1804,Reef Crystal,9,Materials,1200,12000
+1805,Deepsea Crystal,10,Materials,1600,16000
+1806,Guiding Reef Crystal,11,Materials,2000,20000
+1807,Distorted Crystal,9,Materials,800,8000
+1808,Effluvial Crystal,9,Materials,1200,12000
+1809,Twilight Crystal,10,Materials,1600,16000
+1810,Guiding Effluvial Crystal,11,Materials,2000,20000
+1811,Melted Crystal,9,Materials,800,8000
+1812,Magma Crystal,9,Materials,1200,12000
+1813,Hellfire Crystal,10,Materials,1600,16000
+1814,Guiding Magma Crystal,11,Materials,2000,20000
+1815,Frozen Crystal,9,Materials,800,8000
+1816,Rime Crystal,9,Materials,1200,12000
+1817,Daybreak Crystal,10,Materials,1600,16000
+1818,Guiding Rime Crystal,11,Materials,2000,20000
+1819,Mossy Greatbone,9,Materials,800,8000
+1820,Woodland Greatbone,9,Materials,1200,12000
+1821,Slumbering Greatbone,10,Materials,1600,16000
+1822,Guiding Forest Dragonbone,11,Materials,2000,20000
+1823,Weathered Cragbone,9,Materials,800,8000
+1824,Wasteland Cragbone,9,Materials,1200,12000
+1825,Tempered Cragbone,10,Materials,1600,16000
+1826,Guiding Wasteland Dragonbone,11,Materials,2000,20000
+1827,Vivid Crimsonbone,9,Materials,800,8000
+1828,Coral Crimsonbone,9,Materials,1200,12000
+1829,Vibrant Crimsonbone,10,Materials,1600,16000
+1830,Guiding Reef Dragonbone,11,Materials,2000,20000
+1831,Malformed Frenzybone,9,Materials,800,8000
+1832,Effluvial Frenzybone,9,Materials,1200,12000
+1833,Afflicted Frenzybone,10,Materials,1600,16000
+1834,Guiding Rotted Dragonbone,11,Materials,2000,20000
+1835,Simmering Wildbone,9,Materials,800,8000
+1836,Volcanic Wildbone,9,Materials,1200,12000
+1837,Dragonscorched Wildbone,10,Materials,1600,16000
+1838,Guiding Volcanic Dragonbone,11,Materials,2000,20000
+1839,Hoary Icebone,9,Materials,800,8000
+1840,Tundra Icebone,9,Materials,1200,12000
+1841,Everfrost Icebone,10,Materials,1600,16000
+1842,Guiding Tundra Dragonbone,11,Materials,2000,20000
+1843,Fierce Dragonvein Bone,9,Materials,2000,20000
+1844,Heavy Dragonvein Bone,9,Materials,2500,25000
+1845,Dragonvein Solidbone,10,Materials,3000,30000
+1846,Elder Dragonvein Bone,11,Materials,3500,35000
+1848,Spiritvein Slogbone,9,Materials,4000,40000
+1849,Spiritvein Solidbone,10,Materials,4500,45000
+1850,Elder Spiritvein Bone,11,Materials,5000,50000
+1851,Spiritvein Gem Shard,10,Materials,7000,70000
+1852,Spiritvein Gem,11,Materials,14000,140000
+1853,Great Spiritvein Gem,11,Materials,21000,210000
+1854,Rugged Mane,9,Materials,2000,20000
+1856,Colorful Plume,9,Materials,2000,20000
+1858,Fragrant Poison Sac,9,Materials,2000,20000
+1859,Tempered Poison Sac,9,Materials,4000,40000
+1860,Hydrated Sac,9,Materials,2500,25000
+1861,Tempered Torrent Sac,9,Materials,4500,45000
+1862,Muddy Crown,9,Materials,2000,20000
+1863,Tempered Crown,9,Materials,4000,40000
+1868,Blinding Cathode,9,Materials,2000,20000
+1869,Tempered Cathode,9,Materials,4000,40000
+1870,Enticing Viperthorn,9,Materials,2500,25000
+1871,Tempered Viperthorn,9,Materials,4500,45000
+1872,Ancient Great Horn,9,Materials,2000,20000
+1873,Tempered Great Horn,9,Materials,4000,40000
+1874,Flickering Flamepelt,9,Materials,2500,25000
+1875,Tempered Flamepelt,9,Materials,4500,45000
+1876,Crackling Thunderpelt,10,Materials,3500,35000
+1877,Tempered Thunderpelt,10,Materials,5500,55000
+1878,Queen's Scale,9,Materials,2500,25000
+1879,Tempered Green Scale,9,Materials,4500,45000
+1880,Pink Scale,9,Materials,2500,25000
+1881,Tempered Pink Scale,9,Materials,4500,45000
+1882,Dazzling Photophore+,9,Materials,2000,20000
+1884,Rubbery Shell,9,Materials,2500,25000
+1885,Tempered Rubbery Shell,9,Materials,4500,45000
+1886,Obsidian Fur,9,Materials,2500,25000
+1887,Tempered Hide,9,Materials,4500,45000
+1888,Night Hood,9,Materials,2000,20000
+1890,Inkstained Oilshell+,9,Materials,2500,25000
+1891,Tempered Oilshell+,9,Materials,4500,45000
+1892,Heavy Jaw,9,Materials,2000,20000
+1894,Incandescent Magmafin,10,Materials,3000,30000
+1895,Tempered Magmafin,10,Materials,5000,50000
+1896,Metallic Scute,10,Materials,3000,30000
+1897,Tempered Scute,10,Materials,5000,50000
+1898,Coldblooded Icefang,10,Materials,3000,30000
+1899,Tempered Icefang,10,Materials,5000,50000
+1900,Sinister Silverpelt,10,Materials,4500,45000
+1901,Tempered Silverpelt,10,Materials,6500,65000
+1902,Smooth Icehide,10,Materials,3000,30000
+1903,Tempered Icehide,10,Materials,5000,50000
+1904,Crystal Frozenhide,10,Materials,3500,35000
+1905,Tempered Frosthide,10,Materials,5500,55000
+1906,Fatal Rendclaw,10,Materials,3000,30000
+1907,Tempered Rendclaw,10,Materials,5000,50000
+1908,Soulrender Talon,10,Materials,3500,35000
+1909,Tempered Talon,10,Materials,5500,55000
+1910,King's Scale,10,Materials,3000,30000
+1911,Tempered Red Scale,10,Materials,5000,50000
+1912,Azure Scale,10,Materials,3500,35000
+1913,Tempered Azure Scale,10,Materials,5500,55000
+1914,Twisted Bravehorn,10,Materials,3000,30000
+1915,Twisted Temperhorn,10,Materials,5000,50000
+1916,Blackcurl Tyranthorn,10,Materials,3500,35000
+1917,Blackcurl Temperhorn,10,Materials,5500,55000
+1918,Assassin Cutwing,10,Materials,3000,30000
+1919,Tempered Cutwing,10,Materials,5000,50000
+1920,Smoldering Tailedge,10,Materials,3000,30000
+1921,Tempered Tailedge,10,Materials,5000,50000
+1922,Honed Tailblade,10,Materials,3500,35000
+1923,Tempered Tailblade,10,Materials,5500,55000
+1924,Glossy Ebonshell,10,Materials,3000,30000
+1925,Tempered Ebonshell,10,Materials,5000,50000
+1926,Strongman's Jaw,10,Materials,3000,30000
+1927,Tempered Jaw,10,Materials,5000,50000
+1928,Shuddering Darkjaw,10,Materials,4500,45000
+1929,Tempered Ebonjaw,10,Materials,6500,65000
+1930,Charged Deathly Shocker,10,Materials,4500,45000
+1931,Tempered Shocker,10,Materials,6500,65000
+1932,Crimson Blastscale,11,Materials,4000,40000
+1933,Tempered Blastscale,11,Materials,6000,60000
+1934,Bloodstained Ebonhide,11,Materials,4000,40000
+1935,Spattered Hide,11,Materials,6000,60000
+1936,Solemn Azure Horn,11,Materials,4000,40000
+1937,Tempered Azure Horn,11,Materials,6000,60000
+1938,Hellfire Mane,11,Materials,4000,40000
+1939,Tempered Crimson Mane,11,Materials,6000,60000
+1940,Stormcall Steelwing,11,Materials,4000,40000
+1941,Tempered Steelwing,11,Materials,6000,60000
+1942,Azure Mane,11,Materials,4500,45000
+1943,Tempered Azure Mane,11,Materials,6500,65000
+1944,Aurora Crownhorn,11,Materials,4000,40000
+1945,Tempered Crownhorn,11,Materials,6000,60000
+1946,Twilight Fang,11,Materials,4000,40000
+1947,Tempered Twilight Fang,11,Materials,6000,60000
+1948,Enchanting Finehide,11,Materials,4000,40000
+1949,Tempered Trancehide,11,Materials,6000,60000
+1950,Extinction Greathorn,11,Materials,6500,65000
+1951,Annihilating Temperhorn,11,Materials,9000,90000
+1952,Moonlight Scale,11,Materials,6500,65000
+1953,Tempered Gold Scale,11,Materials,9000,90000
+1954,Scorching Scale,11,Materials,6500,65000
+1955,Tempered Silver Scale,11,Materials,9000,90000
+1956,Gushing Dragonhold,11,Materials,4500,45000
+1957,Tempered Dragonhold,11,Materials,6500,65000
+1958,Bloodthirsty Glimmerpelt,11,Materials,4500,45000
+1959,Tempered Glimmerpelt,11,Materials,6500,65000
+1964,Special Scope,1,Heavy Bowgun Mods,0,0
+1965,Sublime First Wyverian Print,6,Materials,0,1
+1966,Steam Ticket,11,Materials,0,1
+1967,Giant Dragonvein Coal,7,Materials,1200,12000
+1968,Phoenix Jewel 3,11,Decorations,8000,80000
+1969,Guardian Jewel 2,10,Decorations,6000,60000
+1970,Cooling Jewel 2,9,Decorations,5000,50000
+1971,Fire Res Jewel+ 4,9,Decorations,5000,50000
+1972,Water Res Jewel+ 4,9,Decorations,5000,50000
+1973,Ice Res Jewel+ 4,9,Decorations,0,0
+1974,Thunder Res Jewel+ 4,9,Decorations,5000,50000
+1975,Dragon Res Jewel+ 4,9,Decorations,5000,50000
+1976,Blaze Jewel+ 4,11,Decorations,5000,50000
+1977,Stream Jewel+ 4,11,Decorations,5000,50000
+1978,Frost Jewel+ 4,11,Decorations,5000,50000
+1979,Bolt Jewel+ 4,11,Decorations,5000,50000
+1980,Dragon Jewel+ 4,11,Decorations,5000,50000
+1981,Venom Jewel+ 4,11,Decorations,5000,50000
+1982,Paralyzer Jewel+ 4,11,Decorations,5000,50000
+1983,Sleep Jewel+ 4,11,Decorations,5000,50000
+1984,Blast Jewel+ 4,11,Decorations,5000,50000
+1985,Hard Fire Res Jewel 4,11,Decorations,8000,80000
+1986,Hard Water Res Jewel 4,11,Decorations,8000,80000
+1987,Hard Ice Res Jewel 4,11,Decorations,8000,80000
+1988,Hard Thunder Res Jewel 4,11,Decorations,8000,80000
+1989,Hard Dragon Res Jewel 4,11,Decorations,8000,80000
+1990,Antidote Jewel+ 4,9,Decorations,0,0
+1991,Antipara Jewel+ 4,9,Decorations,0,0
+1992,Pep Jewel+ 4,9,Decorations,5000,50000
+1993,Steadfast Jewel+ 4,9,Decorations,5000,50000
+1994,Antiblast Jewel+ 4,9,Decorations,5000,50000
+1995,Suture Jewel+ 4,9,Decorations,5000,50000
+1996,Def Lock Jewel+ 4,9,Decorations,5000,50000
+1997,Miasma Jewel+ 4,9,Decorations,5000,50000
+1998,Hungerless Jewel+ 4,9,Decorations,5000,50000
+1999,Recovery Jewel+ 4,9,Decorations,5000,50000
+2000,Tip Toe Jewel+ 4,9,Decorations,5000,50000
+2001,Intimidator Jewel+ 4,9,Decorations,5000,50000
+2002,Meowster Jewel+ 4,9,Decorations,5000,50000
+2003,Hard Tip Toe Jewel 4,9,Decorations,5000,50000
+2004,Hard Intimidator Jewel 4,9,Decorations,5000,50000
+2005,Hard Meowster Jewel 4,9,Decorations,5000,50000
+2006,Trueshot Jewel+ 4,12,Decorations,10000,100000
+2007,Heavy Artillery Jewel+ 4,9,Decorations,5000,50000
+2008,Botany Jewel+ 4,9,Decorations,5000,50000
+2009,Geology Jewel+ 4,9,Decorations,5000,50000
+2010,Survival Jewel+ 4,9,Decorations,5000,50000
+2011,Mirewalker Jewel+ 4,9,Decorations,0,0
+2012,Specimen Jewel+ 4,9,Decorations,5000,50000
+2013,Sonorous Jewel+ 4,9,Decorations,5000,50000
+2014,Hard Botany Jewel+ 4,11,Decorations,8000,80000
+2015,Hard Geology Jewel 4,11,Decorations,8000,80000
+2016,Hard Survival Jewel 4,11,Decorations,8000,80000
+2017,Hard Specimen Jewel 4,11,Decorations,8000,80000
+2018,Enduring Jewel+ 4,9,Decorations,5000,50000
+2019,Defense Jewel+ 4,9,Decorations,5000,50000
+2020,Hard Enduring Jewel 4,11,Decorations,8000,80000
+2021,Hard Defense Jewel 4,10,Decorations,6000,60000
+2022,Artillery Jewel+ 4,9,Decorations,5000,50000
+2023,Earplug Jewel+ 4,12,Decorations,10000,100000
+2024,Wind Resist Jewel+ 4,12,Decorations,10000,100000
+2025,Attack Jewel+ 4,12,Decorations,10000,100000
+2026,Expert Jewel+ 4,12,Decorations,10000,100000
+2027,Handicraft Jewel+ 4,12,Decorations,10000,100000
+2028,Throttle Jewel+ 4,11,Decorations,8000,80000
+2029,Challenger Jewel+ 4,11,Decorations,8000,80000
+2030,Potential Jewel+ 4,11,Decorations,8000,80000
+2031,Furor Jewel+ 4,11,Decorations,8000,80000
+2032,Physique Jewel+ 4,10,Decorations,6000,60000
+2033,Evasion Jewel+ 4,11,Decorations,8000,80000
+2034,Ironwall Jewel+ 4,10,Decorations,6000,60000
+2035,Friendship Jewel+ 4,10,Decorations,6000,60000
+2036,Drain/Physique Jewel 4,10,Decorations,6000,60000
+2037,Fortitude/Physique Jewel 4,9,Decorations,5000,50000
+2038,Crisis/Physique Jewel 4,9,Decorations,5000,50000
+2039,Ironwall/Physique Jewel 4,10,Decorations,6000,60000
+2040,Friendship/Physique Jewel 4,10,Decorations,6000,60000
+2041,Satiated/Physique Jewel 4,9,Decorations,5000,50000
+2042,Stonethrower/Physique Jewel 4,9,Decorations,5000,50000
+2043,Resistor/Physique Jewel 4,10,Decorations,6000,60000
+2044,Flight/Physique Jewel 4,10,Decorations,6000,60000
+2045,Sprinter/Physique Jewel 4,10,Decorations,6000,60000
+2046,Refresh/Physique Jewel 4,10,Decorations,6000,60000
+2047,Jumping/Physique Jewel 4,10,Decorations,6000,60000
+2048,Sheath/Physique Jewel 4,10,Decorations,6000,60000
+2049,Gobbler/Physique Jewel 4,10,Decorations,6000,60000
+2050,Grinder/Physique Jewel 4,10,Decorations,6000,60000
+2051,Bomber/Physique Jewel 4,10,Decorations,6000,60000
+2052,Fungiform/Physique Jewel 4,10,Decorations,6000,60000
+2053,Slider/Physique Jewel 4,9,Decorations,5000,50000
+2054,Guardian/Physique Jewel 4,9,Decorations,5000,50000
+2055,Drain/Evasion Jewel 4,10,Decorations,6000,60000
+2056,Fortitude/Evasion Jewel 4,9,Decorations,5000,50000
+2057,Crisis/Evasion Jewel 4,9,Decorations,5000,50000
+2058,Ironwall/Evasion Jewel 4,10,Decorations,6000,60000
+2059,Friendship/Evasion Jewel 4,10,Decorations,6000,60000
+2060,Satiated/Evasion Jewel 4,9,Decorations,5000,50000
+2061,Stonethrower/Evasion Jewel 4,9,Decorations,5000,50000
+2062,Resistor/Evasion Jewel 4,10,Decorations,6000,60000
+2063,Flight/Evasion Jewel 4,10,Decorations,6000,60000
+2064,Sprinter/Evasion Jewel 4,10,Decorations,6000,60000
+2065,Refresh/Evasion Jewel 4,10,Decorations,6000,60000
+2066,Jumping/Evasion Jewel 4,10,Decorations,6000,60000
+2067,Sheath/Evasion Jewel 4,10,Decorations,6000,60000
+2068,Gobbler/Evasion Jewel 4,10,Decorations,6000,60000
+2069,Grinder/Evasion Jewel 4,10,Decorations,6000,60000
+2070,Bomber/Evasion Jewel 4,10,Decorations,6000,60000
+2071,Fungiform/Evasion Jewel 4,10,Decorations,6000,60000
+2072,Slider/Evasion Jewel 4,9,Decorations,5000,50000
+2073,Guardian/Evasion Jewel 4,9,Decorations,5000,50000
+2074,Drain/Attack Jewel 4,10,Decorations,6000,60000
+2075,Fortitude/Attack Jewel 4,9,Decorations,5000,50000
+2076,Crisis/Attack Jewel 4,9,Decorations,5000,50000
+2077,Ironwall/Attack Jewel 4,10,Decorations,6000,60000
+2078,Friendship/Attack Jewel 4,10,Decorations,6000,60000
+2079,Satiated/Attack Jewel 4,9,Decorations,5000,50000
+2080,Stonethrower/Attack Jewel 4,9,Decorations,5000,50000
+2081,Resistor/Attack Jewel 4,10,Decorations,6000,60000
+2082,Flight/Attack Jewel 4,10,Decorations,6000,60000
+2083,Sprinter/Attack Jewel 4,10,Decorations,6000,60000
+2084,Refresh/Attack Jewel 4,10,Decorations,6000,60000
+2085,Jumping/Attack Jewel 4,10,Decorations,6000,60000
+2086,Sheath/Attack Jewel 4,10,Decorations,6000,60000
+2087,Gobbler/Attack Jewel 4,10,Decorations,6000,60000
+2088,Grinder/Attack Jewel 4,10,Decorations,6000,60000
+2089,Bomber/Attack Jewel 4,10,Decorations,6000,60000
+2090,Fungiform/Attack Jewel 4,10,Decorations,6000,60000
+2091,Slider/Attack Jewel 4,9,Decorations,5000,50000
+2092,Guardian/Attack Jewel 4,9,Decorations,5000,50000
+2093,Drain/Expert Jewel 4,10,Decorations,6000,60000
+2094,Fortitude/Expert Jewel 4,9,Decorations,5000,50000
+2095,Crisis/Expert Jewel 4,9,Decorations,5000,50000
+2096,Ironwall/Expert Jewel 4,10,Decorations,6000,60000
+2097,Friendship/Expert Jewel 4,10,Decorations,6000,60000
+2098,Satiated/Expert Jewel 4,9,Decorations,5000,50000
+2099,Stonethrower/Expert Jewel 4,9,Decorations,5000,50000
+2100,Resistor/Expert Jewel 4,10,Decorations,6000,60000
+2101,Flight/Expert Jewel 4,10,Decorations,6000,60000
+2102,Sprinter/Expert Jewel 4,10,Decorations,6000,60000
+2103,Refresh/Expert Jewel 4,10,Decorations,6000,60000
+2104,Jumping/Expert Jewel 4,10,Decorations,6000,60000
+2105,Sheath/Expert Jewel 4,10,Decorations,6000,60000
+2106,Gobbler/Expert Jewel 4,10,Decorations,6000,60000
+2107,Grinder/Expert Jewel 4,10,Decorations,6000,60000
+2108,Bomber/Expert Jewel 4,10,Decorations,6000,60000
+2109,Fungiform/Expert Jewel 4,10,Decorations,6000,60000
+2110,Slider/Expert Jewel 4,9,Decorations,5000,50000
+2111,Guardian/Expert Jewel 4,9,Decorations,5000,50000
+2112,Drain/Release Jewel 4,11,Decorations,8000,80000
+2113,Fortitude/Release Jewel 4,10,Decorations,6000,60000
+2114,Crisis/Release Jewel 4,10,Decorations,6000,60000
+2115,Ironwall/Release Jewel 4,11,Decorations,8000,80000
+2116,Friendship/Release Jewel 4,11,Decorations,8000,80000
+2117,Satiated/Release Jewel 4,10,Decorations,6000,60000
+2118,Stonethrower/Release Jewel 4,10,Decorations,6000,60000
+2119,Resistor/Release Jewel 4,11,Decorations,8000,80000
+2120,Flight/Release Jewel 4,11,Decorations,8000,80000
+2121,Sprinter/Release Jewel 4,11,Decorations,8000,80000
+2122,Refresh/Release Jewel 4,11,Decorations,8000,80000
+2123,Jumping/Release Jewel 4,11,Decorations,8000,80000
+2124,Sheath/Release Jewel 4,11,Decorations,8000,80000
+2125,Gobbler/Release Jewel 4,11,Decorations,8000,80000
+2126,Grinder/Release Jewel 4,11,Decorations,8000,80000
+2127,Bomber/Release Jewel 4,11,Decorations,8000,80000
+2128,Fungiform/Release Jewel 4,11,Decorations,8000,80000
+2129,Slider/Release Jewel 4,10,Decorations,6000,60000
+2130,Guardian/Release Jewel 4,10,Decorations,6000,60000
+2131,Drain/Handicraft Jewel 4,11,Decorations,8000,80000
+2132,Fortitude/Handicraft Jewel 4,10,Decorations,6000,60000
+2133,Crisis/Handicraft Jewel 4,10,Decorations,6000,60000
+2134,Ironwall/Handicraft Jewel 4,11,Decorations,8000,80000
+2135,Friendship/Handicraft Jewel 4,11,Decorations,8000,80000
+2136,Satiated/Handicraft Jewel 4,10,Decorations,6000,60000
+2137,Stonethrower/Handicraft Jewel 4,10,Decorations,6000,60000
+2138,Resistor/Handicraft Jewel 4,11,Decorations,8000,80000
+2139,Flight/Handicraft Jewel 4,11,Decorations,8000,80000
+2140,Sprinter/Handicraft Jewel 4,11,Decorations,8000,80000
+2141,Refresh/Handicraft Jewel 4,11,Decorations,8000,80000
+2142,Jumping/Handicraft Jewel 4,11,Decorations,8000,80000
+2143,Sheath/Handicraft Jewel 4,11,Decorations,8000,80000
+2144,Gobbler/Handicraft Jewel 4,11,Decorations,8000,80000
+2145,Grinder/Handicraft Jewel 4,11,Decorations,8000,80000
+2146,Bomber/Handicraft Jewel 4,11,Decorations,8000,80000
+2147,Fungiform/Handicraft Jewel 4,11,Decorations,8000,80000
+2148,Slider/Handicraft Jewel 4,10,Decorations,6000,60000
+2149,Guardian/Handicraft Jewel 4,10,Decorations,6000,60000
+2150,Footing/Protection Jewel 4,10,Decorations,6000,60000
+2151,Charger/Protection Jewel 4,10,Decorations,6000,60000
+2152,Enhancer/Protection Jewel 4,10,Decorations,6000,60000
+2153,Destroyer/Protection Jewel 4,10,Decorations,6000,60000
+2154,KO/Protection Jewel 4,10,Decorations,6000,60000
+2155,Potential/Protection Jewel 4,10,Decorations,6000,60000
+2156,Wind Resist/Protection Jewel 4,10,Decorations,6000,60000
+2157,Draw/Protection Jewel 4,10,Decorations,6000,60000
+2158,Throttle/Protection Jewel 4,10,Decorations,6000,60000
+2159,Challenger/Protection Jewel 4,10,Decorations,6000,60000
+2160,Flawless/Protection Jewel 4,10,Decorations,6000,60000
+2161,Furor/Protection Jewel 4,10,Decorations,6000,60000
+2162,Mighty/Protection Jewel 4,10,Decorations,6000,60000
+2163,Brace/Protection Jewel 4,10,Decorations,6000,60000
+2164,Phoenix/Protection Jewel 4,11,Decorations,8000,80000
+2165,Earplug/Protection Jewel 4,11,Decorations,8000,80000
+2166,Critical/Protection Jewel 4,11,Decorations,8000,80000
+2167,Tenderizer/Protection Jewel 4,11,Decorations,8000,80000
+2168,Handicraft/Protection Jewel 4,11,Decorations,8000,80000
+2169,Release/Protection Jewel 4,10,Decorations,6000,60000
+2170,Footing/Medicine Jewel 4,10,Decorations,6000,60000
+2171,Charger/Medicine Jewel 4,10,Decorations,6000,60000
+2172,Enhancer/Medicine Jewel 4,10,Decorations,6000,60000
+2173,Destroyer/Medicine Jewel 4,10,Decorations,6000,60000
+2174,KO/Medicine Jewel 4,10,Decorations,6000,60000
+2175,Potential/Medicine Jewel 4,10,Decorations,6000,60000
+2176,Wind Resist/Medicine Jewel 4,10,Decorations,6000,60000
+2177,Draw/Medicine Jewel 4,10,Decorations,6000,60000
+2178,Throttle/Medicine Jewel 4,10,Decorations,6000,60000
+2179,Challenger/Medicine Jewel 4,10,Decorations,6000,60000
+2180,Flawless/Medicine Jewel 4,10,Decorations,6000,60000
+2181,Furor/Medicine Jewel 4,10,Decorations,6000,60000
+2182,Mighty/Medicine Jewel 4,10,Decorations,6000,60000
+2183,Brace/Medicine Jewel 4,10,Decorations,6000,60000
+2184,Phoenix/Medicine Jewel 4,11,Decorations,8000,80000
+2185,Earplug/Medicine Jewel 4,11,Decorations,8000,80000
+2186,Critical/Medicine Jewel 4,11,Decorations,8000,80000
+2187,Tenderizer/Medicine Jewel 4,11,Decorations,8000,80000
+2188,Handicraft/Medicine Jewel 4,11,Decorations,8000,80000
+2189,Release/Medicine Jewel 4,11,Decorations,8000,80000
+2190,Footing/Vitality Jewel 4,10,Decorations,6000,60000
+2191,Charger/Vitality Jewel 4,10,Decorations,6000,60000
+2192,Enhancer/Vitality Jewel 4,10,Decorations,6000,60000
+2193,Destroyer/Vitality Jewel 4,10,Decorations,6000,60000
+2194,KO/Vitality Jewel 4,10,Decorations,6000,60000
+2195,Potential/Vitality Jewel 4,10,Decorations,6000,60000
+2196,Wind Resist/Vitality Jewel 4,10,Decorations,6000,60000
+2197,Draw/Vitality Jewel 4,10,Decorations,6000,60000
+2198,Throttle/Vitality Jewel 4,10,Decorations,6000,60000
+2199,Challenger/Vitality Jewel 4,10,Decorations,6000,60000
+2200,Flawless/Vitality Jewel 4,10,Decorations,6000,60000
+2201,Furor/Vitality Jewel 4,10,Decorations,6000,60000
+2202,Mighty/Vitality Jewel 4,10,Decorations,6000,60000
+2203,Brace/Vitality Jewel 4,10,Decorations,6000,60000
+2204,Phoenix/Vitality Jewel 4,11,Decorations,8000,80000
+2205,Earplug/Vitality Jewel 4,11,Decorations,8000,80000
+2206,Critical/Vitality Jewel 4,11,Decorations,8000,80000
+2207,Tenderizer/Vitality Jewel 4,11,Decorations,8000,80000
+2208,Handicraft/Vitality Jewel 4,11,Decorations,8000,80000
+2209,Release/Vitality Jewel 4,11,Decorations,8000,80000
+2210,Footing/Maintenance Jewel 4,10,Decorations,6000,60000
+2211,Charger/Maintenance Jewel 4,10,Decorations,6000,60000
+2212,Enhancer/Maintenance Jewel 4,10,Decorations,6000,60000
+2213,Destroyer/Maintenance Jewel 4,10,Decorations,6000,60000
+2214,KO/Maintenance Jewel 4,10,Decorations,6000,60000
+2215,Potential/Maintenance Jewel 4,10,Decorations,6000,60000
+2216,Wind Resist/Maintenance Jewel 4,10,Decorations,6000,60000
+2217,Draw/Maintenance Jewel 4,10,Decorations,6000,60000
+2218,Throttle/Maintenance Jewel 4,10,Decorations,6000,60000
+2219,Challenger/Maintenance Jewel 4,10,Decorations,6000,60000
+2220,Flawless/Maintenance Jewel 4,10,Decorations,6000,60000
+2221,Furor/Maintenance Jewel 4,10,Decorations,6000,60000
+2222,Mighty/Maintenance Jewel 4,10,Decorations,6000,60000
+2223,Brace/Maintenance Jewel 4,10,Decorations,6000,60000
+2224,Phoenix/Maintenance Jewel 4,11,Decorations,8000,80000
+2225,Earplug/Maintenance Jewel 4,11,Decorations,8000,80000
+2226,Critical/Maintenance Jewel 4,11,Decorations,8000,80000
+2227,Tenderizer/Maintenance Jewel 4,11,Decorations,8000,80000
+2228,Handicraft/Maintenance Jewel 4,11,Decorations,8000,80000
+2229,Release/Maintenance Jewel 4,11,Decorations,8000,80000
+2230,Footing/Physique Jewel 4,11,Decorations,8000,80000
+2231,Charger/Physique Jewel 4,11,Decorations,8000,80000
+2232,Enhancer/Physique Jewel 4,11,Decorations,8000,80000
+2233,Destroyer/Physique Jewel 4,11,Decorations,8000,80000
+2234,KO/Physique Jewel 4,11,Decorations,8000,80000
+2235,Potential/Physique Jewel 4,11,Decorations,8000,80000
+2236,Wind Resist/Physique Jewel 4,11,Decorations,8000,80000
+2237,Draw/Physique Jewel 4,11,Decorations,8000,80000
+2238,Throttle/Physique Jewel 4,11,Decorations,8000,80000
+2239,Challenger/Physique Jewel 4,11,Decorations,8000,80000
+2240,Flawless/Physique Jewel 4,11,Decorations,8000,80000
+2241,Furor/Physique Jewel 4,11,Decorations,8000,80000
+2242,Mighty/Physique Jewel 4,11,Decorations,8000,80000
+2243,Brace/Physique Jewel 4,11,Decorations,8000,80000
+2244,Phoenix/Physique Jewel 4,12,Decorations,10000,100000
+2245,Earplug/Physique Jewel 4,12,Decorations,10000,100000
+2246,Critical/Physique Jewel 4,12,Decorations,10000,100000
+2247,Tenderizer/Physique Jewel 4,12,Decorations,10000,100000
+2248,Handicraft/Physique Jewel 4,12,Decorations,10000,100000
+2249,Release/Physique Jewel 4,12,Decorations,10000,100000
+2250,Footing/Evasion Jewel 4,11,Decorations,8000,80000
+2251,Charger/Evasion Jewel 4,11,Decorations,8000,80000
+2252,Enhancer/Evasion Jewel 4,11,Decorations,8000,80000
+2253,Destroyer/Evasion Jewel 4,11,Decorations,8000,80000
+2254,KO/Evasion Jewel 4,11,Decorations,8000,80000
+2255,Potential/Evasion Jewel 4,11,Decorations,8000,80000
+2256,Wind Resist/Evasion Jewel 4,11,Decorations,8000,80000
+2257,Draw/Evasion Jewel 4,11,Decorations,8000,80000
+2258,Throttle/Evasion Jewel 4,11,Decorations,8000,80000
+2259,Challenger/Evasion Jewel 4,11,Decorations,8000,80000
+2260,Flawless/Evasion Jewel 4,11,Decorations,8000,80000
+2261,Furor/Evasion Jewel 4,11,Decorations,8000,80000
+2262,Mighty/Evasion Jewel 4,11,Decorations,8000,80000
+2263,Brace/Evasion Jewel 4,11,Decorations,8000,80000
+2264,Phoenix/Evasion Jewel 4,12,Decorations,10000,100000
+2265,Earplug/Evasion Jewel 4,12,Decorations,10000,100000
+2266,Critical/Evasion Jewel 4,12,Decorations,10000,100000
+2267,Tenderizer/Evasion Jewel 4,12,Decorations,10000,100000
+2268,Handicraft/Evasion Jewel 4,12,Decorations,10000,100000
+2269,Release/Evasion Jewel 4,12,Decorations,10000,100000
+2270,Survival Jewel 1,9,Decorations,2000,20000
+2272,Warming Jewel 2,9,Decorations,0,0
+2273,Diversion Jewel 3,11,Decorations,8000,80000
+2274,Acrobat Jewel 3,11,Decorations,8000,80000
+2275,Shaver Jewel 3,11,Decorations,8000,80000
+2318,Bamboo Screen (Small),4,Furniture,900,9000
+2319,Bamboo Screen (Large),4,Furniture,900,9000
+2320,Intimate Bench,4,Furniture,900,9000
+2321,Intimate Bed,4,Furniture,900,9000
+2322,Intimate Table,4,Furniture,900,9000
+2323,Intimate Chairs,4,Furniture,900,9000
+2324,Steaming Hot Pot,4,Furniture,900,9000
+2325,Intimate Chest,4,Furniture,900,9000
+2326,Felyne Daruma (Red),4,Furniture,900,9000
+2327,Felyne Daruma (Gold),4,Furniture,900,9000
+2328,Lucky Felyne,4,Furniture,900,9000
+2329,Lucky Melynx,4,Furniture,900,9000
+2330,Gourds,4,Furniture,900,9000
+2331,Mini Throw Pillows,4,Furniture,900,9000
+2332,Third Fleet Master Painting,4,Furniture,900,9000
+2333,Folding Fan,4,Furniture,900,9000
+2334,Folding Fan (Gold),4,Furniture,900,9000
+2335,Folding Fan (Pink),4,Furniture,900,9000
+2336,Intimate Long Desk,4,Furniture,900,9000
+2337,Intimate Dresser,4,Furniture,900,9000
+2338,Intimate Lights,4,Furniture,900,9000
+2339,Hanging Scroll (Hunt),4,Furniture,900,9000
+2340,Hanging Scroll (Boaboa),4,Furniture,900,9000
+2341,Hanging Scroll (Slogan),4,Furniture,900,9000
+2342,Hanging Scroll (Water Oil),4,Furniture,900,9000
+2343,New World Painting,4,Furniture,900,9000
+2344,Woven Mats (1F),4,Furniture,900,9000
+2345,Woven Mats (2F),4,Furniture,900,9000
+2346,Decorative Sword,4,Furniture,900,9000
+2347,Arranged Flowers,4,Furniture,900,9000
+2348,The Comforts of Home,4,Soundtrack,900,9000
+2349,Preparing for the Journey - Living Quarters,4,Soundtrack,900,9000
+2350,Dreams of Tomorrow - Private Quarters,4,Soundtrack,900,9000
+2351,Gorgeous Days - Private Suite,4,Soundtrack,900,9000
+2352,A Brand New Day,4,Soundtrack,900,9000
+2353,The Gracious Villagers,4,Soundtrack,900,9000
+2354,Moga on the Sea,4,Soundtrack,900,9000
+2355,Harbor of the Sun - Val Habar,4,Soundtrack,900,9000
+2356,Proof of a Hero - Monster Hunter: World Version,4,Soundtrack,900,9000
+2357,Guidance,4,Soundtrack,900,9000
+2358,Pride of a Nameless Hunter,4,Soundtrack,900,9000
+2359,Succession of Light,4,Soundtrack,900,9000
+2360,Tales Spun through Song,4,Soundtrack,900,9000
+2361,Saudade,4,Soundtrack,900,9000
+2362,Save Room,4,Soundtrack,900,9000
+2363,Black Impact,4,Soundtrack,900,9000
+2364,A Day in the Town,4,Soundtrack,900,9000
+2365,Bustlin' Dundorma,4,Soundtrack,900,9000
+2366,"Great Desert Outpost, Loc Lac",4,Soundtrack,900,9000
+2367,The Lovely Feast,4,Soundtrack,900,9000
+2368,Savage of the Ancient Forest,4,Soundtrack,900,9000
+2369,Beast with Fire Upon its Back - Zorah Magdaros,4,Soundtrack,900,9000
+2370,Even Elder Dragons Tremble - Nergigante,4,Soundtrack,900,9000
+2371,The Shadow Upon the Tempest - Kushala Daora (World Version),4,Soundtrack,900,9000
+2372,Ruler of the Flame - Teostra (World Version),4,Soundtrack,900,9000
+2373,Keeper of Hades - Vaal Hazak,4,Soundtrack,900,9000
+2374,The Invading Tyrant - Bazelgeuse,4,Soundtrack,900,9000
+2375,Guiding Lamp to the Otherworld,4,Soundtrack,900,9000
+2376,How Life Springs Anew,4,Soundtrack,900,9000
+2377,Demonic Glutton - Deviljho: World Version,4,Soundtrack,900,9000
+2378,The Brilliance that Rules the Everstream - Kulve Taroth: Confrontation,4,Soundtrack,900,9000
+2379,The Brilliance that Rules the Everstream - Kulve Taroth: Transformation,4,Soundtrack,900,9000
+2380,The Brilliance that Rules the Everstream - Kulve Taroth: Tremor,4,Soundtrack,900,9000
+2381,Empress of the Flame - Lunastra: World Version,4,Soundtrack,900,9000
+2382,From the Rumblings Come a Song,4,Soundtrack,900,9000
+2383,A Single Bloom in an Eternity,4,Soundtrack,900,9000
+2384,The Beast Bares Its Fangs - Tigrex: World Version,4,Soundtrack,900,9000
+2385,The Scorching Blade - Glavenus: World Version,4,Soundtrack,900,9000
+2386,Brutish Indigo - Brachydios: World Version,4,Soundtrack,900,9000
+2387,Splendiferous Silver Sovereign - Velkhana,4,Soundtrack,900,9000
+2388,Golden Mane - Rajang: World Version,4,Soundtrack,900,9000
+2389,Proof of a Hero: Sebastian Schwartz Remix,4,Soundtrack,900,9000
+2390,The Merry Band: The Sound Room Remix,4,Soundtrack,900,9000
+2391,Spark of Blue - Zinogre: Sebastian Schwartz Remix,4,Soundtrack,900,9000
+2392,Brutish Indigo - Brachydios: The Sound Room Remix,4,Soundtrack,900,9000
+2393,To The Ones With Life: The Sound Room Remix,4,Soundtrack,900,9000
+2394,Barley Field Walkway,4,Soundtrack,900,9000
+2395,Hunter of the Violent Sands,4,Soundtrack,900,9000
+2396,Cazador Del Monstruo,4,Soundtrack,900,9000
+2397,"Gather Up, Everyone! ~ Sunsnug Isle",4,Soundtrack,900,9000
+2398,Red Glare in the Darkness - Nargacuga: World Version,4,Soundtrack,900,9000
+2399,Spark of Blue - Zinogre: World Version,4,Soundtrack,900,9000
+2400,The Howling Lone Wolf - Yian Garuga: World Version,4,Soundtrack,900,9000
+2401,Morning Star of the Dark Tide - Namielle,4,Soundtrack,900,9000
+2402,World's End - Arch-Tempered Nergigante,4,Soundtrack,900,9000
+2403,Brutish Indigo Rages,4,Soundtrack,900,9000
+2404,The Emperor Emerges From Under the Veil,4,Soundtrack,900,9000
+2405,For the Emperor's Amusement,4,Soundtrack,900,9000
+2406,Proof of a Hero (MH Swing),4,Soundtrack,900,9000
+2407,Ruler of the Flame - Teostra (MH Swing),4,Soundtrack,900,9000
+2408,Splendid Bed,4,Furniture,900,9000
+2409,Towering Desserts,4,Furniture,900,9000
+2410,Melynx Doll,4,Furniture,900,9000
+2411,Splendid Silver Pot,4,Furniture,900,9000
+2412,Splendid Gold Pot,4,Furniture,900,9000
+2413,Plum Flower Pot,4,Furniture,900,9000
+2414,Decorative Tree,4,Furniture,900,9000
+2415,Flower Decoration (Small),4,Furniture,900,9000
+2416,Flower Decoration (Large),4,Furniture,900,9000
+2417,Tropical Planting,4,Furniture,900,9000
+2418,Fun Fright Pumpkins,4,Furniture,900,9000
+2419,Model Fifth Fleet Ship,4,Furniture,900,9000
+2420,Model Modified Ship,4,Furniture,900,9000
+2421,Model Research Base,4,Furniture,900,9000
+2422,Model Base Camp,4,Furniture,900,9000
+2423,Graceful Tea Set,4,Furniture,900,9000
+2424,Dark Pot,4,Furniture,900,9000
+2425,Earth Tone Pot,4,Furniture,900,9000
+2426,Rathalos Mask,4,Furniture,900,9000
+2427,Rathian Mask,4,Furniture,900,9000
+2428,Kulu-Ya-Ku Mask,4,Furniture,900,9000
+2429,Ghostly Fun Fright Ornament,4,Furniture,900,9000
+2430,Felyne Balloon,4,Furniture,900,9000
+2431,Grimalkyne Balloon (White),4,Furniture,900,9000
+2432,Grimalkyne Balloon (Black),4,Furniture,900,9000
+2433,Gajalaka Balloon,4,Furniture,900,9000
+2434,Hanging Rathalos Mask,4,Furniture,900,9000
+2435,Hanging Rathian Mask,4,Furniture,900,9000
+2436,Hanging Kulu-Ya-Ku Mask,4,Furniture,900,9000
+2437,Palico Portraits 2,4,Furniture,900,9000
+2438,Palico Portraits 3,4,Furniture,900,9000
+2439,Palico Portraits 4,4,Furniture,900,9000
+2440,Break Time Sketch,4,Furniture,900,9000
+2441,Ancient Forest Flora Painting,4,Furniture,900,9000
+2442,Still Life Painting,4,Furniture,900,9000
+2443,Splendid Dresser,4,Furniture,900,9000
+2444,Familiar Lights (Yellow),4,Furniture,900,9000
+2445,Familiar Lights (White),4,Furniture,900,9000
+2446,Faint Lights,4,Furniture,900,9000
+2447,Luxury Lights (White),4,Furniture,900,9000
+2448,Cute Lights (Blue),4,Furniture,900,9000
+2449,Cute Lights (White),4,Furniture,900,9000
+2450,Simple Lights (Yellow),4,Furniture,900,9000
+2451,Simple Lights (White),4,Furniture,900,9000
+2452,Splendid Lights,4,Furniture,900,9000
+2453,Chandeliers,4,Furniture,900,9000
+2454,Poogie Lanterns,4,Furniture,900,9000
+2455,Joyful Lanterns,4,Furniture,900,9000
+2456,Sky Lantern Lights,4,Furniture,900,9000
+2457,Splendid Wall Shelf (Large),4,Furniture,900,9000
+2458,Splendid Wall Shelf (Small),4,Furniture,900,9000
+2459,Hoarfrost Reach Painting 2,4,Furniture,900,9000
+2460,New World Maps,4,Furniture,900,9000
+2461,Palico Portraits 5,4,Furniture,900,9000
+2462,Fun Fright Cloth,4,Furniture,900,9000
+2463,1st Fleet Banner,4,Furniture,900,9000
+2464,2nd Fleet Banner,4,Furniture,900,9000
+2465,3rd Fleet Banner,4,Furniture,900,9000
+2466,4th Fleet Banner,4,Furniture,900,9000
+2467,5th Fleet Banner,4,Furniture,900,9000
+2468,Wildlife Painting,4,Furniture,900,9000
+2469,Astera Painting,4,Furniture,900,9000
+2470,Council Meeting Portrait,4,Furniture,900,9000
+2471,Playtime Portrait,4,Furniture,900,9000
+2472,Splendid Rugs (1F),4,Furniture,900,9000
+2473,Splendid Rugs (2F),4,Furniture,900,9000
+2474,Paper Lantern,4,Furniture,900,9000
+2475,Poogie Lamp,4,Furniture,900,9000
+2476,Round Paper Lanterns,4,Furniture,900,9000
+2477,Pumpkin Lantern,4,Furniture,900,9000
+2478,Research Set,4,Furniture,900,9000
+2479,Kitchen Set,4,Furniture,900,9000
+2480,Rathalos Bust,4,Furniture,900,9000
+2481,Treasure Chest,4,Furniture,900,9000
+2482,Flower Decoration (XL),4,Furniture,900,9000
+2483,Giant Stuffed Felyne Doll,4,Furniture,900,9000
+2484,Giant Stuffed Poogie Doll,4,Furniture,900,9000
+2485,Giant Stuffed Grimalkyne Doll,4,Furniture,900,9000
+2486,Equipment Display,4,Furniture,900,9000
+2489,Scoutfly Cage,4,Furniture,900,9000
+2490,Shieldspire Stooge,4,Furniture,900,9000
+2491,Great Jagras Figure,4,Furniture,900,9000
+2492,Nergigante Figure,4,Furniture,900,9000
+2493,Kushala Daora Figure,4,Furniture,900,9000
+2494,Dodogama Figure,4,Furniture,900,9000
+2495,Rathalos Figure,4,Furniture,900,9000
+2496,Anjanath Figure,4,Furniture,900,9000
+2497,Elegant Floor (Blue),4,Furniture,900,9000
+2498,Elegant Floor (Green),4,Furniture,900,9000
+2499,Elegant Floor (White),4,Furniture,900,9000
+2500,Elegant Floor (Gold),4,Furniture,900,9000
+2501,Cute Floor (Blue),4,Furniture,900,9000
+2502,Cute Floor (Green),4,Furniture,900,9000
+2503,Cute Floor (Gray),4,Furniture,900,9000
+2504,Luxury Wood Floor,4,Furniture,900,9000
+2505,Straw Floor (Green),4,Furniture,900,9000
+2506,Straw Floor (Brown),4,Furniture,900,9000
+2507,Wooden Floor (Black),4,Furniture,900,9000
+2508,Bamboo Floor (Green),4,Furniture,900,9000
+2509,Bamboo Floor (Brown),4,Furniture,900,9000
+2510,Ceramic Tile Floor (Blue),4,Furniture,900,9000
+2511,Ceramic Tile Floor (Peach),4,Furniture,900,9000
+2512,Ceramic Tile Floor (Aqua),4,Furniture,900,9000
+2513,Striped Wall (Peach),4,Furniture,900,9000
+2514,Striped Wall (Gray),4,Furniture,900,9000
+2515,Striped Wall (Yellow),4,Furniture,900,9000
+2516,Ceramic Tile Wall (Blue),4,Furniture,900,9000
+2517,Ceramic Tile Wall (Gray),4,Furniture,900,9000
+2518,Ceramic Tile Wall (Pastel),4,Furniture,900,9000
+2519,Luxury Patterned Wall (Gold),4,Furniture,900,9000
+2520,Luxury Patterned Wall (Blue),4,Furniture,900,9000
+2521,Luxury Patterned Wall (Red),4,Furniture,900,9000
+2522,Luxury Patterned Wall (Green),4,Furniture,900,9000
+2523,Splendid Wall,4,Furniture,900,9000
+2524,Wooden Wall (Black),4,Furniture,900,9000
+2525,Stucco Wall (Clay),4,Furniture,900,9000
+2526,Bamboo Wall (Green),4,Furniture,900,9000
+2527,Bamboo Wall (Brown),4,Furniture,900,9000
+2528,Marble Wall (Gray),4,Furniture,900,9000
+2529,Splendid Sofa,4,Furniture,900,9000
+2530,Joyful Platter,4,Furniture,900,9000
+2531,Luxury Platter,4,Furniture,900,9000
+2532,Full Bloom Platter,4,Furniture,900,9000
+2533,Sizzling Spice Platter,4,Furniture,900,9000
+2534,Tobi-Kadachi Figure,4,Furniture,900,9000
+2535,Barioth Figure,4,Furniture,900,9000
+2536,Banbaro Figure,4,Furniture,900,9000
+2537,Boaboa Tribe Figures,4,Furniture,900,9000
+2538,Velkhana Figure,4,Furniture,900,9000
+2539,Legiana Figure,4,Furniture,900,9000
+2540,Beotodus Figure,4,Furniture,900,9000
+2541,Nargacuga Figure,4,Furniture,900,9000
+2542,Pukei-Pukei Figure,4,Furniture,900,9000
+2543,Grimalkyne Figures,4,Furniture,900,9000
+2544,Glavenus Figure,4,Furniture,900,9000
+2545,Rathian Figure,4,Furniture,900,9000
+2546,Kulu-Ya-Ku Figure,4,Furniture,900,9000
+2547,Zinogre Figure,4,Furniture,900,9000
+2548,Yian Garuga Figure,4,Furniture,900,9000
+2549,Great Girros Figure,4,Furniture,900,9000
+2550,Tigrex Figure,4,Furniture,900,9000
+2551,Odogaron Figure,4,Furniture,900,9000
+2552,Radobaan Figure,4,Furniture,900,9000
+2553,Namielle Figure,4,Furniture,900,9000
+2554,Paolumu Figure,4,Furniture,900,9000
+2555,Tzitzi-Ya-Ku Figure,4,Furniture,900,9000
+2556,Rajang Figure,4,Furniture,900,9000
+2557,Kirin Figure,4,Furniture,900,9000
+2558,Lunastra Figure,4,Furniture,900,9000
+2559,Vaal Hazak Figure,4,Furniture,900,9000
+2560,Teostra Figure,4,Furniture,900,9000
+2561,Gajalaka Figures,4,Furniture,900,9000
+2562,Brachydios Figure,4,Furniture,900,9000
+2563,Uragaan Figure,4,Furniture,900,9000
+2564,Lavasioth Figure,4,Furniture,900,9000
+2565,Grand Appreciation Figure,4,Furniture,900,9000
+2566,Marble Wall (White),4,Furniture,900,9000
+2567,Marble Floor (White),4,Furniture,900,9000
+2568,Green Herb,4,Furniture,900,9000
+2569,Red Herb,4,Furniture,900,9000
+2570,Blue Herb,4,Furniture,900,9000
+2571,First Aid Sprays,4,Furniture,900,9000
+2572,Mr. Raccoon,4,Furniture,900,9000
+2573,Creepy Rugs (1F),4,Furniture,900,9000
+2574,Creepy Rugs (2F),4,Furniture,900,9000
+2575,S.T.A.R.S. Plaque Set 1,4,Furniture,900,9000
+2576,S.T.A.R.S. Plaque Set 2,4,Furniture,900,9000
+2577,Typewriter,4,Furniture,900,9000
+2578,Item Box,4,Furniture,900,9000
+2579,Fun Fright Platter,4,Furniture,900,9000
+2580,Gold Poogie,4,Furniture,900,9000
+2581,Joyful Snowman,4,Furniture,900,9000
+2582,Appreciative Snowman,4,Furniture,900,9000
+2583,Blooming Snowman,4,Furniture,900,9000
+2584,Sizzling Snowman,4,Furniture,900,9000
+2585,Frightful Snowman,4,Furniture,900,9000
+2586,Sky Lanterns,4,Furniture,900,9000
+2587,Splendid Flag,4,Furniture,900,9000
+2588,Hanging Assorted Flowers,4,Furniture,900,9000
+2589,Glowing Fun Fright Ornament,4,Furniture,900,9000
+2590,Relief,4,Furniture,900,9000
+2591,Admiral Painting,4,Furniture,900,9000
+2592,Splendid Wall Hanging,4,Furniture,900,9000
+2593,Palico Portraits 6,4,Furniture,900,9000
+2594,Poogie Painting 2,4,Furniture,900,9000
+2595,Masterpiece Sketches,4,Furniture,900,9000
+2596,Showy Rugs (1F),4,Furniture,900,9000
+2597,Showy Rugs (2F),4,Furniture,900,9000
+2598,Pukei-Pukei Decoration,4,Furniture,900,9000
+2599,Fun Fright Stooge,4,Furniture,900,9000
+2600,Jyuratodus Figure,4,Furniture,900,9000
+2601,Barroth Figure,4,Furniture,900,9000
+2602,Diablos Figure,4,Furniture,900,9000
+2603,Safi'jiiva Figure,4,Furniture,900,9000
+2604,Xeno'jiiva Figure,4,Furniture,900,9000
+2605,Wulg Figures,4,Furniture,900,9000
+2606,Herbivore Figures,4,Furniture,900,9000
+2607,Kulve Taroth Figure,4,Furniture,900,9000
+2608,Bazelgeuse Figure,4,Furniture,900,9000
+2609,Deviljho Figure,4,Furniture,900,9000
+2610,Shara Ishvalda Figure 1,4,Furniture,900,9000
+2611,Shara Ishvalda Figure 2,4,Furniture,900,9000
+2612,Alatreon Figure,4,Furniture,900,9000
+2613,Fatalis Figure,4,Furniture,900,9000
+2614,The Bustling Heart of the Snowy Village (MH Swing),4,Soundtrack,900,9000
+2615,Scat Cat Fever (MH Swing),4,Soundtrack,900,9000
+2616,In Search of Hidden Springs (MH Swing),4,Soundtrack,900,9000
+2617,Scat Cat Fever,4,Soundtrack,900,9000
+2618,Felyne Soup Strategy!,4,Soundtrack,900,9000
+2619,Chime from a Shimmering Bell - Alatreon: World version,4,Soundtrack,900,9000
+2620,A Day on Pokke Farm (MH The Jazz),4,Soundtrack,900,9000
+2621,Felynes of Yukumo Farm (MH The Jazz),4,Soundtrack,900,9000
+2622,The Hunters' Secret Spring (MH The Jazz),4,Soundtrack,900,9000
+2623,Winds of Adventure (MH The Jazz),4,Soundtrack,900,9000
+2624,Proof of a Hero (MH The Jazz),4,Soundtrack,900,9000
+2625,The Legend Descends - Fatalis: World Version,4,Soundtrack,900,9000
+2626,Limitless Courage,4,Soundtrack,900,9000
+2627,The Final Confrontation,4,Soundtrack,900,9000
+2628,Boaboa Feast,4,Furniture,900,9000
+2629,Popo Sculpture,4,Furniture,900,9000
+2630,Boaboa Raft,4,Furniture,900,9000
+2631,Friendly Gift,4,Furniture,900,9000
+2632,Green Pukei-Pukei Plushie,4,Furniture,900,9000
+2633,Coral Pukei-Pukei Plushie,4,Furniture,900,9000
+2634,Palico Portraits 7,4,Furniture,900,9000
+2635,Pukei-Pukei Portrait,4,Furniture,900,9000
+2636,Boaboa Hut,4,Furniture,900,9000
+2637,Felyne Statues,4,Furniture,900,9000
+2638,Grimalkyne Mud Sculptures,4,Furniture,900,9000
+2639,Popo Sculptures,4,Furniture,900,9000
+2640,Beotodus Skull,4,Furniture,900,9000
+2641,Boaboa Gear,4,Furniture,900,9000
+2642,Lynian Gathering!,4,Furniture,900,9000
+2643,Lumu Doll (White),4,Furniture,900,9000
+2644,Lumu Doll (Purple),4,Furniture,900,9000
+2645,Moly Doll,4,Furniture,900,9000
+2646,Moly Doll (Green),4,Furniture,900,9000
+2647,Moly Doll (Yellow),4,Furniture,900,9000
+2648,Moly Doll (Peach),4,Furniture,900,9000
+2649,Moly Doll (Black),4,Furniture,900,9000
+2650,Moly Doll (Red),4,Furniture,900,9000
+2651,Moly Doll (White),4,Furniture,900,9000
+2652,Fatalis Painting,4,Furniture,900,9000
+2653,Rajang Doll (Black),4,Furniture,900,9000
+2654,Rajang Doll (Gold),4,Furniture,900,9000
+2655,Schrade Banner,4,Furniture,900,9000
+2656,Iceborne's End - Arch-Tempered Velkhana,4,Soundtrack,900,9000
+2657,Roar - Rathalos,4,Soundtrack,900,9000
+2658,Blood Red Horn - Monoblos,4,Soundtrack,900,9000
+2675,Freezer Ticket,9,Materials,500,5000
+2676,Pearlspring Ticket,9,Materials,500,5000
+2677,Snowball,4,Materials,1,10
+2678,Snowman,4,Materials,100,1000
+2679,Namielle Ticket,12,Materials,1600,16000
+2681,Velkhana Ticket,12,Materials,1600,16000
+2682,Frostfang Ticket,11,Materials,1400,14000
+2683,Green Herb,2,Support Items,30,300
+2684,Red Herb,2,Support Items,20,200
+2685,Mixed Herb (G+R),3,Support Items,100,1000
+2686,Steel Melding Ticket,6,Materials,10,100
+2687,Silver Melding Ticket,7,Materials,50,500
+2688,Steel Melding Feystone,6,Materials,1,10
+2689,Silver Melding Feystone,7,Materials,1,10
+2690,Gold Melding Ticket,10,Materials,100,1000
+2691,Astral Melding Ticket,11,Materials,500,5000
+2692,Gold Melding Feystone,10,Materials,1,10
+2693,Astral Melding Feystone,11,Materials,1,10
+2694,Dragonforce Chunk,12,Materials,1000,10000
+2696,Dracolite Shard,8,Materials,100,1000
+2697,Dracolite,9,Materials,200,2000
+2698,Large Dracolite,10,Materials,300,3000
+2699,Rigid Dracolite,11,Materials,400,4000
+2700,Pure Dracolite,12,Materials,500,5000
+2701,Silversnow Pelt,11,Materials,4900,49000
+2702,Bergcrusher Claw,11,Materials,7600,76000
+2703,Silverwhite Frostfang,11,Materials,10300,103000
+2704,Black Eagle Blueprint,10,Materials,800,8000
+2705,Wiggler Pot,9,Materials,500,5000
+2706,S.T.A.R.S. Badge,12,Materials,1500,15000
+2710,Joyful Ticket,9,Materials,400,4000
+2711,Penguin Ticket,10,Materials,800,8000
+2712,Sealed Dragon Cloth,10,Materials,800,8000
+2713,Buff Ticket,10,Materials,800,8000
+2714,Pickaxe Ticket,10,Materials,800,8000
+2715,Gratitude Ticket,9,Materials,400,4000
+2716,Wyverian Ticket,10,Materials,800,8000
+2717,Fest Ticket,10,Materials,800,8000
+2718,Meaty Canteen Ticket,10,Materials,800,8000
+2719,Azure Era Seal,11,Materials,1000,10000
+2720,Large Azure Era Gem,12,Materials,1500,15000
+2721,Full Bloom Ticket,9,Materials,400,4000
+2722,Whetfish Ticket,10,Materials,800,8000
+2723,Downy Crake Ticket II,10,Materials,800,8000
+2724,Sizzling Spice Ticket,9,Materials,400,4000
+2725,Shepherd Hare Ticket,10,Materials,800,8000
+2726,Spirited Canteen Ticket,10,Materials,800,8000
+2727,Fun Fright Ticket,9,Materials,400,4000
+2728,Black Bandana,10,Materials,800,8000
+2729,Scarf Ticket,10,Materials,800,8000
+2730,Unity Symbol,10,Materials,800,8000
+2732,Goldspring Ticket,10,Materials,800,8000
+2733,Large Beast Tear,5,Materials,500,5000
+2734,Magnificent Pelt,10,Materials,9000,90000
+2735,VIP Joyful Ticket,12,Materials,10000,100000
+2736,VIP Gratitude Ticket,12,Materials,10000,100000
+2737,VIP Full Bloom Ticket,12,Materials,10000,100000
+2738,VIP Sizzling Spice Ticket,12,Materials,10000,100000
+2739,VIP Fun Fright Ticket,12,Materials,10000,100000
+2740,Banishing Ball,9,Support Items,40,400
+2742,Dragonforce Chunk (Sword),12,Materials,1000,10000
+2743,Dragonforce Chunk (Blade),12,Materials,1000,10000
+2744,Dragonforce Chunk (Fang),12,Materials,1000,10000
+2745,Dragonforce Chunk (Claws),12,Materials,1000,10000
+2746,Dragonforce Chunk (Snout),12,Materials,1000,10000
+2747,Dragonforce Chunk (Buster),12,Materials,1000,10000
+2748,Dragonforce Chunk (Crusher),12,Materials,1000,10000
+2749,Dragonforce Chunk (Horn),12,Materials,1000,10000
+2750,Dragonforce Chunk (Axe),12,Materials,1000,10000
+2751,Dragonforce Chunk (Shield),12,Materials,1000,10000
+2752,Dragonforce Chunk (Spear),12,Materials,1000,10000
+2753,Dragonforce Chunk (Shot),12,Materials,1000,10000
+2754,Dragonforce Chunk (Cannon),12,Materials,1000,10000
+2755,Dragonforce Chunk (Bow),12,Materials,1000,10000
+2756,Fatalis Shard,11,Materials,8400,84000
+2757,Fatalis Cortex,11,Materials,9300,93000
+2758,Fatalis Pectus,11,Materials,10300,103000
+2759,Fatalis Hardhorn,11,Materials,12100,121000
+2760,Fatalis Evil Eye,12,Materials,30000,300000
+2761,Fatalis Fellwing,11,Materials,11200,112000
+2762,Herbivore Ticket I,10,Materials,800,8000
+2763,Herbivore Ticket II,10,Materials,800,8000
+2764,Inner Eye Ticket,11,Materials,1600,16000
+2765,Buff Ticket+,12,Materials,1600,16000
+2768,Chocolate,10,Materials,800,8000
+2769,Artemis's Notebook,11,Materials,800,8000
+2770,Zinogre Ticket,10,Materials,800,8000
+2771,Brute Tigrex Ticket,10,Materials,800,8000

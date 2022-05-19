@@ -25,6 +25,10 @@ df_4u_palico = pd.read_csv('dictionaries/MH4U_dictionary_palico.csv')
 # Create dataframe
 df_general = pd.DataFrame(data={'Name':0,'In MH3U':0,'In MH4U':0,'In MHWI':0,'In MHS2':0},index=(0,1))
 
+# Select certain items
+df_world_items = df_world_items[(df_world_items['Category'] != '(None)') & (df_world_items['Category'] != 'Furniture') & 
+    (df_world_items['Category'] != 'Currencies') & (df_world_items['Category'] != 'Soundtrack')]
+
 # Input world items
 for i in range(len(df_world_items)):
     s = {'Name':df_world_items.iloc[i,1],'In MH3U':False,'In MH4U':False,'In MHWI':True,'In MHS2':False}
