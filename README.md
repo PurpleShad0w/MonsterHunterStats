@@ -50,3 +50,4 @@ Currently supports:
 - [gocario](https://github.com/gocario) for providing information on the format of the MH3U save file.
 - [Seth VanHeulen](https://github.com/svanheulen) for providing the decryption library for MH4U, and [DaemonTsun](https://github.com/DaemonTsun) for updating it to python 3.9.
 - [mikewii](https://github.com/mikewii) for his work on the MH4U save file format.
+- [u/chuanhsing](https://www.reddit.com/user/chuanhsing/) for his [website](https://mhw.poedb.tw/eng/) providing ID data for World.
