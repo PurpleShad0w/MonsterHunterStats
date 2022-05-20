@@ -1,209 +1,1048 @@
-ID,Name,Category,Subcategory
+﻿ID,Name,Category,Subcategory
+0,None,None,None
 1,Herb,Healing Items,Recovery Items
 2,Potion,Healing Items,Recovery Items
+3,Mega Potion,Healing Items,Recovery Items
 4,Lifesoot,Healing Items,Recovery Items
 5,Lifepowder,Healing Items,Recovery Items
+6,Dust of Life,Healing Items,Recovery Items
+7,Max Potion,Healing Items,Recovery Items
+8,Ancient Potion,Healing Items,Recovery Items
 9,Immunizer,Healing Items,Recovery Items
 10,Antidote Herb,Healing Items,Recovery Items
 11,Antidote,Healing Items,Recovery Items
 12,Aloe Leaf,Healing Items,Recovery Items
 13,Burn Ointment,Healing Items,Recovery Items
+14,Anesfreesia,Healing Items,Recovery Items
+15,Paracare,Healing Items,Recovery Items
+16,Hot Pepper,Healing Items,Recovery Items
 17,Energy Drink,Healing Items,Recovery Items
 18,Girthy Garlic,Healing Items,Recovery Items
 19,Zest Pill,Healing Items,Recovery Items
+20,Soapgrass,Healing Items,Recovery Items
+21,Soap Scud,Healing Items,Recovery Items
 22,Vital Essence,Healing Items,Recovery Items
 24,Manyberry,Healing Items,Recovery Items
+25,Intuitizer,Healing Items,Recovery Items
+26,Nulberry Elixir,Healing Items,Recovery Items
+27,Cool Mist,Healing Items,Tools
 28,Hot Mist,Healing Items,Tools
 29,Mahana Dunker,Healing Items,Food
 31,Rutoh Ringer,Healing Items,Food
 32,Kuan Cruller,Healing Items,Food
+33,Lulu Donut,Healing Items,Food
+36,Nua Te Fritter,Healing Items,Food
 46,Whetstone,Support Items,Tools
 47,Super Whetstone,Support Items,Tools
 79,Surrogate Gem,Support Items,Tools
 118,Flash Bomb,Support Items,Tools
+119,Sonic Bomb,Support Items,Tools
 120,Poison Knife,Support Items,Tools
 121,Paralysis Knife,Support Items,Tools
+122,Sleep Knife,Support Items,Tools
 123,Throwing Knife,Support Items,Tools
 129,Stone,Materials,Materials
 140,Paintball,Support Items,Tools
+143,Pitfall Trap,Support Items,Tools
 144,Shock Trap,Support Items,Tools
 145,Tranq Trap,Support Items,Tools
 146,Big Barrel Bomb,Support Items,Tools
+147,Power Paintball,Support Items,Tools
+148,Mega Barrel Bomb,Support Items,Tools
 159,Vitality Nutriment,Growth Items,Tools
 160,Strength Nutriment,Growth Items,Tools
 161,Defense Nutriment,Growth Items,Tools
 162,Drawbridge Lever,Key Items,Key Items
-176,Well-done Steak,Healing Items,Food
+163,Felyne Barrel Bomb,Key Items,Key Items
+164,Terga Nitroshroom,Key Items,Key Items
+166,Recognition Letter,Materials,Recognition Letters
+167,Commendation,Materials,Commendations
+168,Bumblepumpkin,Materials,Bumblepumpkins
+169,Bronze Ticket,Materials,Bronze Tickets
+170,Silver Ticket,Materials,Silver Tickets
+171,Gold Ticket,Materials,Gold Tickets
+172,Platinum Ticket,Materials,Platinum Tickets
+173,Armor Sphere S,Materials,Armor Spheres
+176,Well-Done Steak,Healing Items,Food
 177,Muscle Meat,Healing Items,Food
 178,Toughness Meat,Healing Items,Food
+179,Quickness Meat,Healing Items,Food
+180,Gourmet Steak,Healing Items,Food
 182,Stable Blueprint 1,Key Items,Key Items
 183,Stable Blueprint 2,Key Items,Key Items
+184,Stable Blueprint 3,Key Items,Key Items
+185,Stable Blueprint 4,Key Items,Key Items
+186,Stable Blueprint 5,Key Items,Key Items
+187,Stable Blueprint 6,Key Items,Key Items
+188,Expedition+ Ticket,Key Items,Key Items
+189,Silver Exped.+ Ticket,Key Items,Key Items
+190,Gold Exped.+ Ticket,Key Items,Key Items
 278,Herbivore Stimulant,Growth Items,Awakening Crystals
+279,Bird Wyv. Stimulant,Growth Items,Awakening Crystals
+280,Flying Wyv. Stimulant,Growth Items,Awakening Crystals
+281,Fanged Beast Stimulant,Growth Items,Awakening Crystals
+282,Brute Wyv. Stimulant,Growth Items,Awakening Crystals
+283,Fanged Wyv. Stimulant,Growth Items,Awakening Crystals
+284,Leviathan Stimulant,Growth Items,Awakening Crystals
+285,Temnoceran Stimulant,Growth Items,Awakening Crystals
 286,Amphibian Stimulant,Growth Items,Awakening Crystals
+287,Eld. Dragon Stimulant,Growth Items,Awakening Crystals
+288,Psc. Wyv. Stimulant,Growth Items,Awakening Crystals
+289,Universal Stimulant,Growth Items,Awakening Crystals
 433,Training Charm,Facilities,Charms
 435,Gathering Charm,Facilities,Charms
 436,Lucky Charm,Facilities,Charms
+437,Finding Charm,Facilities,Charms
+438,Mounting Charm,Facilities,Charms
+439,Selling Charm,Facilities,Charms
 440,Buying Charm,Facilities,Charms
 441,Adamant Charm,Facilities,Charms
 442,Might Charm,Facilities,Charms
+443,Recovery Charm,Facilities,Charms
+463,Aged Felvine,Materials,Special Felvine
+464,Felvine Coin,Facilities,Trade-in Items
 465,Unique Mushroom,Materials,Mahana Commodities
 466,Golden Fragment,Facilities,Trade-in Items
 467,Goldenfry,Materials,Mahana Rarities
+470,Brocadefish,Materials,Loloska Fishes
+471,Ancient Beans,Materials,Mountain Commodities
 472,Royal Honey,Materials,Rutoh Commodities
-473,Crimson Coral,Materials,Rutoh Commodities
+473,Crimson Coral,Materials,Alcala Commodities
+474,Tropical Berry,Materials,Lamure Commodities
 475,Crystal Bone,Materials,Rutoh Commodities
+476,King Cactus,Materials,High-Grade Commodities
 477,Silver Spidersilk,Materials,Rutoh Commodities
 478,Pittance Fang,Facilities,Trade-in Items
+479,Royal Rhino,Materials,High-Grade Commodities
+480,Coal,Materials,Terga Commodities
+481,Golden Bone,Materials,Terga Commodities
+482,Volcanic Pepper,Materials,Terga Commodities
 483,Divine Rhino,Materials,Alcala Commodities
 484,Great Shroom,Materials,Alcala Commodities
-486,Diamond Dust,Materials,Mount Lavina Commodities
+485,Goldenfish,Materials,Mountain Commodities
+486,Diamond Dust,Materials,Mt. Lavina Commodities
+487,Aurora Grass,Materials,Mt. Lavina Commodities
+488,Icebound Bone,Materials,Mt. Lavina Commodities
+489,Golden Chunk,Facilities,Trade-in Items
+490,Choice Mushroom,Materials,Special Commodities
+491,Gold Cricket,Materials,Mountain Commodities
+492,Ancient Coin,Facilities,Trade-in Items
+493,Balmstone Chunk,Materials,Top-Grade Commodities
+494,Century Walnut,Materials,Top-Grade Commodities
 495,Silver Cricket,Materials,Mahana Rarities
+496,Black Pearl,Materials,Lamure Commodities
 497,Bottle Cap,Facilities,Bottle Caps
+498,Grand Felvine,Materials,Special Felvine
 499,Valuable Scale,Facilities,Trade-in Items
+500,Mazewalker's Seal,Facilities,Collectibles
+501,Fortune Fang,Facilities,Trade-in Items
+502,Fortune Scale,Facilities,Trade-in Items
+503,Goldmine Fang,Facilities,Trade-in Items
+504,Goldmine Scale,Facilities,Trade-in Items
+505,Felvine Bud,Materials,Special Felvine
 510,Trap Tool,Materials,Materials
 514,Large Barrel,Materials,Materials
+525,Fire Herb,Materials,Materials
 526,Ivy,Materials,Materials
 527,Sap Plant,Materials,Materials
 528,Woemill Wheat,Materials,Materials
 529,Gloamgrass Bud,Materials,Materials
 530,Cactus Flower,Materials,Materials
+534,Moon Grass,Materials,Materials
+551,Nulberry,Materials,Materials
+552,Dragonfell Berry,Materials,Dragonfell Berries
 553,Paintberry,Materials,Materials
+554,Fatty Tomato,Materials,Special Commodities
 555,Heftcorn,Materials,Heftcorns
 570,Blue Mushroom,Materials,Materials
+571,Mandragora,Materials,Materials
 572,Nitroshroom,Materials,Materials
 573,King Truffle,Materials,Mahana Commodities
+574,Beauty Shroom,Materials,Lamure Commodities
 575,Toadstool,Materials,Materials
 576,Stinkshroom,Materials,Materials
+577,Duskshroom,Materials,Materials
 578,Chillshroom,Materials,Materials
 594,Honey,Materials,Materials
 595,Mixed Honey,Materials,Mahana Commodities
 596,Snakebee Larva,Materials,Mahana Rarities
+597,Aged Honey,Materials,Top-Grade Commodities
 598,Hakolo Honey,Materials,Materials
 599,Alcala Honey,Materials,Materials
 600,Loloska Honey,Materials,Materials
+601,Lamure Honey,Materials,Materials
+602,Terga Honey,Materials,Materials
+603,Honey Butter,Materials,Materials
 607,Bitterbug,Materials,Materials
+608,Godbug,Materials,Materials
+609,Flashbug,Materials,Materials
 610,Shiny Beetle,Materials,Mid-Grade Bugs
 611,Thunderbug,Materials,Materials
 612,Insect Husk,Materials,Low-Grade Bugs
+613,Spicy Worm,Materials,Pomore Native Insects
+614,Ricebug,Materials,Pomore Native Insects
+615,King Scarab,Materials,High-Grade Bugs
+616,Rare Scarab,Materials,High-Grade Bugs
 617,Spider Web,Materials,Materials
 618,Carpenterbug,Materials,Low-Grade Bugs
 619,Hercudrome,Materials,Mid-Grade Bugs
+622,Night Cryder Web,Materials,Materials
 633,Iron Ore,Materials,Low-Grade Ores
 634,Earth Crystal,Materials,Crystals
 635,Pelagicite Ore,Materials,Low-Grade Ores
 636,Machalite Ore,Materials,Low-Grade Ores
 637,Dragonite Ore,Materials,Mid-Grade Ores
+638,Yoldspar Ore,Materials,Mid-Grade Ores
+639,Firestone,Materials,Mid-Grade Ores
+641,Novacrystal,Materials,Crystals
+643,Comet Salt,Materials,Special Commodities
+644,Lightcrystal,Materials,Crystals
+646,Carbalite Ore,Materials,High-Grade Ores
+647,Fucium Ore,Materials,High-Grade Ores
+648,Firecell Stone,Materials,High-Grade Ores
 687,Sushifish,Materials,Loloska Fishes
+688,Queen Shrimp,Materials,High-Grade Commodities
+689,Whetfish,Materials,Materials
 690,Sleepyfish,Materials,Materials
+691,Sharktuna,Materials,Loloska Fishes
 692,Speartuna,Materials,Speartunas
 709,Raw Meat,Materials,Materials
 711,Quality Meat,Facilities,Trade-in Items
+712,High-Quality Meat,Facilities,Trade-in Items
 721,Wyvern Barbs,Materials,Materials
 723,Screamer Sac,Materials,Materials
 725,Poison Sac,Materials,Poison Sacs
+726,Toxin Sac,Materials,Toxin Sacs
+727,Paralysis Sac,Materials,Paralysis Sacs
+728,Debilitation Sac,Materials,Debilitation Sacs
 729,Sleep Sac,Materials,Sleep Sacs
+730,Coma Sac,Materials,Coma Sacs
+731,Blast Sac,Materials,Blast Sacs
+732,Explosion Sac,Materials,Explosion Sacs
 733,Flame Sac,Materials,Flame Sacs
+734,Inferno Sac,Materials,Inferno Sacs
 735,Aqua Sac,Materials,Aqua Sacs
+736,Torrent Sac,Materials,Torrent Sacs
+737,Electro Sac,Materials,Electro Sacs
+738,Thunder Sac,Materials,Thunder Sacs
 739,Frost Sac,Materials,Frost Sacs
+740,Freezer Sac,Materials,Freezer Sacs
+741,Whelp Core,Materials,Whelp Cores
+742,Dragon Core,Materials,Dragon Cores
+743,Wyvern Stone,Materials,Wyvern Stones
+744,Wyvern Gem,Materials,Wyvern Gems
 745,Larinoth Hide,Materials,Larinoth Materials
 758,Rathian Shell,Materials,Rathian Materials
 759,Rathian Spike,Materials,Rathian Materials
+760,Rathian Plate,Materials,Rathian Materials
+761,Rathian Carapace,Materials,Rathian Materials+
+762,Rathian Spike+,Materials,Rathian Materials+
+763,Rathian Ruby,Materials,Rathian Materials+
+764,Pink Rathian Shell,Materials,P. Rathian Materials
+765,Pink Rathian Thorn,Materials,P. Rathian Materials
+766,Pink Rathian Plate,Materials,P. Rathian Materials
+767,Pink Rathian Carapace,Materials,P. Rathian Materials+
+768,Pink Rathian Spike+,Materials,P. Rathian Materials+
+769,Pink Rathian Ruby,Materials,P. Rathian Materials+
+770,G. Rathian Carapace,Materials,G. Rathian Materials+
+771,G. Rathian Spike+,Materials,G. Rathian Materials+
+772,Gold Rathian Ruby,Materials,G. Rathian Materials+
+773,Rathalos Scale,Materials,Rathalos Materials
+774,Rathalos Webbing,Materials,Rathalos Materials
+775,Rathalos Plate,Materials,Rathalos Materials
+776,Rathalos Scale+,Materials,Rathalos Materials+
+777,Rathalos Wing,Materials,Rathalos Materials+
+778,Rathalos Ruby,Materials,Rathalos Materials+
+779,Azure Rathalos Scale,Materials,A. Rathalos Materials
+780,Azure Rathalos Web,Materials,A. Rathalos Materials
+781,Azure Rathalos Plate,Materials,A. Rathalos Materials
+782,Azure Rathalos Scale+,Materials,A. Rathalos Materials+
+783,Azure Rathalos Wing,Materials,A. Rathalos Materials+
+784,Azure Rathalos Ruby,Materials,A. Rathalos Materials+
+785,S. Rathalos Scale+,Materials,S. Rathalos Materials+
+786,S. Rathalos Wing,Materials,S. Rathalos Materials+
+787,S. Rathalos Ruby,Materials,S. Rathalos Materials+
 788,Kut-Ku Scale,Materials,Kut-Ku Materials
 789,Kut-Ku Webbing,Materials,Kut-Ku Materials
 790,Giant Beak,Materials,Kut-Ku Materials
-794,Blue Kut-Ku Scale,Materials,Blue Kut-Ku Materials
-795,Blue Kut-Ku Shell,Materials,Blue Kut-Ku Materials
-839,Great Jaggi Hide,Materials,Great Jaggi Materials
-841,King's Frill,Materials,Great Jaggi Materials
+791,Kut-Ku Scale+,Materials,Kut-Ku Materials+
+792,Kut-Ku Wing,Materials,Kut-Ku Materials+
+793,Splendid Beak,Materials,Kut-Ku Materials+
+794,Blue Kut-Ku Scale,Materials,B. Kut-Ku Materials
+795,Blue Kut-Ku Shell,Materials,B. Kut-Ku Materials
+796,Blue Kut-Ku Ear,Materials,B. Kut-Ku Materials
+797,Blue Kut-Ku Scale+,Materials,B. Kut-Ku Materials+
+798,Blue Kut-Ku Carapace,Materials,B. Kut-Ku Materials+
+799,Blue Kut-Ku Ear+,Materials,B. Kut-Ku Materials+
+800,Rubbery Hide,Materials,Gypceros Materials
+801,Gypceros Webbing,Materials,Gypceros Materials
+802,Gypceros Head,Materials,Gypceros Materials
+803,Rubbery Hide+,Materials,Gypceros Materials+
+804,Gypceros Wing,Materials,Gypceros Materials+
+805,Gypceros Hardhead,Materials,Gypceros Materials+
+806,Rubbery P. Hide,Materials,P. Gypceros Materials
+807,P. Gypceros Web,Materials,P. Gypceros Materials
+808,Rubbery P. Tail,Materials,P. Gypceros Materials
+809,Rubbery P. Hide+,Materials,P. Gypceros Materials+
+810,P. Gypceros Wing,Materials,P. Gypceros Materials+
+811,Rubbery P. Tail+,Materials,P. Gypceros Materials+
+812,Tigrex Scale,Materials,Tigrex Materials
+813,Tigrex Claw,Materials,Tigrex Materials
+814,Tigrex Scalp,Materials,Tigrex Materials
+815,Tigrex Scale+,Materials,Tigrex Materials+
+816,Tigrex Claw+,Materials,Tigrex Materials+
+817,Tigrex Maw,Materials,Tigrex Materials+
+818,Brute Tigrex Scale,Materials,B. Tigrex Materials
+819,Brute Tigrex Claw,Materials,B. Tigrex Materials
+820,Brute Tigrex Tail,Materials,B. Tigrex Materials
+821,Brute Tigrex Scale+,Materials,B. Tigrex Materials+
+822,Brute Tigrex Claw+,Materials,B. Tigrex Materials+
+823,Brute Tigrex Tail+,Materials,B. Tigrex Materials+
+824,Molten Tigrex Scale+,Materials,M. Tigrex Materials+
+825,M. Tigrex Blastclaw,Materials,M. Tigrex Materials+
+826,Pulsating Blastheart,Materials,M. Tigrex Materials+
+827,Gendrome Hide,Materials,Gendrome Materials
+828,Gendrome Fang,Materials,Gendrome Materials
+829,Gendrome Head,Materials,Gendrome Materials
+830,Gendrome Hide+,Materials,Gendrome Materials+
+831,Gendrome Fang+,Materials,Gendrome Materials+
+832,Gendrome Body,Materials,Gendrome Materials+
+833,Iodrome Hide,Materials,Iodrome Materials
+834,Iodrome Violet Scale,Materials,Iodrome Materials
+835,Iodrome Head,Materials,Iodrome Materials
+836,Iodrome Hide+,Materials,Iodrome Materials+
+837,Iodrome Violet Scale+,Materials,Iodrome Materials+
+838,Iodrome Body,Materials,Iodrome Materials+
+839,Great Jaggi Hide,Materials,G. Jaggi Materials
+840,Great Jaggi Claw,Materials,G. Jaggi Materials
+841,King's Frill,Materials,G. Jaggi Materials
+842,Great Jaggi Hide+,Materials,G. Jaggi Materials+
+843,Great Jaggi Claw+,Materials,G. Jaggi Materials+
+844,Great Jaggi Head,Materials,G. Jaggi Materials+
 845,Velocidrome Hide,Materials,Velocidrome Materials
 846,Velocidrome Claw,Materials,Velocidrome Materials
 847,Velocidrome Head,Materials,Velocidrome Materials
+848,Velocidrome Hide+,Materials,Velocidrome Materials+
+849,Velocidrome Claw+,Materials,Velocidrome Materials+
+850,Velocidrome Body,Materials,Velocidrome Materials+
+851,Congalala Pelt,Materials,Congalala Materials
+852,Congalala Claw,Materials,Congalala Materials
+853,Vibrant Pelt,Materials,Congalala Materials
+854,Congalala Pelt+,Materials,Congalala Materials+
+855,Congalala Claw+,Materials,Congalala Materials+
+856,Vibrant Pelt+,Materials,Congalala Materials+
+857,E. Congalala Pelt,Materials,E. Congalala Materials
+858,E. Congalala Claw,Materials,E. Congalala Materials
+859,E. Congalala Tail,Materials,E. Congalala Materials
+860,E. Congalala Pelt+,Materials,E. Congalala Materials+
+861,E. Congalala Claw+,Materials,E. Congalala Materials+
+862,E. Congalala Tail+,Materials,E. Congalala Materials+
+863,Rajang Blackfur,Materials,Rajang Materials
+864,Rajang Horn,Materials,Rajang Materials
+865,Gold Rajang Pelt,Materials,Rajang Materials
+866,Rajang Ragehair,Materials,Rajang Materials+
+867,Rajang Horn+,Materials,Rajang Materials+
+868,Rajang Nerve,Materials,Rajang Materials+
+869,Kecha Pelt,Materials,Kecha Wacha Materials
+870,Kecha Longbone,Materials,Kecha Wacha Materials
+871,Kecha Ear,Materials,Kecha Wacha Materials
+872,Kecha Pelt+,Materials,Kecha Materials+
+873,Kecha Grandbone,Materials,Kecha Materials+
+874,Kecha Ear+,Materials,Kecha Materials+
 875,Zamtrios Hide,Materials,Zamtrios Materials
 876,Zamtrios Fin,Materials,Zamtrios Materials
+877,Zamtrios Tailblade,Materials,Zamtrios Materials
+878,Zamtrios Hide+,Materials,Zamtrios Materials+
+879,Zamtrios Fin+,Materials,Zamtrios Materials+
+880,Zamtrios Tailblade+,Materials,Zamtrios Materials+
+881,Nerscylla Shell,Materials,Nerscylla Materials
+882,Nerscylla Chelicera,Materials,Nerscylla Materials
+883,Nerscylla Spike,Materials,Nerscylla Materials
+884,Nerscylla Carapace,Materials,Nerscylla Materials+
+885,Nerscylla Shear,Materials,Nerscylla Materials+
+886,Nerscylla Spike+,Materials,Nerscylla Materials+
 887,Garuga Scale,Materials,Yian Garuga Materials
 888,Garuga Ear,Materials,Yian Garuga Materials
+889,Sharpened Beak,Materials,Yian Garuga Materials
+890,Garuga Scale+,Materials,Yian Garuga Materials+
+891,Garuga Auricle,Materials,Yian Garuga Materials+
+892,Rejuvenated Beak,Materials,Yian Garuga Materials+
+893,Daora Carapace,Materials,Kushala Materials+
+894,Daora Horn+,Materials,Kushala Materials+
+895,Daora Gem,Materials,Kushala Materials+
+896,Teostra Carapace,Materials,Teostra Materials+
+897,Teostra Mane,Materials,Teostra Materials+
+898,Teostra Gem,Materials,Teostra Materials+
+902,Kirin Hide+,Materials,Kirin Materials+
+903,Kirin Thundertail,Materials,Kirin Materials+
+904,Kirin Azure Horn,Materials,Kirin Materials+
+908,Kirin Blackhide+,Materials,O. Kirin Materials+
+909,Kirin Frost Tail+,Materials,O. Kirin Materials+
+910,Kirin Icehorn+,Materials,O. Kirin Materials+
+911,Flabby Hide,Materials,Khezu Materials
+912,Flabby Webbing,Materials,Khezu Materials
+913,Pale Bone,Materials,Khezu Materials
+914,Pearl Hide,Materials,Khezu Materials+
+915,Pearl Wing,Materials,Khezu Materials+
+916,Pale Steak,Materials,Khezu Materials+
+917,Alluring Hide,Materials,Red Khezu Materials
+918,Alluring Webbing,Materials,Red Khezu Materials
+919,Alluring Lips,Materials,Red Khezu Materials
+920,Alluring Tenderhide,Materials,Red Khezu Materials+
+921,Alluring Wing,Materials,Red Khezu Materials+
+922,Alluring Thicklips,Materials,Red Khezu Materials+
 923,Basarios Shell,Materials,Basarios Materials
 924,Basarios Webbing,Materials,Basarios Materials
 925,Basarios Tears,Materials,Basarios Materials
-1037,Great Baggi Hide,Materials,Great Baggi Materials
+926,Basarios Carapace,Materials,Basarios Materials+
+927,Basarios Wing,Materials,Basarios Materials+
+928,Basarios Tearglands,Materials,Basarios Materials+
+929,Ruby Basarios Shell,Materials,R. Basarios Materials
+930,R. Basarios Webbing,Materials,R. Basarios Materials
+931,Ruby Basarios Head,Materials,R. Basarios Materials
+932,R. Basarios Carapace,Materials,R. Basarios Materials+
+933,Ruby Basarios Wing,Materials,R. Basarios Materials+
+934,R. Basa Stonehead,Materials,R. Basarios Materials+
+935,Gravios Shell,Materials,Gravios Materials
+936,Gravios Scalp,Materials,Gravios Materials
+937,Gravios Bone Marrow,Materials,Gravios Materials
+938,Gravios Carapace,Materials,Gravios Materials+
+939,Gravios Jaw,Materials,Gravios Materials+
+940,Gravios Medulla,Materials,Gravios Materials+
+941,Black Gravios Shell,Materials,B. Gravios Materials
+942,Black Gravios Scalp,Materials,B. Gravios Materials
+943,Black Gravios Marrow,Materials,B. Gravios Materials
+944,B. Gravios Carapace,Materials,B. Gravios Materials+
+945,Black Gravios Jaw,Materials,B. Gravios Materials+
+946,B. Gravios Medulla,Materials,B. Gravios Materials+
+947,Deviljho Scale,Materials,Deviljho Materials
+948,Deviljho Fang,Materials,Deviljho Materials
+949,Deviljho Talon,Materials,Deviljho Materials
+950,Deviljho Blackscale,Materials,Deviljho Materials+
+951,Deviljho Tallfang,Materials,Deviljho Materials+
+952,Deviljho Gem,Materials,Deviljho Materials+
+953,Brach Shell,Materials,Brachydios Materials
+954,Brach Hammer,Materials,Brachydios Materials
+955,Brach Marrow,Materials,Brachydios Materials
+956,Brach Carapace,Materials,Brachydios Materials+
+957,Brach Pounder,Materials,Brachydios Materials+
+958,Brach Gem,Materials,Brachydios Materials+
+959,Lagombi Pelt,Materials,Lagombi Materials
+960,Lagombi Plastron,Materials,Lagombi Materials
+961,Lagombi Ear,Materials,Lagombi Materials
+962,Lagombi Pelt+,Materials,Lagombi Materials+
+963,Lagombi Plastron+,Materials,Lagombi Materials+
+964,Lagombi Ear+,Materials,Lagombi Materials+
+965,Zinogre Shell,Materials,Zinogre Materials
+966,Zinogre Shockfur,Materials,Zinogre Materials
+967,Zinogre Plate,Materials,Zinogre Materials
+968,Zinogre Carapace,Materials,Zinogre Materials+
+969,Zinogre Electrofur,Materials,Zinogre Materials+
+970,Zinogre Jasper,Materials,Zinogre Materials+
+971,S. Zinogre Shell,Materials,S. Zinogre Materials
+972,Stygian Zinogre Claw,Materials,S. Zinogre Materials
+973,S. Zinogre Plate,Materials,S. Zinogre Materials
+974,S. Zinogre Carapace,Materials,S. Zinogre Materials+
+975,S. Zinogre Claw+,Materials,S. Zinogre Materials+
+976,S. Zinogre Umbrage,Materials,S. Zinogre Materials+
+977,Fatalis Scale,Materials,Fatalis Materials+
+978,Fatalis Crust,Materials,Fatalis Materials+
+979,Fatalis Eye,Materials,Fatalis Materials+
+980,Seregios Slavescale,Materials,Seregios Materials+
+981,Seregios Impaler,Materials,Seregios Materials+
+982,Seregios Dissenter,Materials,Seregios Materials+
+983,Ash Kecha Fur,Materials,Ash Kecha Materials
+984,Ash Kecha Longbone,Materials,Ash Kecha Materials
+985,Ash Kecha Ear,Materials,Ash Kecha Materials
+986,Ash Kecha Thickfur,Materials,Ash Kecha Materials+
+987,Ash Kecha Grandbone,Materials,Ash Kecha Materials+
+988,Ash Kecha Ear+,Materials,Ash Kecha Materials+
+989,S. Nerscylla Shell,Materials,S. Nerscylla Materials
+990,S. Nerscylla Chel,Materials,S. Nerscylla Materials
+991,S. Nerscylla Claw,Materials,S. Nerscylla Materials
+992,S. Nerscylla Carapace,Materials,S. Nerscylla Materials+
+993,S. Nerscylla Shear,Materials,S. Nerscylla Materials+
+994,S. Nerscylla Claw+,Materials,S. Nerscylla Materials+
+995,Diablos Shell,Materials,Diablos Materials
+996,Diablos Tail,Materials,Diablos Materials
+997,Twisted Horn,Materials,Diablos Materials
+998,Diablos Carapace,Materials,Diablos Materials+
+999,Diablos Tail+,Materials,Diablos Materials+
+1000,Majestic Horn,Materials,Diablos Materials+
+1001,Black Diablos Shell,Materials,B. Diablos Materials
+1002,Black Diablos Tail,Materials,B. Diablos Materials
+1003,Twisted B. Diablos Horn,Materials,B. Diablos Materials
+1004,B. Diablos Carapace,Materials,B. Diablos Materials+
+1005,Black Diablos Tail+,Materials,B. Diablos Materials+
+1006,Black Twisted Horn,Materials,B. Diablos Materials+
+1007,Monoblos Shell,Materials,Monoblos Materials
+1008,Monoblos Ridge,Materials,Monoblos Materials
+1009,Blood Red Horn,Materials,Monoblos Materials
+1010,Monoblos Carapace,Materials,Monoblos Materials+
+1011,Monoblos Thoracic,Materials,Monoblos Materials+
+1012,Scarlet Finehorn,Materials,Monoblos Materials+
+1013,W. Monoblos Shell,Materials,W. Monoblos Materials
+1014,W. Monoblos Ridge,Materials,W. Monoblos Materials
+1015,W. Monoblos Horn,Materials,W. Monoblos Materials
+1016,W. Monoblos Carapace,Materials,W. Monoblos Materials+
+1017,W. Monoblos Thorax,Materials,W. Monoblos Materials+
+1018,Top-Grade Plated Horn,Materials,W. Monoblos Materials+
+1019,Cephadrome Scale,Materials,Cephadrome Materials
+1020,Cephadrome Fang,Materials,Cephadrome Materials
+1021,Cephadrome Fin,Materials,Cephadrome Materials
+1022,Cephadrome Scale+,Materials,Cephadrome Materials+
+1023,Cephadrome Fang+,Materials,Cephadrome Materials+
+1024,Cephadrome Fin+,Materials,Cephadrome Materials+
+1025,Daimyo Shell,Materials,Daimyo Materials
+1026,Daimyo Claw,Materials,Daimyo Materials
+1027,Daimyo Pearl,Materials,Daimyo Materials
+1028,Daimyo Carapace,Materials,Daimyo Materials+
+1029,Daimyo Claw+,Materials,Daimyo Materials+
+1030,Daimyo Pearl+,Materials,Daimyo Materials+
+1031,Plum Daimyo Shell,Materials,P. Daimyo Materials
+1032,Plum Daimyo Claw,Materials,P. Daimyo Materials
+1033,Plum Daimyo Feeler,Materials,P. Daimyo Materials
+1034,Plum Daimyo Carapace,Materials,P. Daimyo Materials+
+1035,Plum Daimyo Claw+,Materials,P. Daimyo Materials+
+1036,Plum Daimyo Feeler+,Materials,P. Daimyo Materials+
+1037,Great Baggi Hide,Materials,G. Baggi Materials
+1038,Great Baggi Claw,Materials,G. Baggi Materials
+1039,King's Crest,Materials,G. Baggi Materials
+1040,Great Baggi Hide+,Materials,G. Baggi Materials+
+1041,Great Baggi Claw+,Materials,G. Baggi Materials+
+1042,Great Baggi Head,Materials,G. Baggi Materials+
 1043,Royal Ludroth Scale,Materials,Royal Ludroth Materials
 1044,Royal Ludroth Tail,Materials,Royal Ludroth Materials
+1045,Royal Ludroth Crest,Materials,Royal Ludroth Materials
+1046,Royal Ludroth Scale+,Materials,R. Ludroth Materials+
+1047,Royal Ludroth Tail+,Materials,R. Ludroth Materials+
+1048,Royal Ludroth Crest+,Materials,R. Ludroth Materials+
+1049,P. Ludroth Scale,Materials,P. Ludroth Materials
+1050,P. Ludroth Claw,Materials,P. Ludroth Materials
+1051,Plum Spongy Hide,Materials,P. Ludroth Materials
+1052,P. Ludroth Scale+,Materials,P. Ludroth Materials+
+1053,P. Ludroth Claw+,Materials,P. Ludroth Materials+
+1054,P. Spongy Hide+,Materials,P. Ludroth Materials+
+1055,Barroth Shell,Materials,Barroth Materials
+1056,Barroth Claw,Materials,Barroth Materials
+1057,Barroth Scalp,Materials,Barroth Materials
+1058,Barroth Carapace,Materials,Barroth Materials+
+1059,Barroth Claw+,Materials,Barroth Materials+
+1060,Barroth Scalp+,Materials,Barroth Materials+
+1061,Jade Barroth Shell,Materials,J. Barroth Materials
+1062,Jade Barroth Claw,Materials,J. Barroth Materials
+1063,Jade Barroth Scalp,Materials,J. Barroth Materials
+1064,J. Barroth Carapace,Materials,J. Barroth Materials+
+1065,Jade Barroth Claw+,Materials,J. Barroth Materials+
+1066,Jade Barroth Scalp+,Materials,J. Barroth Materials+
+1067,Barioth Shell,Materials,Barioth Materials
+1068,Barioth Spike,Materials,Barioth Materials
+1069,Amber Tusks,Materials,Barioth Materials
+1070,Barioth Carapace,Materials,Barioth Materials+
+1071,Barioth Spike+,Materials,Barioth Materials+
+1072,Amber Tusks+,Materials,Barioth Materials+
+1073,Sand Barioth Shell,Materials,S. Barioth Materials
+1074,Sand Barioth Pelt,Materials,S. Barioth Materials
+1075,Indigo Tusks,Materials,S. Barioth Materials
+1076,S. Barioth Carapace,Materials,S. Barioth Materials+
+1077,Sand Barioth Pelt+,Materials,S. Barioth Materials+
+1078,Indigo Tusks+,Materials,S. Barioth Materials+
 1079,Qurupeco Scale,Materials,Qurupeco Materials
+1080,Qurupeco Feather,Materials,Qurupeco Materials
+1081,Strange Beak,Materials,Qurupeco Materials
+1082,Qurupeco Scale+,Materials,Qurupeco Materials+
+1083,Qurupeco Wing,Materials,Qurupeco Materials+
+1084,Wonderful Beak,Materials,Qurupeco Materials+
+1085,Crimson Peco Scale,Materials,C. Qurupeco Materials
+1086,Crimson Peco Feather,Materials,C. Qurupeco Materials
+1087,Flamboyant Quill,Materials,C. Qurupeco Materials
+1088,Crimson Peco Scale+,Materials,C. Qurupeco Materials+
+1089,Crimson Peco Wing,Materials,C. Qurupeco Materials+
+1090,Peco Pipes,Materials,C. Qurupeco Materials+
 1091,Bulldrome Hide,Materials,Bulldrome Materials
 1092,Bulldrome Tusk,Materials,Bulldrome Materials
+1093,Bulldrome Bone,Materials,Bulldrome Materials
+1094,Bulldrome Hide+,Materials,Bulldrome Materials+
+1095,Twisted Bulldrome Tusk,Materials,Bulldrome Materials+
+1096,Bulldrome Scalp,Materials,Bulldrome Materials+
 1097,Arzuros Pelt,Materials,Arzuros Materials
 1098,Arzuros Shell,Materials,Arzuros Materials
 1099,Arzuros Brace,Materials,Arzuros Materials
+1100,Arzuros Pelt+,Materials,Arzuros Materials+
+1101,Arzuros Carapace,Materials,Arzuros Materials+
+1102,Arzuros Brace+,Materials,Arzuros Materials+
+1103,Uragaan Scale,Materials,Uragaan Materials
+1104,Uragaan Shell,Materials,Uragaan Materials
+1105,Uragaan Jaw,Materials,Uragaan Materials
+1106,Uragaan Scale+,Materials,Uragaan Materials+
+1107,Uragaan Carapace,Materials,Uragaan Materials+
+1108,Uragaan Ruby,Materials,Uragaan Materials+
+1109,Lagiacrus Scale,Materials,Lagiacrus Materials
+1110,Lagiacrus Horn,Materials,Lagiacrus Materials
+1111,Lagiacrus Shockshell,Materials,Lagiacrus Materials
+1112,Lagiacrus Scale+,Materials,Lagiacrus Materials+
+1113,Lagiacrus Horn+,Materials,Lagiacrus Materials+
+1114,Lagi Shockshell+,Materials,Lagiacrus Materials+
+1115,Ivory Lagi Scale,Materials,I. Lagiacrus Materials
+1116,Ivory Lagi Horn,Materials,I. Lagiacrus Materials
+1117,I. Lagi Shockshell,Materials,I. Lagiacrus Materials
+1118,Ivory Lagi Scale+,Materials,I. Lagiacrus Materials+
+1119,Ivory Lagi Horn+,Materials,I. Lagiacrus Materials+
+1120,I. Lagi Shockshell+,Materials,I. Lagiacrus Materials+
+1121,Agnaktor Shell,Materials,Agnaktor Materials
+1122,Agnaktor Claw,Materials,Agnaktor Materials
+1123,Agnaktor Beak,Materials,Agnaktor Materials
+1124,Agnaktor Carapace,Materials,Agnaktor Materials+
+1125,Agnaktor Claw+,Materials,Agnaktor Materials+
+1126,Agnaktor Beak+,Materials,Agnaktor Materials+
+1127,G. Agnak Shell,Materials,G. Agnaktor Materials
+1128,G. Agnak Claw,Materials,G. Agnaktor Materials
+1129,G. Agnak Beak,Materials,G. Agnaktor Materials
+1130,G. Agnak Crpace,Materials,G. Agnaktor Materials+
+1131,G. Agnak Claw+,Materials,G. Agnaktor Materials+
+1132,G. Agnak Beak+,Materials,G. Agnaktor Materials+
+1133,Plesioth Scale,Materials,Plesioth Materials
+1134,Plesioth Fang,Materials,Plesioth Materials
+1135,Plesioth Fin,Materials,Plesioth Materials
+1136,Plesioth Scale+,Materials,Plesioth Materials+
+1137,Plesioth Fang+,Materials,Plesioth Materials+
+1138,Plesioth Fin+,Materials,Plesioth Materials+
+1139,Green Plesioth Scale,Materials,G. Plesioth Materials
+1140,Green Plesioth Fang,Materials,G. Plesioth Materials
+1141,Green Plesioth Fin,Materials,G. Plesioth Materials
+1142,G. Plesioth Scale+,Materials,G. Plesioth Materials+
+1143,Green Plesioth Fang+,Materials,G. Plesioth Materials+
+1144,Green Plesioth Fin+,Materials,G. Plesioth Materials+
 1151,Nargacuga Scale,Materials,Nargacuga Materials
 1152,Nargacuga Blackfur,Materials,Nargacuga Materials
+1153,Nargacuga Cutwing,Materials,Nargacuga Materials
+1154,Nargacuga Scale+,Materials,Nargacuga Materials+
+1155,Nargacuga Pelt+,Materials,Nargacuga Materials+
+1156,Nargacuga Razor,Materials,Nargacuga Materials+
+1157,Green Narga Scale,Materials,G. Nargacuga Materials
+1158,G. Narga Mottlefur,Materials,G. Nargacuga Materials
+1159,Green Narga Cutwing,Materials,G. Nargacuga Materials
+1160,Green Narga Scale+,Materials,G. Nargacuga Materials+
+1161,G. Narga Mottlefur+,Materials,G. Nargacuga Materials+
+1162,Green Narga Cutwing+,Materials,G. Nargacuga Materials+
 1164,Monster Bone S,Materials,Bones
 1165,Monster Bone M,Materials,Bones
-1166,Brute Bone S,Materials,Brute Bones
+1166,Brute Bone S,Materials,Brutes Bones
 1167,Monster Fluid,Materials,Insect Materials
 1168,Zamite Scale,Materials,Zamite Materials
 1169,Slagtoth Hide,Materials,Slagtoth Materials
 1170,Aptonoth Tail,Materials,Aptonoth Materials
 1171,Popo Pelt,Materials,Popo Materials
 1172,Ludroth Pelt,Materials,Ludroth Materials
+1173,Conga Pelt,Materials,Conga Materials
 1174,Bullfango Pelt,Materials,Bullfango Materials
+1175,Cephalos Scale,Materials,Cephalos Materials
+1176,Hermitaur Shell,Materials,Hermitaur Materials
 1177,Bnahabra Shell,Materials,Bnahabra Materials
+1178,Vespoid Wing,Materials,Vespoid Materials
 1179,Konchu Shell,Materials,Konchu Materials
+1180,Ioprey Scale,Materials,Ioprey Materials
+1181,Genprey Scale,Materials,Genprey Materials
 1182,Jaggi Scale,Materials,Jaggi Materials
 1183,Baggi Scale,Materials,Baggi Materials
 1184,Velociprey Scale,Materials,Velociprey Materials
+1185,Remobra Hide,Materials,Remobra Materials
+1186,Shaka Treasure,Materials,Shakalaka Materials
+1187,Altaroth Stomach,Materials,Neopteron Materials
+1188,Fine Stomach,Materials,Materials
+1189,Uroktor Scale,Materials,Uroktor Materials
+1190,Pawprint Stamp,Materials,Barrel Felyne Materials
 1191,Gargwa Feather,Materials,Gargwa Materials
 1192,Monster Bone L,Materials,Bones
+1193,Monster Bone+,Materials,High-Grade Bones
+1194,Dragonbone Relic,Materials,High-Grade Bones
+1195,Stoutbone,Materials,Brute Bones+
 1196,Kelbi Horn,Materials,Materials
 1197,Apceros Shell,Materials,Apceros Materials
+1198,Zamite Scale+,Materials,Zamite Materials+
+1199,Herbivore Bone,Materials,Herbivore Materials+
+1200,Ludroth Pelt+,Materials,Ludroth Materials+
+1201,Fanged Beast Fur,Materials,Fanged Beast Materials+
+1202,Cephalos Scale+,Materials,Cephalos Materials+
+1203,Hermitaur Shell+,Materials,Hermitaur Materials+
+1204,Neopteron Shell,Materials,Neopteron Materials+
+1205,Bird Wyvern Scale+,Materials,Bird Wyvern Materials+
+1206,Remobra Hide+,Materials,Remobra Materials+
+1207,Shaka Treasure+,Materials,Shakalaka Materials+
+1208,Luminous Stomach,Materials,Materials
+1209,Uroktor Scale+,Materials,Uroktor Materials+
+1210,Barrel Lid,Materials,Brl Felyne Materials+
+1211,Blue Gargwa Feather,Materials,Gargwa Materials+
+1212,Shocking Extract,Materials,Great Thunderbug Mtrl.
+1213,Shocking Jelly,Materials,G. Thunderbug Mtrl.+
+1214,Dragonbug Juice,Materials,G. Dracophage Mtrl.
+1215,Dragonbug Jelly,Materials,G. Dracophage Mtrl.+
+1216,Monster Broth,Materials,Insect Materials+
+1217,Elder Dragon Blood,Materials,Elder Dragon Blood
 1218,Brute Bone M,Materials,Brute Bones
 1219,Brute Bone L,Materials,Brute Bones
+1220,Dreadqueen Scale+,Materials,Dreadqueen Materials+
+1221,Dreadqueen Carapace,Materials,Dreadqueen Materials+
+1222,Dreadqueen Ruby,Materials,Dreadqueen Materials+
+1223,Dreadking Scale+,Materials,Dreadking Materials+
+1224,Dreadking Fellwing,Materials,Dreadking Materials+
+1225,Dreadking Ruby,Materials,Dreadking Materials+
 1226,Grill,Key Items,Key Items
 1227,Iron Pickaxe,Key Items,Key Items
 1228,Bug Net,Key Items,Key Items
+1229,Fishing Rod,Key Items,Key Items
+1230,Rider's Notes,Key Items,Key Items
+1231,Monsterpedia,Key Items,Key Items
+1232,Bronze License,Key Items,Key Items
+1233,Silver License,Key Items,Key Items
+1234,Gold License,Key Items,Key Items
+1235,Platinum License,Key Items,Key Items
+1236,Unidentified Shard,Key Items,Key Items
+1237,Ancient Relic,Key Items,Key Items
+1238,Important Letter,Key Items,Key Items
+1239,Crude Felyne Carving,Key Items,Key Items
+1240,Good Times Felvine,Key Items,Key Items
+1241,Traditional Charm,Key Items,Key Items
+1243,Downy Crake,Key Items,Key Items
 1244,Gargwa Statue,Key Items,Key Items
+1245,Pirate Treasure,Key Items,Key Items
+1246,Expedition Ticket (N),Key Items,Key Items
+1247,Expedition Ticket (R),Key Items,Key Items
+1248,Expedition Ticket (SR),Key Items,Key Items
+1249,Clerk's Letter,Key Items,Key Items
+1250,Palamute Ticket (N),Key Items,Key Items
+1251,Palamute Ticket (R),Key Items,Key Items
+1252,Palamute Ticket (SR),Key Items,Key Items
+1254,Windmill Parts,Key Items,Key Items
 1255,Rathalos Egg,Key Items,Key Items
 1256,Kayna's Recipe,Key Items,Books of Combos
 1257,Tracking Basics,Key Items,Books of Combos
-1261,Healer's Comp Volume 1,Key Items,Books of Combos
+1258,Mega Potions,Key Items,Books of Combos
+1259,Hunter's Life: Fall,Key Items,Books of Combos
+1260,Hunter's Life: Winter,Key Items,Books of Combos
+1261,Healer's Comp V.1,Key Items,Books of Combos
+1262,Healer's Comp V.3,Key Items,Books of Combos
+1263,Warm and Healthy,Key Items,Books of Combos
 1264,Hunter's Life: Summer,Key Items,Books of Combos
+1265,Cool and Healthy,Key Items,Books of Combos
 1266,Group Healing 101,Key Items,Books of Combos
+1267,Group Healing Int,Key Items,Books of Combos
 1268,Positivity Pills,Key Items,Books of Combos
-1272,Healer's Comp Volume 2,Key Items,Books of Combos
+1269,Healer's Comp V.4,Key Items,Books of Combos
+1270,Essence Vitale,Key Items,Books of Combos
+1271,Group Healing Adv,Key Items,Books of Combos
+1272,Healer's Comp V.2,Key Items,Books of Combos
+1273,Perfect Vision,Key Items,Books of Combos
+1274,Trendsetter: Scents,Key Items,Books of Combos
+1275,Deep Clean,Key Items,Books of Combos
 1276,Taste of Home,Key Items,Books of Combos
 1277,Alwin's Specialty,Key Items,Books of Combos
 1278,Family Favorite,Key Items,Books of Combos
-1306,Sword & Shield Basics: Defense,Key Items,Skill Scrolls
-1307,Sword & Shield: Counter,Key Items,Skill Scrolls
+1279,Sweet Secret,Key Items,Books of Combos
+1280,Culinary Traditions,Key Items,Books of Combos
+1281,Knifepedia: Poison,Key Items,Books of Combos
+1282,Knifepedia: Paralysis,Key Items,Books of Combos
+1283,Knifepedia: Sleep,Key Items,Books of Combos
+1284,Pitfall Surprise,Key Items,Books of Combos
+1285,Shocking Surprise,Key Items,Books of Combos
+1286,Tranquil Surprise,Key Items,Books of Combos
+1294,Need a Boost?,Key Items,Books of Combos
+1295,Hunter's Life: Spring,Key Items,Books of Combos
+1296,Boom Boom Book,Key Items,Books of Combos
+1297,Big Boom Boom Book,Key Items,Books of Combos
+1300,Flash Bomb How-To,Key Items,Books of Combos
+1301,Boom Boom Bang Book,Key Items,Books of Combos
+1306,S&S Basics: Defense,Key Items,Skill Scrolls
+1307,S&S: Counter,Key Items,Skill Scrolls
 1308,Great Sword: Guard,Key Items,Skill Scrolls
 1309,Great Sword Moves 1,Key Items,Skill Scrolls
 1310,Great Sword Moves 2,Key Items,Skill Scrolls
 1311,Great Sword Moves 3,Key Items,Skill Scrolls
 1312,Great Sword Moves 4,Key Items,Skill Scrolls
 1313,Hammer: Evasion,Key Items,Skill Scrolls
-1315,Hunting Horn: Absolute Evasion,Key Items,Skill Scrolls
+1314,Hammer: Surge,Key Items,Skill Scrolls
+1315,H. Horn: A. Evasion,Key Items,Skill Scrolls
+1316,H. Horn: N. Poison,Key Items,Skill Scrolls
+1317,H. Horn: N. Sleep,Key Items,Skill Scrolls
+1318,H. Horn: N. Para.,Key Items,Skill Scrolls
+1319,H. Horn: N. Ailments,Key Items,Skill Scrolls
+1320,H. Horn: Iron Def.,Key Items,Skill Scrolls
+1321,H. Horn: Blast,Key Items,Skill Scrolls
+1322,H. Horn: Saver,Key Items,Skill Scrolls
+1323,H. Horn: Awakening,Key Items,Skill Scrolls
+1324,H. Horn: Charge,Key Items,Skill Scrolls
+1325,H. Horn: Berserk,Key Items,Skill Scrolls
+1326,H. Horn: Kinship,Key Items,Skill Scrolls
+1327,H. Horn: Bloodsuck,Key Items,Skill Scrolls
+1328,H. Horn: Soothing,Key Items,Skill Scrolls
+1329,H. Horn: Healing,Key Items,Skill Scrolls
+1330,H. Horn: Mettle,Key Items,Skill Scrolls
+1331,H. Horn: Evasion,Key Items,Skill Scrolls
 1332,Gunlance: Guard,Key Items,Skill Scrolls
+1333,Gunlance: Protect,Key Items,Skill Scrolls
 1334,Gunlance: Seal,Key Items,Skill Scrolls
-1335,Gunlance: Wyvern Fire,Key Items,Skill Scrolls
+1335,Gunlance: Wyv. Fire,Key Items,Skill Scrolls
 1336,Gunlance: Shelling,Key Items,Skill Scrolls
 1337,Gunlance: Wyrmstake,Key Items,Skill Scrolls
 1338,Gunlance: Full Burst,Key Items,Skill Scrolls
 1339,Bow: Evasion,Key Items,Skill Scrolls
+1340,Bow Tech: Arc Shot,Key Items,Skill Scrolls
+1358,Red Hero Outfit,Key Items,Outfits for Navirou
+1359,Blue Hero Outfit,Key Items,Outfits for Navirou
+1360,Green Hero Outfit,Key Items,Outfits for Navirou
+1361,White Flu Mask,Key Items,Outfits for Navirou
+1362,Black Flu Mask,Key Items,Outfits for Navirou
+1363,Pink Flu Mask,Key Items,Outfits for Navirou
+1364,R Cheerleader Outfit,Key Items,Outfits for Navirou
+1365,G Cheerleader Outfit,Key Items,Outfits for Navirou
+1366,B Cheerleader Outfit,Key Items,Outfits for Navirou
+1367,Wanderer's Outfit,Key Items,Outfits for Navirou
+1368,Eyepatch Outfit,Key Items,Outfits for Navirou
+1369,Bandaged Outfit,Key Items,Outfits for Navirou
+1370,Naviljho Outfit,Key Items,Outfits for Navirou
+1371,King's Outfit,Key Items,Outfits for Navirou
+1372,Azure King's Outfit,Key Items,Outfits for Navirou
+1373,Silver King's Outfit,Key Items,Outfits for Navirou
+1374,Ruin King's Outfit,Key Items,Outfits for Navirou
+1375,Numbers Outfit,Key Items,Outfits for Navirou
+1376,Heart-Shaped Glasses,Key Items,Outfits for Navirou
+1377,Purrty-Eye Frames,Key Items,Outfits for Navirou
+1378,Mahana Headband,Key Items,Outfits for Navirou
 1379,Rutoh Scarf,Key Items,Outfits for Navirou
+1380,Kuan Cap,Key Items,Outfits for Navirou
+1381,Lulucion Hat,Key Items,Outfits for Navirou
+1382,A Nua Look,Key Items,Outfits for Navirou
+1383,Felyne Straw Hat,Key Items,Outfits for Navirou
+1384,Pawesome Outfit,Key Items,Outfits for Navirou
+1385,Moonblessed Outfit,Key Items,Outfits for Navirou
+1386,Pukei-Pukei Costume,Key Items,Outfits for Navirou
+1387,Nergigante Costume,Key Items,Outfits for Navirou
+1408,Hakum Rider Outfit,Key Items,Special Layered Armor
+1409,Kyle's & Ena's Outfit,Key Items,Special Layered Armor
+1410,Red's Outfit,Key Items,Special Layered Armor
+1411,Mahana Outfit,Key Items,Special Layered Armor
+1412,Tsukino Onesie,Key Items,Special Layered Armor
+1413,Razewing Armor Alpha,Key Items,Special Layered Armor
 1414,Kamura Garb,Key Items,Special Layered Armor
+1415,Razewing Armor Beta,Key Items,Special Layered Armor
+1424,Adventure Buddies 2,Key Items,Key Items
+1425,Adventure Buddies 3,Key Items,Key Items
+1479,Mint Leaf,Healing Items,Recovery Items
+1480,Stink Scrub,Healing Items,Recovery Items
 1486,Heart Churro,Healing Items,Food
+1487,Armor Sphere M,Materials,Armor Spheres
+1488,Armor Sphere L,Materials,Armor Spheres
+1489,Weapon Sphere S,Materials,Weapon Spheres
+1490,Weapon Sphere M,Materials,Weapon Spheres
+1491,Weapon Sphere L,Materials,Weapon Spheres
+1492,Grimclaw Scale+,Materials,Grimclaw Materials+
+1493,Grimclaw Carapace,Materials,Grimclaw Materials+
+1494,Grimclaw Talon+,Materials,Grimclaw Materials+
+1495,Kushala Daora Shell,Materials,Kushala Materials
+1496,Kushala Daora Horn,Materials,Kushala Materials
+1497,Kushala Daora Claw,Materials,Kushala Materials
+1498,Thunderlord Carapace,Materials,Thunderlord Materials+
+1499,Thunderlord Electrofur,Materials,Thunderlord Materials+
+1500,Thunderlord Horn+,Materials,Thunderlord Materials+
+1501,Seregios Sharpscale,Materials,Seregios Materials
+1502,Seregios Bladehorn,Materials,Seregios Materials
+1503,Seregios Claw,Materials,Seregios Materials
+1504,Bloodbath Cortex,Materials,Bloodbath Materials+
+1505,Bloodbath Chine,Materials,Bloodbath Materials+
+1506,Bloodbath Grimhorn,Materials,Bloodbath Materials+
+1507,Silverwind Scale+,Materials,S. Nargacuga Materials+
+1508,Silverwind Blackfur+,Materials,S. Nargacuga Materials+
+1509,Silverwind Razor,Materials,S. Nargacuga Materials+
+1510,Seltas Shell,Materials,Seltas Materials
+1511,Seltas Wing,Materials,Seltas Materials
+1512,Seltas Horn,Materials,Seltas Materials
+1513,Seltas Carapace,Materials,Seltas Materials+
+1514,Seltas Innerwing,Materials,Seltas Materials+
+1515,Seltas Sharphorn,Materials,Seltas Materials+
+1516,Seltas Queen Shell,Materials,Seltas Queen Materials
+1517,Seltas Queen Claw,Materials,Seltas Queen Materials
+1518,Seltas Queen Fluid,Materials,Seltas Queen Materials
+1519,S. Queen Carapace,Materials,Seltas Q. Materials+
+1520,Seltas Queen Claw+,Materials,Seltas Q. Materials+
+1521,Seltas Queen Fluid+,Materials,Seltas Q. Materials+
+1522,Desert Queen Shell,Materials,Desert Q. Materials
+1523,Desert Queen Claw,Materials,Desert Q. Materials
+1524,Desert Queen Pleura,Materials,Desert Q. Materials
+1525,Desert Queen Jaw,Materials,Desert Q. Materials+
+1526,Desert Queen Tail,Materials,Desert Q. Materials+
+1527,Desert Queen Hardclaw,Materials,Desert Q. Materials+
 1528,Kulu-Ya-Ku Hide,Materials,Kulu-Ya-Ku Materials
 1529,Kulu-Ya-Ku Beak,Materials,Kulu-Ya-Ku Materials
 1530,Kulu-Ya-Ku Plume,Materials,Kulu-Ya-Ku Materials
+1531,Kulu-Ya-Ku Hide+,Materials,Kulu-Ya-Ku Materials+
+1532,Kulu-Ya-Ku Beak+,Materials,Kulu-Ya-Ku Materials+
+1533,Kulu-Ya-Ku Plume+,Materials,Kulu-Ya-Ku Materials+
 1534,Pukei-Pukei Scale,Materials,Pukei-Pukei Materials
 1535,Pukei-Pukei Sac,Materials,Pukei-Pukei Materials
+1536,Pukei-Pukei Tail,Materials,Pukei-Pukei Materials
+1537,Pukei-Pukei Scale+,Materials,Pukei-Pukei Materials+
+1538,Pukei-Pukei Wing,Materials,Pukei-Pukei Materials+
+1539,Pukei-Pukei Sac+,Materials,Pukei-Pukei Materials+
+1540,Gammoth Hide,Materials,Gammoth Materials
+1541,Gammoth Shell,Materials,Gammoth Materials
+1542,Gammoth Tusk,Materials,Gammoth Materials
+1543,Gammoth Pelt,Materials,Gammoth Materials+
+1544,Gammoth Shell+,Materials,Gammoth Materials+
+1545,Gammoth Tusk+,Materials,Gammoth Materials+
+1546,Elderfrost Pelt,Materials,Elderfrost Materials+
+1547,Elderfrost Cortex,Materials,Elderfrost Materials+
+1548,Elderfrost Trunkspine,Materials,Elderfrost Materials+
 1549,Tetsucabra Scale,Materials,Tetsucabra Materials
 1550,Paddock Oil,Materials,Tetsucabra Materials
+1551,Tetsucabra Tusks,Materials,Tetsucabra Materials
+1552,Tetsucabra Scale+,Materials,Tetsucabra Materials+
+1553,Paddock Oil+,Materials,Tetsucabra Materials+
+1554,Tetsucabra Tusks+,Materials,Tetsucabra Materials+
+1555,Mizutsune Purplefur,Materials,Mizutsune Materials
+1556,Mizutsune Fin,Materials,Mizutsune Materials
+1557,Mizutsune Plate,Materials,Mizutsune Materials
+1558,Mizutsune Purplefur+,Materials,Mizutsune Materials+
+1559,Mizutsune Fin+,Materials,Mizutsune Materials+
+1560,Mizutsune Water Orb,Materials,Mizutsune Materials+
+1561,Soulseer Shard,Materials,Soulseer Materials+
+1562,Soulseer Purplehide,Materials,Soulseer Materials+
+1563,Soulseer Tail,Materials,Soulseer Materials+
 1564,Duramboros Shell,Materials,Duramboros Materials
 1565,Duramboros Horn,Materials,Duramboros Materials
 1566,Duramboros Tailbone,Materials,Duramboros Materials
+1567,Duramboros Shell+,Materials,Duramboros Materials+
+1568,Duramboros Horn+,Materials,Duramboros Materials+
+1569,Duramboros Sacrum,Materials,Duramboros Materials+
+1570,Glavenus Fang,Materials,Glavenus Materials
+1571,Glavenus Hellshell,Materials,Glavenus Materials
+1572,Glavenus Plate,Materials,Glavenus Materials
+1573,Glavenus Fang+,Materials,Glavenus Materials+
+1574,Glavenus Hellshell+,Materials,Glavenus Materials+
+1575,Glavenus Flamegem,Materials,Glavenus Materials+
+1576,Hellblade Scale+,Materials,Hellblade Materials+
+1577,Hellblade Carapace,Materials,Hellblade Materials+
+1578,Hellblade Powder,Materials,Hellblade Materials+
 1579,Anjanath Scale,Materials,Anjanath Materials
 1580,Anjanath Nosebone,Materials,Anjanath Materials
+1581,Anjanath Fang,Materials,Anjanath Materials
+1582,Anjanath Scale+,Materials,Anjanath Materials+
+1583,Anjanath Nosebone+,Materials,Anjanath Materials+
+1584,Anjanath Fang+,Materials,Anjanath Materials+
+1585,Astalos Scale,Materials,Astalos Materials
+1586,Astalos Crest,Materials,Astalos Materials
+1587,Astalos Plate,Materials,Astalos Materials
+1588,Astalos Scale+,Materials,Astalos Materials+
+1589,Astalos Crest+,Materials,Astalos Materials+
+1590,Astalos Boltgem,Materials,Astalos Materials+
+1591,Boltreaver Shard,Materials,Boltreaver Materials+
+1592,Heavy Boltreaver Shell,Materials,Boltreaver Materials+
+1593,Boltreaver Electric Barb,Materials,Boltreaver Materials+
 1594,Paolumu Pelt,Materials,Paolumu Materials
 1595,Paolumu Webbing,Materials,Paolumu Materials
+1596,Paolumu Shell,Materials,Paolumu Materials
+1597,Paolumu Pelt+,Materials,Paolumu Materials+
+1598,Paolumu Wing,Materials,Paolumu Materials+
+1599,Paolumu Carapace+,Materials,Paolumu Materials+
+1600,Legiana Claw,Materials,Legiana Materials
+1601,Legiana Webbing,Materials,Legiana Materials
+1602,Legiana Plate,Materials,Legiana Materials
+1603,Legiana Claw+,Materials,Legiana Materials+
+1604,Legiana Wing,Materials,Legiana Materials+
+1605,Legiana Gem,Materials,Legiana Materials+
+1606,Bazelgeuse Scale,Materials,Bazelgeuse Materials
+1607,Bazelgeuse Shell,Materials,Bazelgeuse Materials
+1608,Bazelgeuse Claw,Materials,Bazelgeuse Materials
+1609,Bazelgeuse Wing,Materials,Bazelgeuse Materials+
+1610,Bazelgeuse Fuse,Materials,Bazelgeuse Materials+
+1611,Bazelgeuse Gem,Materials,Bazelgeuse Materials+
+1612,Tobi-Kadachi Pelt,Materials,Kadachi Materials
+1613,Tobi-Kadachi Claw,Materials,Kadachi Materials
+1614,Tobi-Kadachi Electrode,Materials,Kadachi Materials
+1615,Tobi-Kadachi Pelt+,Materials,Kadachi Materials+
+1616,Tobi-Kadachi Claw+,Materials,Kadachi Materials+
+1617,Tobi-Kadachi Electrode+,Materials,Kadachi Materials+
+1618,Nergigante Shell,Materials,Nergigante Materials
+1619,Nergigante Tail,Materials,Nergigante Materials
+1620,Nergi Regrowth Plate,Materials,Nergigante Materials
+1621,Nergigante Talon,Materials,Nergigante Materials+
+1622,Nergigante Horn+,Materials,Nergigante Materials+
+1623,Nergigante Gem,Materials,Nergigante Materials+
+1624,Kulve Taroth Golden Scale,Materials,K. Taroth Materials+
+1625,Kulve Taroth Golden Shell,Materials,K. Taroth Materials+
+1626,K. T. Golden Spiralhorn,Materials,K. Taroth Materials+
+1627,F. Anjanath Scale,Materials,F. Anjanath Materials
+1628,F. Anjanath Pelt,Materials,F. Anjanath Materials
+1629,F. Anjanath Fang,Materials,F. Anjanath Materials
+1630,F. Anjanath Lash,Materials,F. Anjanath Materials+
+1631,F. Anjanath Nosebone,Materials,F. Anjanath Materials+
+1632,F. Anjanath Mantle,Materials,F. Anjanath Materials+
+1633,Velkhana Shell,Materials,Velkhana Materials
+1634,Velkhana Wing,Materials,Velkhana Materials
+1635,Velkhana Claw,Materials,Velkhana Materials
+1636,Velkhana Lash,Materials,Velkhana Materials+
+1637,Velkhana Crownhorn,Materials,Velkhana Materials+
+1638,Velkhana Crystal,Materials,Velkhana Materials+
+1639,Red's Notes #1,Key Items,Key Items
+1640,Red's Notes #2,Key Items,Key Items
+1641,Red's Notes #3,Key Items,Key Items
+1642,Red's Notes #4,Key Items,Key Items
+1643,Red's Notes #5,Key Items,Key Items
+1644,Red's Notes #6,Key Items,Key Items
+1645,Red's Notes #7,Key Items,Key Items
+1647,Red's Notes #8,Key Items,Key Items
+1649,Red's Notes #9,Key Items,Key Items
 1652,White Dress,Key Items,Outfits for Ena
+1653,Tropical Dress,Key Items,Outfits for Ena
+1654,Kuan Coat,Key Items,Outfits for Ena
+1655,Ancient Raiment,Key Items,Outfits for Ena
+1656,Felyne Shelter Garb,Key Items,Outfits for Ena
+1657,Cheerleader (Blue),Key Items,Outfits for Ena
+1658,Cheerleader (Orange),Key Items,Outfits for Ena
+1659,Cheerleader (Pink),Key Items,Outfits for Ena
 1660,Blue Traveling Gear,Key Items,Outfits for Ena
+1661,Pink Traveling Gear,Key Items,Outfits for Ena
+1662,Kamura Maiden Outfit,Key Items,Outfits for Ena
+1672,Downy Duds,Key Items,Outfits for Navirou
+1673,Kulu-Ya-Ku Costume,Key Items,Outfits for Navirou
+1674,Legiana Costume,Key Items,Outfits for Navirou
+1675,Paolumu Costume,Key Items,Outfits for Navirou
+1676,Anjanath Costume,Key Items,Outfits for Navirou
+1677,Fulgur Anja Costume,Key Items,Outfits for Navirou
+1678,Velkhana Costume,Key Items,Outfits for Navirou
+1702,Character Edit Ticket,Key Items,Tickets
+1703,Character Edit Ticket,Key Items,Tickets
+1704,Character Edit Ticket,Key Items,Tickets
+1705,Character Edit Ticket,Key Items,Tickets
+1706,Character Edit Ticket,Key Items,Tickets
+1707,Character Edit Ticket,Key Items,Tickets
+1708,Character Edit Ticket,Key Items,Tickets
+1709,Character Edit Ticket,Key Items,Tickets
+1710,Character Edit Ticket,Key Items,Tickets
+1711,Character Edit Ticket,Key Items,Tickets
+1712,Character Edit Ticket,Key Items,Tickets
+1713,Character Edit Ticket,Key Items,Tickets
+1714,Character Edit Ticket,Key Items,Tickets
+1715,Character Edit Ticket,Key Items,Tickets
+1716,Character Edit Ticket,Key Items,Tickets
+1717,Character Edit Ticket,Key Items,Tickets
+1718,Character Edit Ticket,Key Items,Tickets
+1719,Character Edit Ticket,Key Items,Tickets
+1720,Character Edit Ticket,Key Items,Tickets
+1721,Character Edit Ticket,Key Items,Tickets
+1727,Hunter Sticker Set,Key Items,Key Items
+1735,Spiky Nergal,Key Items,Hairstyles
+1736,Shaggy Legiana,Key Items,Hairstyles
+1737,Lumu Afro,Key Items,Hairstyles
+1738,Mizutsune Braid,Key Items,Hairstyles
+1739,Mohawk Kulu,Key Items,Hairstyles
+1740,Mohawk Zuros,Key Items,Hairstyles
+1741,Shaggy Narga,Key Items,Hairstyles
+1742,Spiky Rathalos,Key Items,Hairstyles
+1743,Conga Cone,Key Items,Hairstyles
+1744,Barroth Pompadour,Key Items,Hairstyles
+1745,Brachy Pompadour,Key Items,Hairstyles
+1746,Royal Rolls,Key Items,Hairstyles
+1747,Funky Kut-Ku,Key Items,Hairstyles
+1748,Kelbi Braid,Key Items,Hairstyles
+1749,Spiky Rathian,Key Items,Hairstyles
+1750,Barioth Braids,Key Items,Hairstyles

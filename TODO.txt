@@ -13,7 +13,7 @@ For World :
 
 For Stories 2 :
 
-- Fill in dictionaries (items, equipment, etc...) -> use save editor github (index +5)
+- Fill in dictionaries (equipment, armor, weapons, etc.)
 
 For 3 Ultimate :
 
