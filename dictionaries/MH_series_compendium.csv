@@ -181,10 +181,6 @@ Azure Rathalos Wing,False,False,True,True
 Azure Scale,False,False,True,False
 Azure Star Shard,False,False,True,False
 Azure Stargem,False,False,True,False
-B Cheerleader Outfit,False,False,False,True
-B. Diablos Carapace,False,False,False,True
-B. Gravios Carapace,False,False,False,True
-B. Gravios Medulla,False,False,False,True
 BBQ Spit,True,False,True,False
 Baggi Scale,True,False,False,True
 Baitbug,False,False,True,False
@@ -272,10 +268,10 @@ Bhernastone,False,False,True,False
 Big Barrel Bomb,False,False,False,True
 Big Boom Boom Book,False,False,False,True
 Binoculars,False,True,True,False
-Bird Wyv. Stimulant,False,False,False,True
 Bird Wyvern Fang,True,True,False,False
 Bird Wyvern Gem,False,False,True,False
 Bird Wyvern Scale+,False,False,False,True
+Bird Wyvern Stimulant,False,False,False,True
 Bishop Talisman,False,True,False,False
 Bitterbug,False,True,True,True
 Black Bandage,False,False,True,False
@@ -283,7 +279,7 @@ Black Bandana,False,False,True,False
 Black Belt Coin,False,False,True,False
 Black Blood,False,False,True,False
 Black Crystal Ticket,False,False,True,False
-Black Diablos Carapace,False,False,True,False
+Black Diablos Carapace,False,False,True,True
 Black Diablos Chine,False,False,True,False
 Black Diablos Cortex,False,False,True,False
 Black Diablos Ridge+,False,False,True,False
@@ -292,8 +288,10 @@ Black Diablos Tail,False,False,False,True
 Black Diablos Tail+,False,False,False,True
 Black Eagle Blueprint,False,False,True,False
 Black Flu Mask,False,False,False,True
+Black Gravios Carapace,False,False,False,True
 Black Gravios Jaw,False,False,False,True
 Black Gravios Marrow,False,False,False,True
+Black Gravios Medulla,False,False,False,True
 Black Gravios Scalp,False,False,False,True
 Black Gravios Shell,False,False,False,True
 Black Pearl,False,False,False,True
@@ -320,7 +318,6 @@ Bloodbath Grimhorn,False,False,False,True
 Bloodstained Ebonhide,False,False,True,False
 Bloodthirsty Glimmerpelt,False,False,True,False
 Blooming Blade,False,False,False,True
-Blos Medulla,False,False,True,False
 Blossom Boots,False,False,True,False
 Blossom Coat,False,False,True,False
 Blossom Cuffs,False,False,True,False
@@ -328,6 +325,7 @@ Blossom Fireworks,False,False,True,False
 Blossom Headgear,False,False,True,False
 Blossom Vest,False,False,True,False
 Blue Beryl,False,False,True,False
+Blue Cheerleader Outfit,False,False,False,True
 Blue Diva,False,False,True,False
 Blue Gargwa Feather,False,False,False,True
 Blue Hero Outfit,False,False,False,True
@@ -396,20 +394,20 @@ Brace/Medicine Jewel 4,False,False,True,False
 Brace/Physique Jewel 4,False,False,True,False
 Brace/Protection Jewel 4,False,False,True,False
 Brace/Vitality Jewel 4,False,False,True,False
-Brach Carapace,False,False,False,True
-Brach Gem,False,False,False,True
-Brach Hammer,False,False,False,True
-Brach Marrow,False,False,False,True
-Brach Obliterator,False,False,True,False
-Brach Pounder,False,False,False,True
-Brach Shell,False,False,False,True
-Brach Warhead,False,False,True,False
 Brachy Pompadour,False,False,False,True
+Brachydios Carapace,False,False,False,True
 Brachydios Cortex,False,False,True,False
 Brachydios Crown,False,False,True,False
+Brachydios Gem,False,False,False,True
+Brachydios Hammer,False,False,False,True
 Brachydios Lash,False,False,True,False
+Brachydios Marrow,False,False,False,True
+Brachydios Obliterator,False,False,True,False
 Brachydios Pallium,False,False,True,False
+Brachydios Pounder,False,False,False,True
 Brachydios Pounder+,False,False,True,False
+Brachydios Shell,False,False,False,True
+Brachydios Warhead,False,False,True,False
 Breaker (M) and Cold Res Talisman,False,False,False,True
 Brightmoss,False,False,True,False
 Bristly Crake,False,False,True,False
@@ -434,7 +432,7 @@ Brute Tigrex Shard,False,False,True,False
 Brute Tigrex Tail,False,False,False,True
 Brute Tigrex Tail+,False,False,False,True
 Brute Tigrex Ticket,False,False,True,False
-Brute Wyv. Stimulant,False,False,False,True
+Brute Wyvern Stimulant,False,False,False,True
 Buff Ticket,False,False,True,False
 Buff Ticket+,False,False,True,False
 Bug Net,False,True,False,True
@@ -554,10 +552,10 @@ Crackling Thunderpelt,False,False,True,False
 Crag S Level 1,True,False,False,False
 Crimson Blastscale,False,False,True,False
 Crimson Coral,False,False,False,True
-Crimson Peco Feather,False,False,False,True
-Crimson Peco Scale,False,False,False,True
-Crimson Peco Scale+,False,False,False,True
-Crimson Peco Wing,False,False,False,True
+Crimson Qurupeco Feather,False,False,False,True
+Crimson Qurupeco Scale,False,False,False,True
+Crimson Qurupeco Scale+,False,False,False,True
+Crimson Qurupeco Wing,False,False,False,True
 Crisis Jewel 1,False,False,True,False
 Crisis/Attack Jewel 4,False,False,True,False
 Crisis/Evasion Jewel 4,False,False,True,False
@@ -679,6 +677,7 @@ Diablos Cortex,False,False,True,False
 Diablos Fang,False,False,True,False
 Diablos Hardhorn,False,False,True,False
 Diablos Marrow,False,False,True,False
+Diablos Medulla,False,False,True,False
 Diablos Ridge,False,False,True,False
 Diablos Ridge+,False,False,True,False
 Diablos Shell,False,False,True,True
@@ -797,12 +796,6 @@ Duramboros Shell+,False,False,False,True
 Duramboros Tailbone,False,False,False,True
 Duskshroom,False,False,False,True
 Dust of Life,False,False,True,True
-E. Congalala Claw,False,False,False,True
-E. Congalala Claw+,False,False,False,True
-E. Congalala Pelt,False,False,False,True
-E. Congalala Pelt+,False,False,False,True
-E. Congalala Tail,False,False,False,True
-E. Congalala Tail+,False,False,False,True
 EZ Demon Powder,False,False,True,False
 EZ Dung Pod,False,False,True,False
 EZ Dust of Life,False,False,True,False
@@ -834,9 +827,9 @@ Ebony Odogaron Mantle,False,False,True,False
 Ebony Odogaron Shard,False,False,True,False
 Effluvial Crystal,False,False,True,False
 Effluvial Frenzybone,False,False,True,False
-Eld. Dragon Stimulant,False,False,False,True
 Elder Dragon Blood,False,False,True,True
 Elder Dragon Bone,False,False,True,False
+Elder Dragon Stimulant,False,False,False,True
 Elder Dragonvein Bone,False,False,True,False
 Elder Spiritvein Bone,False,False,True,False
 Elderfrost Cortex,False,False,False,True
@@ -848,6 +841,12 @@ Elementless Jewel 2,False,False,True,False
 Elite Blade,False,True,False,False
 Eltalite Ore,False,False,True,False
 Elysian Fruit,False,False,True,False
+Emerald Congalala Claw,False,False,False,True
+Emerald Congalala Claw+,False,False,False,True
+Emerald Congalala Pelt,False,False,False,True
+Emerald Congalala Pelt+,False,False,False,True
+Emerald Congalala Tail,False,False,False,True
+Emerald Congalala Tail+,False,False,False,True
 Emerald Helmcrab,False,False,True,False
 Emerald Shell,False,False,True,False
 Emperor Hopper,False,False,True,False
@@ -885,17 +884,11 @@ Exquisite Butterbur,False,False,True,False
 Exquisite Shroomcap,False,False,True,False
 Extinction Greathorn,False,False,True,False
 Eyepatch Outfit,False,False,False,True
-F. Anjanath Fang,False,False,False,True
-F. Anjanath Lash,False,False,False,True
-F. Anjanath Mantle,False,False,False,True
-F. Anjanath Nosebone,False,False,False,True
-F. Anjanath Pelt,False,False,False,True
-F. Anjanath Scale,False,False,False,True
 Family Favorite,False,False,False,True
 Fancy Beak,False,False,True,False
 Fanged Beast Fur,False,False,False,True
 Fanged Beast Stimulant,False,False,False,True
-Fanged Wyv. Stimulant,False,False,False,True
+Fanged Wyvern Stimulant,False,False,False,True
 Farcaster,False,True,True,False
 Fatal Rendclaw,False,False,True,False
 Fatalis Cortex,False,False,True,False
@@ -1016,7 +1009,7 @@ Flowfern,False,False,True,False
 Fluffy Moly,False,False,True,False
 Flying Coin,False,False,True,False
 Flying Meduso,False,False,True,False
-Flying Wyv. Stimulant,False,False,False,True
+Flying Wyvern Stimulant,False,False,False,True
 Footing Jewel 2,False,False,True,False
 Footing/Evasion Jewel 4,False,False,True,False
 Footing/Maintenance Jewel 4,False,False,True,False
@@ -1061,10 +1054,14 @@ Frosty Moly,False,False,True,False
 Frozen Bone,False,False,True,False
 Frozen Crystal,False,False,True,False
 Fucium Ore,False,False,True,True
-Fulgur Anja Costume,False,False,False,True
+Fulgur Anjanath Costume,False,False,False,True
+Fulgur Anjanath Fang,False,False,False,True
 Fulgur Anjanath Hardfang,False,False,True,False
-Fulgur Anjanath Lash,False,False,True,False
-Fulgur Anjanath Mantle,False,False,True,False
+Fulgur Anjanath Lash,False,False,True,True
+Fulgur Anjanath Mantle,False,False,True,True
+Fulgur Anjanath Nosebone,False,False,False,True
+Fulgur Anjanath Pelt,False,False,False,True
+Fulgur Anjanath Scale,False,False,False,True
 Fulgur Anjanath Shard,False,False,True,False
 Fulgur Anjanath Thickfur,False,False,True,False
 Fulgurbug,False,False,True,False
@@ -1086,18 +1083,6 @@ Furor/Medicine Jewel 4,False,False,True,False
 Furor/Physique Jewel 4,False,False,True,False
 Furor/Protection Jewel 4,False,False,True,False
 Furor/Vitality Jewel 4,False,False,True,False
-G Cheerleader Outfit,False,False,False,True
-G. Agnak Beak,False,False,False,True
-G. Agnak Beak+,False,False,False,True
-G. Agnak Claw,False,False,False,True
-G. Agnak Claw+,False,False,False,True
-G. Agnak Crpace,False,False,False,True
-G. Agnak Shell,False,False,False,True
-G. Narga Mottlefur,False,False,False,True
-G. Narga Mottlefur+,False,False,False,True
-G. Plesioth Scale+,False,False,False,True
-G. Rathian Carapace,False,False,False,True
-G. Rathian Spike+,False,False,False,True
 Gaia Amber,False,False,True,False
 Gajalaka Sketch,False,False,True,False
 Gajau Scale,False,False,True,False
@@ -1154,6 +1139,12 @@ Girros Scale,False,False,True,False
 Girros Scale+,False,False,True,False
 Girros Shard,False,False,True,False
 Girthy Garlic,False,False,False,True
+Glacial Agnaktor Beak,False,False,False,True
+Glacial Agnaktor Beak+,False,False,False,True
+Glacial Agnaktor Carapace,False,False,False,True
+Glacial Agnaktor Claw,False,False,False,True
+Glacial Agnaktor Claw+,False,False,False,True
+Glacial Agnaktor Shell,False,False,False,True
 Glamour Prism,False,False,True,False
 Glass Parexus,False,False,True,False
 Glavenus Coin,False,False,True,False
@@ -1190,7 +1181,7 @@ Godbug,False,False,True,True
 Gold Calappa,False,False,True,False
 Gold Chip Fragment,False,False,True,False
 Gold Cricket,False,False,False,True
-Gold Exped.+ Ticket,False,False,False,True
+Gold Expedition+ Ticket,False,False,False,True
 Gold Helmcrab,False,False,True,False
 Gold Hercudrome,False,False,True,False
 Gold License,False,False,False,True
@@ -1199,9 +1190,11 @@ Gold Melding Ticket,False,False,True,False
 Gold Nugget Fragment,False,False,True,False
 Gold Rajang Pelt,False,False,False,True
 Gold Rajang Pelt+,False,False,True,False
+Gold Rathian Carapace,False,False,False,True
 Gold Rathian Cortex,False,False,True,False
 Gold Rathian Ruby,False,False,False,True
 Gold Rathian Shard,False,False,True,False
+Gold Rathian Spike+,False,False,False,True
 Gold Rathian Surspike,False,False,True,False
 Gold Scalebat,False,False,True,False
 Gold Ticket,False,False,False,True
@@ -1296,17 +1289,21 @@ Great Sword Moves 3,False,False,False,True
 Great Sword Moves 4,False,False,False,True
 Great Sword: Guard,False,False,False,True
 Great Whetfish,False,False,True,False
+Green Cheerleader Outfit,False,False,False,True
 Green Herb,False,False,True,False
 Green Hero Outfit,False,False,False,True
-Green Narga Cutwing,False,False,False,True
-Green Narga Cutwing+,False,False,False,True
-Green Narga Scale,False,False,False,True
-Green Narga Scale+,False,False,False,True
+Green Nargacuga Cutwing,False,False,False,True
+Green Nargacuga Cutwing+,False,False,False,True
+Green Nargacuga Mottlefur,False,False,False,True
+Green Nargacuga Mottlefur+,False,False,False,True
+Green Nargacuga Scale,False,False,False,True
+Green Nargacuga Scale+,False,False,False,True
 Green Plesioth Fang,False,False,False,True
 Green Plesioth Fang+,False,False,False,True
 Green Plesioth Fin,False,False,False,True
 Green Plesioth Fin+,False,False,False,True
 Green Plesioth Scale,False,False,False,True
+Green Plesioth Scale+,False,False,False,True
 Grill,False,False,False,True
 Grimalkyne: Pot-au-magma,False,False,True,False
 Grimclaw Carapace,False,False,False,True
@@ -1320,8 +1317,8 @@ Grinder/Handicraft Jewel 4,False,False,True,False
 Grinder/Physique Jewel 4,False,False,True,False
 Grinder/Release Jewel 4,False,False,True,False
 Group Healing 101,False,False,False,True
-Group Healing Adv,False,False,False,True
-Group Healing Int,False,False,False,True
+Group Healing Advanced,False,False,False,True
+Group Healing Intermediate,False,False,False,True
 Guardian Boots α+,False,False,True,False
 Guardian Coil α+,False,False,True,False
 Guardian Helm α+,False,False,True,False
@@ -1352,7 +1349,7 @@ Gunlance: Protect,False,False,False,True
 Gunlance: Seal,False,False,False,True
 Gunlance: Shelling,False,False,False,True
 Gunlance: Wyrmstake,False,False,False,True
-Gunlance: Wyv. Fire,False,False,False,True
+Gunlance: Wyvern's Fire,False,False,False,True
 Gunpowder,False,False,True,False
 Gunpowder Level 2,False,False,True,False
 Gunpowder Level 3,False,False,True,False
@@ -1364,23 +1361,6 @@ Gypceros Hardhead,False,False,False,True
 Gypceros Head,False,True,False,True
 Gypceros Webbing,False,False,False,True
 Gypceros Wing,False,False,False,True
-H. Horn: A. Evasion,False,False,False,True
-H. Horn: Awakening,False,False,False,True
-H. Horn: Berserk,False,False,False,True
-H. Horn: Blast,False,False,False,True
-H. Horn: Bloodsuck,False,False,False,True
-H. Horn: Charge,False,False,False,True
-H. Horn: Evasion,False,False,False,True
-H. Horn: Healing,False,False,False,True
-H. Horn: Iron Def.,False,False,False,True
-H. Horn: Kinship,False,False,False,True
-H. Horn: Mettle,False,False,False,True
-H. Horn: N. Ailments,False,False,False,True
-H. Horn: N. Para.,False,False,False,True
-H. Horn: N. Poison,False,False,False,True
-H. Horn: N. Sleep,False,False,False,True
-H. Horn: Saver,False,False,False,True
-H. Horn: Soothing,False,False,False,True
 Hakolo Honey,False,False,False,True
 Hakum Rider Outfit,False,False,False,True
 Hammer: Evasion,False,False,False,True
@@ -1413,10 +1393,10 @@ Hard Water Res Jewel 4,False,False,True,False
 Hardfruit,False,False,True,False
 Hardshell Powder,False,False,True,False
 Harvest Fireworks,False,False,True,False
-Healer's Comp V.1,False,False,False,True
-Healer's Comp V.2,False,False,False,True
-Healer's Comp V.3,False,False,False,True
-Healer's Comp V.4,False,False,False,True
+Healer's Comp Volume 1,False,False,False,True
+Healer's Comp Volume 2,False,False,False,True
+Healer's Comp Volume 3,False,False,False,True
+Healer's Comp Volume 4,False,False,False,True
 Health (S) Talisman,False,False,False,True
 Health Booster,False,False,True,False
 Heart Churro,False,False,False,True
@@ -1497,11 +1477,26 @@ Hunter's Life: Summer,False,False,False,True
 Hunter's Life: Winter,False,False,False,True
 Hunter's Mail,True,False,True,False
 Hunter's Vambraces,True,True,True,False
+Hunting Horn: Absolute Evasion,False,False,False,True
+Hunting Horn: Awakening,False,False,False,True
+Hunting Horn: Berserk,False,False,False,True
+Hunting Horn: Blast,False,False,False,True
+Hunting Horn: Bloodsuck,False,False,False,True
+Hunting Horn: Charge,False,False,False,True
+Hunting Horn: Evasion,False,False,False,True
+Hunting Horn: Healing,False,False,False,True
+Hunting Horn: Iron Defense,False,False,False,True
+Hunting Horn: Kinship,False,False,False,True
+Hunting Horn: Mettle,False,False,False,True
+Hunting Horn: Negate Ailments,False,False,False,True
+Hunting Horn: Negate Paralysis,False,False,False,True
+Hunting Horn: Negate Poison,False,False,False,True
+Hunting Horn: Negate Sleep,False,False,False,True
+Hunting Horn: Saver,False,False,False,True
+Hunting Horn: Soothing,False,False,False,True
 Huskberry,True,True,False,False
 Hydrated Sac,False,False,True,False
 Hydro Hide,True,False,False,False
-I. Lagi Shockshell,False,False,False,True
-I. Lagi Shockshell+,False,False,False,True
 Ice Crystal,True,True,False,False
 Ice Res Jewel 1,False,False,True,False
 Ice Res Jewel+ 4,False,False,True,False
@@ -1561,12 +1556,14 @@ Ironwall/Expert Jewel 4,False,False,True,False
 Ironwall/Handicraft Jewel 4,False,False,True,False
 Ironwall/Physique Jewel 4,False,False,True,False
 Ironwall/Release Jewel 4,False,False,True,False
-Ivory Lagi Horn,False,False,False,True
-Ivory Lagi Horn+,False,False,False,True
-Ivory Lagi Scale,False,False,False,True
-Ivory Lagi Scale+,False,False,False,True
+Ivory Lagiacrus Horn,False,False,False,True
+Ivory Lagiacrus Horn+,False,False,False,True
+Ivory Lagiacrus Scale,False,False,False,True
+Ivory Lagiacrus Scale+,False,False,False,True
+Ivory Lagiacrus Shockshell,False,False,False,True
+Ivory Lagiacrus Shockshell+,False,False,False,True
 Ivy,True,True,True,True
-J. Barroth Carapace,False,False,False,True
+Jade Barroth Carapace,False,False,False,True
 Jade Barroth Claw,False,False,False,True
 Jade Barroth Claw+,False,False,False,True
 Jade Barroth Scalp,False,False,False,True
@@ -1606,7 +1603,6 @@ Jyuratodus Scale,False,False,True,False
 Jyuratodus Scale+,False,False,True,False
 Jyuratodus Shard,False,False,True,False
 Jyuratodus Shell,False,False,True,False
-K. T. Golden Spiralhorn,False,False,False,True
 KO Jewel 2,False,False,True,False
 KO/Evasion Jewel 4,False,False,True,False
 KO/Maintenance Jewel 4,False,False,True,False
@@ -1698,7 +1694,7 @@ Kulve Taroth Golden Scale,False,False,True,True
 Kulve Taroth Golden Scale+,False,False,True,False
 Kulve Taroth Golden Shell,False,False,True,True
 Kulve Taroth Golden Shell+,False,False,True,False
-Kulve Taroth Golden Spiralhorn,False,False,True,False
+Kulve Taroth Golden Spiralhorn,False,False,True,True
 Kulve Taroth Golden Spiralhorn+,False,False,True,False
 Kulve Taroth Golden Tailshell,False,False,True,False
 Kulve Taroth Golden Tailshell+,False,False,True,False
@@ -1714,12 +1710,12 @@ Kut-Ku Shell,False,True,False,False
 Kut-Ku Webbing,False,False,False,True
 Kut-Ku Wing,False,False,False,True
 Kyle's & Ena's Outfit,False,False,False,True
-Lagi Shockshell+,False,False,False,True
 Lagiacrus Horn,False,False,False,True
 Lagiacrus Horn+,False,False,False,True
 Lagiacrus Scale,False,False,False,True
 Lagiacrus Scale+,False,False,False,True
 Lagiacrus Shockshell,False,False,False,True
+Lagiacrus Shockshell+,False,False,False,True
 Lagombi Claw,True,False,False,False
 Lagombi Ear,True,True,False,True
 Lagombi Ear+,False,False,False,True
@@ -1820,7 +1816,6 @@ Lunastra Tail,False,False,True,False
 Lunastra Ticket,False,False,True,False
 Lunastra Wing,False,False,True,False
 Lustrous Scale,False,False,True,False
-M. Tigrex Blastclaw,False,False,False,True
 Machalite Ore,True,True,True,True
 Magazine Jewel 2,False,False,True,False
 Magma Crystal,False,False,True,False
@@ -1898,6 +1893,7 @@ Mizutsune Water Orb,False,False,False,True
 Mohawk Kulu,False,False,False,True
 Mohawk Zuros,False,False,False,True
 Molten Bursa,False,False,True,False
+Molten Tigrex Blastclaw,False,False,False,True
 Molten Tigrex Scale+,False,False,False,True
 Moly,False,False,True,False
 Monoblos Carapace,False,False,False,True
@@ -1968,7 +1964,6 @@ Nekker,False,False,True,False
 Nekker Card (Armor),False,False,True,False
 Nekker Card (Weapon),False,False,True,False
 Neopteron Shell,False,False,False,True
-Nergi Regrowth Plate,False,False,False,True
 Nergigante Carapace,False,False,True,False
 Nergigante Cortex,False,False,True,False
 Nergigante Costume,False,False,False,True
@@ -1976,7 +1971,7 @@ Nergigante Flail,False,False,True,False
 Nergigante Gem,False,False,True,True
 Nergigante Hardclaw,False,False,True,False
 Nergigante Horn+,False,False,True,True
-Nergigante Regrowth Plate,False,False,True,False
+Nergigante Regrowth Plate,False,False,True,True
 Nergigante Shell,False,False,False,True
 Nergigante Tail,False,False,True,True
 Nergigante Talon,False,False,True,True
@@ -2035,13 +2030,6 @@ Old Pickaxe,False,True,False,False
 Omenfly,False,False,True,False
 Omniplegia Sac,False,False,True,False
 One-shot Binder,False,False,True,False
-P. Gypceros Web,False,False,False,True
-P. Gypceros Wing,False,False,False,True
-P. Ludroth Claw,False,False,False,True
-P. Ludroth Claw+,False,False,False,True
-P. Ludroth Scale,False,False,False,True
-P. Ludroth Scale+,False,False,False,True
-P. Spongy Hide+,False,False,False,True
 Paddock Oil,False,True,False,True
 Paddock Oil+,False,False,False,True
 Paintball,True,True,False,True
@@ -2085,7 +2073,6 @@ Pearl Hide,False,False,False,True
 Pearl Wing,False,False,False,True
 Pearlspring Macaque,False,False,True,False
 Pearlspring Ticket,False,False,True,False
-Peco Pipes,False,False,False,True
 Pelagicite Ore,True,False,False,True
 Pellet S Level 1,True,True,False,False
 Penguin Ticket,False,False,True,False
@@ -2130,6 +2117,7 @@ Pink Scale,False,False,True,False
 Pink Traveling Gear,False,False,False,True
 Pinnacle Coin,False,False,True,False
 Pirate Treasure,False,False,False,True
+Piscine Wyvern Stimulant,False,False,False,True
 Pitfall Surprise,False,False,False,True
 Pitfall Trap,False,False,True,True
 Pittance Fang,True,False,False,True
@@ -2152,6 +2140,7 @@ Plum Daimyo Feeler,False,False,False,True
 Plum Daimyo Feeler+,False,False,False,True
 Plum Daimyo Shell,False,False,False,True
 Plum Spongy Hide,False,False,False,True
+Plum Spongy Hide+,False,False,False,True
 Plume Flint,False,False,False,True
 Plunderblade,False,False,True,False
 Plunderers: Steamed Cricket,False,False,True,False
@@ -2193,7 +2182,6 @@ Protection Jewel 1,False,False,True,False
 Protectors: Dried Goldenfish,False,False,True,False
 Proto Commission Axe I,False,False,True,False
 Proto Iron Axe I,False,False,True,False
-Psc. Wyv. Stimulant,False,False,False,True
 Psychoserum,False,True,False,False
 Puddle Pod,False,False,True,False
 Pukei Coin,False,False,True,False
@@ -2217,6 +2205,12 @@ Pulsing Dragonshell,False,False,True,False
 Pure Dracolite,False,False,True,False
 Pure Dragon Blood,False,False,True,False
 Purecrystal,False,False,True,False
+Purple Gypceros Web,False,False,False,True
+Purple Gypceros Wing,False,False,False,True
+Purple Ludroth Claw,False,False,False,True
+Purple Ludroth Claw+,False,False,False,True
+Purple Ludroth Scale,False,False,False,True
+Purple Ludroth Scale+,False,False,False,True
 Purrty-Eye Frames,False,False,False,True
 Quality Bone,False,False,True,False
 Quality Meat,False,False,False,True
@@ -2224,13 +2218,10 @@ Queen Shrimp,False,False,False,True
 Queen's Scale,False,False,True,False
 Quickness Meat,False,False,False,True
 Qurupeco Feather,True,False,False,True
+Qurupeco Pipes,False,False,False,True
 Qurupeco Scale,True,False,False,True
 Qurupeco Scale+,False,False,False,True
 Qurupeco Wing,False,False,False,True
-R Cheerleader Outfit,False,False,False,True
-R. Basa Stonehead,False,False,False,True
-R. Basarios Carapace,False,False,False,True
-R. Basarios Webbing,False,False,False,True
 Radobaan Carapace,False,False,True,False
 Radobaan Cortex,False,False,True,False
 Radobaan Marrow,False,False,True,False
@@ -2256,15 +2247,13 @@ Rajang Tail,False,False,True,False
 Rajang Wildpelt,False,False,True,False
 Rare Scarab,False,False,False,True
 Rare Steak,False,False,True,False
-Rath Gleam,False,False,True,False
-Rath Wingtalon,False,False,True,False
-Rath Wingtalon+,False,False,True,False
 Rath-of-Meow,False,False,True,False
 Rathalos Carapace,False,False,True,False
 Rathalos Coin,False,False,True,False
 Rathalos Cortex,False,False,True,False
 Rathalos Egg,False,False,False,True
 Rathalos Fellwing,False,False,True,False
+Rathalos Gleam,False,False,True,False
 Rathalos Lash,False,False,True,False
 Rathalos Mantle,False,False,True,False
 Rathalos Marrow,False,False,True,False
@@ -2278,6 +2267,8 @@ Rathalos Shell,False,False,True,False
 Rathalos Tail,False,False,True,False
 Rathalos Webbing,False,False,True,True
 Rathalos Wing,False,False,True,True
+Rathalos Wingtalon,False,False,True,False
+Rathalos Wingtalon+,False,False,True,False
 Rathian Carapace,False,False,True,True
 Rathian Coin,False,False,True,False
 Rathian Cortex,False,False,True,False
@@ -2305,6 +2296,7 @@ Recover S Level 1,False,True,False,False
 Recovery Charm,False,False,False,True
 Recovery Jewel 1,False,False,True,False
 Recovery Jewel+ 4,False,False,True,False
+Red Cheerleader Outfit,False,False,False,True
 Red Herb,False,False,True,False
 Red Hero Outfit,False,False,False,True
 Red Orb,False,False,True,False
@@ -2379,37 +2371,22 @@ Royal Rhino,False,False,False,True
 Royal Rolls,False,False,False,True
 Rubbery Hide,False,True,False,True
 Rubbery Hide+,False,False,False,True
-Rubbery P. Hide,False,False,False,True
-Rubbery P. Hide+,False,False,False,True
-Rubbery P. Tail,False,False,False,True
-Rubbery P. Tail+,False,False,False,True
+Rubbery Purple Hide,False,False,False,True
+Rubbery Purple Hide+,False,False,False,True
+Rubbery Purple Tail,False,False,False,True
+Rubbery Purple Tail+,False,False,False,True
 Rubbery Shell,False,False,True,False
+Ruby Basarios Carapace,False,False,False,True
 Ruby Basarios Head,False,False,False,True
 Ruby Basarios Shell,False,False,False,True
+Ruby Basarios Stonehead,False,False,False,True
+Ruby Basarios Webbing,False,False,False,True
 Ruby Basarios Wing,False,False,False,True
 Rugged Great Sword,False,False,False,True
 Rugged Mane,False,False,True,False
 Ruin King's Outfit,False,False,False,True
 Rutoh Ringer,False,False,False,True
 Rutoh Scarf,False,False,False,True
-S&S Basics: Defense,False,False,False,True
-S&S: Counter,False,False,False,True
-S. Barioth Carapace,False,False,False,True
-S. Nerscylla Carapace,False,False,False,True
-S. Nerscylla Chel,False,False,False,True
-S. Nerscylla Claw,False,False,False,True
-S. Nerscylla Claw+,False,False,False,True
-S. Nerscylla Shear,False,False,False,True
-S. Nerscylla Shell,False,False,False,True
-S. Queen Carapace,False,False,False,True
-S. Rathalos Ruby,False,False,False,True
-S. Rathalos Scale+,False,False,False,True
-S. Rathalos Wing,False,False,False,True
-S. Zinogre Carapace,False,False,False,True
-S. Zinogre Claw+,False,False,False,True
-S. Zinogre Plate,False,False,False,True
-S. Zinogre Shell,False,False,False,True
-S. Zinogre Umbrage,False,False,False,True
 S.T.A.R.S. Badge,False,False,True,False
 SFV Ticket,False,False,True,False
 SFV Ticket II,False,False,True,False
@@ -2420,6 +2397,7 @@ Safi'jiiva Hardclaw,False,False,True,False
 Safi'jiiva Hardhorn,False,False,True,False
 Safi'jiiva Lash,False,False,True,False
 Safi'jiiva Shard,False,False,True,False
+Sand Barioth Carapace,False,False,False,True
 Sand Barioth Pelt,False,False,False,True
 Sand Barioth Pelt+,False,False,False,True
 Sand Barioth Shell,False,False,False,True
@@ -2452,6 +2430,7 @@ Seltas Carapace,False,False,False,True
 Seltas Faulds,False,True,False,False
 Seltas Horn,False,True,False,True
 Seltas Innerwing,False,False,False,True
+Seltas Queen Carapace,False,False,False,True
 Seltas Queen Claw,False,False,False,True
 Seltas Queen Claw+,False,False,False,True
 Seltas Queen Fluid,False,False,False,True
@@ -2472,8 +2451,8 @@ Shadowcore Ore,False,False,True,False
 Shadowpierce Fang,False,False,True,False
 Shaggy Legiana,False,False,False,True
 Shaggy Narga,False,False,False,True
-Shaka Treasure,False,False,False,True
-Shaka Treasure+,False,False,False,True
+Shakalaka Treasure,False,False,False,True
+Shakalaka Treasure+,False,False,False,True
 Shamos Goggles,False,False,True,False
 Shamos Hide,False,False,True,False
 Shamos Hide+,False,False,True,False
@@ -2514,10 +2493,16 @@ Shocking Extract,False,False,False,True
 Shocking Jelly,False,False,False,True
 Shocking Surprise,False,False,False,True
 Shroom Germ,True,False,False,False
+Shrouded Nerscylla Carapace,False,False,False,True
+Shrouded Nerscylla Chel,False,False,False,True
+Shrouded Nerscylla Claw,False,False,False,True
+Shrouded Nerscylla Claw+,False,False,False,True
+Shrouded Nerscylla Shear,False,False,False,True
+Shrouded Nerscylla Shell,False,False,False,True
 Shuddering Darkjaw,False,False,True,False
 Silver Cricket,False,False,False,True
 Silver Egg,False,False,True,False
-Silver Exped.+ Ticket,False,False,False,True
+Silver Expedition+ Ticket,False,False,False,True
 Silver King's Outfit,False,False,False,True
 Silver License,False,False,False,True
 Silver Melding Feystone,False,False,True,False
@@ -2525,7 +2510,10 @@ Silver Melding Ticket,False,False,True,False
 Silver Rathalos Cortex,False,False,True,False
 Silver Rathalos Fellwing,False,False,True,False
 Silver Rathalos Lash,False,False,True,False
+Silver Rathalos Ruby,False,False,False,True
+Silver Rathalos Scale+,False,False,False,True
 Silver Rathalos Shard,False,False,True,False
+Silver Rathalos Wing,False,False,False,True
 Silver Spidersilk,False,False,False,True
 Silver Ticket,False,False,False,True
 Silver Wyverian Print,False,False,True,False
@@ -2667,14 +2655,19 @@ Streamstone Shard,False,False,True,False
 Strength Nutriment,False,False,False,True
 Strongman's Jaw,False,False,True,False
 Sturdy Bone,False,False,True,False
+Stygian Zinogre Carapace,False,False,False,True
 Stygian Zinogre Claw,False,False,False,True
+Stygian Zinogre Claw+,False,False,False,True
 Stygian Zinogre Cortex,False,False,True,False
 Stygian Zinogre Dragonhold,False,False,True,False
 Stygian Zinogre Dragonlocks,False,False,True,False
 Stygian Zinogre Hardclaw,False,False,True,False
 Stygian Zinogre Hardhorn,False,False,True,False
 Stygian Zinogre Lash,False,False,True,False
+Stygian Zinogre Plate,False,False,False,True
+Stygian Zinogre Shell,False,False,False,True
 Stygian Zinogre Skymerald,False,False,True,False
+Stygian Zinogre Umbrage,False,False,False,True
 Sublimated Weapon,False,False,True,False
 Sublime First Wyverian Print,False,False,True,False
 Sullied Streamstone,False,False,True,False
@@ -2694,6 +2687,8 @@ Sushifish Scale,False,False,True,False
 Suture Jewel 1,False,False,True,False
 Suture Jewel+ 4,False,False,True,False
 Sweet Secret,False,False,False,True
+Sword and Shield Basics: Defense,False,False,False,True
+Sword and Shield: Counter,False,False,False,True
 Tailraider Signal,False,False,True,False
 Tailraider Voucher,False,False,True,False
 Tainted Fruit,False,False,True,False
@@ -2859,7 +2854,7 @@ Twilight Crystal,False,False,True,False
 Twilight Fang,False,False,True,False
 Twilight Fireworks,False,False,True,False
 Twilight Stone,False,False,True,False
-Twisted B. Diablos Horn,False,False,False,True
+Twisted Black Diablos Horn,False,False,False,True
 Twisted Bravehorn,False,False,True,False
 Twisted Bulldrome Tusk,False,False,False,True
 Twisted Horn,False,False,True,True
@@ -2968,11 +2963,6 @@ Vivid Crimsonbone,False,False,True,False
 Volcanic Pepper,False,False,False,True
 Volcanic Wildbone,False,False,True,False
 Voucher,True,True,True,False
-W. Monoblos Carapace,False,False,False,True
-W. Monoblos Horn,False,False,False,True
-W. Monoblos Ridge,False,False,False,True
-W. Monoblos Shell,False,False,False,True
-W. Monoblos Thorax,False,False,False,True
 Wanchovy,False,True,False,False
 Wanderer's Outfit,False,False,False,True
 War Hammer,False,True,False,False
@@ -3010,6 +3000,11 @@ Whetstone,True,True,True,True
 White Dress,False,False,False,True
 White Flu Mask,False,False,False,True
 White Liver,False,False,True,False
+White Monoblos Carapace,False,False,False,True
+White Monoblos Horn,False,False,False,True
+White Monoblos Ridge,False,False,False,True
+White Monoblos Shell,False,False,False,True
+White Monoblos Thorax,False,False,False,True
 Wicked Fossil,False,False,True,False
 Wiggler,False,False,True,False
 Wiggler Pot,False,False,True,False
