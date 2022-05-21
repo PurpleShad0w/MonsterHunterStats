@@ -1,4 +1,4 @@
-# Monster Hunter Inventory Displayer - WIP
+# Monster Hunter Inventory Displayer - WORK IN PROGRESS
 Scripts that read Monster Hunter save files and display a unified inventory of all the player's possessions. <br/>
 Currently supports:
 - Monster Hunter 3 Ultimate
@@ -43,11 +43,12 @@ Currently supports:
 - Run the `MH_series_merge.py` file.
 
 ## Credits
-- [EnderHDMC](https://github.com/EnderHDMC) for his personal help and for providing the binary templates of World. <br/>
+- [EnderHDMC](https://github.com/EnderHDMC) for their personal help and for providing the binary templates of World. <br/>
 - [Legendff](https://github.com/LEGENDFF) for providing the World decryption library.
 - [DSC-173](https://github.com/sigve10) for providing the Stories 2 binary template.
 - [AsteriskAmpersand](https://github.com/AsteriskAmpersand) for providing the Stories 2 save decryption tool.
 - [gocario](https://github.com/gocario) for providing information on the format of the MH3U save file.
 - [Seth VanHeulen](https://github.com/svanheulen) for providing the decryption library for MH4U, and [DaemonTsun](https://github.com/DaemonTsun) for updating it to python 3.9.
-- [mikewii](https://github.com/mikewii) for his work on the MH4U save file format.
-- [u/chuanhsing](https://www.reddit.com/user/chuanhsing/) for his [website](https://mhw.poedb.tw/eng/) providing ID data for World.
+- [mikewii](https://github.com/mikewii) for their work on the MH4U save file format.
+- [u/chuanhsing](https://www.reddit.com/user/chuanhsing/) for their [website](https://mhw.poedb.tw/eng/) providing item ID data for World.
+- [Fexty](https://github.com/Fexty12573) for providing item ID data for Stories 2.
