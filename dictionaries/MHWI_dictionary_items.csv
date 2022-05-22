@@ -431,7 +431,7 @@
 431,Rathalos Shell,4,Materials,840,840
 432,Rathalos Webbing,4,Materials,1180,1180
 433,Rathalos Tail,4,Materials,1270,1270
-434,Rathalos Wingtalon,4,Materials,1090,1090
+434,Rath Wingtalon,4,Materials,1090,1090
 435,Rathalos Marrow,4,Materials,1360,1360
 436,Rathalos Plate,5,Materials,3000,3000
 437,Rathalos Scale+,6,Materials,1250,1250
@@ -452,7 +452,7 @@
 452,Diablos Carapace,6,Materials,1260,1260
 453,Diablos Ridge+,6,Materials,1860,1860
 454,Majestic Horn,6,Materials,2980,2980
-455,Diablos Medulla,6,Materials,3040,3040
+455,Blos Medulla,6,Materials,3040,3040
 456,Black Diablos Carapace,6,Materials,1450,1450
 457,Black Diablos Ridge+,6,Materials,2150,2150
 458,Black Spiral Horn+,6,Materials,5700,5700
@@ -1125,7 +1125,7 @@
 1206,Rathalos Cortex,10,Materials,4370,43700
 1207,Rathalos Fellwing,10,Materials,5940,59400
 1208,Rathalos Lash,10,Materials,6010,60100
-1209,Rathalos Wingtalon+,10,Materials,5870,58700
+1209,Rath Wingtalon+,10,Materials,5870,58700
 1210,Rathalos Mantle,11,Materials,15000,150000
 1211,Azure Rathalos Shard,10,Materials,3550,35500
 1212,Azure Rathalos Cortex,10,Materials,5450,54500

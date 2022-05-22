@@ -86,39 +86,39 @@
 84,dummy,0
 85,Huskberry,1
 86,Bone Husk,2
-87,Normal S Lv1,1
-88,Normal S Lv2,1
-89,Normal S Lv3,2
-90,Pierce S Lv1,2
-91,Pierce S Lv2,2
-92,Pierce S Lv3,3
-93,Pellet S Lv1,2
-94,Pellet S Lv2,2
-95,Pellet S Lv3,3
-96,Crag S Lv1,3
-97,Crag S Lv2,3
-98,Crag S Lv3,3
-99,Clust S Lv1,2
-100,Clust S Lv2,3
-101,Clust S Lv3,3
+87,Normal S Level 1,1
+88,Normal S Level 2,1
+89,Normal S Level 3,2
+90,Pierce S Level 1,2
+91,Pierce S Level 2,2
+92,Pierce S Level 3,3
+93,Pellet S Level 1,2
+94,Pellet S Level 2,2
+95,Pellet S Level 3,3
+96,Crag S Level 1,3
+97,Crag S Level 2,3
+98,Crag S Level 3,3
+99,Cluster S Level 1,2
+100,Cluster S Level 2,3
+101,Cluster S Level 3,3
 102,Flaming S,3
 103,Water S,3
 104,Thunder S,3
 105,Freeze S,3
 106,Dragon S,5
-107,Poison S Lv1,2
-108,Poison S Lv2,3
-109,Para S Lv1,3
-110,Para S Lv2,4
-111,Sleep S Lv1,3
-112,Sleep S Lv2,4
-113,Exhaust S Lv1,2
-114,Exhaust S Lv2,3
+107,Poison S Level 1,2
+108,Poison S Level 2,3
+109,Paralysis S Level 1,3
+110,Paralysis S Level 2,4
+111,Sleep S Level 1,3
+112,Sleep S Level 2,4
+113,Exhaust S Level 1,2
+114,Exhaust S Level 2,3
 115,Slicing S,3
-116,WyvernFire,4
+116,Wyvern Fire,4
 117,Blast S,4
-118,Recover S Lv1,1
-119,Recover S Lv2,2
+118,Recover S Level 1,1
+119,Recover S Level 2,2
 120,Demon S,3
 121,Armor S,3
 122,Paint S,1
@@ -126,18 +126,18 @@
 124,(No Coating),0
 125,Empty Phial,1
 126,Power Coating,2
-127,C.Range Coating,2
+127,Close-range Coating,2
 128,Poison Coating,3
-129,Para Coating,3
+129,Paralysis Coating,3
 130,Sleep Coating,3
 131,Exhaust Coating,3
 132,Blast Coating,3
 133,Paint Coating,1
 134,Power Nectar: Fire,3
-135,Stam Nectar: Water,3
-136,Spd Nectar: Thunder,3
+135,Stamina Nectar: Water,3
+136,Speed Nectar: Thunder,3
 137,Speed Nectar: Ice,3
-138,Stam Nectar: Dragon,3
+138,Stamina Nectar: Dragon,3
 139,Power+ Nectar,4
 140,Stamina+ Nectar,4
 141,Speed+ Nectar,4
@@ -147,13 +147,13 @@
 145,Nectar: Ice+,4
 146,Nectar: Dragon+,4
 147,Power+ Nectar: Fire,5
-148,Stam+ Nectar: Water,5
-149,Spd+ Nectar: Thunder,5
+148,Stamina+ Nectar: Water,5
+149,Speed+ Nectar: Thunder,5
 150,Power Nectar: Fire+,5
 151,Speed Nectar: Water+,5
-152,Spd Nectar: Thunder+,5
+152,Speed Nectar: Thunder+,5
 153,Speed Nectar: Ice+,5
-154,Stam Nectar: Dragon+,5
+154,Stamina Nectar: Dragon+,5
 155,Worm,1
 156,Mega Fishing Fly,3
 157,Frog,2
@@ -226,7 +226,7 @@
 224,Armor Stone,4
 225,Armor Sphere,4
 226,Armor Sphere+,4
-227,Adv Armor Sphere,5
+227,Advanced Armor Sphere,5
 228,Hard Armor Sphere,5
 229,Heavy Armor Sphere,6
 230,True Armor Sphere,7
@@ -327,11 +327,11 @@
 325,Jaggi Scale+,6
 326,Jaggi Hide,4
 327,Bird Wyvern Fang,4
-328,Tough Bird Wyv Hide,6
-329,G.Jaggi Hide,4
-330,G.Jaggi Hide+,6
-331,G.Jaggi Claw,4
-332,G.Jaggi Claw+,6
+328,Tough Bird Wyvern Hide,6
+329,Great Jaggi Hide,4
+330,Great Jaggi Hide+,6
+331,Great Jaggi Claw,4
+332,Great Jaggi Claw+,6
 333,King's Frill,4
 334,Great Jaggi Head,4
 335,Velociprey Scale,4
@@ -381,7 +381,7 @@
 379,Rubbery Hide+,6
 380,Gypceros Head,4
 381,Rubbery Purple Hide,6
-382,P.Gypceros Wing,6
+382,Purple Gypceros Wing,6
 383,Garuga Scale,4
 384,Garuga Scale+,6
 385,Garuga Shell,4
@@ -410,9 +410,9 @@
 408,Congalala Claw,4
 409,Congalala Claw+,6
 410,Congalala Fang,4
-411,E.Congalala Pelt+,6
-412,E.Congalala Fang+,6
-413,E.Congalala Claw+,6
+411,Emerald Congalala Pelt+,6
+412,Emerald Congalala Fang+,6
+413,Emerald Congalala Claw+,6
 414,Rajang Horn+,6
 415,Rajang Fang+,6
 416,Rajang Blackfur,6
@@ -470,16 +470,16 @@
 468,Seltas Innerwing,6
 469,Seltas Horn,4
 470,Seltas Horn+,6
-471,S.Queen Shell,4
-472,S.Queen Carapace,6
-473,S.Queen Pectus,4
-474,S.Queen Hardpectus,6
-475,S.Queen Claw,4
-476,S.Queen Sharpclaw,6
-477,S.Queen Jaw,4
-478,S.Queen Crescent,4
-479,S.Queen Extract,4
-480,S.Queen Concentrate,6
+471,Seltas Queen Shell,4
+472,Seltas Queen Carapace,6
+473,Seltas Queen Pectus,4
+474,Seltas Queen Hardpectus,6
+475,Seltas Queen Claw,4
+476,Seltas Queen Sharpclaw,6
+477,Seltas Queen Jaw,4
+478,Seltas Queen Crescent,4
+479,Seltas Queen Extract,4
+480,Seltas Queen Concentrate,6
 481,Flabby Hide,4
 482,Pearl Hide,6
 483,Pale Bone,4
@@ -495,11 +495,11 @@
 493,Rathian Spike+,6
 494,Rathian Plate,5
 495,Rathian Ruby,7
-496,P.Rathian Scale+,6
-497,P.Rathian Carapace,6
-498,G.Rathian Scale+,6
-499,G.Rathian Carapace,6
-500,G.Rathian Spike+,6
+496,Pink Rathian Scale+,6
+497,Pink Rathian Carapace,6
+498,Gold Rathian Scale+,6
+499,Gold Rathian Carapace,6
+500,Gold Rathian Spike+,6
 501,Rathalos Scale,4
 502,Rathalos Scale+,6
 503,Rathalos Shell,4
@@ -509,17 +509,17 @@
 507,Rathalos Tail,4
 508,Rathalos Plate,5
 509,Rathalos Ruby,7
-510,A.Rathalos Scale+,6
-511,A.Rathalos Carapace,6
-512,A.Rathalos Tail,6
-513,A.Rathalos Wing,6
-514,S.Rathalos Scale+,6
-515,S.Rathalos Carapace,6
-516,S.Rathalos Tail,6
+510,Azure Rathalos Scale+,6
+511,Azure Rathalos Carapace,6
+512,Azure Rathalos Tail,6
+513,Azure Rathalos Wing,6
+514,Silver Rathalos Scale+,6
+515,Silver Rathalos Carapace,6
+516,Silver Rathalos Tail,6
 517,Rath Wingtalon,4
-518,Rath Marrow,5
-519,Rath Medulla,7
-520,Rath Gleam,7
+518,Rathalos Marrow,5
+519,Rathalos Medulla,7
+520,Rathalos Gleam,7
 521,Zinogre Shell,4
 522,Zinogre Carapace,6
 523,Zinogre Shockfur,4
@@ -533,39 +533,39 @@
 531,Zinogre Shocker+,6
 532,Zinogre Plate,5
 533,Zinogre Jasper,7
-534,S.Zinogre Carapace,6
-535,S.Zinogre Horn+,6
-536,S.Zinogre Claw+,6
-537,S.Zinogre Tail,6
-538,S.Zin Drakeshell,6
+534,Stygian Zinogre Carapace,6
+535,Stygian Zinogre Horn+,6
+536,Stygian Zinogre Claw+,6
+537,Stygian Zinogre Tail,6
+538,Stygian Zinogre Drakeshell,6
 539,Dracophage Bug,6
-540,S.Zinogre Dragonhair,6
-541,S.Zinogre Umbrage,7
-542,Brach Shell,4
-543,Brach Carapace,6
-544,Brach Ebonshell,4
-545,Brach Ebonshell+,6
-546,Brach Scalp,4
-547,Brach Scalp+,6
+540,Stygian Zinogre Dragonhair,6
+541,Stygian Zinogre Umbrage,7
+542,Brachydios Shell,4
+543,Brachydios Carapace,6
+544,Brachydios Ebonshell,4
+545,Brachydios Ebonshell+,6
+546,Brachydios Scalp,4
+547,Brachydios Scalp+,6
 548,Mystery Slime,4
-549,Brach Hammer,4
-550,Brach Pounder,6
-551,Brach Tail,6
-552,Brach Marrow,5
-553,Brach Gem,7
+549,Brachydios Hammer,4
+550,Brachydios Pounder,6
+551,Brachydios Tail,6
+552,Brachydios Marrow,5
+553,Brachydios Gem,7
 554,Basarios Shell,4
 555,Basarios Carapace,6
 556,Basarios Wing,4
 557,Basarios Tears,6
-558,R.Basarios Wing,6
-559,R.Basarios Carapace,6
+558,Ruby Basarios Wing,6
+559,Ruby Basarios Carapace,6
 560,Gravios Shell,4
 561,Gravios Carapace,6
 562,Gravios Scalp,4
 563,Gravios Medulla,7
 564,Gravios Wing,4
-565,B.Gravios Carapace,6
-566,B.Gravios Scalp,4
+565,Black Gravios Carapace,6
+566,Black Gravios Scalp,4
 567,Tigrex Scale,4
 568,Tigrex Scale+,6
 569,Tigrex Shell,4
@@ -577,15 +577,15 @@
 575,Tigrex Fang+,6
 576,Tigrex Scalp,4
 577,Tigrex Maw,7
-578,B.Tigrex Scale+,6
-579,B.Tigrex Carapace,6
-580,B.Tigrex Claw+,6
-581,B.Tigrex Fang+,6
-582,M.Tigrex Scale+,6
-583,M.Tigrex Carapace,6
-584,M.Tigrex Blastclaw,6
-585,M.Tigrex Fang+,6
-586,M.Tigrex Tail,6
+578,Brute Tigrex Scale+,6
+579,Brute Tigrex Carapace,6
+580,Brute Tigrex Claw+,6
+581,Brute Tigrex Fang+,6
+582,Molten Tigrex Scale+,6
+583,Molten Tigrex Carapace,6
+584,Molten Tigrex Blastclaw,6
+585,Molten Tigrex Fang+,6
+586,Molten Tigrex Tail,6
 587,Pulsating Blastheart,7
 588,Gore Magala Scale,4
 589,Gore Magala Scale+,6
@@ -601,19 +601,19 @@
 599,Gore Magala Feeler,4
 600,Gore Magala Feeler+,6
 601,Defiled Scale,4
-602,S.Magala Scale,4
-603,S.Magala Scale+,6
-604,S.Magala Shell,4
-605,S.Magala Carapace,6
-606,S.Magala Prismwing,4
-607,S.Magala Prismwing+,6
-608,S.Magala Caress,4
-609,S.Magala Caress+,6
-610,S.Magala Tail,4
-611,S.Magala Plate,6
-612,S.Magala Phosgem,7
-613,S.Magala Horn,4
-614,S.Magala Horn+,6
+602,Shagaru Magala Scale,4
+603,Shagaru Magala Scale+,6
+604,Shagaru Magala Shell,4
+605,Shagaru Magala Carapace,6
+606,Shagaru Magala Prismwing,4
+607,Shagaru Magala Prismwing+,6
+608,Shagaru Magala Caress,4
+609,Shagaru Magala Caress+,6
+610,Shagaru Magala Tail,4
+611,Shagaru Magala Plate,6
+612,Shagaru Magala Phosgem,7
+613,Shagaru Magala Horn,4
+614,Shagaru Magala Horn+,6
 615,Pure Scale,4
 616,Deviljho Scale,6
 617,Deviljho Hide,6
@@ -649,12 +649,12 @@
 647,Teostra Webbing,6
 648,Teostra Powder,6
 649,Teostra Gem,7
-650,D.Mohran Shell,4
-651,D.Mohran Carapace,6
-652,D.Mohran Bloodscale,4
-653,D.Mohran Bloodscale+,6
-654,D.Mohran Brace,4
-655,D.Mohran Brace+,6
+650,Dah'ren Mohran Shell,4
+651,Dah'ren Mohran Carapace,6
+652,Dah'ren Mohran Bloodscale,4
+653,Dah'ren Mohran Bloodscale+,6
+654,Dah'ren Mohran Brace,4
+655,Dah'ren Mohran Brace+,6
 656,Brutal Horn,4
 657,Brutal Horn+,6
 658,Dah'renstone,4
@@ -677,12 +677,12 @@
 675,Fatalis Devileye,6
 676,Fatalis Bloodwing,6
 677,Dalamadur Steel,6
-678,Dalam Tail Scale,6
+678,Dalamadur Tail Scale,6
 679,Dalamadur Gazer,6
 680,Dalamadur Pectus,6
 681,Dalamadur Glaive,6
 682,Dalamadur Talon,6
-683,Dalam Tail Shell,6
+683,Dalamadur Tail Shell,6
 684,Dalamadur Fanblade,6
 685,Vortex Bone,6
 686,Skyblade Gem,7
@@ -878,7 +878,7 @@
 876,Goddess's Fire,5
 877,Super Mushroom,5
 878,Invalid Message,0
-879,D.Mohran Ticket,5
+879,Dah'ren Mohran Ticket,5
 880,Invalid Message,0
 881,Dalamadur Ticket,5
 882,Rajang Ticket,5
@@ -961,12 +961,12 @@
 959,Adamant Orb,6
 960,Antidote Jewel 1,4
 961,Antidote Jewel 2,5
-962,Paralysis Jwl 1,4
-963,Paralysis Jwl 2,5
+962,Paralysis Jewel 1,4
+963,Paralysis Jewel 2,5
 964,Pep Jewel 1,4
 965,Pep Jewel 2,5
-966,Steadfast Jwl 1,4
-967,Standfast Jwl 1,4
+966,Steadfast Jewel 1,4
+967,Standfast Jewel 1,4
 968,Tracker Jewel 1,4
 969,Trekker Jewel 1,4
 970,Ninja Jewel 1,4
@@ -975,8 +975,8 @@
 973,Recovery Jewel 2,5
 974,Razor Jewel 1,4
 975,Razor Jewel 3,6
-976,Handicraft Jwl 2,5
-977,Handicraft Jwl 3,6
+976,Handicraft Jewel 2,5
+977,Handicraft Jewel 3,6
 978,Fencer Jewel 1,4
 979,Fencer Jewel 3,6
 980,Expert Jewel 1,4
@@ -987,52 +987,52 @@
 985,Ironwall Jewel 2,5
 986,Shield Jewel 1,4
 987,Shield Jewel 2,5
-988,Quickload Jwl 1,4
-989,Quickload Jwl 2,5
+988,Quickload Jewel 1,4
+989,Quickload Jewel 2,5
 990,Absorber Jewel 1,4
 991,Absorber Jewel 3,6
-992,Forceshot Jwl 1,4
-993,Forceshot Jwl 3,6
+992,Forceshot Jewel 1,4
+993,Forceshot Jewel 3,6
 994,Pierce Jewel 1,4
 995,Pierce Jewel 3,6
 996,Pellet Jewel 1,4
 997,Pellet Jewel 3,6
-998,ShotPlus Jewel 1,4
-999,ShotPlus Jewel 2,5
-1000,PiercePlus Jwl 1,4
-1001,PelletPlus Jwl 1,4
-1002,CragPlus Jewel 1,4
-1003,ClustPlus Jwl 1,4
+998,Shot Plus Jewel 1,4
+999,Shot Plus Jewel 2,5
+1000,Pierce Plus Jewel 1,4
+1001,Pellet Plus Jewel 1,4
+1002,Crag Plus Jewel 1,4
+1003,Cluster Plus Jewel 1,4
 1004,Disabler Jewel 1,4
 1005,Disabler Jewel 2,5
 1006,Element Jewel 1,4
 1007,Element Jewel 3,6
-1008,Bombardier Jwl 1,4
-1009,Hungerless Jwl 1,4
-1010,Metabolism Jwl 1,4
+1008,Bombardier Jewel 1,4
+1009,Hungerless Jewel 1,4
+1010,Metabolism Jewel 1,4
 1011,Attack Jewel 1,4
 1012,Attack Jewel 2,5
 1013,Attack Jewel 3,6
 1014,Defense Jewel 1,4
 1015,Defense Jewel 2,5
-1016,Protection Jwl 1,4
+1016,Protection Jewel 1,4
 1017,Asylum Jewel 1,4
 1018,Earplug Jewel 1,4
 1019,Earplug Jewel 3,6
 1020,Alarm Jewel 1,4
-1021,Friendship Jwl 1,4
-1022,Friendship Jwl 2,5
-1023,Transportr Jwl 1,4
+1021,Friendship Jewel 1,4
+1022,Friendship Jewel 2,5
+1023,Transporter Jewel 1,4
 1024,Fire Res Jewel 1,4
-1025,Water Res Jwl 1,4
+1025,Water Res Jewel 1,4
 1026,Ice Res Jewel 1,4
-1027,ThunderRes Jwl 1,4
-1028,Dragon Res Jwl 1,4
+1027,Thunder Res Jewel 1,4
+1028,Dragon Res Jewel 1,4
 1029,Heat Res Jewel 1,4
 1030,Cold Res Jewel 1,4
 1031,Wind Res Jewel 1,4
 1032,Wind Res Jewel 2,5
-1033,Gathering Jwl 1,4
+1033,Gathering Jewel 1,4
 1034,Spree Jewel 1,4
 1035,Blessing Jewel 1,4
 1036,Fate Jewel 1,4
@@ -1040,12 +1040,12 @@
 1038,Psychic Jewel 1,4
 1039,Medicine Jewel 1,4
 1040,Medicine Jewel 2,5
-1041,Professor Jwl 1,4
+1041,Professor Jewel 1,4
 1042,Factory Jewel 1,4
 1043,Evasion Jewel 1,4
 1044,Evasion Jewel 2,5
-1045,Potential Jwl 1,4
-1046,Potential Jwl 2,5
+1045,Potential Jewel 1,4
+1046,Potential Jewel 2,5
 1047,Enduring Jewel 1,4
 1048,Sprinter Jewel 1,4
 1049,Sprinter Jewel 3,6
@@ -1061,12 +1061,12 @@
 1059,Jumping Jewel 1,4
 1060,Draw Jewel 1,4
 1061,Draw Jewel 2,5
-1062,Trapmaster Jwl 1,4
+1062,Trapmaster Jewel 1,4
 1063,Physique Jewel 1,4
 1064,Physique Jewel 2,5
 1065,Capture Jewel 1,4
 1066,Capture Jewel 3,6
-1067,Perception Jwl 1,4
+1067,Perception Jewel 1,4
 1068,Charger Jewel 1,4
 1069,Charger Jewel 3,6
 1070,Gambit Jewel 1,4
@@ -1074,11 +1074,11 @@
 1072,Resistor Jewel 1,4
 1073,Release Jewel 2,5
 1074,Catalyst Jewel 3,6
-1075,Fortitude Jwl 1,4
-1076,Fortitude Jwl 2,5
+1075,Fortitude Jewel 1,4
+1076,Fortitude Jewel 2,5
 1077,Salvo Jewel 1,4
 1078,Salvo Jewel 3,6
-1079,Torchlight Jwl 1,4
+1079,Torchlight Jewel 1,4
 1080,Def Lock Jewel 1,4
 1081,Blaze Jewel 1,4
 1082,Blaze Jewel 2,5
@@ -1090,45 +1090,45 @@
 1088,Frost Jewel 2,5
 1089,Dragon Jewel 1,4
 1090,Dragon Jewel 2,5
-1091,Tenderizer Jwl 1,4
-1092,Tenderizer Jwl 3,6
-1093,Destroyer Jwl 1,4
-1094,Destroyer Jwl 3,6
+1091,Tenderizer Jewel 1,4
+1092,Tenderizer Jewel 3,6
+1093,Destroyer Jewel 1,4
+1094,Destroyer Jewel 3,6
 1095,Throttle Jewel 1,4
 1096,Throttle Jewel 2,5
 1097,KO Jewel 1,4
 1098,Drain Jewel 1,4
 1099,Drain Jewel 2,5
 1100,Sonorous Jewel 1,4
-1101,Artillery Jwl 1,4
+1101,Artillery Jewel 1,4
 1102,Resistor Jewel 3,6
 1103,Nul-Fire Jewel 1,4
-1104,Nul-Water Jwl 1,4
-1105,Nul-Thundr Jwl 1,4
+1104,Nul-Water Jewel 1,4
+1105,Nul-Thundr Jewel 1,4
 1106,Nul-Ice Jewel 1,4
-1107,Nul-Dragon Jwl 1,4
+1107,Nul-Dragon Jewel 1,4
 1108,Sheath Jewel 1,4
 1109,Sheath Jewel 2,5
 1110,Refresh Jewel 1,4
 1111,Refresh Jewel 2,5
 1112,Ranger Jewel 1,4
-1113,SlicePlus Jwl 1,4
+1113,Slice Plus Jewel 1,4
 1114,Paracoat Jewel 1,4
 1115,Paracoat Jewel 2,5
-1116,Sleepcoat Jwl 1,4
-1117,Poisoncoat Jwl 1,4
-1118,Powercoat Jwl 1,4
-1119,Powercoat Jwl 2,5
-1120,Rangecoat Jwl 1,4
-1121,Draincoat Jwl 1,4
+1116,Sleepcoat Jewel 1,4
+1117,Poisoncoat Jewel 1,4
+1118,Powercoat Jewel 1,4
+1119,Powercoat Jewel 2,5
+1120,Rangecoat Jewel 1,4
+1121,Draincoat Jewel 1,4
 1122,Guts Jewel 1,4
 1123,Guts Jewel 2,5
-1124,Meateater Jwl 1,4
-1125,Meatlover Jwl 1,4
+1124,Meateater Jewel 1,4
+1125,Meatlover Jewel 1,4
 1126,Honeybee Jewel 1,4
 1127,Queenbee Jewel 1,4
 1128,Biology Jewel 1,4
-1129,Microbio Jewel 1,4
+1129,Microbiology Jewel 1,4
 1130,Spirit Jewel 1,4
 1131,Spirit Jewel 2,5
 1132,Flawless Jewel 1,4
@@ -1141,37 +1141,37 @@
 1139,Leader Jewel 2,4
 1140,KO Jewel 2,5
 1141,Charmer Jewel 1,4
-1142,BlastPlus Jwl 1,4
-1143,Blastcoat Jwl 1,4
+1142,Blast Plus Jewel 1,4
+1143,Blastcoat Jewel 1,4
 1144,Lynians,1
-1145,Neopterons Vol 1,2
+1145,Neopterons Volume 1,2
 1146,Nerscylla,1
 1147,Seltas Queen,2
-1148,Piscine Wyverns Vol1,1
-1149,Herbivores Vol 1,1
-1150,Herbivores Vol 2,1
-1151,Bird Wyverns Vol 1,1
-1152,Bird Wyverns Vol 2,1
-1153,Bird Wyverns Vol 3,2
-1154,Fanged Beasts Vol 1,1
-1155,Fanged Beasts Vol 2,1
-1156,Fanged Beasts Vol 3,2
+1148,Piscine Wyverns Volume 1,1
+1149,Herbivores Volume 1,1
+1150,Herbivores Volume 2,1
+1151,Bird Wyverns Volume 1,1
+1152,Bird Wyverns Volume 2,1
+1153,Bird Wyverns Volume 3,2
+1154,Fanged Beasts Volume 1,1
+1155,Fanged Beasts Volume 2,1
+1156,Fanged Beasts Volume 3,2
 1157,Rajang,3
 1158,Tetsucabra,2
 1159,Zamtrios,2
-1160,Snake Wyverns Vol 1,2
+1160,Snake Wyverns Volume 1,2
 1161,Brachydios,2
 1162,Deviljho,3
-1163,Flying Wyverns Vol 1,1
-1164,Flying Wyverns Vol 2,2
-1165,Flying Wyverns Vol 3,2
-1166,Flying Wyverns Vol 4,2
-1167,Flying Wyverns Vol 5,3
-1168,Flying Wyverns Vol 6,3
+1163,Flying Wyverns Volume 1,1
+1164,Flying Wyverns Volume 2,2
+1165,Flying Wyverns Volume 3,2
+1166,Flying Wyverns Volume 4,2
+1167,Flying Wyverns Volume 5,3
+1168,Flying Wyverns Volume 6,3
 1169,Gore Magala,2
 1170,Akantor,3
-1171,Fanged Wyverns Vol 1,2
-1172,Fanged Wyverns Vol 2,2
+1171,Fanged Wyverns Volume 1,2
+1172,Fanged Wyverns Volume 2,2
 1173,Kirin,2
 1174,Oroshi Kirin,3
 1175,Shagaru Magala,3
@@ -1180,54 +1180,54 @@
 1178,Teostra,3
 1179,Dalamadur,3
 1180,Fatalis,3
-1181,Honed Jwl 1,4
-1182,Honed Jwl 2,5
-1183,Honed Jwl 3,6
-1184,True Honed Jwl 3,7
-1185,Calm Jwl 1,4
-1186,Calm Jwl 2,5
-1187,Calm Jwl 3,6
-1188,True Calm Jwl 3,7
-1189,Hale Jwl 1,4
-1190,Hale Jwl 2,5
-1191,Hale Jwl 3,6
-1192,True Hale Jwl 3,7
-1193,Ire Jwl 1,4
-1194,Ire Jwl 2,5
-1195,Ire Jwl 3,6
-1196,True Ire Jwl 3,7
-1197,Nimble Jwl 1,4
-1198,True Nimble Jwl 1,5
-1199,Nimble Jwl 2,5
-1200,Nimble Jwl 3,6
-1201,True Nimble Jwl 3,7
-1202,Hardy Jwl 1,4
-1203,True Hardy Jwl 1,5
-1204,Hardy Jwl 2,5
-1205,Hardy Jwl 3,6
-1206,True Hardy Jwl 3,7
-1207,Withdrawn Jwl 1,4
-1208,Withdrawn Jwl 3,6
-1209,Impactful Jwl 1,4
-1210,Impactful Jwl 3,6
-1211,Intense Jwl 2,5
-1212,Intense Jwl 3,6
-1213,Aegis Jwl 2,5
-1214,Aegis Jwl 3,6
-1215,Tactful Jwl 2,5
-1216,Tactful Jwl 3,6
-1217,Broad Jwl 2,5
-1218,Broad Jwl 3,6
-1219,Trove Jwl 1,4
-1220,True Trove Jwl 1,5
-1221,Trove Jwl 2,5
-1222,True Trove Jwl 2,6
-1223,Trove Jwl 3,6
-1224,Avid Jwl 1,4
-1225,True Avid Jwl 1,5
-1226,Avid Jwl 2,5
-1227,True Avid Jwl 2,6
-1228,Avid Jwl 3,6
+1181,Honed Jewel 1,4
+1182,Honed Jewel 2,5
+1183,Honed Jewel 3,6
+1184,True Honed Jewel 3,7
+1185,Calm Jewel 1,4
+1186,Calm Jewel 2,5
+1187,Calm Jewel 3,6
+1188,True Calm Jewel 3,7
+1189,Hale Jewel 1,4
+1190,Hale Jewel 2,5
+1191,Hale Jewel 3,6
+1192,True Hale Jewel 3,7
+1193,Ire Jewel 1,4
+1194,Ire Jewel 2,5
+1195,Ire Jewel 3,6
+1196,True Ire Jewel 3,7
+1197,Nimble Jewel 1,4
+1198,True Nimble Jewel 1,5
+1199,Nimble Jewel 2,5
+1200,Nimble Jewel 3,6
+1201,True Nimble Jewel 3,7
+1202,Hardy Jewel 1,4
+1203,True Hardy Jewel 1,5
+1204,Hardy Jewel 2,5
+1205,Hardy Jewel 3,6
+1206,True Hardy Jewel 3,7
+1207,Withdrawn Jewel 1,4
+1208,Withdrawn Jewel 3,6
+1209,Impactful Jewel 1,4
+1210,Impactful Jewel 3,6
+1211,Intense Jewel 2,5
+1212,Intense Jewel 3,6
+1213,Aegis Jewel 2,5
+1214,Aegis Jewel 3,6
+1215,Tactful Jewel 2,5
+1216,Tactful Jewel 3,6
+1217,Broad Jewel 2,5
+1218,Broad Jewel 3,6
+1219,Trove Jewel 1,4
+1220,True Trove Jewel 1,5
+1221,Trove Jewel 2,5
+1222,True Trove Jewel 2,6
+1223,Trove Jewel 3,6
+1224,Avid Jewel 1,4
+1225,True Avid Jewel 1,5
+1226,Avid Jewel 2,5
+1227,True Avid Jewel 2,6
+1228,Avid Jewel 3,6
 1229,Power++ Nectar,6
 1230,Stamina++ Nectar,6
 1231,Speed++ Nectar,6
@@ -1236,22 +1236,22 @@
 1234,Nectar: Thunder++,6
 1235,Nectar: Ice++,6
 1236,Nectar: Dragon++,6
-1237,Wystone Lv1: Brace,5
-1238,Wystone Lv1: Element,5
-1239,Wystone Lv1: Force,5
-1240,Wystone Lv1: Drive,5
-1241,Piscine Wyverns Vol2,3
-1242,Herbivores Vol 3,3
-1243,Carapaceons Vol 1,3
-1244,Carapaceons Vol 2,3
-1245,Neopterons Vol 2,3
-1246,Neopterons Vol 3,3
-1247,Flying Wyverns Vol 7,3
-1248,Flying Wyverns Vol 8,3
+1237,Wystone Level 1: Brace,5
+1238,Wystone Level 1: Element,5
+1239,Wystone Level 1: Force,5
+1240,Wystone Level 1: Drive,5
+1241,Piscine Wyverns Volume 2,3
+1242,Herbivores Volume 3,3
+1243,Carapaceons Volume 1,3
+1244,Carapaceons Volume 2,3
+1245,Neopterons Volume 2,3
+1246,Neopterons Volume 3,3
+1247,Flying Wyverns Volume 7,3
+1248,Flying Wyverns Volume 8,3
 1249,Seregios,3
-1250,Fanged Beasts Vol 4,3
+1250,Fanged Beasts Volume 4,3
 1251,Amphibians,3
-1252,Snake Wyverns Vol 2,3
+1252,Snake Wyverns Volume 2,3
 1253,dummy005,0
 1254,Ukanlos,4
 1255,Elder Dragons,4
@@ -1268,23 +1268,23 @@
 1266,Rathian Surspike,8
 1267,Rathian Mantle,9
 1268,Rath Wingtalon+,8
-1269,P.Rathian Shard,8
-1270,P.Rathian Cortex,8
-1271,G.Rathian Shard,8
-1272,G.Rathian Cortex,8
-1273,G.Rath Surspike,8
+1269,Pink Rathian Shard,8
+1270,Pink Rathian Cortex,8
+1271,Gold Rathian Shard,8
+1272,Gold Rathian Cortex,8
+1273,Gold Rathian Surspike,8
 1274,Firegleam Dollop,9
 1275,Rathalos Shard,8
 1276,Rathalos Cortex,8
 1277,Rathalos Lash,8
 1278,Rathalos Fellwing,8
 1279,Rathalos Mantle,9
-1280,A.Rathalos Shard,8
-1281,A.Rathalos Cortex,8
-1282,A.Rathalos Lash,8
-1283,S.Rathalos Shard,8
-1284,S.Rath Cortex,8
-1285,S.Rath Lash,8
+1280,Azure Rathalos Shard,8
+1281,Azure Rathalos Cortex,8
+1282,Azure Rathalos Lash,8
+1283,Silver Rathalos Shard,8
+1284,Silver Rathalos Cortex,8
+1285,Silver Rathalos Lash,8
 1286,Kut-Ku Shard,8
 1287,Kut-Ku Cortex,8
 1288,Kut-Ku Fellwing,8
@@ -1299,30 +1299,30 @@
 1297,Rubbery Finehide,8
 1298,Gypceros Hardhead,8
 1299,Rubbery Purple Hide+,8
-1300,P.Gypceros Fellwing,8
+1300,Purple Gypceros Fellwing,8
 1301,Tigrex Shard,8
 1302,Tigrex Cortex,8
 1303,Tigrex Hardfang,8
 1304,Tigrex Hardclaw,8
 1305,Tigrex Lash,8
 1306,Tigrex Mantle,9
-1307,B.Tigrex Shard,8
-1308,B.Tigrex Cortex,8
-1309,B.Tigrex Hardfang,8
-1310,B.Tigrex Hardclaw,8
-1311,M.Tigrex Shard,8
-1312,M.Tigrex Cortex,8
-1313,M.Tigrex Hardfang,8
-1314,M.Tigrex Trigger,8
-1315,M.Tigrex Lash,8
+1307,Brute Tigrex Shard,8
+1308,Brute Tigrex Cortex,8
+1309,Brute Tigrex Hardfang,8
+1310,Brute Tigrex Hardclaw,8
+1311,Molten Tigrex Shard,8
+1312,Molten Tigrex Cortex,8
+1313,Molten Tigrex Hardfang,8
+1314,Molten Tigrex Trigger,8
+1315,Molten Tigrex Lash,8
 1316,Dire Blastheart,9
 1317,Ioprey Piel,8
 1318,Velocidrome Hardclaw,8
 1319,Congalala Fur,8
 1320,Congalala Hardclaw,8
 1321,Beastly Fang,8
-1322,E.Congalala Fur,8
-1323,E.Congalala Hardclaw,8
+1322,Emerald Congalala Fur,8
+1323,Emerald Congalala Hardclaw,8
 1324,Vibrant Comb,8
 1325,Rajang Wildpelt,8
 1326,Rajang Hardhorn,8
@@ -1337,78 +1337,78 @@
 1335,Kecha Auricle,8
 1336,Kecha Ripper,8
 1337,Kecha Lash,8
-1338,A.Kecha Fur,8
-1339,A.Kecha Leadbone,8
-1340,A.Kecha Auricle,8
-1341,A.Kecha Ripper,8
-1342,A.Kecha Lash,8
+1338,Ash Kecha Fur,8
+1339,Ash Kecha Leadbone,8
+1340,Ash Kecha Auricle,8
+1341,Ash Kecha Ripper,8
+1342,Ash Kecha Lash,8
 1343,Tetsucabra Shard,8
 1344,Tetsucabra Cortex,8
 1345,Tetsucabra Gnawrl,8
 1346,Tetsucabra Hardclaw,8
 1347,Vicious Visage,8
-1348,B.Tetsucabra Shard,8
-1349,B.Tetsucabra Cortex,8
-1350,B.Tetsucabra Gnawrl,8
-1351,B.TetsucabraHardclaw,8
+1348,Berserk Tetsucabra Shard,8
+1349,Berserk Tetsucabra Cortex,8
+1350,Berserk Tetsucabra Gnawrl,8
+1351,Berserk Tetsucabra Hardclaw,8
 1352,Zamtrios Shard,8
 1353,Zamtrios Piel,8
 1354,Zamtrios Grandfin,8
 1355,Zamtrios Sawtooth+,8
 1356,Zamtrios Tailbrand,8
-1357,T.Zamtrios Shard,8
-1358,T.Zamtrios Piel,8
-1359,T.Zamtrios Grandfin,8
-1360,T.Zamtrios Sawtooth+,8
-1361,T.Zamtrios Tailbrand,8
+1357,Tigerstripe Zamtrios Shard,8
+1358,Tigerstripe Zamtrios Piel,8
+1359,Tigerstripe Zamtrios Grandfin,8
+1360,Tigerstripe Zamtrios Sawtooth+,8
+1361,Tigerstripe Zamtrios Tailbrand,8
 1362,Najarala Piel,8
 1363,Najarala Cortex,8
 1364,Heart-stopping Beak,9
 1365,Najarala Ampsounder,8
-1366,T.Najarala Piel,8
-1367,T.Najarala Cortex,8
-1368,T.Najarala Splasher,8
+1366,Tidal Najarala Piel,8
+1367,Tidal Najarala Cortex,8
+1368,Tidal Najarala Splasher,8
 1369,Dalamadur Steel+,8
 1370,Dalamadur Glaive+,8
 1371,Dalamadur Pectus+,8
 1372,Dalamadur Ripper,8
 1373,Dalamadur Fanblade+,8
-1374,Dalam Tail Scale+,8
-1375,Dalam Tail Shell+,8
-1376,Skyblade Drgnsphire,9
-1377,S.Dalamadur Steel+,8
-1378,S.Dalamadur Glaive+,8
-1379,S.Dalamadur Gazer,8
-1380,S.Dalamadur Pectus+,8
-1381,S.Dalamadur Ripper,8
-1382,S.Dalam Fanblade+,8
-1383,S.Dalam Tail Scale+,8
-1384,S.Dalam Tail Shell+,8
+1374,Dalamadur Tail Scale+,8
+1375,Dalamadur Tail Shell+,8
+1376,Skyblade Dragonsphire,9
+1377,Shah Dalamadur Steel+,8
+1378,Shah Dalamadur Glaive+,8
+1379,Shah Dalamadur Gazer,8
+1380,Shah Dalamadur Pectus+,8
+1381,Shah Dalamadur Ripper,8
+1382,Shah Dalamadur Fanblade+,8
+1383,Shah Dalamadur Tail Scale+,8
+1384,Shah Dalamadur Tail Shell+,8
 1385,Seltas Cortex,8
 1386,Seltas Razorwing,8
 1387,Seltas Hardhorn,8
-1388,D.Seltas Cortex,8
-1389,D.Seltas Razorwing,8
-1390,D.Seltas Hardhorn,8
-1391,S.Queen Cortex,8
-1392,S.Queen Pectus+,8
-1393,S.Queen Maw,8
-1394,S.Queen Hardclaw,8
-1395,S.Queen Moonlash,8
-1396,D.S.QueenConcentrate,8
-1397,D.S.Queen Cortex,8
-1398,D.S.Queen Pectus+,8
-1399,D.S.Queen Maw,8
-1400,D.S.Queen Hardclaw,8
-1401,D.S.Queen Moonlash,8
+1388,Desert Seltas Cortex,8
+1389,Desert Seltas Razorwing,8
+1390,Desert Seltas Hardhorn,8
+1391,Seltas Queen Cortex,8
+1392,Seltas Queen Pectus+,8
+1393,Seltas Queen Maw,8
+1394,Seltas Queen Hardclaw,8
+1395,Seltas Queen Moonlash,8
+1396,Desert Seltas Queen Concentrate,8
+1397,Desert Seltas Queen Cortex,8
+1398,Desert Seltas Queen Pectus+,8
+1399,Desert Seltas Queen Maw,8
+1400,Desert Seltas Queen Hardclaw,8
+1401,Desert Seltas Queen Moonlash,8
 1402,Nerscylla Cortex,8
 1403,Nerscylla Scishorn,8
 1404,Nerscylla Hardclaw,8
 1405,Nerscylla Surspike,8
-1406,S.Nerscylla Cortex,8
-1407,S.Nerscylla Scishorn,8
-1408,S.Nerscylla Hardclaw,8
-1409,S.Nerscylla Surspike,8
+1406,Shrouded Nerscylla Cortex,8
+1407,Shrouded Nerscylla Scishorn,8
+1408,Shrouded Nerscylla Hardclaw,8
+1409,Shrouded Nerscylla Surspike,8
 1410,Gore Magala Shard,8
 1411,Gore Magala Cortex,8
 1412,Gore Magala Sensor,8
@@ -1420,13 +1420,13 @@
 1418,Diametrical Horn,8
 1419,Antinomic Wing,8
 1420,Contrary Scale,9
-1421,S.Magala Shard,8
-1422,S.Magala Cortex,8
-1423,S.Magala Hardhorn,8
-1424,S.Magala Purifier,8
-1425,S.Magala Lightwing,8
-1426,S.Magala Lash,8
-1427,S.Magala Mantle,9
+1421,Shagaru Magala Shard,8
+1422,Shagaru Magala Cortex,8
+1423,Shagaru Magala Hardhorn,8
+1424,Shagaru Magala Purifier,8
+1425,Shagaru Magala Lightwing,8
+1426,Shagaru Magala Lash,8
+1427,Shagaru Magala Mantle,9
 1428,Daora Cortex,8
 1429,Daora Hardhorn,8
 1430,Daora Fellwing,8
@@ -1462,15 +1462,15 @@
 1460,Alluring Fellwing,8
 1461,Basarios Cortex,8
 1462,Basarios Fellwing,8
-1463,R.Basarios Cortex,8
-1464,R.Basarios Fellwing,8
+1463,Ruby Basarios Cortex,8
+1464,Ruby Basarios Fellwing,8
 1465,Gravios Cortex,8
 1466,Gravios Crown,8
 1467,Gravios Fellwing,8
 1468,Gravios Pallium,9
-1469,B.Gravios Cortex,8
-1470,B.Gravios Crown,8
-1471,B.Gravios Pallium,9
+1469,Black Gravios Cortex,8
+1470,Black Gravios Crown,8
+1471,Black Gravios Pallium,9
 1472,Deviljho Shard,8
 1473,Deviljho Blackpiel,8
 1474,Deviljho Hardfang,8
@@ -1479,12 +1479,12 @@
 1477,Deviljho Crook,9
 1478,Bloodied Ebonhide,8
 1479,Vile Fang,8
-1480,Brach Cortex,8
-1481,Fine Brach Ebonshell,8
-1482,Brach Crown,8
-1483,Brach Pounder+,8
-1484,Brach Lash,8
-1485,Brach Pallium,9
+1480,Brachydios Cortex,8
+1481,Fine Brachydios Ebonshell,8
+1482,Brachydios Crown,8
+1483,Brachydios Pounder+,8
+1484,Brachydios Lash,8
+1485,Brachydios Pallium,9
 1486,Glowing Slime,8
 1487,dummy006,0
 1488,dummy007,0
@@ -1492,10 +1492,10 @@
 1490,dummy009,0
 1491,dummy010,0
 1492,dummy011,0
-1493,D.Mohran Rockskin,8
-1494,D.Mohran Heavyscale,8
+1493,Dah'ren Mohran Rockskin,8
+1494,Dah'ren Mohran Heavyscale,8
 1495,Brutal Biter,8
-1496,D.Mohran Allbrace,8
+1496,Dah'ren Mohran Allbrace,8
 1497,Earth Dragonsphire,9
 1498,Lagombi Fur,8
 1499,Lagombi Auricle,8
@@ -1506,13 +1506,13 @@
 1504,Zinogre D-Shocker,8
 1505,Zinogre Lash,8
 1506,Zinogre Skymerald,9
-1507,S.Zin Dragonlocks,8
-1508,S.Zinogre Cortex,8
-1509,S.Zinogre Hardhorn,8
-1510,S.Zinogre Hardclaw,8
-1511,S.Zinogre Drakehold,8
-1512,S.Zinogre Lash,8
-1513,S.Zinogre Skymerald,9
+1507,Stygian Zinogre Dragonlocks,8
+1508,Stygian Zinogre Cortex,8
+1509,Stygian Zinogre Hardhorn,8
+1510,Stygian Zinogre Hardclaw,8
+1511,Stygian Zinogre Drakehold,8
+1512,Stygian Zinogre Lash,8
+1513,Stygian Zinogre Skymerald,9
 1514,Seregios Slavescale,6
 1515,Seregios Slavescale+,8
 1516,Seregios Airblade,6
@@ -1541,8 +1541,8 @@
 1539,Diablos Hardhorn,9
 1540,Diablos Tailcase+,8
 1541,Blos Medulla,7
-1542,B.Diablos Cortex,8
-1543,B.Diablos Chine,8
+1542,Black Diablos Cortex,8
+1543,Black Diablos Chine,8
 1544,Blackcurl Stouthorn,8
 1545,Monoblos Carapace,6
 1546,Monoblos Cortex,8
@@ -1551,8 +1551,8 @@
 1549,Scarlet Finehorn,6
 1550,Scarlet Stouthorn,8
 1551,Monoblos Heart,6
-1552,W.Monoblos Cortex,8
-1553,W.Monoblos Chine,8
+1552,White Monoblos Cortex,8
+1553,White Monoblos Chine,8
 1554,Argent Stouthorn,8
 1555,Hermitaur Cortex,8
 1556,Hermitaur Hardclaw,8
@@ -1607,9 +1607,9 @@
 1605,Coma Sac,8
 1606,Fey Wyvern Gem,9
 1607,Paddock Cream,8
-1608,Lrg ElderDragon Bone,8
-1609,Lrg Elder Dragon Gem,9
-1610,Lrg Wyvern Gem,9
+1608,Large Elder Dragon Bone,8
+1609,Large Elder Dragon Gem,9
+1610,Large Wyvern Gem,9
 1611,Monster Slogbone,8
 1612,Dragonbone Artifact,8
 1613,Massive Bone,8
@@ -1619,7 +1619,7 @@
 1617,Remobra Finehide,8
 1618,Meaty Piel,8
 1619,Crushing Fang,8
-1620,Sml Hermitaur Shell,6
+1620,Small Hermitaur Shell,6
 1621,Piercing Claw,8
 1622,Bnahabra Razorwing,8
 1623,Konchu Cortex,8
@@ -1630,7 +1630,7 @@
 1628,Crab Pearl+,3
 1629,Emperor Hopper,8
 1630,Flutterfly,8
-1631,Elder Bfly Beetle,8
+1631,Elder Butterfly Beetle,8
 1632,Great Elder Hornfly,8
 1633,Divine Rhino,4
 1634,Meteor Crystal,8
@@ -1701,7 +1701,7 @@
 1699,Gypceros Scrap+,6
 1700,Dalamadur Scrap+,8
 1701,Amatsu Scrap+,8
-1702,S.Magala Scrap+,6
+1702,Shagaru Magala Scrap+,6
 1703,Gore Magala Scrap+,6
 1704,Kushala Daora Scrap+,6
 1705,Ukanlos Scrap+,6
@@ -1710,7 +1710,7 @@
 1708,Kirin Scrap+,6
 1709,Akantor Scrap+,6
 1710,Alatreon Scrap+,6
-1711,Dah'renMohran Scrap+,8
+1711,Dah'ren Mohran Scrap+,8
 1712,Jhen Mohran Scrap+,8
 1713,Gogmazios Scrap+,8
 1714,Chameleos Scrap+,6
@@ -1728,7 +1728,7 @@
 1726,Tropical Berry,3
 1727,Portable Steam Bomb,5
 1728,Disposable Earplugs,5
-1729,Garrison Bllsta Ammo,5
+1729,Garrison Ballista Ammo,5
 1730,Dense Marcoal,5
 1731,EZ Farcaster,2
 1732,EZ Lifepowder,2
@@ -1736,22 +1736,22 @@
 1734,Meteor Chunk,5
 1735,Frozen Berry,3
 1736,Poogie Pearl,9
-1737,Brach Warhead,8
-1738,Brach Obliterator,8
+1737,Brachydios Warhead,8
+1738,Brachydios Obliterator,8
 1739,Immortal Reactor,9
 1740,Flashpoint Slime,8
-1741,G.Plesioth Shard,8
-1742,Fine G.Plesioth Fin,8
+1741,Green Plesioth Shard,8
+1742,Fine Green Plesioth Fin,8
 1743,Gigginox Scrap+,6
 1744,Royal Ludroth Scrap+,6
 1745,Plesioth Scrap+,6
 1746,Lagiacrus Scrap+,8
 1747,Hermitaur Scrap+,6
-1748,S.Barioth Sharpclaw,6
-1749,J.Barroth Thoracic,6
+1748,Sand Barioth Sharpclaw,6
+1749,Jade Barroth Thoracic,6
 1750,Qurupeco Shard,8
 1751,Lustrous Feather,8
-1752,C.Qurupeco Fellwing,8
+1752,Crimson Qurupeco Fellwing,8
 1753,Gobul Piel,8
 1754,Gobul Surspike,8
 1755,Vespoid Razorwing,8
@@ -1763,11 +1763,11 @@
 1761,Heavy Amber Tusk,8
 1762,Barroth Cortex,8
 1763,Barroth Crown,8
-1764,S.Barioth Hardclaw,8
+1764,Sand Barioth Hardclaw,8
 1765,Volvidon Cortex,8
 1766,Agnaktor Cortex,8
 1767,Fine Agnaktor Fin,8
-1768,J.Barroth Cortex,8
+1768,Jade Barroth Cortex,8
 1769,Duramboros Cortex,8
 1770,Duramboros Hardhorn,8
 1771,Durambolite,9
@@ -1779,11 +1779,11 @@
 1777,Lagiacrus Shard,8
 1778,Deathly Shocker,8
 1779,Lagiacrus Mantle,9
-1780,I.Lagi D-Shocker,8
-1781,I.Lagi Hardhorn,8
+1780,Ivory Lagiacrus D-Shocker,8
+1781,Ivory Lagiacrus Hardhorn,8
 1782,Lavasioth Shard,8
 1783,Fine Lavasioth Fin,8
-1784,S.Uragaan Scute+,8
+1784,Steel Uragaan Scute+,8
 1785,Ceadeus Scale,8
 1786,Ceadeus Strongfur,8
 1787,Deep Dragongem,9
@@ -1799,9 +1799,9 @@
 1797,Miralis Scale,8
 1798,Miralis Smelter,8
 1799,Dire Dragongem,9
-1800,A.Lagi D-Shocker,8
-1801,A.Lagi Dynamo,9
-1802,L.Nargacuga Razor,8
+1800,Abyssal Lagiacrus D-Shocker,8
+1801,Abyssal Lagiacrus Dynamo,9
+1802,Lucent Nargacuga Razor,8
 1803,Cloudy Moonshard,9
 1804,Lao-Shan Cortex,8
 1805,Lao-Shan Shard,8
@@ -1812,15 +1812,15 @@
 1810,Alatreon Mantle,9
 1811,Alatreon Riptalon,8
 1812,Azure Dragonsphire,9
-1813,Wystone Lv2: Brace,6
-1814,Wystone Lv2: Element,6
-1815,Wystone Lv2: Force,6
-1816,Wystone Lv2: Drive,6
+1813,Wystone Level 2: Brace,6
+1814,Wystone Level 2: Element,6
+1815,Wystone Level 2: Force,6
+1816,Wystone Level 2: Drive,6
 1817,Fardrake's Eye,5
-1818,CritElementJwl 1,4
-1819,CritElementJwl 2,5
-1820,Crit Status Jwl 1,4
-1821,Crit Status Jwl 2,5
+1818,Critical Element Jewel 1,4
+1819,Critical Element Jewel 2,5
+1820,Critical Status Jewel 1,4
+1821,Critical Status Jewel 2,5
 1822,Precise Jewel 1,4
 1823,Precise Jewel 2,5
 1824,Fungiform Jewel 1,4
@@ -1832,46 +1832,46 @@
 1830,Sane Jewel 3,6
 1831,Artisan Jewel 3,6
 1832,Defense Jewel 3,6
-1833,TrueCatalystJwl 3,7
-1834,Cutting Jwl 1,4
-1835,Cutting Jwl 2,5
-1836,Cutting Jwl 3,6
-1837,TrueCuttingJwl 3,7
-1838,Arcane Jwl 1,4
-1839,Arcane Jwl 2,5
-1840,Arcane Jwl 3,6
-1841,True Arcane Jwl 3,7
-1842,Brawn Jwl 1,4
-1843,Brawn Jwl 2,5
-1844,Brawn Jwl 3,6
-1845,True Brawn Jwl 3,7
-1846,Supplicant Jwl 1,4
-1847,Supplicant Jwl 2,5
-1848,Supplicant Jwl 3,6
-1849,Furtive Jwl 1,4
-1850,Furtive Jwl 2,5
-1851,Furtive Jwl 3,6
-1852,TrueFurtiveJwl 3,7
-1853,True Honed Jwl 2,6
-1854,UltimateHonedJwl3,8
-1855,True Calm Jwl 2,6
-1856,UltimateCalmJwl 3,8
-1857,True Hale Jwl 2,6
-1858,UltimateHaleJwl 3,8
-1859,True Ire Jwl 2,6
-1860,UltimateIreJwl 3,8
-1861,Withdrawn Jwl 2,5
-1862,TrueWithdrawnJwl3,7
-1863,Impactful Jwl 2,5
-1864,TrueImpactfulJwl3,7
-1865,TrueIntenseJwl 2,6
-1866,TrueIntenseJwl 3,7
-1867,True Aegis Jwl 2,6
-1868,True Aegis Jwl 3,7
-1869,TrueTactfulJwl 2,6
-1870,TrueTactfulJwl 3,7
-1871,True Broad Jwl 2,6
-1872,True Broad Jwl 3,7
+1833,True Catalyst Jewel 3,7
+1834,Cutting Jewel 1,4
+1835,Cutting Jewel 2,5
+1836,Cutting Jewel 3,6
+1837,True Cutting Jewel 3,7
+1838,Arcane Jewel 1,4
+1839,Arcane Jewel 2,5
+1840,Arcane Jewel 3,6
+1841,True Arcane Jewel 3,7
+1842,Brawn Jewel 1,4
+1843,Brawn Jewel 2,5
+1844,Brawn Jewel 3,6
+1845,True Brawn Jewel 3,7
+1846,Supplicant Jewel 1,4
+1847,Supplicant Jewel 2,5
+1848,Supplicant Jewel 3,6
+1849,Furtive Jewel 1,4
+1850,Furtive Jewel 2,5
+1851,Furtive Jewel 3,6
+1852,True Furtive Jewel 3,7
+1853,True Honed Jewel 2,6
+1854,Ultimate Honed Jewel 3,8
+1855,True Calm Jewel 2,6
+1856,Ultimate Calm Jewel 3,8
+1857,True Hale Jewel 2,6
+1858,Ultimate Hale Jewel 3,8
+1859,True Ire Jewel 2,6
+1860,Ultimate Ire Jewel 3,8
+1861,Withdrawn Jewel 2,5
+1862,True Withdrawn Jewel 3,7
+1863,Impactful Jewel 2,5
+1864,True Impactful Jewel 3,7
+1865,True Intense Jewel 2,6
+1866,True Intense Jewel 3,7
+1867,True Aegis Jewel 2,6
+1868,True Aegis Jewel 3,7
+1869,True Tactful Jewel 2,6
+1870,True Tactful Jewel 3,7
+1871,True Broad Jewel 2,6
+1872,True Broad Jewel 3,7
 1873,dummy012,0
 1874,Laden Jewel 3,8
 1875,Daimyo Coin,6

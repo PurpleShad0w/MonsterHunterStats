@@ -1,6 +1,6 @@
 For World :
 
- - Fill in dictionaries (equipment, armor, weapons, etc.)
+ - Fill in dictionaries (equipment, layered, palico)
  - Understand the tools
  - Understand and gather the pendants
  - Find out how to check whether a Palico Gadget is unlocked or not
@@ -13,7 +13,7 @@ For World :
 
 For Stories 2 :
 
-- Fill in dictionaries (equipment, armor, weapons, etc.)
+- Fill in dictionaries (armor, weapons, talismans)
 
 For 3 Ultimate :
 
@@ -21,6 +21,7 @@ For 3 Ultimate :
 
 For 4 Ultimate :
 
+- Fill in dictionaries (equipment, palico)
 - Fix the template's equipment size issue
 - Find pouch ?
 
