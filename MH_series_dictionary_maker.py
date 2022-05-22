@@ -28,6 +28,7 @@ df_general = pd.DataFrame(data={'Name':0,'In MH3U':0,'In MH4U':0,'In MHWI':0,'In
 # Select certain items
 df_world_items = df_world_items[(df_world_items['Category'] != '(None)') & (df_world_items['Category'] != 'Furniture') & 
     (df_world_items['Category'] != 'Currencies') & (df_world_items['Category'] != 'Soundtrack')]
+df_4u_items = df_4u_items[df_4u_items['Rarity'] != 0]
 
 # Input world items
 for i in range(len(df_world_items)):
