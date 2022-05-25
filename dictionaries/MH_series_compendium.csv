@@ -617,6 +617,11 @@ Burst Bait,False,True,False,False
 Bushi Ticket,False,False,True,False
 Buster Sword I,False,False,True,False
 Butterfly Beetle,False,True,False,False
+Butterfly Layered Arms,False,False,True,False
+Butterfly Layered Chest,False,False,True,False
+Butterfly Layered Head,False,False,True,False
+Butterfly Layered Legs,False,False,True,False
+Butterfly Layered Torso,False,False,True,False
 Buying Charm,False,False,False,True
 Cactuar,False,False,True,False
 Cactuar Cutting,False,False,True,False
@@ -1166,6 +1171,8 @@ Earplug/Medicine Jewel 4,False,False,True,False
 Earplug/Physique Jewel 4,False,False,True,False
 Earplug/Protection Jewel 4,False,False,True,False
 Earplug/Vitality Jewel 4,False,False,True,False
+Earplugs Charm I,False,False,True,False
+Earplugs Charm II,False,False,True,False
 Earth Crystal,True,True,True,True
 Earth Dragongem,False,True,False,False
 Earth Dragonsphire,False,True,False,False
@@ -1298,6 +1305,7 @@ Faux Ticket,False,False,True,False
 Faux Ticket II,False,False,True,False
 Faux Ticket III,False,False,True,False
 Felcote Ticket,False,True,False,False
+Fellshroud Braces β+,False,False,True,False
 Felvine,True,True,False,False
 Felvine Bomb,True,True,False,False
 Felvine Bud,False,False,False,True
@@ -3189,6 +3197,7 @@ Rocksteady Mantle,False,False,True,False
 Rocky Moly,False,False,True,False
 Rodeo Jewel 1,False,True,False,False
 Rolled-up Dung,False,False,True,False
+Rose Belt α+,False,False,True,False
 Rose Boots α+,False,False,True,False
 Rose Headpiece α+,False,False,True,False
 Rose Jacket α+,False,False,True,False
@@ -4141,6 +4150,7 @@ White Monoblos Shell,False,False,False,True
 White Monoblos Thorax,False,False,False,True
 Wicked Fossil,False,False,True,False
 Wiggler,False,False,True,False
+Wiggler Head Layered Head,False,False,True,False
 Wiggler Pot,False,False,True,False
 Wiggler Queen,False,False,True,False
 Wiggler Ticket,False,False,True,False

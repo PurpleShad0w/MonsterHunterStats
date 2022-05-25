@@ -44,8 +44,10 @@ Serial,ID,Type,Name,Rarity,Category,Subcategory
 0,357,3,Lumu Phantasm Coil β+,9,Armor,Waist Armor
 0,379,1,Ingot Mail β+,10,Armor,Chest Armor
 0,381,2,Barioth Vambraces β+,10,Armor,Arms Armor
+0,437,2,Fellshroud Braces β+,12,Armor,Arms Armor
 0,496,0,Rose Headpiece α+,10,Armor,Head Armor
 0,496,1,Rose Jacket α+,10,Armor,Chest Armor
+0,496,3,Rose Belt α+,10,Armor,Waist Armor
 0,496,4,Rose Boots α+,10,Armor,Leg Armor
 0,520,0,Guardian Helm α+,6,Armor,Head Armor
 0,520,1,Guardian Suit α+,6,Armor,Chest Armor
@@ -82,6 +84,8 @@ Serial,ID,Type,Name,Rarity,Category,Subcategory
 1,197,4,Makhlab al-Nasr I,9,Weapons,Hammers
 1,198,4,Makhlab al-Nasr II,10,Weapons,Hammers
 2,6,5,Defense Charm I,3,Charms,Charms
+2,30,5,Earplugs Charm I,6,Charms,Charms
+2,258,5,Earplugs Charm II,6,Charms,Charms
 2,87,5,Master's Charm I,4,Charms,Charms
 4,0,255,Culldrone I,1,Kinsects,Kinsects
 4,30,255,Mauldrone I,1,Kinsects,Kinsects

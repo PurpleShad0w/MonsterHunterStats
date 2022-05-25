@@ -1,7 +1,13 @@
 Flag,Name,Rarity,Subcategory
+u8 layered_butterfly : 1,Butterfly Layered Head,7,Layered Head Armor
+u8 layered_butterfly : 1,Butterfly Layered Chest,7,Layered Chest Armor
+u8 layered_butterfly : 1,Butterfly Layered Arms,7,Layered Arms Armor
+u8 layered_butterfly : 1,Butterfly Layered Torso,7,Layered Waist Armor
+u8 layered_butterfly : 1,Butterfly Layered Legs,7,Layered Legs Armor
 u8 layered_direwolf_plus : 1,Direwolf Layered Headgear+,9,Layered Head Armor
 u8 layered_direwolf_plus : 1,Direwolf Layered Mail+,9,Layered Chest Armor
 u8 layered_direwolf_plus : 1,Direwolf Layered Braces+,9,Layered Arms Armor
 u8 layered_direwolf_plus : 1,Direwolf Layered Coil+,9,Layered Waist Armor
 u8 layered_direwolf_plus : 1,Direwolf Layered Greaves+,9,Layered Legs Armor
 u8 layered_mosswine_mask : 1,Mosswine Mask Layered Head,4,Layered Head Armor
+u8 layered_wiggler_head : 1,Wiggler Head Layered Head,4,Layered Head Armor
