@@ -3,17 +3,21 @@
 - [X] Gather items and equipment
 - [ ] Find item pouch and gather its items
 - [ ] Gather detailled equipment information such as upgrade levels, skills, etc. 
-- [ ] Find and implement a complete dictionary of all items
-- [ ] Find and implement a complete dictionary of all equipment
+- [ ] Find a complete dictionary of all items
+- [ ] Find a complete dictionary of all equipment
 
 ## Monster Hunter 4 Ultimate
 
 - [X] Gather items, equipment and palico equipment
 - [ ] Find item pouch and gather its items
 - [ ] Gather detailled equipment information such as upgrade levels, skills, etc. 
-- [X] Find and implement a complete dictionary of all items
-- [ ] Find and implement a complete dictionary of all equipment and palico equipment
+- [X] Find a complete dictionary of all items
+- [ ] Find a complete dictionary of all equipment and palico equipment
 
 ## Monster Hunter Generations Ultimate
 
-- [ ] Gather items, equipment and palico equipment
+- [X] Gather items
+- [ ] Gather equipment and palico equipment
+- [ ] Find item pouch and gather its items
+- [X] Find a complete dictionary of all items
+- [X] Find a complete dictionary of all equipment and palico equipment
