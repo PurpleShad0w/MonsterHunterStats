@@ -31,6 +31,12 @@ palicos['name'] = [None] * 600
 palicos['count'] = [1] * 600
 palicos['category'] = ['Palico Equipment'] * 600
 
+dict_equips = [[0],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]]
+
+for i in range(20):
+    with open('dicts/mh4u/equipment/'+str(i+1)+'.txt') as f:
+        dict_equips[i+1] = [line.rstrip() for line in f]
+
 filename = askopenfilename()
 
 args = Namespace(mode='d', inputfile=filename, outputfile='saves/mh4u_user.bin')
@@ -56,6 +62,8 @@ with open('saves/mh4u_user.bin', mode='rb') as file:
         offset = offsets[3] + i * 28
         file.seek(offset)
         equips.iloc[i,1] = struct.unpack('H', file.read(2))[0]
+
+        equips.iloc[i,2] = dict_equips[equips.iloc[i,0]][equips.iloc[i,1]]
     
     for i in range(600):
         offset = offsets[4] + i * 4

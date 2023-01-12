@@ -12,7 +12,8 @@
 - [ ] Find item pouch and gather its items
 - [ ] Gather detailled equipment information such as upgrade levels, skills, etc. 
 - [X] Find a complete dictionary of all items
-- [ ] Find a complete dictionary of all equipment and palico equipment
+- [X] Find a complete dictionary of all equipment 
+- [ ] Find a complete dictionary of all palico equipment
 
 ## Monster Hunter Generations Ultimate
 

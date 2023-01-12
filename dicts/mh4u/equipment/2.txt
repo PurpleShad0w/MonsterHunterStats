@@ -1,0 +1,972 @@
+(None)
+Derring Jacket
+Derring Mail S
+Derring Vest S
+Leather Vest
+Leather Mail S
+Leather Vest S
+Chainmail Vest
+Chainmail Armor S
+Chainmail Vest S
+Hunter's Mail
+Hunter's Vest
+Hunter's Mail S
+Hunter's Vest S
+Hunter's Mail
+Hunter's Vest
+Bone Mail
+Bone Vest
+Bone Mail S
+Bone Vest S
+Alloy Mail
+Alloy Vest
+Alloy Mail S
+Alloy Vest S
+Alloy Mail
+Alloy Vest
+Jaggi Mail
+Jaggi Vest
+Jaggi Mail S
+Jaggi Vest S
+Loc Lac Shawl
+Ludroth Mail
+Ludroth Vest
+Ludroth Mail
+Ludroth Vest
+Rhenoplos Mail
+Rhenoplos Vest
+Rhenoplos Mail S
+Rhenoplos Vest S
+Bnahabra Suit
+Bnahabra Vest
+Bnahabra Suit S
+Bnahabra Vest S
+Barroth Mail
+Barroth Vest
+Rathian Mail
+Rathian Vest
+Rathian Mail S
+Rathian Vest S
+Rath Heart Mail
+Rath Heart Vest
+Golden Lunemail
+Golden Lunevest
+Rathian Mail
+Rathian Vest
+Rath Heart Mail
+Rath Heart Vest
+EX Rathian Mail
+EX Rathian Vest
+Rathalos Mail
+Rathalos Vest
+Rathalos Mail S
+Rathalos Vest S
+Rath Soul Mail
+Rath Soul Vest
+Silver Solmail
+Silver Solvest
+Rathalos Mail
+Rathalos Vest
+Rath Soul Mail
+Rath Soul Vest
+Silver Solmail
+Silver Solvest
+EX Rathalos Mail
+EX Rathalos Vest
+Diablos Mail
+Diablos Vest
+Uragaan Mail
+Uragaan Vest
+Vangis Mail
+Vangis Vest
+Esurient Mail
+Esurient Vest
+Esurient Mail
+Esurient Vest
+Gloaming Plate
+Adamance Plate
+Dayspring Plate
+Epoch Plate
+Gloaming Archplate
+Adamance Archplate
+Dayspring Archplate
+Epoch Archplate
+Gloaming Plate
+Adamance Plate
+Dayspring Plate
+Epoch Plate
+Plesioth Mail
+Plesioth Vest
+Nibelsnarf Mail
+Nibelsnarf Vest
+Duramboros Mail
+Duramboros Vest
+Arzuros Mail
+Arzuros Vest
+Lagombi Mail
+Lagombi Vest
+Lagombi Mail S
+Lagombi Vest S
+Slagtoth Cloak
+Slagtoth Wrap
+Slagtoth Cloak S
+Slagtoth Wrap S
+Nargacuga Mail
+Nargacuga Vest
+Tigrex Mail
+Tigrex Vest
+Tigrex Mail S
+Tigrex Vest S
+Tigrex Mail U
+Tigrex Vest U
+Excello Mail
+Excello Vest
+EX Tigrex Mail
+EX Tigrex Vest
+Tigrex Mail
+Tigrex Vest
+Tigrex Mail U
+Tigrex Vest U
+Brachydios Mail
+Brachydios Vest
+Brachydios Mail S
+Brachydios Vest S
+Akantor Aegis
+Akantor Plate
+Akantor Aegis
+Akantor Plate
+Zinogre Mail
+Zinogre Vest
+Zinogre Mail S
+Zinogre Vest S
+Zinogre Mail U
+Zinogre Vest U
+Zinogre Mail U
+Zinogre Vest U
+EX Kaiser Mail
+EX Kaiser Vest
+Kecha Mail
+Kecha Vest
+Kecha Mail S
+Kecha Vest S
+Gore Mail
+Gore Vest
+Gore Mail S
+Gore Vest S
+Gore Mail
+Gore Vest
+Tetsucabra Mail
+Tetsucabra Vest
+Tetsucabra Mail S
+Tetsucabra Vest S
+Nerscylla Mail
+Nerscylla Vest
+Nerscylla Mail S
+Nerscylla Vest S
+Najarala Mail
+Najarala Vest
+Najarala Mail S
+Najarala Vest S
+Garuga Mail
+Garuga Vest
+Garuga Mail S
+Garuga Vest S
+Basarios Mail
+Basarios Vest
+Basarios Mail S
+Basarios Vest S
+Basarios Mail U
+Basarios Vest U
+Battle Mail
+Battle Vest
+Velociprey Mail
+Velociprey Vest
+Velociprey Mail S
+Velociprey Vest S
+Genprey Mail
+Genprey Vest
+Genprey Mail S
+Genprey Vest S
+Ioprey Mail
+Ioprey Vest
+Ioprey Mail S
+Ioprey Vest S
+Kut-Ku Mail
+Kut-Ku Vest
+Kut-Ku Mail S
+Kut-Ku Vest S
+Kut-Ku Mail U
+Kut-Ku Vest U
+Gypceros Mail
+Gypceros Vest
+Gypceros Mail S
+Gypceros Vest S
+Gypceros Mail U
+Gypceros Vest U
+Gypceros Mail
+Gypceros Vest
+Gypceros Mail U
+Gypceros Vest U
+Conga Mail
+Conga Vest
+Conga Mail S
+Conga Vest S
+Conga Mail U
+Conga Vest U
+Gravios Mail
+Gravios Vest
+Gravios Mail S
+Gravios Vest S
+Gravios Mail U
+Gravios Vest U
+Khezu Mail
+Khezu Vest
+Khezu Mail S
+Khezu Vest S
+Khezu Mail U
+Khezu Vest U
+Khezu Mail
+Khezu Vest
+Khezu Mail U
+Khezu Vest U
+Kirin Jacket
+Kirin Cape
+Kirin Jacket S
+Kirin Cape S
+Kirin Jacket U
+Kirin Cape U
+Kirin Jacket
+Kirin Cape
+Kirin Jacket U
+Kirin Cape U
+Kushala Cista
+Kushala Vise
+EX Kushala Cista
+EX Kushala Vise
+Kushala Cista
+Kushala Vise
+Empress Mail
+Empress Vest
+Ceanataur Mail
+Ceanataur Vest
+Ceanataur Mail
+Ceanataur Vest
+Auroros Torso
+Borealis Chest
+Genesis Torso
+Glyph Chest
+Auroros Torso
+Borealis Chest
+Genesis Torso
+Glyph Chest
+Lava Mail
+Lava Vest
+Remobra Suit
+Remobra Wear
+Remobra Suit S
+Remobra Wear S
+Zamtrios Mail
+Zamtrios Vest
+Zamtrios Mail S
+Zamtrios Vest S
+Seltas Mail
+Seltas Vest
+Seltas Mail S
+Seltas Vest S
+Arc Mail
+Arc Vest
+Arc Mail S
+Arc Vest S
+Arc Mail
+Arc Vest
+Kaiser Mail
+Kaiser Vest
+Golden Haori
+Puppeteer Suit
+Divine Ire Haori
+Crusher Garb
+Rebellion Mail
+Riot Vest
+Rebellion Mail
+Riot Vest
+Dragonhide X
+Dragonskin X
+Dragonhide
+Dragonskin
+Fatalis Crimsonhide
+Fatalis Crimsonskin
+Ioprey Body
+Ioprey Wear
+Cephalos Mail
+Cephalos Vest
+Mizuha Guards
+Cham Camise
+Hermitaur Mail
+Hermitaur Vest
+Hermitaur Mail
+Hermitaur Vest
+Vespoid Mail
+Vespoid Vest
+Qurupeco Mail
+Qurupeco Vest
+Agnaktor Mail
+Agnaktor Vest
+Barioth Mail
+Barioth Vest
+Volvidon Mail
+Volvidon Vest
+Lagiacrus Mail
+Lagiacrus Vest
+Lagiacrus Mail
+Lagiacrus Vest
+Helios Mail
+Helios Vest
+Selene Mail
+Selene Vest
+Gobul Mail
+Gobul Vest
+Yamato Doate
+Hyuga Muneate
+Mutsu Doate
+Amagi Muneate
+Escadora Soul
+Escadora Seele
+Escadora Soul
+Escadora Seele
+Blango Mail
+Blango Vest
+Lobster Mail
+Lobster Vest
+Ukanlos Aegis
+Ukanlos Plate
+Indra Vest
+Steadfast Vest
+Yaksha Raiment
+Carnage Raiment
+Artian Mail
+Artian Vest
+Artian Mail S
+Artian Vest S
+Artian Mail S
+Artian Vest S
+Dober Mail
+Dober Vest
+Ingot Mail
+Ingot Vest
+Ingot Mail
+Ingot Vest
+Aelucanth Thorax
+Rhopessa Thorax
+Aelucanth Pleuron
+Rhopessa Pleuron
+Obituary Thorax
+Butterfly Thorax
+Obituary Pleuron
+Butterfly Pleuron
+Mosgharl Ribplate
+Mosgharl Ribguard
+Guild Bard Bolero
+Scholar's Blouse
+Guild Bard Vest
+Scholar's Vest
+Black Belt Mail
+Black Belt Vest
+Guardian Suit
+Helper Suit
+Guardian Vest
+Helper Vest
+Shinobi Sky Suit
+Shinobi Land Suit
+Guild Knight Suit
+Maiden's Suit
+Guild Knight Vest
+Maiden's Vest
+Yukumo Sky Dogi
+Yukumo Land Dogi
+High Metal Mail
+High Metal Vest
+Ranger's Girdle
+Archer's Girdle
+Chakra Necklace
+Sailor Suit
+Sailor Vest
+Hawksuit
+Lecturer's Suit
+Hawkjacket
+Lecturer's Jacket
+Blue Star Suit
+Blue Star Jacket
+Mail of Anat
+Vest of Anat
+Fan Club Jacket
+Fan Club Tracksuit
+Uniqlo Bomber
+Uniqlo Hoodie
+Star Rook Mail
+Star Rook Vest
+dummy706
+dummy718
+dummy707
+dummy719
+Hunter's Camo Suit
+Hunter's Camo Jacket
+dummy709
+dummy721
+DUMMY
+DUMMY
+Rider Jacket
+Rider Leather
+dummy712
+dummy724
+DUMMY
+DUMMY
+Hero's Clothes
+Hero's Tunic
+dummy729
+dummy730
+dummy731
+dummy732
+EX Rebellion Mail
+EX Riot Vest
+EX Artian Mail
+EX Artian Vest
+EX Gore Mail
+EX Gore Vest
+EX Ingot Mail
+EX Ingot Vest
+EX Kirin Jacket U
+EX Kirin Cape U
+Storge Mail
+Storge Vest
+Storge Mail S
+Storge Vest S
+Storge Mail
+Storge Vest
+Hunter's Mail
+Hunter's Vest
+Alloy Mail
+Alloy Vest
+Ludroth Mail
+Ludroth Vest
+Rathian Mail
+Rathian Vest
+Rath Heart Mail
+Rath Heart Vest
+Rathalos Mail
+Rathalos Vest
+Rath Soul Mail
+Rath Soul Vest
+Silver Solmail
+Silver Solvest
+Esurient Mail
+Esurient Vest
+Gloaming Plate
+Adamance Plate
+Dayspring Plate
+Epoch Plate
+Tigrex Mail
+Tigrex Vest
+Tigrex Mail U
+Tigrex Vest U
+Akantor Aegis
+Akantor Plate
+Zinogre Mail U
+Zinogre Vest U
+Gore Mail
+Gore Vest
+Gypceros Mail
+Gypceros Vest
+Gypceros Mail U
+Gypceros Vest U
+Khezu Mail
+Khezu Vest
+Khezu Mail U
+Khezu Vest U
+Kirin Jacket
+Kirin Cape
+Kirin Jacket U
+Kirin Cape U
+Kushala Cista
+Kushala Vise
+Ceanataur Mail
+Ceanataur Vest
+Auroros Torso
+Borealis Chest
+Genesis Torso
+Glyph Chest
+Arc Mail
+Arc Vest
+Rebellion Mail
+Riot Vest
+Dragonhide X
+Dragonskin X
+Hermitaur Mail
+Hermitaur Vest
+Lagiacrus Mail
+Lagiacrus Vest
+Escadora Soul
+Escadora Seele
+Artian Mail S
+Artian Vest S
+Ingot Mail
+Ingot Vest
+Storge Mail
+Storge Vest
+Velociprey Mail X
+Velociprey Vest X
+Ioprey Mail X
+Ioprey Vest X
+Kecha Mail X
+Kecha Vest X
+Kecha Mail Z
+Kecha Vest Z
+Tetsucabra Mail X
+Tetsucabra Vest X
+Tetsucabra Mail Z
+Tetsucabra Vest Z
+Nerscylla Mail X
+Nerscylla Vest X
+Nerscylla Mail Z
+Nerscylla Vest Z
+Zamtrios Mail X
+Zamtrios Vest X
+Zamtrios Mail Z
+Zamtrios Vest Z
+Najarala Mail X
+Najarala Vest X
+Najarala Mail Z
+Najarala Vest Z
+Seltas Mail X
+Seltas Vest X
+Seltas Mail Z
+Seltas Vest Z
+Gore Mail X
+Gore Vest X
+Gore Armor
+Gore Pizane
+Arc Mail X
+Storge Mail X
+Arc Vest X
+Storge Vest X
+Arc Armor
+Storge Armor
+Arc Pizane
+Storge Pizane
+Gogma Mail
+Gogma Vest
+Gypceros Mail X
+Gypceros Vest X
+Gypceros Armor
+Gypceros Pizane
+Gypceros Mail Z
+Gypceros Vest Z
+Gypceros Armor U
+Gypceros Pizane U
+Lagombi Mail X
+Lagombi Vest X
+Conga Mail X
+Conga Vest X
+Conga Mail Z
+Conga Vest Z
+Khezu Mail X
+Khezu Vest X
+Khezu Armor
+Khezu Pizane
+Khezu Mail Z
+Khezu Vest Z
+Khezu Armor U
+Khezu Pizane U
+Rathian Mail X
+Rathian Vest X
+Rathian Armor
+Rathian Pizane
+Rath Heart Mail Z
+Rath Heart Vest Z
+Rath Heart Armor
+Rath Heart Pizane
+Golden Lunemail Z
+Golden Lunevest Z
+Rathalos Mail X
+Rathalos Vest X
+Rathalos Armor
+Rathalos Pizane
+Rath Soul Mail Z
+Rath Soul Vest Z
+Rath Soul Armor
+Rath Soul Pizane
+Silver Solmail Z
+Silver Solvest Z
+Silver Solarmor
+Silver Solpizane
+Zinogre Mail X
+Zinogre Vest X
+Zinogre Mail Z
+Zinogre Vest Z
+Zinogre Armor U
+Zinogre Pizane U
+Tigrex Mail X
+Tigrex Vest X
+Tigrex Armor
+Tigrex Pizane
+Tigrex Mail Z
+Tigrex Vest Z
+Tigrex Armor U
+Tigrex Pizane U
+Excello Mail Z
+Excello Vest Z
+Gravios Mail X
+Gravios Vest X
+Gravios Mail Z
+Gravios Vest Z
+Brachydios Mail X
+Brachydios Vest X
+Brachydium Mail
+Brachydium Vest
+Grand Gloaming Plate
+Grand Adamance Plate
+Grand Dayspring Plate
+Grand Epoch Plate
+Gloaming Redplate
+Adamance Redplate
+Dayspring Redplate
+Epoch Redplate
+Vangis Mail X
+Vangis Vest X
+Esurient Mail Z
+Esurient Vest Z
+Esurient Armor
+Esurient Pizane
+Kaiser Mail X
+Kaiser Vest X
+Akantor Aegis X
+Akantor Plate X
+Akantor Armor
+Akantor Pizane
+EX Escadora Soul
+EX Escadora Seele
+Ukanlos Aegis X
+Ukanlos Plate X
+Kushala Cista X
+Kushala Vise X
+Kushala Armor
+Kushala Pizane
+Kujula Cista
+Kujula Vise
+Grand God's Peer Robe
+Grand Hermit Robe
+Grand Divine Ire Robe
+Grand Crusher Robe
+Rebellion Mail X
+Riot Vest X
+Rebellion Armor
+Riot Pizane
+Rebellion Mail Z
+Riot Vest Z
+Cephalos Mail X
+Cephalos Vest X
+Hermitaur Mail X
+Hermitaur Vest X
+Hermitaur Armor
+Hermitaur Pizane
+Hermitaur Mail Z
+Hermitaur Vest Z
+Mono Mail S
+Mono Vest S
+Mono Mail X
+Mono Vest X
+Mono Mail
+Mono Vest
+Mono Armor
+Mono Pizane
+Monodevil Mail
+Monodevil Vest
+Monodevil Mail
+Monodevil Vest
+Monodevil Armor
+Monodevil Pizane
+Diablos Mail X
+Diablos Vest X
+Diablos Mail
+Diablos Vest
+Diablos Armor
+Diablos Pizane
+Diablos Mail Z
+Diablos Vest Z
+Dragonhide X
+Dragonskin X
+Dragonarmor X
+Dragonpizane X
+Fatalis Crimsonhide Z
+Fatalis Crimsonskin Z
+Fatalis Crimsonarmor Z
+Fatalis Crimsonpizane Z
+Wrothhide
+Wrothskin
+White Fatalis Hide
+White Fatalis Skin
+Grand Mizuha Guards
+Grand Cham Camise
+Regios Mail S
+Regios Vest S
+Regios Mail X
+Regios Vest X
+Chaos Mail
+Nephilim Mail
+Chaos Vest
+Nephilim Vest
+Basarios Mail X
+Basarios Vest X
+Basarios Mail Z
+Basarios Vest Z
+Kut-Ku Mail X
+Kut-Ku Vest X
+Kut-Ku Mail Z
+Kut-Ku Vest Z
+Garuga Mail X
+Garuga Vest X
+Kirin Jacket X
+Kirin Cape X
+Kirin Armor
+Kirin Pizane
+Kirin Jacket Z
+Kirin Cape Z
+Kirin Armor U
+Kirin Pizane U
+Bnahabra Suit X
+Bnahabra Vest X
+Slagtoth Cloak X
+Slagtoth Wrap X
+Rhenoplos Mail X
+Rhenoplos Vest X
+Hunter's Armor
+Hunter's Pizane
+Alloy Armor
+Alloy Pizane
+Artian Mail X
+Artian Vest X
+Arc Armor S
+Arc Pizane S
+Ingot Armor
+Ingot Pizane
+Guardian Suit X
+Helper Vest X
+Guardian Vest X
+Healer Vest X
+Guardian Suit Z
+Helper Vest Z
+Guardian Vest Z
+Healer Vest Z
+G. Knight Suit X
+Maiden's Suit X
+G. Knight Vest X
+Exclusive Vest X
+Ace Mail
+Sororal Mail
+Ace Vest
+Sororal Vest
+Ceanataur Armor
+Ceanataur Pizane
+Lagiacrus Armor
+Lagiacrus Pizane
+Escadora Armor
+Escadora Pizane
+Auroros Kermes Plate
+Borealis Woad Plate
+Genesis Kermes Plate
+Glyph Woad Plate
+Ludroth Armor
+Ludroth Pizane
+Hornet Mail
+Hornet Vest
+Hornet Armor
+Hornet Pizane
+Wroggi Mail
+Wroggi Vest
+Wroggi Armor
+Wroggi Pizane
+Gigginox Mail
+Gigginox Vest
+Gigginox Armor
+Gigginox Pizane
+Tempest Robe
+Welkin Robe
+Tempest Vesture
+Welkin Vesture
+Death Stench Muscle
+Death Stench Heart
+Death Stench Armor
+Death Stench Pizane
+Damascus Mail
+Damascus Vest
+Damascus Armor
+Damascus Pizane
+Lagiacrus Mail X
+Lagiacrus Vest X
+Nargacuga Mail X
+Nargacuga Vest X
+Empress Mail X
+Empress Vest X
+Helios Mail X
+Selene Mail X
+Helios Vest X
+Selene Vest X
+Agnaktor Mail X
+Agnaktor Vest X
+Qurupeco Mail X
+Qurupeco Vest X
+Gobul Mail X
+Gobul Vest X
+Barioth Mail X
+Barioth Vest X
+Barroth Mail X
+Barroth Vest X
+Nibelsnarf Mail X
+Nibelsnarf Vest X
+Duramboros Mail X
+Duramboros Vest X
+Lava Mail X
+Lava Vest X
+Grand Yamato Doate
+Grand Hyuga Muneate
+Grand Mutsu Doate
+Grand Amagi Muneate
+Grand Yaksha Raiment
+Grand Carnage Raiment
+Miralis Breastplate
+Miralis Chestguard
+Plesioth Mail Z
+Plesioth Vest Z
+Kita Star Jacket
+Umi Ocean Jacket
+Patissier's Suit
+Patissier's Vest
+High Metal Mail S
+High Metal Vest S
+Aelucanth Thorax X
+Rhopessa Thorax X
+Aelucanth Pleuron X
+Rhopessa Pleuron X
+Obituary Thorax X
+Butterfly Thorax X
+Obituary Pleuron X
+Butterfly Pleuron X
+EX Auroros Torso
+EX Borealis Chest
+EX Genesis Torso
+EX Glyph Chest
+Tempest Robe
+Welkin Robe
+GX Escadora Armor
+GX Escadora Pizane
+GX Dragonarmor X
+GX Dragonpizane X
+Star Knight Mail
+Star Knight Vest
+Mail of Rage
+Vest of Rage
+Varia Suit Armor
+Zero Suit Body
+Varia Suit Barrier
+Zero Suit Wear
+Varia Suit Armor
+Zero Suit Body
+Varia Suit Barrier
+Zero Suit Wear
+Fan Club Goldsuit
+Fan Club Silversuit
+Hawksuit X
+Lecturer's Suit X
+Hawkjacket X
+Lecturer's Jacket X
+GX Hunter's Armor
+GX Hunter's Pizane
+GX Esurient Armor
+GX Esurient Pizane
+GX Tempest Vesture
+GX Welkin Vesture
+GX Fatalis Crimsonarmor
+GX Fatalis Crimsonpizane
+Hunter's Mail
+Hunter's Vest
+Hunter's Mail
+Hunter's Vest
+Ludroth Mail
+Ludroth Vest
+Ludroth Mail
+Ludroth Vest
+Alloy Mail
+Alloy Vest
+Alloy Mail
+Alloy Vest
+Gypceros Mail
+Gypceros Vest
+Gypceros Mail
+Gypceros Vest
+Khezu Mail
+Khezu Vest
+Khezu Mail
+Khezu Vest
+Ingot Mail
+Ingot Vest
+Ingot Mail
+Ingot Vest
+Rathian Mail
+Rathian Vest
+Lagiacrus Mail
+Lagiacrus Vest
+Rathalos Mail
+Rathalos Vest
+Gypceros Mail U
+Gypceros Vest U
+Khezu Mail U
+Khezu Vest U
+Tigrex Mail
+Tigrex Vest
+Kirin Jacket
+Kirin Cape
+Kirin Jacket
+Kirin Cape
+Artian Mail S
+Artian Vest S
+Ceanataur Mail
+Ceanataur Vest
+Ceanataur Mail
+Ceanataur Vest
+Gloaming Plate
+Dayspring Plate
+Adamance Plate
+Epoch Plate
+Zinogre Mail U
+Zinogre Vest U
+Tigrex Mail U
+Tigrex Vest U
+Gore Mail
+Gore Vest
+Auroros Torso
+Genesis Torso
+Borealis Chest
+Glyph Chest
+Kirin Jacket U
+Kirin Cape U
+Kirin Jacket U
+Kirin Cape U
+Esurient Mail
+Esurient Vest
+Monoblos Mail
+Monoblos Vest
+Hornet Mail
+Hornet Vest
+Wroggi Mail
+Wroggi Vest
+Monodevil Mail
+Monodevil Vest
+Diablos Mail
+Diablos Vest
+Gigginox Mail
+Gigginox Vest
+Death Stench Muscle
+Death Stench Heart
+Damascus Mail
+Damascus Vest
+DUMMY
+DUMMY

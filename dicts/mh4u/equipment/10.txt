@@ -1,0 +1,216 @@
+(None)
+Iron Lance
+Iron Lance+
+Knight Lance
+Knight Lance+
+Rampart
+Rampart+
+Babel Spear
+Elder Babel Spear
+Drill Lance
+Megadrill Lance
+Eiferschild
+Fieberschild
+Zornesschild
+L'Égide
+Venom Lance
+Basarios Venom Spear
+Gravios Spear
+Black Gravios Spear
+Diablos Lance
+Diablos Spear
+Fragrance
+Fragrance+
+Dark Spear
+Darkness
+Bone Lance
+Bone Lance+
+Spiked Spear
+Spiked Spear+
+Spiked Javelin
+Tiger Stinger
+Tigrex Lance
+Accursed Stinger
+Predator Gravelance
+Dios Stinger
+Dios Stinger+
+Demolition Lance
+Red Tail
+Spear of Prominence
+Silver Prominence
+Blue Prominence
+Twistcrawl
+Twistcrawl+
+Twisting Crawler
+Paratwist Crawler
+Expelger
+Expelgorer
+Expelgorer+
+Expelgouger
+Rexpelgouger
+Gobulu Muruka
+Gobuluku Muraaka
+Usurper's Coming
+Despot's Cacophony
+Demon Lance
+Great Demon Lance
+Brimstren Draketail
+Carnivicious
+Carnivicious+
+Omnivicious
+Omnivoracious
+Incessant Raven
+Incessant Wolf
+Incessant Crow
+Blue Crater
+Doom Crown
+Sharq Byte
+Sharq Attaq
+Aqua Spear
+Stream Spear
+Emerald Spear
+Watery Trishula
+Rusted Lance
+Tarnished Lance
+Undertaker
+High Undertaker
+Icesteel Spear
+Daora's Fang
+Worn Spear
+Weathered Spear
+Skyscraper
+Teostra's Howl
+Teostra's Roar
+Thunderspear
+Thunderlance
+Grief Lance
+Fiendish Tower
+Shellslab Prong
+The Steadfast Aegis
+Fatalis Lance
+Ruiner Lance
+dummy91
+dummy92
+Babel Spear (red)
+Babel Spear (yellow)
+Babel Spear (green)
+Babel Spear (blue)
+Babel Spear (purple)
+Tusk Lance (red)
+Tusk Lance (yellow)
+Tusk Lance (green)
+Tusk Lance (blue)
+Tusk Lance (purple)
+Dragonrider Lance (red)
+Dragonrider Lance (yellow)
+Dragonrider Lance (green)
+Dragonrider Lance (blue)
+Dragonrider Lance (purple)
+Frontrider Lance (red)
+Frontrider Lance (yellow)
+Frontrider Lance (green)
+Frontrider Lance (blue)
+Frontrider Lance (purple)
+Silver Prominence (red)
+Silver Prominence (yellow)
+Silver Prominence (green)
+Silver Prominence (blue)
+Silver Prominence (purple)
+Elder Babel Spear+
+Lost Babel
+Megadrill Lance+
+Gigadrill Lance
+Le Sage
+Le Paladin
+Luzifer/Sage
+Gravios Lance
+Gravios Fire Lance
+Cera Creos
+Black Tempest
+Rising Tempest
+Crimson Lance
+Crimson Lance+
+Crimson War Pike
+Crimson Monoblos
+Ceramic Blos Lance
+White Catastrophe
+Darkness+
+Dark Din
+Predator Gravelance+
+Ruthless Grislance
+Albrach Demolisher
+Lightbreak Lance
+Sol Prominence
+Immaculate Soul
+Soul of Prominence
+Paragyred Spear
+Asclepius
+Jingana
+Jingana+
+Caduceus
+Bone Claw Lance
+Bone Claw Lance+
+Shell Claw Lance
+Giant Hermitaur Lance
+Shuraba Lance
+Shula Shuraba
+White Shula Shuraba
+Gobulaluku Bosca
+Gobulaluku Aquir
+Oppressor's Genesis
+Orcus Galeus
+Brimstren Draketail+
+Stygian Ira
+Demonlance Rajang
+Demonray Rajang
+The Destructor
+Icelance Zamtrios
+Carnelian Lance
+Crystalis
+Tusk Lance
+Sabertooth
+Incessant Pox
+Garuga Incessance
+Eterno Crown
+Aidion Crown
+Sharq Assawlt
+Watery Trishula+
+Esmeralda's Tide
+Neo Undertaker
+Daora's Regulus
+Eldaora's Fang
+Skyscraper+
+Skysunderer
+Teostra's Fire
+Naar Thunderlance
+Nero's Atrocity
+Ukanlos Calamity
+Ukanlos Skysweeper
+Ethelred the Ready
+Dalamadur Lance
+Generous Dalamadur
+True Fatalis Lance
+True Ruiner Lance
+W. Fatalis Lance
+Harbah Lance
+Harbah Lance+
+Seditious Lance
+Hadad Sedition
+Fettering Rebuke
+Aether Geghard
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Seven-star lance (red)
+Seven-star lance (yellow)
+Seven-star lance (green)
+Seven-star lance (blue)
+Seven-star lance (purple)
+Estoc (red)
+Estoc (yellow)
+Estoc (green)
+Estoc (blue)
+Estoc (purple)
+Hell Phalanx
+Purification
