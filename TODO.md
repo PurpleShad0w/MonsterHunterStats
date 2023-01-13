@@ -18,7 +18,9 @@
 ## Monster Hunter Generations Ultimate
 
 - [X] Gather items
-- [ ] Gather equipment and palico equipment
+- [X] Gather equipment
+- [ ] Gather palico equipment
 - [ ] Find item pouch and gather its items
 - [X] Find a complete dictionary of all items
-- [X] Find a complete dictionary of all equipment and palico equipment
+- [X] Find a complete dictionary of all equipment
+- [ ] Find a complete dictionary of all palico equipment
