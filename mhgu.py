@@ -15,7 +15,7 @@ items['id'] = [None] * 2300
 items['name'] = [None] * 2300
 items['count'] = [None] * 2300
 items['category'] = ['Items'] * 2300
-dict_items = pd.read_csv('dicts/mhgu/items.csv')
+dict_items = pd.read_csv('database/mhgu/items.csv')
 equips = pd.DataFrame()
 equips['type'] = [None] * 2000
 equips['id'] = [None] * 2000
@@ -26,7 +26,7 @@ equips['category'] = ['Equipment'] * 2000
 dict_equips = [[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]]
 
 for i in range(22):
-    with open('dicts/mhgu/equipment/'+str(i)+'.txt') as f:
+    with open('database/mhgu/equipment/'+str(i)+'.txt') as f:
         dict_equips[i] = [line.rstrip() for line in f]
 
 filename = askopenfilename()
@@ -69,11 +69,11 @@ with open(filename, mode='rb') as file:
         file.seek(offset)
         equips.iloc[i,1] = struct.unpack('H', file.read(2))[0]
 
-        if equips.iloc[i,0] > 20 or equips.iloc[i,1] == 0:
+        if equips.iloc[i,0] > 21 or equips.iloc[i,1] == 0:
             continue
         equips.iloc[i,2] = dict_equips[equips.iloc[i,0]][equips.iloc[i,1]]
 
 
 inv = pd.concat([items, equips], axis=0)
 inv = inv.groupby([inv['type'],inv['id'],inv['category']], sort=False).aggregate({'name': 'first', 'count': 'sum'})
-inv.to_csv('inv/mhgu.csv')
+inv.to_csv('inventory/mhgu.csv')

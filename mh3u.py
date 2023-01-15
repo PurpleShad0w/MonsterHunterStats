@@ -47,4 +47,4 @@ with open(filename, mode='rb') as file:
 inv = pd.concat([items, equips], axis=0)
 inv = inv[(inv['id'] != 0) | ((inv['type'] != 0) & (inv['type'] != 255))]
 inv = inv.groupby([inv['type'],inv['id'],inv['category']], sort=False).aggregate({'name': 'first', 'count': 'sum'})
-inv.to_csv('inv/mh3u.csv')
+inv.to_csv('inventory/mh3u.csv')

@@ -17,7 +17,7 @@ items['id'] = [None] * 1400
 items['name'] = [None] * 1400
 items['count'] = [None] * 1400
 items['category'] = ['Items'] * 1400
-dict_items = pd.read_csv('dicts/mh4u/items.csv')
+dict_items = pd.read_csv('database/mh4u/items.csv')
 equips = pd.DataFrame()
 equips['type'] = [None] * 1500
 equips['id'] = [None] * 1500
@@ -34,7 +34,7 @@ palicos['category'] = ['Palico Equipment'] * 600
 dict_equips = [[0],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]]
 
 for i in range(20):
-    with open('dicts/mh4u/equipment/'+str(i+1)+'.txt') as f:
+    with open('database/mh4u/equipment/'+str(i+1)+'.txt') as f:
         dict_equips[i+1] = [line.rstrip() for line in f]
 
 filename = askopenfilename()
@@ -78,4 +78,4 @@ with open('saves/mh4u_user.bin', mode='rb') as file:
 inv = pd.concat([items, equips, palicos], axis=0)
 inv = inv[(inv['id'] != 0) | ((inv['type'] != 0) & (inv['type'] != 255))]
 inv = inv.groupby([inv['type'],inv['id'],inv['category']], sort=False).aggregate({'name': 'first', 'count': 'sum'})
-inv.to_csv('inv/mh4u.csv')
+inv.to_csv('inventory/mh4u.csv')
