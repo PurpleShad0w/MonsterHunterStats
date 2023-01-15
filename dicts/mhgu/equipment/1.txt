@@ -744,11 +744,11 @@ Valfalk Helm
 Valfalk Cap
 Wisdom Head
 Wisdom Hat
-Ramping Earrings
-Raiden Earrings
-GiantIce Earrings
-WaterFox Earrings
-CometDragon Earrings
+Flame Earring
+Shock Earring
+Ice Earring
+Water Earring
+Comet Earring
 Bherna Turban X 
 Bherna Cap X 
 Hunting Helm X

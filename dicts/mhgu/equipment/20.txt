@@ -1,81 +1,83 @@
 (None)
-Petrified Strongarm
-Obsidian Strongarm
-Lava's Veil
-Dios Strongarm
-Demolition Blade
-Type 31 Wyvernslayer
-Poison Blade
-Elite Blade
-Guardsqual
-Serrated Glace
-Blackguard
-Sentinel Blade
-K. Captain's Blade
-Tigrex Divide
-Dear Lutemis
-Luna Eostre
-Rogue Axe
-Horror Zofar
-Snowy Veil
-Bone Blade
-Poisonous Veil
-Axelion Blade
-Hellsire Blade
-Lagia Storm
-Guardian Blade
-Schildsect
-Dominisect
-Desertfall
-Aslat Charger
-Seditious Blade
-Axela Blade
-Giant's Edge
-Mizuniya Drill
-Scorching Demander
-Elendskraft
-L'Oppresseur
-Daora's Casca
-Demonlord Blade
-Wicked Edge
-Gant Blade
-Akantor C. Blade
-Altostratus Blade
-Worn C. Blade
-Chrono Gear
-Teostra's Striker
-Black Strongarm
-Pizzaxe
-Hero Strongarm
-Vaik Veil
-Mandible Blade
-Cuddly Cat
-Chameleos C. Blade
-Dear Regina
-Dreaded Blade
-Rudra Divide
-Ashen Demander
-Charge Fox
-Legendary Anchor J
-Starlight Axe
-Jewelled Guard
-Silverwing C.Blade
-Zephyr Volt
-Koinryusui
-Frostpeak Guard
-Massacre Arms
-Shredclaw C.Blade
-Wolversofer
-Vermillion Veil
-Ruiner Reaver
-Fatalis Mien
-Lightbreak C. Blade
-Elends/Essor
-Diablos Strongarm
-Barroth Guard
-Arachnoscale
-Alatreon C.Blade
-Blossomauler
-Unsolved C.Blade
-Penyoax
-Elder Arms
+Petrified Rod
+Obsidian Rod
+Kut-Ku Pike
+Royal Bloom
+Fader Rod
+Altair
+Seditious Breaker
+Hidden Scythe
+Bolt Chamber
+Iron Bayonet
+Arcane Strike
+Azure Bayonet
+Heaven's Rath Glaive
+Crimson Fury
+Sand Anchor
+Fin Harpoon
+Neve Rod
+Bone Staff
+Sky-high Glaive
+Mind Stick
+Sturdy Glaive
+Flaming Halberd
+Deep Blue Glaive
+Dios Rod
+Demolition Press
+Needle Ivy
+Wardance Cudgel
+Rage Cudgel
+Shell Intoner
+Hortadent
+Sect Happa
+Trim Happa
+Astalos Cudgel
+Giant's Cudgel
+Fox Halberd
+Flaming Teuza
+Leumundslist
+Le Traqueur
+Daora's Entom
+Caster's Rod
+Indigo Flash
+Metal Mauler
+Demonlord Cudgel
+Skeletal Cudgel
+Polaris Zimbal
+Ukanlos Staff
+Alatreon Dragonspire
+Black Rod
+Push Broom
+Magia Pitareen
+Garia Club
+Acorn Rod
+Deathport Staff
+Stonefist Caster
+Nightfall Scythe
+Grobo Blow
+Ashen Teuza
+Conviction Glaive J
+Aladdin's Wand
+Spear of the Beast
+Jewelled Glaive
+Silverwing Glaive
+Zephyr Extreme
+Shunshu Shushi
+Frostpeak Club
+Massacre Rod
+Shredclaw Rod
+True Fatalis Providence
+Fatalis Rod
+Fatalis Soldier
+Lightbreak Press
+List/Confiance
+Graviafaren
+Diablos Rod
+Stealth Glaive
+Assault Glaive
+Misery Cloud
+Blossomajesty
+Boltbrute
+Unsolved Rod
+Eldra Glaive
+Elder Rod

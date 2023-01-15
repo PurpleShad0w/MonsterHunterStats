@@ -1,110 +1,127 @@
 (None)
-Petrified Axe
-Obsidian Axe
-Heavy Divider
-Bolt Axe
-Volt Axe
-Reckless Hatchet
-Arzuros Axe
-Dios Axe
-Demolition Axe
-Motor Burst
-Iron Axe
-Elite Switch Axe
-Notched Doom
-Notched Tyrant
-General's Strongaxe
-Aksa Switch
-Seditious Axe
-Dragonmaiden Axe
-Golden Crescent
-The Shredder
-Dream Captor
-Scissor Axe
-Exoskeleton Axe
-Bone Axe
-Usurper's Downpour
-Power Gasher
-Vavoom Axe
-Vavoom Vengeance
-Rath Flame Splitter
-Rathsplicer
-Hidden Axe
-Ludroth Axe
-Finslash
-Bruiser Axe
-Wild Axe
-Rex Slasher
-Fire Tempest
-Flickaxe
-Flicker Axe
-Binding Roller
-Voltaic Axe
-Giant's Axe
-Fond Farewell
-Scorching Drafa
-Eisenleib
-La Guillotine
-Peal
-Daora's Farasa
-Waxglare Wand
-Undying Axe
-Demonlord Axe
-Tyrannos
-Saligia Vileaxe
-Skeletal Axe
-Polaris Skalvia
-Akantor Switch Axe
-Murkham Axe
-Dark Switch Axe
-Cloudburst Axe
-Worn Switch Axe
-Mundus Altus
-Teostra's Arx
-Rough Edge
-Black Axe
-Yukumo Switch Axe
-Yukumo Pure Axe
-Gouda Axe
-Wycademy Axe
-Arctic Ledge
-Grim Cat
-Infernal Axe
-Black Belt Axe
-Crimson Axe
-Blackhare Axe
-Pincher Axe
-Royal Axe
-Pierce Axe
-Nightfall Axe
-Geode Axe
-Tomb Axe
-Raiden Axe
-Seize Axe
-Magma Axe
-Switch Fox
-Raikou Works
-Pirate Axe J
-Jewelled Axe
-Silverwing Axe
-Zephyr Glaive
-Aibetsuriku
-Frostpeak Axe
-Massacre Axe
-Wolverakaleid
-Dragon Ripper
-Ruiner's Bane
-Fatalis Force
-Lightbreak Axe
-Corps/Esprit
-Axe Semper Tyrannis
-Golba Bandar
-Amber Slash
-Galefrost
-Assault Axe
-Beak Axe
-Unsolved Axe
-Naval Task
-Zola Axe
-Elder Axe
-Red Tomahawk
+Petrified Saber
+Obsidian Saber
+Diapason
+Guardian Sword
+Aqua Guardian
+Chainslaughter
+Ivory Rabbit
+Mirage Finsword
+Iron Katana
+Hidden Saber
+Eager Cleaver
+Wailing Ghost
+Thunderclap
+Imperial Saber
+Rimeblossom
+Yuki Ichimonji
+Aikuchi
+Toad Abetter
+Plume Sword
+Liquid Fire Blade
+Khanga Edge
+Seditious Edge
+Serrated Jaw
+Dancing Flames
+Rusty Claymore
+Canine Katana
+Bone Katana 'Wolf'
+Usurper's Boltslicer
+Tigrine Edge
+Dios Katana
+Demolition Katana
+Wyvern Blade 'Verde'
+Wyvern Blade 'Flame'
+Wyvern Blade 'Blood'
+Wyvern Blade 'Pale'
+Coiled Nail
+Coiled Saber
+Black Katana Mk.I
+Bone
+Curviscera
+Bicurviscera
+Blango Destroyer
+Blango Decimator
+Arzuros Naginata
+Demon Halberd
+Demonlord Katana
+Daito Crow
+Daito Bane
+Drowning Shaft
+Anteka Blade
+Dark Scythe
+Scythe of Menace
+Mountain Reaper
+Crab Cutter
+Plesioth Splasher
+Shogun Cutter
+Shogun Splitter
+Wyvern Blade 'Beryl'
+Giant's Tower
+Kakaru Kumo Naki
+Billowing Luger
+Stahlfakt
+La Justiciere
+Reaver 'Cruelty'
+Consummate Katana
+Skeletal Sword
+Astral Pisces
+Akantor Katana
+Ukanlos Slicer
+Dark Claw
+Ominous Spring
+Worn Long Sword
+Oblivion
+Icesteel Blade
+Windeater
+Black Scythe
+Yukumo Long Sword
+Yukumo Puresword
+Cheese Knife
+Moofah Staff
+Centenarian Dagger
+Great Hornfly Saber
+Barbarian Blade
+Hairtail's Hairblade
+Cawscythe
+Crimson Maw
+Ebon Rabbit
+Stonefist Cutter
+Demon Swirl
+Nightfall Saber
+Geode Saber
+Daito Calamity
+Tomb Saber
+Thunderlord Raikiri
+Seize Cutter
+Blazing Ognar
+Fox Select
+Light Works
+Pirate Sword J
+Starlight Gate
+Wing of Judgment
+Fan Club Bamboo Rod
+Jewelled Sickle
+Silverwing Katana
+Wyvern Blade 'Corundum'
+Unsanmusho
+Frostpeak Katana
+Shredclaw Cutter
+Wolvermaran
+Fire Dragonsword
+Fatalis Scythe
+Fatalis Ascencia
+Lightbreak Edge
+Mal/Justice
+Giant Makaera
+Busting Edge
+Blood Cry
+Noble Blood Cry
+Rogue Boss
+Notos
+Despot Nitorus
+Unsolved Katana
+Brunyaf
+Elder Saber
+Urano Meteoria
+Flame Katana

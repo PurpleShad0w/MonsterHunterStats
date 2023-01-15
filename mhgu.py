@@ -23,11 +23,11 @@ equips['name'] = [None] * 2000
 equips['count'] = [1] * 2000
 equips['category'] = ['Equipment'] * 2000
 
-dict_equips = [[0],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]]
+dict_equips = [[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]]
 
-for i in range(20):
-    with open('dicts/mhgu/equipment/'+str(i+1)+'.txt') as f:
-        dict_equips[i+1] = [line.rstrip() for line in f]
+for i in range(22):
+    with open('dicts/mhgu/equipment/'+str(i)+'.txt') as f:
+        dict_equips[i] = [line.rstrip() for line in f]
 
 filename = askopenfilename()
 
@@ -57,7 +57,13 @@ with open(filename, mode='rb') as file:
     for i in range(2000):
         offset = offsets[1] + i * 36
         file.seek(offset)
-        equips.iloc[i,0] = struct.unpack('H', file.read(2))[0]
+        equipment = file.read(2)
+        bits = [access_bit(equipment,k) for k in range(len(equipment)*8)]
+        bits_array = [bits[k * 8:(k + 1) * 8] for k in range((len(bits) + 8 - 1) // 8)]
+        bits_equip = ''.join(map(str, bits_array[0]))
+        bits_equip = bits_equip[::-1]
+        id = bits_equip[3:8]
+        equips.iloc[i,0] = int(id, 2)
 
         offset = offsets[2] + i * 36
         file.seek(offset)

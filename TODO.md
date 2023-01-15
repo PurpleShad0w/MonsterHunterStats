@@ -14,6 +14,7 @@
 - [X] Find a complete dictionary of all items
 - [X] Find a complete dictionary of all equipment 
 - [ ] Find a complete dictionary of all palico equipment
+- [ ] Fix equipment ID issue
 
 ## Monster Hunter Generations Ultimate
 
@@ -24,3 +25,4 @@
 - [X] Find a complete dictionary of all items
 - [X] Find a complete dictionary of all equipment
 - [ ] Find a complete dictionary of all palico equipment
+- [X] Fix equipment ID issue

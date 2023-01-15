@@ -1,115 +1,110 @@
 (None)
-Petrified Gunlance
-Obsidian Gunlance
-Hard Hitter
-Shattershot
-Full Voltage
-Lagomberator
-Lagomberastrophe
-Marine Fisher
-Volcano Gunlance
-Red Devil Gunlance
-Blue Devil Uberlance
-Flamethrower
-Iron Gunlance
-Seadiver
-Deepbuster
-Jaya Gunlance
-Seditious Gunlance
-Striker's Gunlance
-General's Arbalance
-Red Rook
-Silver Rook
-Lagia Burst
-Dios Gunlance
-Demolition Gunlance
-Ancient Gyrelance
-Type 62 Stormlance
-Rogue Gunlance
-Arya Gadda
-Genenam Lance
-Bone Gunlance
-Demon Gunlance
-Demonlord Artillery
-Tiger Blast
-Princess Panoply
-Queen's Panoply
-Usurper's Roar
-Golem Gunlance
-Thunder Yell
-Spine Blaster
-Hellsting
-Gerd Sting
-Scissor Gunlance
-Hidden Gunlance
-Fiore Nulo
-Fiore Nulo (G)
-Fiore Nulo (R)
-Monsieur Gore
-Madame Butcher
-Verdant Rook
-Giant's Artillery
-Ukiyo no Yamiwo
-Burning Kabeira
-Tyrannenarm
-L'Onde
-Venomous Cologne
-Ravenous Gunlance
-Consummate Gunlance
-Chasm Gunlance
-Astral Centaurus
-Akantor Gunlance
-Ukanlos Gunlance
-Ominous Monsoon
-Worn Gunlance
-Obelisk
-Icesteel Gunlance
-Black Smoke Gunlance
-Yukumo Gunlance
-Yukumo Puregunlance
-Baa Baa Gunlance
-Wycademy Gunlance
-Hero Gunlance
-Kamak Gunlance
-Felyoshka
-Bamboo Birdsbane
-Cornpopper
-Teostra Gunlance
-Blackhare Gunlance
-Pincher Cannon
-Royal Burst
-Pierce Cannon
-Nightfall Burst
-Geode Burst
-Hardened Gunlance
-Tomb Gunlance
-Raiden Cannon
-Seize Burst
-Explosive Kabeira
-Platinum Trophy
-Volt Works
-Pirate Gunlance J
-Jewelled Gunlance
-Silverwing Gunlance
-Zephyr Rook
-Mumyodjoya
-Frostpeak Gunlance
-Massacre Glower
-Wolverstone
-Ruiner Gunlance
-W. Fatalis Gunlance
-Lightbreak Gunlance
-Paix/Tyrannie
-White Gunlance
-Diablos Glower
-Snow Gear
-Barroth Loader
-Roscasludge
-Shell Gunbird
-Noble Gunbird
-Hororabaruto
-Agna Vulcan
-Eine Wahrheit
-Unsolved Gunlance
-Nikuyaki
-Elder Gunlance
+Petrified Axe
+Obsidian Axe
+Heavy Divider
+Bolt Axe
+Volt Axe
+Reckless Hatchet
+Arzuros Axe
+Dios Axe
+Demolition Axe
+Motor Burst
+Iron Axe
+Elite Switch Axe
+Notched Doom
+Notched Tyrant
+General's Strongaxe
+Aksa Switch
+Seditious Axe
+Dragonmaiden Axe
+Golden Crescent
+The Shredder
+Dream Captor
+Scissor Axe
+Exoskeleton Axe
+Bone Axe
+Usurper's Downpour
+Power Gasher
+Vavoom Axe
+Vavoom Vengeance
+Rath Flame Splitter
+Rathsplicer
+Hidden Axe
+Ludroth Axe
+Finslash
+Bruiser Axe
+Wild Axe
+Rex Slasher
+Fire Tempest
+Flickaxe
+Flicker Axe
+Binding Roller
+Voltaic Axe
+Giant's Axe
+Fond Farewell
+Scorching Drafa
+Eisenleib
+La Guillotine
+Peal
+Daora's Farasa
+Waxglare Wand
+Undying Axe
+Demonlord Axe
+Tyrannos
+Saligia Vileaxe
+Skeletal Axe
+Polaris Skalvia
+Akantor Switch Axe
+Murkham Axe
+Dark Switch Axe
+Cloudburst Axe
+Worn Switch Axe
+Mundus Altus
+Teostra's Arx
+Rough Edge
+Black Axe
+Yukumo Switch Axe
+Yukumo Pure Axe
+Gouda Axe
+Wycademy Axe
+Arctic Ledge
+Grim Cat
+Infernal Axe
+Black Belt Axe
+Crimson Axe
+Blackhare Axe
+Pincher Axe
+Royal Axe
+Pierce Axe
+Nightfall Axe
+Geode Axe
+Tomb Axe
+Raiden Axe
+Seize Axe
+Magma Axe
+Switch Fox
+Raikou Works
+Pirate Axe J
+Jewelled Axe
+Silverwing Axe
+Zephyr Glaive
+Aibetsuriku
+Frostpeak Axe
+Massacre Axe
+Wolverakaleid
+Dragon Ripper
+Ruiner's Bane
+Fatalis Force
+Lightbreak Axe
+Corps/Esprit
+Axe Semper Tyrannis
+Golba Bandar
+Amber Slash
+Galefrost
+Assault Axe
+Beak Axe
+Unsolved Axe
+Naval Task
+Zola Axe
+Elder Axe
+Red Tomahawk

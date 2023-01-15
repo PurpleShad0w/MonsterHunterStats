@@ -1,126 +1,108 @@
 (None)
-Petrified Daggers
-Obsidian Daggers
-Gelid Mind
-Twin Chainsaws
-Roving Saws
-Type 51 Macerators
-Insecticutters
-Insectiscythes
-Twin Daggers
-Hurricane
-Cleaving Jaws
-Cool Cleavers
-Dios Slicers
-Demolition Blades
-Zakun Twins
-Seditious Talons
-Dual Hatchets
-Tornado Hatchets
-Rex Slicers
-Usurper's Fulgur
-Sworn Rapiers
-Dual Piercers
-Flamestorm
-Rouge Flames
-Khezu Daggers
-Bone Scythes
-Twin Flames
-Wyvern Strife
-Talon Carvers
-Plesioth Cutlasses
-Firestorm
-Bladed Edges
-Bladed Pincers
-Hidden Gemini
-Crab Horns
-Monarch
-Cerulean Axes
-Blazeblades
-Ludroth Pair
-Twin Acrus
-Snow Slicers
-Maulagombs
-Dual Battleaxes
-Vprey Claws
-Snow Venom
-Whirlitwists
-Whirlitorture
-Kut-Ku Pair
-Raven Tessen
-Wicked Tessen
-Twin Bolts
-Giant's Daggers
-Morning Dawn
-Smoldering Cities
-Fledderklauen
-Les Apotres
-Twin Nails
-Suzuka Takamaru
-Wrath & Rancor
-Consummate Pair
-Chasm Blades
-Astral Gemini
-Akantor Blades
-Ukanlos Ruinblades
-Stormwind Fans
-Worn Blades
-Enduring Schism
-Hi Twin Daggers
-Black Twin Daggers
-Yukumo Duo
-Pure Yukumo Duo
-Wycademy Blades
-Heroic Twins
-Guild Knight Sabers
-Addled Beers
-Pokke Mittens
-White Dango
-Spicy Dango
-Tengu Dango
-Glutton's Tools
-Stewbry Stirfoils
-Qornu Waga
-Shaka Scarecrows
-Felyne and Melynx
-Felyne Claws
-Daora Blades
-Crimson Daggers
-Blackhare Daggers
-Pincher Daggers
-Royal Daggers
-Nightfall Daggers
-Hardened Daggers
-Raiden Daggers
-Seize Slicers
-Enflamed Slicers
-Pirate Edges J
-Exploding Blades
-Baki Combat Jutsu
-Twin Star Blades
-Fan Club Fans
-Jewelled Blades
-Silverwing Blades
-Twin Revolt
-Shikisokuzeku
-Frostpeak Blades
-Massacre Spine
-Shredclaw Ripper
-Flaming Pair
-Ebonblood Twindrakes
-Ultimus Celestials
-Lightbreak Twins
-Apptre/Sorciere
-Diablos Bashers
-Pink Maracas
-Giaprey Claws
-Blizzarioths
-Ignis Noire
-Verdant Slashers
-Unsolved Blades
-Tareache Lucatore
-That's All
-Luzo-Soulo
-Elder Dagger
-Thunderclap Works
-Light Sword Cypher
+Petrified Bow
+Obsidian Bow
+Usurper's Rumble
+Arko Nulo (Y)
+Arko Nulo (W)
+Sonic Bow
+Heat Haze
+Feminine Haze
+Plume Bow
+Hidden Bow
+Daimyo's Warbow
+Bear Blade Bow
+Hunter's Stoutbow
+Yekla Arc
+Demon Helm Bow
+Prominence Bow
+Queen Blaster
+Type 64 Multibow
+Tigrex Archer
+Shalya Bow
+Seditious Arrow
+Brazencord
+Dios Flier
+Demolition Bow
+Crystalline Flower
+Blue Alighter
+Ice Cold Alighter
+Khezu Bow
+Hunter's Bow
+Kelbi Stingshot
+Kut-Ku Stave
+Crow Bow
+Vile Bow
+Blango Fur Bow
+Abominable Bow
+Spongia Bow
+Voltsender
+Worn Bow
+Angelbein
+Icesteel Bow
+Arca Raptora
+Lightning Bow
+Giant's Bow
+Blessed Rain
+Ashen Wrath
+Entbehrung
+Le Ravisseur
+Genie's Grimoire
+Bow of Hope & Valor
+Skeletal Bow
+Polar Avian Bow
+Beast Thunderbow
+Archbeast Thunderbow
+Hyperion
+Selene Moonbroken
+Akantor Bow
+Ukanlos Bow
+Alatreon Bow
+Tempest Nightbow
+Ivory Bow
+Onyx Bow
+Yukumo Bow
+Yukumo Purebow
+Bamboo Taketori
+Seahorse Harp
+Morsel Bowfish
+Chaos Bow
+Felyne Bow
+Arachnid Bow
+Crimson Bow
+Stonefist Bow
+Royal Blaster
+Demonic Bow
+Silverwind Bow
+Grobo Arc
+Wicked Bow
+Dread Bow
+Rumble Bow
+Rudra Bow
+Hellish Wrath
+Hero's Bow
+Jewelled Bow
+Silverwing Greatbow
+Zephyr Bow
+Rouushorai
+Frostpeak Bow
+Massacre Bow
+Shredclaw Blade Bow
+Dragon Bow Earth
+Bow of Fall & Break
+Bow of Rage & Disaster
+Victory and Glory
+Lightbreak Bow
+Obtenir/Perdu
+Diablos Coilbender
+Power Wildbow
+Ice Crest
+Scylla Fist
+Scylla Weave
+Wild Bow
+Despot Sagittus
+Unsolved Bow
+Kayamba Slinger
+Ala Victoria
+Elder Bow
+Pirate Bow J
+Ancient Armament

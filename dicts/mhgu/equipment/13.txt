@@ -1,127 +1,110 @@
 (None)
-Petrified Saber
-Obsidian Saber
-Diapason
-Guardian Sword
-Aqua Guardian
-Chainslaughter
-Ivory Rabbit
-Mirage Finsword
-Iron Katana
-Hidden Saber
-Eager Cleaver
-Wailing Ghost
-Thunderclap
-Imperial Saber
-Rimeblossom
-Yuki Ichimonji
-Aikuchi
-Toad Abetter
-Plume Sword
-Liquid Fire Blade
-Khanga Edge
-Seditious Edge
-Serrated Jaw
-Dancing Flames
-Rusty Claymore
-Canine Katana
-Bone Katana 'Wolf'
-Usurper's Boltslicer
-Tigrine Edge
-Dios Katana
-Demolition Katana
-Wyvern Blade 'Verde'
-Wyvern Blade 'Flame'
-Wyvern Blade 'Blood'
-Wyvern Blade 'Pale'
-Coiled Nail
-Coiled Saber
-Black Katana Mk.I
-Bone
-Curviscera
-Bicurviscera
-Blango Destroyer
-Blango Decimator
-Arzuros Naginata
-Demon Halberd
-Demonlord Katana
-Daito Crow
-Daito Bane
-Drowning Shaft
-Anteka Blade
-Dark Scythe
-Scythe of Menace
-Mountain Reaper
-Crab Cutter
-Plesioth Splasher
-Shogun Cutter
-Shogun Splitter
-Wyvern Blade 'Beryl'
-Giant's Tower
-Kakaru Kumo Naki
-Billowing Luger
-Stahlfakt
-La Justiciere
-Reaver 'Cruelty'
-Consummate Katana
-Skeletal Sword
-Astral Pisces
-Akantor Katana
-Ukanlos Slicer
-Dark Claw
-Ominous Spring
-Worn Long Sword
-Oblivion
-Icesteel Blade
-Windeater
-Black Scythe
-Yukumo Long Sword
-Yukumo Puresword
-Cheese Knife
-Moofah Staff
-Centenarian Dagger
-Great Hornfly Saber
-Barbarian Blade
-Hairtail's Hairblade
-Cawscythe
-Crimson Maw
-Ebon Rabbit
-Stonefist Cutter
-Demon Swirl
-Nightfall Saber
-Geode Saber
-Daito Calamity
-Tomb Saber
-Thunderlord Raikiri
-Seize Cutter
-Blazing Ognar
-Fox Select
-Light Works
-Pirate Sword J
-Starlight Gate
-Wing of Judgment
-Fan Club Bamboo Rod
-Jewelled Sickle
-Silverwing Katana
-Wyvern Blade 'Corundum'
-Unsanmusho
-Frostpeak Katana
-Shredclaw Cutter
-Wolvermaran
-Fire Dragonsword
-Fatalis Scythe
-Fatalis Ascencia
-Lightbreak Edge
-Mal/Justice
-Giant Makaera
-Busting Edge
-Blood Cry
-Noble Blood Cry
-Rogue Boss
-Notos
-Despot Nitorus
-Unsolved Katana
-Brunyaf
-Elder Saber
-Urano Meteoria
-Flame Katana
+Petrified Shooter
+Dios Blaster
+Demolition Gun
+Obsidian Shooter
+Mythical Three-Horn
+Blitz Bowgun
+Valkyrie Fire
+Blossomayhem
+Tail String
+Tail Blizzard
+Sawgun
+Kut-Ku Anger
+Raven Do
+Vile Do
+Hunter's Rifle
+Mandible Blaster
+Durambarrel
+Usurper's Crime
+Rasasa Bowgun
+Seditious Shot
+Scale Tornado
+Khezu Syringe
+Quill Burst
+Shotgun (White)
+Shotgun (Blood)
+Shotgun (Azure)
+Shotgun (Green)
+Shotgun (Viper)
+Cross Bowgun
+Desert Storm
+Lava Storm
+Yakt Shooter
+Shell Shooter
+Machine Strafer
+Tigrex Tank
+Rathling Gun
+Thundacrus
+Royal Launcher
+Hidden Eye
+Striped Shell
+Lobster Gun
+Maelstrom
+Demon's Isle
+God's Isle
+Astalos Gun
+Giant's Blaster
+Desolate Mist
+Burning Answer
+Faulnisschleuder
+La Lumiere
+Icesteel Wasp
+Blessed Lamp
+Skeletal Bowgun
+Polarstar Shooter
+Devil's Grin
+Diregun 'Dementia'
+Rajang Barrage
+Demonlord Blaster
+Silver Spartacus
+Gold Valkyrie
+Ukanlos Frost Bow
+Wicked Needle
+Veiled Bell
+Airship Gun
+Black Parasol
+Angel Parasol
+Yukumo Light Bowgun
+Yukumo Pureshot
+Gourd Shot
+Fiossidare
+Springnight Shot
+Beast Sniper
+Felyne Ragdoll
+Melynx Ragdoll
+Kettleblower
+Eldra Musket
+Black Belt Bowgun
+Rathian Fire
+Squall's Gaze
+Wicked Do
+Dreadking Blaster
+Thunder Lycan
+Rudra Shot
+Infernal Solution
+Arm Cannon
+Jewelled Bowgun
+Silverwing Crossbow
+Zephyr Howl
+Ukigumo Asatsuyu
+Frostpeak Blaster
+Massacre Beretta
+Wolvervuaya
+Black Wing
+Fatalis Blaster
+Absolute Shot
+Lightbreak Gun
+Incanto/Orakel
+Grenade Launcher
+Titan Launcher
+Assault Conga
+Blizzard Cannon
+Barro Barrel
+Azraqvya
+Despot Thunder
+Barbus Commemorative
+Unsolved Gun
+Well
+Elder Beretta
+Fox Baretta
