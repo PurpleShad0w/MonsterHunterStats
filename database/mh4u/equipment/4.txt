@@ -1,0 +1,953 @@
+(None)
+Hunter's Faulds S
+Hunter's Coat S
+Hunter's Faulds
+Hunter's Coat
+Bone Faulds
+Bone Coat
+Bone Faulds S
+Bone Coat S
+Alloy Coil
+Alloy Coat
+Alloy Coil S
+Alloy Coat S
+Alloy Coil
+Alloy Coat
+Jaggi Faulds
+Jaggi Coat
+Jaggi Faulds S
+Jaggi Coat S
+Loc Lac Kilt
+Ludroth Faulds
+Ludroth Coat
+Ludroth Faulds
+Ludroth Coat
+Rhenoplos Coil
+Rhenoplos Coat
+Rhenoplos Coil S
+Rhenoplos Coat S
+Bnahabra Coil
+Bnahabra Coat
+Bnahabra Coil S
+Bnahabra Coat S
+Barroth Faulds
+Barroth Coat
+Rathian Faulds
+Rathian Coat
+Rathian Faulds S
+Rathian Coat S
+Rath Heart Coil
+Rath Heart Coat
+Golden Lunecoil
+Golden Lunecoat
+Rathian Faulds
+Rathian Coat
+Rath Heart Coil
+Rath Heart Coat
+EX Rathian Faulds
+EX Rathian Coat
+Rathalos Faulds
+Rathalos Coat
+Rathalos Faulds S
+Rathalos Coat S
+Rath Soul Coil
+Rath Soul Coat
+Silver Solcoil
+Silver Solcoat
+Rathalos Faulds
+Rathalos Coat
+Rath Soul Coil
+Rath Soul Coat
+Silver Solcoil
+Silver Solcoat
+EX Rathalos Faulds
+EX Rathalos Coat
+Diablos Coil
+Diablos Coat
+Uragaan Faulds
+Uragaan Coat
+Vangis Coil
+Vangis Coat
+Esurient Faulds
+Esurient Coat
+Esurient Faulds
+Esurient Coat
+Gloaming Girdle
+Adamance Girdle
+Dayspring Girdle
+Epoch Girdle
+Gloaming Archgirdle
+Adamance Archgirdle
+Dayspring Archgirdle
+Epoch Archgirdle
+Gloaming Girdle
+Adamance Girdle
+Dayspring Girdle
+Epoch Girdle
+Nibelsnarf Faulds
+Nibelsnarf Coat
+Duramboros Faulds
+Duramboros Coat
+Arzuros Faulds
+Arzuros Coat
+Lagombi Faulds
+Lagombi Coat
+Lagombi Faulds S
+Lagombi Coat S
+Nargacuga Faulds
+Nargacuga Coat
+Tigrex Tassets
+Tigrex Coat
+Tigrex Tassets S
+Tigrex Coat S
+Tigrex Tassets U
+Tigrex Coat U
+Excello Coil
+Excello Coat
+EX Tigrex Tassets
+EX Tigrex Coat
+Tigrex Tassets
+Tigrex Coat
+Tigrex Tassets U
+Tigrex Coat U
+Brachydios Faulds
+Brachydios Coat
+Brachydios Faulds S
+Brachydios Coat S
+Akantor Cincture
+Akantor Sash
+Akantor Cincture
+Akantor Sash
+Zinogre Faulds
+Zinogre Coat
+Zinogre Faulds S
+Zinogre Coat S
+Zinogre Faulds U
+Zinogre Coat U
+Zinogre Faulds U
+Zinogre Coat U
+EX Kaiser Tassets
+EX Kaiser Coat
+Kecha Faulds
+Kecha Coat
+Kecha Faulds S
+Kecha Coat S
+Gore Faulds
+Gore Coat
+Gore Faulds S
+Gore Coat S
+Gore Faulds
+Gore Coat
+Tetsucabra Faulds
+Tetsucabra Coat
+Tetsucabra Faulds S
+Tetsucabra Coat S
+Nerscylla Faulds
+Nerscylla Coat
+Nerscylla Faulds S
+Nerscylla Coat S
+Najarala Faulds
+Najarala Coat
+Najarala Faulds S
+Najarala Coat S
+Garuga Tassets
+Garuga Coat
+Garuga Tassets S
+Garuga Coat S
+Basarios Tassets
+Basarios Coat
+Basarios Tassets S
+Basarios Coat S
+Basarios Tassets U
+Basarios Coat U
+Battle Tassets
+Battle Coat
+Velociprey Tassets
+Velociprey Coat
+Velociprey Tassets S
+Velociprey Coat S
+Genprey Tassets
+Genprey Coat
+Genprey Tassets S
+Genprey Coat S
+Ioprey Tassets
+Ioprey Coat
+Ioprey Tassets S
+Ioprey Coat S
+Kut-Ku Tassets
+Kut-Ku Coat
+Kut-Ku Tassets S
+Kut-Ku Coat S
+Kut-Ku Tassets U
+Kut-Ku Coat U
+Gypceros Tassets
+Gypceros Coat
+Gypceros Tassets S
+Gypceros Coat S
+Gypceros Tassets U
+Gypceros Coat U
+Gypceros Tassets
+Gypceros Coat
+Gypceros Tassets U
+Gypceros Coat U
+Conga Tassets
+Conga Coat
+Conga Tassets S
+Conga Coat S
+Conga Tassets U
+Conga Coat U
+Gravios Tassets
+Gravios Coat
+Gravios Tassets S
+Gravios Coat S
+Gravios Tassets U
+Gravios Coat U
+Khezu Tassets
+Khezu Coat
+Khezu Tassets S
+Khezu Coat S
+Khezu Tassets U
+Khezu Coat U
+Khezu Tassets
+Khezu Coat
+Khezu Tassets U
+Khezu Coat U
+Kirin Hoop
+Kirin Shorts
+Kirin Hoop S
+Kirin Shorts S
+Kirin Hoop U
+Kirin Shorts U
+Kirin Hoop
+Kirin Shorts
+Kirin Hoop U
+Kirin Shorts U
+Kushala Cocoon
+Kushala Wind Wrap
+EX Kushala Cocoon
+EX Kushala Wind Wrap
+Kushala Cocoon
+Kushala Wind Wrap
+Empress Tassets
+Empress Coat
+Ceanataur Tassets
+Ceanataur Coat
+Ceanataur Tassets
+Ceanataur Coat
+Auroros Tassets
+Borealis Tassets
+Genesis Tassets
+Glyph Tassets
+Auroros Tassets
+Borealis Tassets
+Genesis Tassets
+Glyph Tassets
+Lava Tassets
+Lava Coat
+Remobra Belt
+Remobra Band
+Remobra Belt S
+Remobra Band S
+Zamtrios Faulds
+Zamtrios Coat
+Zamtrios Faulds S
+Zamtrios Coat S
+Seltas Faulds
+Seltas Coat
+Seltas Faulds S
+Seltas Coat S
+Arc Faulds
+Arc Coat
+Arc Faulds S
+Arc Coat S
+Arc Faulds
+Arc Coat
+Kaiser Tassets
+Kaiser Coat
+Golden Obi
+Puppeteer Obi
+Divine Ire Obi
+Crusher Belt
+Rebellion Coil
+Riot Coat
+Rebellion Coil
+Riot Coat
+Dragonbarbs X
+Dragonsheath X
+Dragonbarbs
+Dragonsheath
+Fatalis Crimsonwings
+Fatalis Crimsontail
+Cephalos Tassets
+Cephalos Coat
+Mizuha Sash
+Cham Coat
+Hermitaur Tassets
+Hermitaur Coat
+Hermitaur Tassets
+Hermitaur Coat
+Vespoid Tassets
+Vespoid Coat
+Qurupeco Coil
+Qurupeco Coat
+Agnaktor Faulds
+Agnaktor Coat
+Barioth Faulds
+Barioth Coat
+Volvidon Faulds
+Volvidon Coat
+Lagiacrus Faulds
+Lagiacrus Coat
+Lagiacrus Faulds
+Lagiacrus Coat
+Helios Coil
+Helios Coat
+Selene Coil
+Selene Coat
+Gobul Faulds
+Gobul Coat
+Yamato Koshiate
+Hyuga Koshiate
+Mutsu Koshiate
+Amagi Koshiate
+Escadora Might
+Escadora Force
+Escadora Might
+Escadora Force
+Blango Tassets
+Blango Coat
+Lobster Coil
+Lobster Coat
+Ukanlos Cincture
+Ukanlos Sash
+Indra Wrap
+Steadfast Coat
+Yaksha Coil
+Carnage Wrap
+Chrome Metal Coil
+Chrome Metal Coat
+Artian Coil S
+Artian Coat S
+Dober Coil
+Dober Coat
+Ingot Coil
+Ingot Coat
+Ingot Coil
+Ingot Coat
+Aelucanth Elytra
+Rhopessa Elytra
+Aelucanth Alae
+Rhopessa Alae
+Obituary Elytra
+Butterfly Elytra
+Obituary Alae
+Butterfly Alae
+Mosgharl Folia
+Mosgharl Fronds
+Guild Bard Coil
+Scholar's Skirt
+Guild Bard Coat
+Scholar's Mini
+Black Belt Tassets
+Black Belt Coat
+Guardian Coil
+Helper Skirt
+Guardian Coat
+Helper Frills
+Shinobi Sky Belt
+Shinobi Land Belt
+Guild Knight Coat
+Maiden's Skirt
+Guild Knight Kilt
+Maiden's Frills
+Yukumo Sky Obi
+Yukumo Land Obi
+High Metal Tassets
+High Metal Coat
+Ranger's Sash
+Archer's Belt
+Iron Belt
+Light Belt
+Chakra Waistlet
+Sailor Skirt
+Sailor Mini
+Hawkcoil
+Lecturer's Skirt
+Hawkcoat
+Lecturer's Frills
+Blue Star Coil
+Blue Star Coat
+dummy702
+dummy714
+Uniqlo Pouch
+Uniqlo Pochette
+Star Rook Coil
+Star Rook Coat
+dummy706
+dummy718
+dummy707
+dummy719
+dummy709
+dummy721
+DUMMY
+DUMMY
+Artian Coil S
+Artian Coat S
+DUMMY
+DUMMY
+Hero's Belt
+Hero's Band
+dummy731
+dummy732
+EX Rebellion Coil
+EX Riot Coat
+EX Gore Faulds
+EX Gore Coat
+EX Ingot Coil
+EX Ingot Coat
+EX Kirin Hoop U
+EX Kirin Shorts U
+EX Artian Coil
+EX Artian Coat
+Storge Faulds
+Storge Coat
+Storge Faulds S
+Storge Coat S
+Storge Faulds
+Storge Coat
+Hunter's Faulds
+Hunter's Coat
+Alloy Coil
+Alloy Coat
+Ludroth Faulds
+Ludroth Coat
+Rathian Faulds
+Rathian Coat
+Rath Heart Coil
+Rath Heart Coat
+Rathalos Faulds
+Rathalos Coat
+Rath Soul Coil
+Rath Soul Coat
+Silver Solcoil
+Silver Solcoat
+Esurient Faulds
+Esurient Coat
+Gloaming Girdle
+Adamance Girdle
+Dayspring Girdle
+Epoch Girdle
+Tigrex Tassets
+Tigrex Coat
+Tigrex Tassets U
+Tigrex Coat U
+Akantor Cincture
+Akantor Sash
+Zinogre Faulds U
+Zinogre Coat U
+Gore Faulds
+Gore Coat
+Gypceros Tassets
+Gypceros Coat
+Gypceros Tassets U
+Gypceros Coat U
+Khezu Tassets
+Khezu Coat
+Khezu Tassets U
+Khezu Coat U
+Kirin Hoop
+Kirin Shorts
+Kirin Hoop U
+Kirin Shorts U
+Kushala Cocoon
+Kushala Wind Wrap
+Ceanataur Tassets
+Ceanataur Coat
+Auroros Tassets
+Borealis Tassets
+Genesis Tassets
+Glyph Tassets
+Arc Faulds
+Arc Coat
+Rebellion Coil
+Riot Coat
+Dragonbarbs X
+Dragonsheath X
+Hermitaur Tassets
+Hermitaur Coat
+Lagiacrus Faulds
+Lagiacrus Coat
+Escadora Might
+Escadora Force
+Ingot Coil
+Ingot Coat
+Artian Coil S
+Artian Coat S
+Storge Faulds
+Storge Coat
+Velociprey Tassets X
+Velociprey Coat X
+Ioprey Tassets X
+Ioprey Coat X
+Kecha Faulds X
+Kecha Coat X
+Kecha Faulds Z
+Kecha Coat Z
+Tetsucabra Faulds X
+Tetsucabra Coat X
+Tetsucabra Faulds Z
+Tetsucabra Coat Z
+Nerscylla Faulds X
+Nerscylla Coat X
+Nerscylla Faulds Z
+Nerscylla Coat Z
+Zamtrios Faulds X
+Zamtrios Coat X
+Zamtrios Faulds Z
+Zamtrios Coat Z
+Najarala Faulds X
+Najarala Coat X
+Najarala Faulds Z
+Najarala Coat Z
+Seltas Faulds X
+Seltas Coat X
+Seltas Faulds Z
+Seltas Coat Z
+Gore Faulds X
+Gore Coat X
+Gore Base
+Gore Tuilles
+Arc Faulds X
+Storge Faulds X
+Arc Coat X
+Storge Coat X
+Arc Base
+Storge Base
+Arc Tuilles
+Storge Tuilles
+Gogma Faulds
+Gogma Coat
+Gypceros Tassets X
+Gypceros Coat X
+Gypceros Base
+Gypceros Tuilles
+Gypceros Tassets Z
+Gypceros Coat Z
+Gypceros Base U
+Gypceros Tuilles U
+Lagombi Faulds X
+Lagombi Coat X
+Conga Tassets X
+Conga Coat X
+Conga Tassets Z
+Conga Coat Z
+Khezu Tassets X
+Khezu Coat X
+Khezu Base
+Khezu Tuilles
+Khezu Tassets Z
+Khezu Coat Z
+Khezu Base U
+Khezu Tuilles U
+Rathian Faulds X
+Rathian Coat X
+Rathian Base
+Rathian Tuilles
+Rath Heart Coil Z
+Rath Heart Coat Z
+Rath Heart Base
+Rath Heart Tuilles
+Golden Lunecoil Z
+Golden Lunecoat Z
+Rathalos Faulds X
+Rathalos Coat X
+Rathalos Base
+Rathalos Tuilles
+Rath Soul Coil Z
+Rath Soul Coat Z
+Rath Soul Base
+Rath Soul Tuilles
+Silver Solcoil Z
+Silver Solcoat Z
+Silver Solbase
+Silver Soltuilles
+Zinogre Faulds X
+Zinogre Coat X
+Zinogre Faulds Z
+Zinogre Coat Z
+Zinogre Base U
+Zinogre Tuilles U
+Tigrex Tassets X
+Tigrex Coat X
+Tigrex Base
+Tigrex Tuilles
+Tigrex Tassets Z
+Tigrex Coat Z
+Tigrex Base U
+Tigrex Tuilles U
+Excello Coil Z
+Excello Coat Z
+Gravios Tassets X
+Gravios Coat X
+Gravios Tassets Z
+Gravios Coat Z
+Brachydios Faulds X
+Brachydios Coat X
+Brachydium Faulds
+Brachydium Coat
+Grand Gloaming Girdle
+Grand Adamance Girdle
+Grand Dayspring Girdle
+Grand Epoch Girdle
+Gloaming Redfaulds
+Adamance Redfaulds
+Dayspring Redfaulds
+Epoch Redfaulds
+Vangis Coil X
+Vangis Coat X
+Esurient Faulds Z
+Esurient Coat Z
+Esurient Base
+Esurient Tuilles
+Kaiser Tassets X
+Kaiser Coat X
+Akantor Cincture X
+Akantor Sash X
+Akantor Base
+Akantor Tuilles
+EX Escadora Might
+EX Escadora Force
+Ukanlos Cincture X
+Ukanlos Sash X
+Kushala Cocoon X
+Kushala Wind Wrap X
+Kushala Base
+Kushala Tuilles
+Kujula Cocoon
+Kujula Wind Wrap
+Grand God's Peer Belt
+Grand Hermit Belt
+Grand Divine Ire Obi
+Grand Crusher Belt
+Rebellion Coil X
+Riot Coat X
+Rebellion Base
+Riot Tuilles
+Rebellion Coil Z
+Riot Coat Z
+Cephalos Tassets X
+Cephalos Coat X
+Hermitaur Tassets X
+Hermitaur Coat X
+Hermitaur Base
+Hermitaur Tuilles
+Hermitaur Tassets Z
+Hermitaur Coat Z
+Mono Coil S
+Mono Coat S
+Mono Coil X
+Mono Coat X
+Mono Coil
+Mono Coat
+Mono Base
+Mono Tuilles
+Monodevil Coil
+Monodevil Coat
+Monodevil Coil
+Monodevil Coat
+Monodevil Base
+Monodevil Tuilles
+Diablos Coil X
+Diablos Coat X
+Diablos Coil
+Diablos Coat
+Diablos Base
+Diablos Tuilles
+Diablos Coil Z
+Diablos Coat Z
+Dragonbarbs X
+Dragonsheath X
+Dragonbase X
+Dragontuilles X
+Fatalis Crimsonbarbs Z
+Fatalis Crimsonscale Z
+Fatalis Crimsonbase Z
+Fatalis Crimsontuilles Z
+Wroth Spines
+Wroth Scales
+White Fatalis Spine
+White Fatalis Scale
+Grand Mizuha Sash
+Grand Cham Coat
+Regios Tassets S
+Regios Coat S
+Regios Tassets X
+Regios Coat X
+Chaos Faulds
+Nephilim Tassets
+Chaos Coat
+Nephilim Coat
+Basarios Tassets X
+Basarios Coat X
+Basarios Tassets Z
+Basarios Coat Z
+Kut-Ku Tassets X
+Kut-Ku Coat X
+Kut-Ku Tassets Z
+Kut-Ku Coat Z
+Garuga Tassets X
+Garuga Coat X
+Kirin Hoop X
+Kirin Shorts X
+Kirin Base
+Kirin Tuilles
+Kirin Hoop Z
+Kirin Shorts Z
+Kirin Base U
+Kirin Tuilles U
+Bnahabra Coil X
+Bnahabra Coat X
+DUMMY
+DUMMY
+Rhenoplos Coil X
+Rhenoplos Coat X
+Hunter's Base
+Hunter's Tuilles
+Alloy Base
+Alloy Tuilles
+Artian Coil X
+Artian Coat X
+Arc Base S
+Arc Tuilles S
+Ingot Base
+Ingot Tuilles
+Guardian Coil X
+Helper Skirt X
+Guardian Coat X
+Healer Frills X
+Guardian Coil Z
+Helper Skirt Z
+Guardian Coat Z
+Healer Frills Z
+G. Knight Coat X
+Maiden's Skirt X
+G. Knight Kilt X
+Exclusive Frills X
+Ace Faulds
+Sororal Faulds
+Ace Coat
+Sororal Coat
+Ceanataur Base
+Ceanataur Tuilles
+Lagiacrus Base
+Lagiacrus Tuilles
+Escadora Base
+Escadora Tuilles
+Auroros Kermes Faulds
+Borealis Woad Faulds
+Genesis Kermes Faulds
+Glyph Woad Faulds
+Ludroth Base
+Ludroth Tuilles
+Hornet Tassets
+Hornet Coat
+Hornet Base
+Hornet Tuilles
+Wroggi Faulds
+Wroggi Coat
+Wroggi Base
+Wroggi Tuilles
+Gigginox Faulds
+Gigginox Coat
+Gigginox Base
+Gigginox Tuilles
+Tempest Obi
+Welkin Obi
+Tempest Truss
+Welkin Truss
+Death Stench Bowels
+Death Stench Belly
+Death Stench Base
+Death Stench Tuilles
+Damascus Coil
+Damascus Coat
+Damascus Base
+Damascus Tuilles
+Lagiacrus Faulds X
+Lagiacrus Coat X
+Nargacuga Faulds X
+Nargacuga Coat X
+Empress Coil X
+Empress Coat X
+Helios Coil X
+Selene Coil X
+Helios Coat X
+Selene Coat X
+Agnaktor Faulds X
+Agnaktor Coat X
+Qurupeco Coil X
+Qurupeco Coat X
+Gobul Faulds X
+Gobul Coat X
+Barioth Faulds X
+Barioth Coat X
+Barroth Faulds X
+Barroth Coat X
+Nibelsnarf Faulds X
+Nibelsnarf Coat X
+Duramboros Faulds X
+Duramboros Coat X
+Lava Tassets X
+Lava Coat X
+Grand Yamato Koshiate
+Grand Hyuga Koshiate
+Grand Mutsu Koshiate
+Grand Amagi Koshiate
+Grand Yaksha Coil
+Grand Carnage Wrap
+Miralis Barbs
+Miralis Sheath
+Plesioth Tassets Z
+Plesioth Coat Z
+DUMMY
+DUMMY
+Patissier's Sarong
+Patissier's Apron
+High Metal Tassets S
+High Metal Coat S
+Aelucanth Elytra X
+Rhopessa Elytra X
+Aelucanth Alae X
+Rhopessa Alae X
+Obituary Elytra X
+Butterfly Elytra X
+Obituary Alae X
+Butterfly Alae X
+EX Auroros Tassets
+EX Borealis Tassets
+EX Genesis Tassets
+EX Glyph Tassets
+Tempest Obi
+Welkin Obi
+GX Escadora Base
+GX Escadora Tuilles
+GX Dragonbase X
+GX Dragontuilles X
+Star Knight Coil
+Star Knight Coat
+dummy351
+dummy1352
+dummy1353
+dummy1354
+dummy1357
+dummy1358
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+DUMMY
+Hawkcoil X
+Lecturer's Skirt X
+Hawkcoat X
+Lecturer's Frills X
+GX Hunter's Base
+GX Hunter's Tuilles
+GX Esurient Base
+GX Esurient Tuilles
+GX Tempest Truss
+GX Welkin Truss
+GX Fatalis Crimsonbase
+GX Fatalis Crimsontuilles
+Hunter's Faulds
+Hunter's Coat
+Hunter's Faulds
+Hunter's Coat
+Ludroth Faulds
+Ludroth Coat
+Ludroth Faulds
+Ludroth Coat
+Alloy Coil
+Alloy Coat
+Alloy Coil
+Alloy Coat
+Gypceros Tassets
+Gypceros Coat
+Gypceros Tassets
+Gypceros Coat
+Khezu Tassets
+Khezu Coat
+Khezu Tassets
+Khezu Coat
+Ingot Coil
+Ingot Coat
+Ingot Coil
+Ingot Coat
+Rathian Faulds
+Rathian Coat
+Lagiacrus Faulds
+Lagiacrus Coat
+Rathalos Faulds
+Rathalos Coat
+Gypceros Tassets U
+Gypceros Coat U
+Khezu Tassets U
+Khezu Coat U
+Tigrex Tassets
+Tigrex Coat
+Kirin Hoop
+Kirin Shorts
+Kirin Hoop
+Kirin Shorts
+Artian Coil S
+Artian Coat S
+Ceanataur Tassets
+Ceanataur Coat
+Ceanataur Tassets
+Ceanataur Coat
+Gloaming Girdle
+Dayspring Girdle
+Adamance Girdle
+Epoch Girdle
+Zinogre Coil U
+Zinogre Coat U
+Tigrex Tassets U
+Tigrex Coat U
+Gore Faulds
+Gore Coat
+Auroros Tassets
+Genesis Tassets
+Borealis Tassets
+Glyph Tassets
+Kirin Hoop U
+Kirin Shorts U
+Kirin Hoop U
+Kirin Shorts U
+Esurient Faulds
+Esurient Coat
+Monoblos Coil
+Monoblos Coat
+Hornet Tassets
+Hornet Coat
+Wroggi Faulds
+Wroggi Coat
+Monodevil Coil
+Monodevil Coat
+Diablos Coil
+Diablos Coat
+Gigginox Faulds
+Gigginox Coat
+Death Stench Bowels
+Death Stench Belly
+Damascus Coil
+Damascus Coat
+DUMMY
+DUMMY
+Gigginox Greaves
+Gigginox Leggings
+Death Stench Heel
+Death Stench March
+Damascus Greaves
+Damascus Leggings
+DUMMY
+DUMMY
