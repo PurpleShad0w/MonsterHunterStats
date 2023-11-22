@@ -1,4 +1,4 @@
-## Dictionary Status
+## Dictionaries Status
 
 ### Monster Hunter 3 Ultimate
 - Items - In Progress

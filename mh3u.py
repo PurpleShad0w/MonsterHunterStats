@@ -1,12 +1,14 @@
 import os
-import sys
 import pandas as pd
-import warnings
-from tkinter.filedialog import askopenfilename
 import struct
+import sys
+import warnings
+
+from tkinter.filedialog import askopenfilename
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 os.chdir(os.path.dirname(sys.argv[0]))
+
 
 offsets = [396, 398, 4396, 4398]
 items = pd.DataFrame()
@@ -42,7 +44,6 @@ with open(filename, mode='rb') as file:
         offset = offsets[3] + i * 16
         file.seek(offset)
         equips.iloc[i,1] = struct.unpack('H', file.read(2))[0]
-
 
 inv = pd.concat([items, equips], axis=0)
 inv = inv[(inv['id'] != 0) | ((inv['type'] != 0) & (inv['type'] != 255))]

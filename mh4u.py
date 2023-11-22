@@ -1,14 +1,16 @@
-import os
-import sys
-import pandas as pd
-import warnings
-from tkinter.filedialog import askopenfilename
-from argparse import Namespace
 import mhef.n3ds
+import os
+import pandas as pd
 import struct
+import sys
+import warnings
+
+from argparse import Namespace
+from tkinter.filedialog import askopenfilename
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 os.chdir(os.path.dirname(sys.argv[0]))
+
 
 offsets = [350, 352, 5950, 5952, 47950, 47952]
 items = pd.DataFrame()
@@ -39,11 +41,11 @@ for i in range(20):
 
 filename = askopenfilename()
 
-args = Namespace(mode='d', inputfile=filename, outputfile='saves/mh4u_user.bin')
+args = Namespace(mode='d', inputfile=filename, outputfile='saves/mh4u.bin')
 sc = mhef.n3ds.SavedataCipher(mhef.n3ds.MH4G_NA)
 sc.decrypt_file(args.inputfile, args.outputfile)
 
-with open('saves/mh4u_user.bin', mode='rb') as file:
+with open('saves/mh4u.bin', mode='rb') as file:
     for i in range(1400):
         offset = offsets[0] + i * 4
         file.seek(offset)
@@ -73,7 +75,6 @@ with open('saves/mh4u_user.bin', mode='rb') as file:
         offset = offsets[5] + i * 4
         file.seek(offset)
         palicos.iloc[i,1] = struct.unpack('H', file.read(2))[0]
-    
 
 inv = pd.concat([items, equips, palicos], axis=0)
 inv = inv[(inv['id'] != 0) | ((inv['type'] != 0) & (inv['type'] != 255))]

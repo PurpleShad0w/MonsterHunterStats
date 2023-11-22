@@ -1,17 +1,8 @@
-# saves
 saves
-
-# outputs
 outputs
+inventory
+
 test.csv
 status.txt
 
-# libraries
-MonstieEgger.bt
-
-# cache
 __pycache__
-
-# itemBox
-saves
-inv

@@ -1,13 +1,18 @@
-# Monster Hunter Inventory Displayer - WORK IN PROGRESS
-Scripts that read Monster Hunter save files and display a unified inventory of all the player's possessions. <br/>
+# Monster Hunter Inventory Displayer
+
+> [!NOTE]  
+> Due to a change in methods used to collect inventory, the scripts no longer require an installation of 010 Editor or any binary template. Furthermore, the usage and requirements differ from before, and will be updated in due time.
+
+Scripts that read Monster Hunter save files and display a unified inventory of all the player's possessions. <br>
 Currently supports:
 - Monster Hunter 3 Ultimate
 - Monster Hunter 4 Ultimate
-- Monster Hunter World Iceborne
-- Monster Hunter Stories 2
+- Monster Hunter Generations Ultimate
+- ~~Monster Hunter World Iceborne~~
+- ~~Monster Hunter Stories 2~~
 
 ## Requirements
-- Installed version of 010 Editor, correctly specified in the path.
+- ~~Installed version of 010 Editor, correctly specified in the path.~~
 
 ## Dependencies
 - A compiled version of [IceborneSavecrypt](https://github.com/LEGENDFF/mhw-Savecrypt).
@@ -18,17 +23,17 @@ Currently supports:
 ## Usage
 ### Usage for Monster Hunter 3 Ultimate
 - Find your save file and copy it in the `saves` folder of this repository.
-- Rename it `MH3U_user`.
-- Run the `MH3U_execution.py` file.
+- Rename it `MH3U`.
+- Run the `MH3U.py` file.
 
 ### Usage for Monster Hunter 4 Ultimate
 - Find your save file and copy it in the `saves` folder of this repository.
-- Rename it `MH4U_user`.
-- Run the `MH4U_execution.py` file.
+- Rename it `MH4U`.
+- Run the `MH4U.py` file.
 
 ### Usage for Monster Hunter World
 - Find your save file, usually located at `Steam/userdata/<user_id>/582010/remote/SAVEDATA1000` and copy it in the `saves` folder of this repository.
-- Run the `MHWI_execution.py` file.
+- Run the `MHWI.py` file.
 
 ### Usage for Monster Hunter Stories 2
 - Find your save file, usually located at `Steam/userdata/<user_id>/1277400/remote/mhr_slot_X` and copy it in the `saves` folder of this repository.
@@ -37,10 +42,10 @@ Currently supports:
 - Set your save as the input, set your save as the output as well, except for the file extension, change it from .sav to .bin.
 - Input your Steam ID in the corresponding field. To easily find it, go to your Steam profile and copy the series of numbers in the URL.
 - Press the decrypt button, wait for a message to appear below and close the app.
-- Run the `MHS2_execution.py` file.
+- Run the `MHS2.py` file.
 
 ### Usage to concatenate all games
-- Run the `MH_series_merge.py` file.
+- Run the `overall_merge.py` file.
 
 ## Credits
 - [EnderHDMC](https://github.com/EnderHDMC) for their personal help and for providing the binary templates of World. <br/>

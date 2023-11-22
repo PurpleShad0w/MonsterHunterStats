@@ -1,18 +1,16 @@
 # Works properly but with the wrong IDs since Kiranico keeps the in-game order instead of sorting by IDs
 
 import os
-import sys
 import pandas as pd
+import sys
 import warnings
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 os.chdir(os.path.dirname(sys.argv[0]))
 
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 
 driver = webdriver.Chrome()
 driver.get('https://kiranico.com/en/mh4u/item')

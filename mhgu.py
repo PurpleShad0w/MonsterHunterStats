@@ -1,12 +1,14 @@
 import os
-import sys
 import pandas as pd
-import warnings
-from tkinter.filedialog import askopenfilename
 import struct
+import sys
+import warnings
+
+from tkinter.filedialog import askopenfilename
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 os.chdir(os.path.dirname(sys.argv[0]))
+
 
 offsets = [1625876, 1650570, 1650572]
 items = pd.DataFrame()
@@ -72,7 +74,6 @@ with open(filename, mode='rb') as file:
         if equips.iloc[i,0] > 21 or equips.iloc[i,1] == 0:
             continue
         equips.iloc[i,2] = dict_equips[equips.iloc[i,0]][equips.iloc[i,1]]
-
 
 inv = pd.concat([items, equips], axis=0)
 inv = inv.groupby([inv['type'],inv['id'],inv['category']], sort=False).aggregate({'name': 'first', 'count': 'sum'})
