@@ -77,6 +77,9 @@ Serial,ID,Type,Name,Rarity,Category,Subcategory
 1,60,4,Crushing Beak II,6,Weapons,Hammers
 1,61,4,Crushing Beak III,6,Weapons,Hammers
 1,67,4,Carapace Sledge I,2,Weapons,Hammers
+1,78,4,Dragonbone Basher I,3,Weapons,Hammers
+1,79,4,Dragonbone Basher II,4,Weapons,Hammers
+1,80,4,Dragonbone Basher III,6,Weapons,Hammers
 1,140,4,Defender Warhammer I,1,Weapons,Hammers
 1,140,12,Defender Heavy Bowgun IV,6,Weapons,Heavy Bowguns
 1,144,4,Defender Warhammer V,7,Weapons,Hammers
@@ -85,6 +88,7 @@ Serial,ID,Type,Name,Rarity,Category,Subcategory
 1,198,4,Makhlab al-Nasr II,10,Weapons,Hammers
 2,6,5,Defense Charm I,3,Charms,Charms
 2,30,5,Earplugs Charm I,6,Charms,Charms
+2,250,5,Handicraft Charm I,5,Charms,Charms
 2,258,5,Earplugs Charm II,6,Charms,Charms
 2,87,5,Master's Charm I,4,Charms,Charms
 4,0,255,Culldrone I,1,Kinsects,Kinsects
