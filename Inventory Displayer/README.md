@@ -1,18 +1,14 @@
 # Monster Hunter Inventory Displayer
 
-> [!NOTE]  
-> Due to a change in methods used to collect inventory, the scripts no longer require an installation of 010 Editor or any binary template. Furthermore, the usage and requirements differ from before, and will be updated in due time.
-
 Scripts that read Monster Hunter save files and display a unified inventory of all the player's possessions. <br>
 Currently supports:
 - Monster Hunter 3 Ultimate
 - Monster Hunter 4 Ultimate
-- Monster Hunter Generations Ultimate
-- ~~Monster Hunter World Iceborne~~
-- ~~Monster Hunter Stories 2~~
+- Monster Hunter World Iceborne
+- Monster Hunter Stories 2
 
 ## Requirements
-- ~~Installed version of 010 Editor, correctly specified in the path.~~
+- Installed version of 010 Editor, correctly specified in the path.
 
 ## Dependencies
 - A compiled version of [IceborneSavecrypt](https://github.com/LEGENDFF/mhw-Savecrypt).
