@@ -14,7 +14,7 @@ pm = pymem.Pymem('MonsterHunterWorld.exe')
 
 slot = 1
 
-rcx = pm.read_long(0x140000000 + 0x5073E80)
+rcx = pm.read_long(pm.base_address + 0x5011710)
 rcx = rcx + 0xA8
 rcx = pm.read_longlong(rcx)
 rdx = 0x27E9F0 * (slot-1)
