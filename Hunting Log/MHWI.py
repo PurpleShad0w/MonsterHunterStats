@@ -8,8 +8,6 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 os.chdir(os.path.dirname(sys.argv[0]))
 
-import data.monsters as monsters
-
 pm = pymem.Pymem('MonsterHunterWorld.exe')
 
 slot = 1
@@ -28,8 +26,9 @@ small_pointer = capture_pointer + 0xE00
 xp_pointer = capture_pointer + 0x1000
 level_pointer = capture_pointer + 0x1200
 
-names = monsters.mhwi_names
-small_monsters = monsters.small_monsters
+names = pd.read_csv('database/MHWI.csv')['Monster'].tolist()
+sizes = pd.read_csv('database/MHWI.csv')
+monsters = pd.read_csv('database/monsters.csv')
 
 df = pd.DataFrame(data={'ID':0,'Size':0,'Type':0,'Variation':0,'Name':0,'Hunted':0,'Captured':0,'Killed':0,'Big Crown':0,'Small Crown':0,'Largest Size':0,'Smallest Size':0,'XP':0,'Research Level':0},index=(0,1))
 
@@ -47,18 +46,30 @@ for i in range(len(names)):
     xp = pm.read_int(xp_pointer)
     level = pm.read_int(level_pointer)
 
-    if names[i] in small_monsters:
-        size = 'Small'
-    elif names[i] not in small_monsters and names[i] != '':
-        size = 'Large'
+    if names[i] not in monsters['Monster'].tolist():
+        continue
+
+    size = monsters[monsters['Monster'] == names[i]]['Size'].tolist()[0]
+
+    threshold_silver = sizes[sizes['Monster'] == names[i]]['Silver'].tolist()[0]
+    threshold_gold = sizes[sizes['Monster'] == names[i]]['Gold'].tolist()[0]
+    threshold_small = sizes[sizes['Monster'] == names[i]]['Small'].tolist()[0]
+
+    if large >= threshold_gold and large != 0:
+        big_crown = '👑'
+    elif large >= threshold_silver and large != 0:
+        big_crown = '🥈'
     else:
-        size = 'Unknown'
+        big_crown = ''
+    
+    if small <= threshold_small and small != 0:
+        small_crown = '👑'
+    else:
+        small_crown = ''
 
-    big_crown, small_crown = monsters.find_monster_crowns(names[i], monsters.mhwi_sizes, large, small)
+    mtype = monsters[monsters['Monster'] == names[i]]['Type'].tolist()[0]
 
-    mtype = monsters.find_monster_type(names[i])
-
-    mvar = monsters.find_monster_variation(names[i])
+    mvar = monsters[monsters['Monster'] == names[i]]['Variation'].tolist()[0]
 
     hunts = caps + kills
 

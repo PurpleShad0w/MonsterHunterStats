@@ -11,13 +11,12 @@ from argparse import Namespace
 warnings.simplefilter(action='ignore', category=FutureWarning)
 os.chdir(os.path.dirname(sys.argv[0]))
 
-import data.monsters as monsters
-
 offset_hex = ['0x12E5C','0x12E5E','0x12E60','0x12E62','0x12E64','0x12E65']
 formats = {1:'B', 2:'H', 4:'I', 8:'Q'}
 kills, caps, size_small, size_big, big_crown, small_crown = [None] * 68, [None] * 68, [None] * 68, [None] * 68, [None] * 68, [None] * 68
 
-names = monsters.mh4u_names
+names = pd.read_csv('database/MH4U.csv')['Monster'].tolist()
+monsters = pd.read_csv('database/monsters.csv')
 
 df = pd.DataFrame(data={'ID':0,'Size':0,'Type':0,'Variation':0,'Name':0,'Hunted':0,'Captured':0,'Killed':0,'Big Crown':0,'Small Crown':0,'Largest Size':0,'Smallest Size':0},index=(0,1))
 
@@ -68,9 +67,9 @@ with open('saves/user1.bin', mode='rb') as file:
         else:
             small_crown[i] = ''
 
-        monster_type = monsters.find_monster_type(names[i])
+        monster_type = monsters[monsters['Monster'] == names[i]]['Type'].tolist()[0]
 
-        monster_var = monsters.find_monster_variation(names[i])
+        monster_var = monsters[monsters['Monster'] == names[i]]['Variation'].tolist()[0]
 
         s = pd.Series({'ID':i,'Size':'Large','Type':monster_type,'Variation':monster_var,'Name':names[i],'Hunted':hunts,'Captured':caps[i],'Killed':kills[i],'Big Crown':big_crown[i],'Small Crown':small_crown[i],'Largest Size':size_big[i],'Smallest Size':size_small[i]})
         df = pd.concat([df, s.to_frame().T], ignore_index=True)

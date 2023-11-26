@@ -7,8 +7,6 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 os.chdir(os.path.dirname(sys.argv[0]))
 
-import data.monsters as monsters
-
 pm = pymem.Pymem('MonsterHunterRise.exe')
 
 pointer = pm.read_long(pm.base_address + 0xFB30C20)
@@ -20,8 +18,8 @@ hunt_pointer = pointer - 0x4
 capture_pointer = hunt_pointer + 0x420
 anomaly_pointer = hunt_pointer + 0x210
 
-names = monsters.mhrs_names
-small_monsters = monsters.small_monsters
+names = pd.read_csv('database/MHRS.csv')['Monster'].tolist()
+monsters = pd.read_csv('database/monsters.csv')
 
 df = pd.DataFrame(data={'ID':0,'Size':0,'Type':0,'Variation':0,'Name':0,'Hunted':0,'Captured':0,'Killed':0,'Anomalies':0,'Big Crown':0,'Small Crown':0,'Largest Size':0,'Smallest Size':0},index=(0,1))
 
@@ -34,16 +32,14 @@ for i in range(len(names)):
     caps = pm.read_int(capture_pointer)
     anoms = pm.read_int(anomaly_pointer)
 
-    if names[i] in small_monsters:
-        size = 'Small'
-    elif names[i] not in small_monsters and names[i] != '':
-        size = 'Large'
-    else:
-        size = 'Unknown'
+    if names[i] not in monsters['Monster'].tolist():
+            continue
+    
+    size = monsters[monsters['Monster'] == names[i]]['Size'].tolist()[0]
 
-    mtype = monsters.find_monster_type(names[i])
+    mtype = monsters[monsters['Monster'] == names[i]]['Type'].tolist()[0]
 
-    mvar = monsters.find_monster_variation(names[i])
+    mvar = monsters[monsters['Monster'] == names[i]]['Variation'].tolist()[0]
 
     kills = hunts - caps
 
