@@ -53,7 +53,7 @@ mhrs_names = [
     'Lucent Nargacuga', 'Gore Magala', 'Shagaru Magala', 'Seregios', 'Astalos', 'Violet Mizutsune', 'Scorned Magnamalo', 'Blood Orange Bishaten', 'Aurora Somnacanth', 
     'Pyre Rakna-Kadaki', 'Magma Almudron', 'Seething Bazelgeuse', 'Malzeno', 'Lunagaron', 'Garangolm', 'Gaismagorm', 'Espinas', 'Flaming Espinas', 
     'Hornetaur', 'Vespoid', 'Velociprey', 'Hermitaur', 'Ceanataur', 'Pyrantula', 'Gowngoat', 'Boggi', 'Risen Kushala Daora', 
-    'Risen Chameleos','Risen Teostra','','','','Chaotic Gore Magala'
+    'Risen Chameleos','Risen Teostra','Risen Shagaru Magala','Risen Crimson Glow Valstrax','Primordial Malzeno','Chaotic Gore Magala','Velkhana','Amatsu'
 ]
 
 
@@ -137,9 +137,9 @@ type_wingdrake = [
 type_elder_dragon = [
     'Alatreon', 'Amatsu', 'Behemoth', 'Chameleos', 'Risen Chameleos', "Dah'ren Mohran", 'Dalamadur', 'Shah Dalamadur', 'Fatalis', 
     'Crimson Fatalis', 'White Fatalis', 'Gaismagorm', 'Gogmazios', 'Kirin', 'Oroshi Kirin', 'Kulve Taroth', 'Kushala Daora', 'Risen Kushala Daora',
-    'Lao-Shan Lung', 'Lunastra', 'Malzeno', 'Nakarkos', 'Namielle', 'Nergigante', 'Ruiner Nergigante', "Safi'jiiva", 'Shagaru Magala',
-    'Shara Ishvalda', 'Teostra', 'Risen Teostra', 'Thunder Serpent Narwa', 'Narwa the Allmother', 'Vaal Hazak', 'Blackveil Vaal Hazak', 'Valstrax',
-    'Crimson Glow Valstrax', 'Velkhana', 'Wind Serpent Ibushi', "Xeno'jiiva", 'Zorah Magdaros']
+    'Lao-Shan Lung', 'Lunastra', 'Malzeno', 'Primordial Malzeno', 'Nakarkos', 'Namielle', 'Nergigante', 'Ruiner Nergigante', "Safi'jiiva", 'Shagaru Magala',
+    'Risen Shagaru Magala', 'Shara Ishvalda', 'Teostra', 'Risen Teostra', 'Thunder Serpent Narwa', 'Narwa the Allmother', 'Vaal Hazak', 'Blackveil Vaal Hazak',
+    'Valstrax', 'Crimson Glow Valstrax', 'Risen Crimson Glow Valstrax', 'Velkhana', 'Wind Serpent Ibushi', "Xeno'jiiva", 'Zorah Magdaros']
 
 type_question_mark = [
     'Gore Magala', 'Chaotic Gore Magala']
@@ -170,7 +170,7 @@ var_rarespecies = [
     'Violet Mizutsune', 'Lucent Nargacuga', 'Silver Rathalos', 'Gold Rathian', 'Molten Tigrex']
 
 var_risen = [
-    'Risen Chameleos', 'Risen Kushala Daora', 'Risen Teostra']
+    'Risen Chameleos', 'Risen Crimson Glow Valstrax', 'Risen Kushala Daora', 'Risen Shagaru Magala', 'Risen Teostra']
 
 var_subspecies = [
     'Magma Almudron', 'Fulgur Anjanath', 'Ruby Basarios', 'Blood Orange Bishaten', 'Emerald Congalala', 'Plum Daimyo Hermitaur', 'Shah Dalamadur', 
@@ -180,8 +180,8 @@ var_subspecies = [
     'Brute Tigrex', 'Viper Tobi-Kadachi', 'Blue Yian Kut-Ku', 'Tigerstripe Zamtrios', 'Stygian Zinogre']
 
 var_variant = [
-    'Frostfang Barioth', 'Seething Bazelgeuse', 'Raging Brachydios', 'Savage Deviljho', 'Chaotic Gore Magala', 'Scorned Magnamalo', 'Narwa the Allmother', 
-    'Shrieking Legiana', 'Ruiner Nergigante', 'Furious Rajang', 'Blackveil Vaal Hazak', 'Crimson Glow Valstrax', 'Scarred Yian Garuga']
+    'Frostfang Barioth', 'Seething Bazelgeuse', 'Raging Brachydios', 'Savage Deviljho', 'Chaotic Gore Magala', 'Scorned Magnamalo', 'Primordial Malzeno',
+    'Narwa the Allmother', 'Shrieking Legiana', 'Ruiner Nergigante', 'Furious Rajang', 'Blackveil Vaal Hazak', 'Crimson Glow Valstrax', 'Scarred Yian Garuga']
 
 monster_variations = {
     'Apex': var_apex, 'Deviant': var_deviant, 'Rare Species': var_rarespecies, 'Risen': var_risen, 'Subspecies': var_subspecies, 
