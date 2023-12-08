@@ -1,0 +1,127 @@
+ID,Name
+0,Torso Up
+1,Poison
+2,Paralysis
+3,Sleep
+4,Stun
+5,Mud/Snow
+6,Antiseptic
+7,Def Lock
+8,Dungmaster
+9,Biology
+10,Attack
+11,Defense
+12,Health
+13,Rec Speed
+14,Protection
+15,Sheathing
+16,FastCharge
+17,Expert
+18,Tenderizer
+19,Destroyer
+20,KO
+21,Stam Drain
+22,Constitutn
+23,Hearing
+24,Wind Res
+25,Tremor Res
+26,Heart Res
+27,Cold Res
+28,Stamina
+29,Stam Recov
+30,Evasion
+31,Evade Dist
+32,Dive Dist
+33,Sense
+34,Guard
+35,Guard Up
+36,Auto-Guard
+37,Status
+38,Fire Atk
+39,Water Atk
+40,Thunder Atk
+41,Ice Atk
+42,Dragon Atk
+43,Elemental
+44,Fire Res
+45,Water Res
+46,Thunder Res
+47,Ice Res
+48,Dragon Res
+49,Sharpness
+50,Handicraft
+51,Fencing
+52,Sharpener
+53,Crit Draw
+54,PunishDraw
+55,Reload Spd
+56,Loading
+57,Rapid Fire
+58,Recoil
+59,Precision
+60,Normal Up
+61,Pierce Up
+62,Pellet Up
+63,Normal S +
+64,Pierce S +
+65,Pellet S +
+66,Crag S +
+67,Clust S +
+68,Slicing S +
+69,Slime S +
+70,Poison C +
+71,Para C +
+72,Sleep C +
+73,Power C +
+74,C. Range C +
+75,Exhaust C +
+76,Slime C +
+77,Maestro
+78,Artillery
+79,Bomb Boost
+80,Rec Level
+81,Wide-Range
+82,LastingPwr
+83,Hunger
+84,Gluttony
+85,Eating
+86,Carnivore
+87,Combo Rate
+88,Combo Plus
+89,Gathering
+90,Spd Gather
+91,Whim
+92,Honey
+93,Charmer
+94,Fate
+95,Carving
+96,Tranquilzr
+97,Perception
+98,Psychic
+99,Transportr
+100,Ranger
+101,Anti-Theft
+102,SpeedSetup
+103,Flame Aura
+104,Oxygen
+105,CurrentRes
+106,Swimming
+107,Sea Legs
+108,Potential
+109,Survivor
+110,Gloves Off
+111,Spirit
+112,Unscathed
+113,FreeElemnt
+114,Blight Res
+115,Status Res
+116,Unshakable
+117,Guts
+118,Edgemaster
+119,SteadyHand
+120,Fury
+121,TeamPlayer
+122,TeamLeader
+123,Map
+124,Fishing
+125,BBQ
