@@ -1,0 +1,8039 @@
+Type,ID,Name
+0,0,(None)
+1,0,(None)
+1,1,Leather Headgear
+1,2,Chainmail Headgear
+1,3,Bherna Turban
+1,4,Hunting Helm
+1,5,Hunting Cap
+1,6,Mafumofu Hood
+1,7,Yukumo Kasa
+1,8,dummy
+1,9,Hunter's Helm
+1,10,Hunter's Cap
+1,11,Bone Helm
+1,12,Bone Cap
+1,13,dummy
+1,14,dummy
+1,15,Chaoshroom
+1,16,Chaos Diadem
+1,17,dummy
+1,18,dummy
+1,19,dummy
+1,20,dummy
+1,21,dummy
+1,22,dummy
+1,23,Jaggi Helm
+1,24,Jaggi Cap
+1,25,Maccao Helm
+1,26,Maccao Cap
+1,27,Velociprey Helm
+1,28,Velociprey Cap
+1,29,Giaprey Helm
+1,30,Giaprey Cap
+1,31,Genprey Helm
+1,32,Genprey Cap
+1,33,Vespoid Helm
+1,34,Vespoid Cap
+1,35,Hornetaur Helm
+1,36,Hornetaur Cap
+1,37,Bnahabra Hat
+1,38,Bnahabra Headpiece
+1,39,Konchu Helm
+1,40,Konchu Cap
+1,41,Mosswine Mask
+1,42,Rhenoplos Helm
+1,43,Rhenoplos Cap
+1,44,Bulldrome Helm
+1,45,Bulldrome Cap
+1,46,Bullfango Mask
+1,47,Arzuros Helm
+1,48,Arzuros Cap
+1,49,Cephalos Helm
+1,50,Cephalos Cap
+1,51,Derring Headgear
+1,52,Alloy Helm
+1,53,Alloy Cap
+1,54,Battle Helm
+1,55,Battle Cap
+1,56,Ingot Helm
+1,57,Ingot Cap
+1,58,High Metal Helm
+1,59,High Metal Cap
+1,60,dummy
+1,61,dummy
+1,62,Melahoa Hat
+1,63,Melahoa Bloom
+1,64,Makluva Hood
+1,65,Makluva Gills
+1,66,Bistro Toque
+1,67,Bistro Cap
+1,68,Obituary Vertex
+1,69,Obituary Clypeus
+1,70,Butterfly Vertex
+1,71,Butterfly Clypeus
+1,72,Death Stench Brain
+1,73,Death Stench Soul
+1,74,Acorn Helm
+1,75,Acorn Cap
+1,76,Mosgharl Vizor
+1,77,Mosgharl Brim
+1,78,Edel Vizor
+1,79,Edel Bloom
+1,80,Skalda Vertex
+1,81,Skalda Clypeus
+1,82,Spio Vertex
+1,83,Spio Clypeus
+1,84,dummy
+1,85,dummy
+1,86,dummy
+1,87,dummy
+1,88,Larinoth Mask
+1,89,Gargwa Mask
+1,90,Moofah Head
+1,91,Moofah Wig
+1,92,False Felyne
+1,93,Velociprey Head
+1,94,Velociprey Mask
+1,95,Genprey Head
+1,96,Genprey Mask
+1,97,Ioprey Head
+1,98,Ioprey Mask
+1,99,Remobra Headgear
+1,100,Remobra Mask
+1,101,Ioprey Helm
+1,102,Ioprey Cap
+1,103,Kut-Ku Helm
+1,104,Kut-Ku Cap
+1,105,Lagombi Helm
+1,106,Lagombi Cap
+1,107,Gypceros Helm
+1,108,Gypceros Cap
+1,109,Tetsucabra Helm
+1,110,Tetsucabra Cap
+1,111,Hermitaur Helm
+1,112,Hermitaur Cap
+1,113,Volvidon Helm
+1,114,Volvidon Cap
+1,115,Ludroth Helm
+1,116,Ludroth Cap
+1,117,Malfestio Helm
+1,118,Malfestio Cap
+1,119,Khezu Helm
+1,120,Khezu Cap
+1,121,Rathian Helm
+1,122,Rathian Cap
+1,123,Nibelsnarf Helm
+1,124,Nibelsnarf Cap
+1,125,Blango Helm
+1,126,Blango Cap
+1,127,Ceanataur Helm
+1,128,Ceanataur Cap
+1,129,Najarala Helm
+1,130,Najarala Cap
+1,131,Nargacuga Helm
+1,132,Nargacuga Cap
+1,133,Scholarly Hood
+1,134,Scholarly Cap
+1,135,Vaik Helm
+1,136,Vaik Cap
+1,137,Skull Visage
+1,138,Skull Mask
+1,139,Aelucanth Vertex
+1,140,Aelucanth Clypeus
+1,141,Rhopessa Vertex
+1,142,Rhopessa Clypeus
+1,143,dummy
+1,144,dummy
+1,145,Garuga Helm
+1,146,Garuga Cap
+1,147,Garuga Mask
+1,148,Uragaan Helm
+1,149,Uragaan Cap
+1,150,Rathalos Helm
+1,151,Rathalos Cap
+1,152,Lagiacrus Helm
+1,153,Lagiacrus Cap
+1,154,Zinogre Helm
+1,155,Zinogre Cap
+1,156,Mizutsune Helm
+1,157,Mizutsune Mask
+1,158,Astalos Helm
+1,159,Astalos Cap
+1,160,Gammoth Helm
+1,161,Gammoth Cap
+1,162,Glavenus Helm
+1,163,Glavenus Cap
+1,164,Gore Helm
+1,165,Gore Cap
+1,166,Regios Helm
+1,167,Regios Cap
+1,168,Tigrex Helm
+1,169,Tigrex Cap
+1,170,Kirin Horn
+1,171,Kirin Crest
+1,172,Brachydios Helm
+1,173,Brachydios Cap
+1,174,Arc Helm
+1,175,Storge Helm
+1,176,Arc Cap
+1,177,Storge Cap
+1,178,Kushala Glare
+1,179,Kushala Snarl
+1,180,Mizuha Cap
+1,181,Cham Hat
+1,182,Kaiser Crown
+1,183,Kaiser Mask
+1,184,Skeletal Skull
+1,185,Decayed Skull
+1,186,Black Head
+1,187,Black Face
+1,188,Black Belt Helm
+1,189,Black Belt Cap
+1,190,Guild Bard Lobos
+1,191,Guild Bard Hat
+1,192,Maiden's Hat
+1,193,French Maid Glasses
+1,194,Helper Hood
+1,195,Healer Glasses
+1,196,Dianthus Cap
+1,197,Campanile Cap
+1,198,Bath Towel
+1,199,Gourmew Toque
+1,200,Gourmew Cap
+1,201,Leather Helm S
+1,202,Chainmail Helm S
+1,203,Bherna Turban S
+1,204,Bherna Cap S
+1,205,Hunting Helm S
+1,206,Hunting Cap S
+1,207,Mafumofu Hood S
+1,208,Mafumofu Cap S
+1,209,Yukumo Sky Kasa
+1,210,Yukumo Land Kasa
+1,211,dummy
+1,212,Hunter's Helm S
+1,213,Hunter's Cap S
+1,214,Hunter's Helm R
+1,215,Hunter's Cap R
+1,216,Bone Helm S
+1,217,Bone Cap S
+1,218,dummy
+1,219,dummy
+1,220,dummy
+1,221,dummy
+1,222,Chaos Archbun
+1,223,Chaos Archdiadem
+1,224,Melahoa Hat S
+1,225,Melahoa Bloom S
+1,226,Melahoa Hat U
+1,227,Melahoa Bloom U
+1,228,Makluva Hood S
+1,229,Makluva Gills S
+1,230,Makluva Hood U
+1,231,Makluva Gills U
+1,232,Bistro Toque S
+1,233,Bistro Cap S
+1,234,Acorn Helm S
+1,235,Acorn Cap S
+1,236,Mosgharl Vizor S
+1,237,Mosgharl Brim S
+1,238,Edel Vizor S
+1,239,Edel Bloom S
+1,240,Moofah Head S
+1,241,Moofah Wig S
+1,242,Slagtoth Hood
+1,243,Slagtoth Cowl
+1,244,Larinoth Mask S
+1,245,Gargwa Mask S
+1,246,False Felyne S
+1,247,Velociprey Head S
+1,248,Velociprey Mask S
+1,249,Genprey Head S
+1,250,Genprey Mask S
+1,251,Ioprey Head S
+1,252,Ioprey Mask S
+1,253,Remobra Headgear S
+1,254,Remobra Mask S
+1,255,dummy
+1,256,dummy
+1,257,dummy
+1,258,dummy
+1,259,dummy
+1,260,dummy
+1,261,Mosswine Mask S
+1,262,Rhenoplos Helm S
+1,263,Rhenoplos Cap S
+1,264,Jaggi Helm S
+1,265,Jaggi Cap S
+1,266,dummy
+1,267,dummy
+1,268,dummy
+1,269,dummy
+1,270,Maccao Helm S
+1,271,Maccao Cap S
+1,272,Velociprey Helm S
+1,273,Velociprey Cap S
+1,274,Giaprey Helm S
+1,275,Giaprey Cap S
+1,276,Genprey Helm S
+1,277,Genprey Cap S
+1,278,EX Genprey Helm
+1,279,EX Genprey Cap
+1,280,Ioprey Helm S
+1,281,Ioprey Cap S
+1,282,EX Ioprey Helm
+1,283,EX Ioprey Cap
+1,284,Vespoid Helm S
+1,285,Vespoid Cap S
+1,286,EX Vespoid Helm
+1,287,EX Vespoid Cap
+1,288,Hornetaur Helm S
+1,289,Hornetaur Cap S
+1,290,EX Hornetaur Helm
+1,291,EX Hornetaur Cap
+1,292,Hornetaur Helm R
+1,293,Hornetaur Cap R
+1,294,Bnahabra Hat S
+1,295,Bnahabra Headpiece S
+1,296,Konchu Helm S
+1,297,Konchu Cap S
+1,298,Bulldrome Helm S
+1,299,Bulldrome Cap S
+1,300,Bulldrome Mask S
+1,301,Arzuros Helm S
+1,302,Arzuros Cap S
+1,303,Cephalos Helm S
+1,304,Cephalos Cap S
+1,305,EX Cephalos Helm
+1,306,EX Cephalos Cap
+1,307,Kut-Ku Helm S
+1,308,Kut-Ku Cap S
+1,309,Kecha Helm
+1,310,Kecha Cap
+1,311,Lagombi Helm S
+1,312,Lagombi Cap S
+1,313,Gypceros Helm S
+1,314,Gypceros Cap S
+1,315,Gypceros Helm R
+1,316,Gypceros Cap R
+1,317,Tetsucabra Helm S
+1,318,Tetsucabra Cap S
+1,319,Hermitaur Helm S
+1,320,Hermitaur Cap S
+1,321,EX Hermitaur Helm
+1,322,EX Hermitaur Cap
+1,323,Hermitaur Helm R
+1,324,Hermitaur Cap R
+1,325,Volvidon Helm S
+1,326,Volvidon Cap S
+1,327,Ludroth Helm S
+1,328,Ludroth Cap S
+1,329,Ludroth Helm R
+1,330,Ludroth Cap R
+1,331,Lecturer's Hood
+1,332,Lecturer's Cap
+1,333,Alloy Helm S
+1,334,Alloy Cap S
+1,335,Alloy Helm R
+1,336,Alloy Cap R
+1,337,Battle Helm S
+1,338,Battle Cap S
+1,339,Ingot Helm S
+1,340,Ingot Cap S
+1,341,Ingot Helm R
+1,342,Ingot Cap R
+1,343,High Metal Helm S
+1,344,High Metal Cap S
+1,345,High Metal Helm U
+1,346,High Metal Cap U
+1,347,dummy
+1,348,dummy
+1,349,Lobster Helm
+1,350,Lobster Cap
+1,351,Obituary Vertex S
+1,352,Obituary Clypeus S
+1,353,Butterfly Vertex S
+1,354,Butterfly Clypeus S
+1,355,Death Stench Brain S
+1,356,Death Stench Soul S
+1,357,Death Stench Brain R
+1,358,Death Stench Soul R
+1,359,Vaik Helm S
+1,360,Vaik Cap S
+1,361,Aelucanth Vertex S
+1,362,Aelucanth Clypeus S
+1,363,Rhopessa Vertex S
+1,364,Rhopessa Clypeus S
+1,365,Patissier's Toque
+1,366,Patissier's Cap
+1,367,Skalda Vertex S
+1,368,Skalda Clypeus S
+1,369,Spio Vertex S
+1,370,Spio Clypeus S
+1,371,Malfestio Helm S
+1,372,Malfestio Cap S
+1,373,Zamtrios Helm
+1,374,Zamtrios Cap
+1,375,Khezu Helm S
+1,376,Khezu Cap S
+1,377,Khezu Helm R
+1,378,Khezu Cap R
+1,379,Rathian Helm S
+1,380,Rathian Cap S
+1,381,EX Rathian Helm
+1,382,EX Rathian Cap
+1,383,Rathian Helm R
+1,384,Rathian Cap R
+1,385,Nibelsnarf Helm S
+1,386,Nibelsnarf Cap S
+1,387,Plesioth Helm
+1,388,Plesioth Cap
+1,389,Blango Helm S
+1,390,Blango Cap S
+1,391,EX Blango Helm
+1,392,EX Blango Cap
+1,393,Lavasioth Helm
+1,394,Lavasioth Cap
+1,395,EX Lavasioth Helm
+1,396,EX Lavasioth Cap
+1,397,Ceanataur Helm S
+1,398,Ceanataur Cap S
+1,399,EX Ceanataur Helm
+1,400,EX Ceanataur Cap
+1,401,Ceanataur Helm R
+1,402,Ceanataur Cap R
+1,403,Najarala Helm S
+1,404,Najarala Cap S
+1,405,Nargacuga Helm S
+1,406,Nargacuga Cap S
+1,407,Garuga Helm S
+1,408,Garuga Cap S
+1,409,Garuga Mask S
+1,410,Uragaan Helm S
+1,411,Uragaan Cap S
+1,412,Black Belt Helm S
+1,413,Black Belt Cap S
+1,414,Guardian Helm
+1,415,Guardian Mask
+1,416,Guardian Helm U
+1,417,Guardian Mask U
+1,418,Scholar's Beret
+1,419,Scholar's Cap
+1,420,Sailor Hat
+1,421,Sailor Cap
+1,422,Luxury Bath Towel
+1,423,Kita Star Headdress
+1,424,Umi Ocean Headdress
+1,425,Cunning Specs
+1,426,Derring Helm S
+1,427,Derring Cap S
+1,428,Dober Helm
+1,429,Dober Cap
+1,430,Damascus Helm
+1,431,Damascus Cap
+1,432,Damascus Helm R
+1,433,Damascus Cap R
+1,434,Skull Visage S
+1,435,Skull Mask S
+1,436,dummy
+1,437,dummy
+1,438,dummy
+1,439,dummy
+1,440,Artian Helm S
+1,441,Artian Cap S
+1,442,Artian Helm R
+1,443,Artian Cap R
+1,444,Seltas Helm
+1,445,Seltas Cap
+1,446,Rathalos Helm S
+1,447,Rathalos Cap S
+1,448,EX Rathalos Helm
+1,449,EX Rathalos Cap
+1,450,Rathalos Helm R
+1,451,Rathalos Cap R
+1,452,Lagiacrus Helm S
+1,453,Lagiacrus Cap S
+1,454,Lagiacrus Helm R
+1,455,Lagiacrus Cap R
+1,456,Zinogre Helm S
+1,457,Zinogre Cap S
+1,458,EX Zinogre Helm
+1,459,EX Zinogre Cap
+1,460,Mizutsune Helm S
+1,461,Mizutsune Mask S
+1,462,Astalos Helm S
+1,463,Astalos Cap S
+1,464,Gammoth Helm S
+1,465,Gammoth Cap S
+1,466,Glavenus Helm S
+1,467,Glavenus Cap S
+1,468,Agnaktor Helm
+1,469,Agnaktor Cap
+1,470,Gore Helm S
+1,471,Gore Cap S
+1,472,EX Gore Helm
+1,473,EX Gore Cap
+1,474,Gore Helm R
+1,475,Gore Cap R
+1,476,Regios Helm S
+1,477,Regios Cap S
+1,478,Duramboros Helm
+1,479,Duramboros Cap
+1,480,Tigrex Helm S
+1,481,Tigrex Cap S
+1,482,EX Tigrex Helm
+1,483,EX Tigrex Cap
+1,484,Tigrex Helm R
+1,485,Tigrex Cap R
+1,486,Kirin Horn S
+1,487,Kirin Crest S
+1,488,Kirin Horn R
+1,489,Kirin Crest R
+1,490,Brachydios Helm S
+1,491,Brachydios Cap S
+1,492,EX Brachydios Helm
+1,493,EX Brachydios Cap
+1,494,Golden Headdress
+1,495,Puppeteer Mask
+1,496,Vangis Helm
+1,497,Vangis Cap
+1,498,Guild Knight Feather
+1,499,Guild Knight Mask
+1,500,Maiden's Hat S
+1,501,French Maid Glasses S
+1,502,Blue Guild Tricorne
+1,503,Blue Guild Mask
+1,504,Red Guild Tricorne
+1,505,Red Guild Mask
+1,506,Helper Hood S
+1,507,Healer Glasses S
+1,508,Helper Hood U
+1,509,Healer Beret U
+1,510,Guild Bard Lobos S
+1,511,Guild Bard Hat S
+1,512,Chakra Earring
+1,513,dummy
+1,514,dummy
+1,515,Dianthus Wealcap
+1,516,Campanile Wealcap
+1,517,Ace Headgear
+1,518,Ace Mask
+1,519,Sororal Headgear
+1,520,Sororal Mask
+1,521,Hawkhat
+1,522,Hawkcap
+1,523,Gourmew Toque S
+1,524,Gourmew Cap S
+1,525,Felyne Hairband
+1,526,Scholarly Hood S
+1,527,Scholarly Cap S
+1,528,Ranger's Headgear
+1,529,Archer's Turban
+1,530,Shinobi Heaven Mask
+1,531,Shinobi Land Mask
+1,532,Shinobi Sky Mask
+1,533,Shinobi Sea Mask
+1,534,Ancient Helm
+1,535,Ancient Cap
+1,536,Master's Earcuff
+1,537,Master's Earrings
+1,538,Black Head S
+1,539,Black Face S
+1,540,Toka Kabuto
+1,541,Mitsuaoi Kabuto
+1,542,EX Rathian Helm S
+1,543,EX Rathian Cap S
+1,544,EX Rathalos Helm S
+1,545,EX Rathalos Cap S
+1,546,EX Tigrex Helm S
+1,547,EX Tigrex Cap S
+1,548,Arc Helm S
+1,549,Storge Helm S
+1,550,Arc Cap S
+1,551,Storge Cap S
+1,552,EX Arc Helm
+1,553,EX Storge Helm
+1,554,EX Arc Cap
+1,555,EX Storge Cap
+1,556,Arc Helm R
+1,557,Storge Helm R
+1,558,Arc Cap R
+1,559,Storge Cap R
+1,560,Kushala Glare S
+1,561,Kushala Snarl S
+1,562,EX Kushala Glare
+1,563,EX Kushala Snarl
+1,564,Kushala Glare R
+1,565,Kushala Snarl R
+1,566,Mizuha Cap S
+1,567,Cham Hat S
+1,568,EX Mizuha Cap
+1,569,EX Cham Hat
+1,570,Kaiser Crown S
+1,571,Kaiser Mask S
+1,572,EX Kaiser Crown
+1,573,EX Kaiser Mask
+1,574,Silver Solhelm
+1,575,Silver Solcap
+1,576,EX Silver Solhelm
+1,577,EX Silver Solcap
+1,578,Silver Solhelm R
+1,579,Silver Solcap R
+1,580,Golden Lunehelm
+1,581,Golden Lunecap
+1,582,EX Golden Lunehelm
+1,583,EX Golden Lunecap
+1,584,Divine Ire Headdress
+1,585,Crusher Mask
+1,586,Esurient Helm
+1,587,Esurient Cap
+1,588,Esurient Helm R
+1,589,Esurient Cap R
+1,590,Akantor Mask
+1,591,Akantor Fangs
+1,592,Akantor Mask R
+1,593,Akantor Fangs R
+1,594,Ukanlos Mask
+1,595,Ukanlos Fangs
+1,596,Tempest Crown
+1,597,Welkin Crown
+1,598,Tempest Crown R
+1,599,Welkin Crown R
+1,600,Skeletal Skull R
+1,601,Decayed Skull R
+1,602,Astral Helm
+1,603,Astral Mask
+1,604,Escadora Wisdom
+1,605,Escadora Sagesse
+1,606,Escadora Wisdom R
+1,607,Escadora Sagesse R
+1,608,dummy
+1,609,Dragonlord's Gaze
+1,610,Takami Feather
+1,611,Hayabusa Feather
+1,612,Kakuju Feather
+1,613,Sword Saint Earring
+1,614,Barrage Earring
+1,615,Strange Helm
+1,616,Strange Cap
+1,617,Redhelm Helm
+1,618,Redhelm Cap
+1,619,Snowbaron Helm
+1,620,Snowbaron Cap
+1,621,Stonefist Helm
+1,622,Stonefist Cap
+1,623,Dreadqueen Helm
+1,624,Dreadqueen Cap
+1,625,Drilltusk Helm
+1,626,Drilltusk Cap
+1,627,Silverwind Helm
+1,628,Silverwind Cap
+1,629,Crystalbeard Helm
+1,630,Crystalbeard Cap
+1,631,Deadeye Helm
+1,632,Deadeye Cap
+1,633,Dreadking Helm
+1,634,Dreadking Cap
+1,635,Thunderlord Helm
+1,636,Thunderlord Cap
+1,637,Grimclaw Helm
+1,638,Grimclaw Cap
+1,639,Hellblade Helm
+1,640,Hellblade Cap
+1,641,Shadow Shades
+1,642,dummy
+1,643,dummy
+1,644,Ushio's Cut
+1,645,Ushio's Hair
+1,646,dummy
+1,647,dummy
+1,648,dummy
+1,649,dummy
+1,650,dummy
+1,651,dummy
+1,652,dummy
+1,653,dummy
+1,654,dummy
+1,655,dummy
+1,656,dummy
+1,657,dummy
+1,658,Bristling Mane
+1,659,Terrifying Mane
+1,660,Champion's Hair
+1,661,Strongman's Hair
+1,662,Zodias Helm
+1,663,Zodias Cap
+1,664,Pirate Hat J
+1,665,Pirate Roger J
+1,666,Buccaneer Hat J
+1,667,Buccaneer Roger J
+1,668,Dynaqlo Beanie
+1,669,Dynaqlo Headphones
+1,670,Promising Helm
+1,671,Halcyon Helm
+1,672,Blue Star Lobos
+1,673,Blue Star Hat
+1,674,Star Rook Helm
+1,675,Star Rook Cap
+1,676,Star Knight Helm
+1,677,Star Knight Cap
+1,678,Nisetama Mask
+1,679,Nisetama Hood
+1,680,Nisetama Mask S
+1,681,Nisetama Hood S
+1,682,Hero's Hat
+1,683,Hero's Cap
+1,684,Varia Suit Visor
+1,685,Varia Suit Scope
+1,686,Zero Suit Ponytail
+1,687,Zero Suit Hairpiece
+1,688,Helm of Rage
+1,689,Cap of Rage
+1,690,Helm of Anat
+1,691,Cap of Anat
+1,692,dummy
+1,693,dummy
+1,694,Mosgharl Vizor
+1,695,Mosgharl Brim
+1,696,Gammoth Helm
+1,697,Gammoth Cap
+1,698,Gourmew Toque
+1,699,Gourmew Cap
+1,700,Leather Cap S
+1,701,Chainmail Cap S
+1,702,Mosgharl Vizor S
+1,703,Mosgharl Brim S
+1,704,Gammoth Helm S
+1,705,Gammoth Cap S
+1,706,Blue Guild Tricorne
+1,707,Blue Guild Piercing
+1,708,Red Guild Tricorne
+1,709,Red Guild Piercing
+1,710,Gourmew Toque S
+1,711,Gourmew Cap S
+1,712,Promising Archhelm
+1,713,Halcyon Archhelm
+1,714,Lucid Crown
+1,715,Dreamy Crown
+1,716,Lucid Miter
+1,717,Dreamy Miter
+1,718,Conga Helm
+1,719,Conga Cap
+1,720,Giaprey Head
+1,721,Giaprey Mask
+1,722,Barroth Helm
+1,723,Barroth Cap
+1,724,Basarios Helm
+1,725,Basarios Cap
+1,726,Nerscylla Helm
+1,727,Nerscylla Cap
+1,728,Barioth Helm
+1,729,Barioth Cap
+1,730,Gravios Helm
+1,731,Gravios Cap
+1,732,Cheerful Helm
+1,733,Cheerful Cap
+1,734,Mariner Hat
+1,735,Mariner Cap
+1,736,Jaggi Mask
+1,737,dummy
+1,738,Diablos Helm
+1,739,Diablos Cap
+1,740,Diablos R Helm
+1,741,Diablos R Cap
+1,742,Valfalk Helm
+1,743,Valfalk Cap
+1,744,Wisdom Head
+1,745,Wisdom Hat
+1,746,Flame Earring
+1,747,Shock Earring
+1,748,Ice Earring
+1,749,Water Earring
+1,750,Comet Earring
+1,751,Bherna Turban X
+1,752,Bherna Cap X
+1,753,Hunting Helm X
+1,754,Hunting Cap X
+1,755,Mafumofu Hood X
+1,756,Mafumofu Cap X
+1,757,Xtreme YukumoSky Kasa
+1,758,Xtreme YukumoLand Kasa
+1,759,Slagtoth Hood X
+1,760,Slagtoth Cowl X
+1,761,Larinoth Mask X
+1,762,Gargwa Mask X
+1,763,Velociprey Head X
+1,764,Velociprey Mask X
+1,765,Genprey Head X
+1,766,Genprey Mask X
+1,767,Ioprey Head X
+1,768,Ioprey Mask X
+1,769,Remobra Headgear X
+1,770,Remobra Mask X
+1,771,dummy
+1,772,dummy
+1,773,Mosswine Mask X
+1,774,Rhenoplos Helm X
+1,775,Rhenoplos Cap X
+1,776,Jaggi Helm X
+1,777,Jaggi Cap X
+1,778,Jaggi Head X
+1,779,dummy
+1,780,dummy
+1,781,dummy
+1,782,dummy
+1,783,dummy
+1,784,Maccao Helm X
+1,785,Maccao Cap X
+1,786,Velociprey Helm X
+1,787,Velociprey Cap X
+1,788,Giaprey Helm X
+1,789,Giaprey Cap X
+1,790,Genprey Helm X
+1,791,Genprey Cap X
+1,792,Ioprey Helm X
+1,793,Ioprey Cap X
+1,794,Vespoid Helm X
+1,795,Vespoid Cap X
+1,796,Hornetaur Helm X
+1,797,Hornetaur Cap X
+1,798,Bnahabra Hat X
+1,799,Bnahabra Headpiece X
+1,800,Konchu Helm X
+1,801,Konchu Cap X
+1,802,Bulldrome Helm X
+1,803,Bulldrome Cap X
+1,804,Bullfango Mask X
+1,805,Arzuros Helm X
+1,806,Arzuros Cap X
+1,807,Cephalos Helm X
+1,808,Cephalos Cap X
+1,809,Kut-Ku Helm X
+1,810,Kut-Ku Cap X
+1,811,Kecha Helm X
+1,812,Kecha Cap X
+1,813,Lagombi Helm X
+1,814,Lagombi Cap X
+1,815,Gypceros Helm X
+1,816,Gypceros Cap X
+1,817,Tetsucabra Helm X
+1,818,Tetsucabra Cap X
+1,819,Hermitaur Helm X
+1,820,Hermitaur Cap X
+1,821,Ludroth Helm X
+1,822,Ludroth Cap X
+1,823,Gourmew Toque X
+1,824,Gourmew Cap X
+1,825,Gourmew Toque X
+1,826,Gourmew Cap X
+1,827,Moofah Head X
+1,828,Moofah Wig X
+1,829,Edel Vizor X
+1,830,Edel Bloom X
+1,831,Acorn Helm X
+1,832,Acorn Cap X
+1,833,Death Stench Brain X
+1,834,Death Stench Soul X
+1,835,Skalda Vertex X
+1,836,Skalda Clypeus X
+1,837,Spio Vertex X
+1,838,Spio Clypeus X
+1,839,Hunter's Helm XR
+1,840,Hunter's Cap XR
+1,841,Volvidon Helm X
+1,842,Volvidon Cap X
+1,843,Conga Helm X
+1,844,Conga Cap X
+1,845,Barroth Helm X
+1,846,Barroth Cap X
+1,847,Basarios Helm X
+1,848,Basarios Cap X
+1,849,Malfestio Helm X
+1,850,Malfestio Cap X
+1,851,Zamtrios Helm X
+1,852,Zamtrios Cap X
+1,853,Khezu Helm X
+1,854,Khezu Cap X
+1,855,Nerscylla Helm X
+1,856,Nerscylla Cap X
+1,857,Rathian Helm X
+1,858,Rathian Cap X
+1,859,Nibelsnarf Helm X
+1,860,Nibelsnarf Cap X
+1,861,Plesioth Helm X
+1,862,Plesioth Cap X
+1,863,Blangonga Helm X
+1,864,Blangonga Cap X
+1,865,Ceanataur Helm X
+1,866,Ceanataur Cap X
+1,867,Najarala Helm X
+1,868,Najarala Cap X
+1,869,Nargacuga Helm X
+1,870,Nargacuga Cap X
+1,871,Gypceros Helm XR
+1,872,Gypceros Cap XR
+1,873,Hermitaur Helm XR
+1,874,Hermitaur Cap XR
+1,875,Ludroth Helm XR
+1,876,Ludroth Cap XR
+1,877,Strange Helm X
+1,878,Strange Cap X
+1,879,Bistro Toque X
+1,880,Bistro Cap X
+1,881,Lecturer's Hood X
+1,882,Lecturer's Cap X
+1,883,Patissier's Toque X
+1,884,Patissier's Cap X
+1,885,Luxury Bath Towel X
+1,886,Maiden's Hat X
+1,887,Exclusive Glasses X
+1,888,Dianthus Wealcap X
+1,889,Campanile Wealcap X
+1,890,GX Conga Helm
+1,891,GX Conga Cap
+1,892,Alloy Helm XR
+1,893,Alloy Cap XR
+1,894,Ingot Helm XR
+1,895,Ingot Cap XR
+1,896,Artian Helm X
+1,897,Artian Cap X
+1,898,Lobster Helm X
+1,899,Lobster Cap X
+1,900,Khezu Helm XR
+1,901,Khezu Cap XR
+1,902,Ceanataur Helm XR
+1,903,Ceanataur Cap XR
+1,904,Rathian Helm XR
+1,905,Rathian Cap XR
+1,906,Lavasioth Helm X
+1,907,Lavasioth Cap X
+1,908,Garuga Helm X
+1,909,Garuga Cap X
+1,910,Uragaan Helm X
+1,911,Uragaan Cap X
+1,912,Barioth Helm X
+1,913,Barioth Cap X
+1,914,Seltas Helm X
+1,915,Seltas Cap X
+1,916,Rathalos Helm X
+1,917,Rathalos Cap X
+1,918,Lagiacrus Helm X
+1,919,Lagiacrus Cap X
+1,920,Zinogre Helm X
+1,921,Zinogre Cap X
+1,922,Gravios Helm X
+1,923,Gravios Cap X
+1,924,Mizutsune Helm X
+1,925,Mizutsune Cap X
+1,926,Astalos Helm X
+1,927,Astalos Cap X
+1,928,Gammoth Helm X
+1,929,Gammoth Cap X
+1,930,Glavenus Helm X
+1,931,Glavenus Cap X
+1,932,Gore Helm X
+1,933,Gore Cap X
+1,934,Kirin Horn X
+1,935,Kirin Crest X
+1,936,Kirin Horn XR
+1,937,Kirin Crest XR
+1,938,Auroros Headpiece
+1,939,Borealis Crown
+1,940,Genesis Headpiece
+1,941,Glyph Crown
+1,942,GX Auroros Headpiece
+1,943,GX Borealis Crown
+1,944,GX Genesis Headpiece
+1,945,GX Glyph Crown
+1,946,Battle Auroros Headpiece
+1,947,Battle Borealis Crown
+1,948,Battle Genesis Headpiece
+1,949,Battle Glyph Crown
+1,950,Scholar's Beret X
+1,951,Scholar's Cap X
+1,952,Sailor Hat X
+1,953,Sailor Cap X
+1,954,Hawkhat X
+1,955,Hawkcap X
+1,956,Scholarly Hood X
+1,957,Scholarly Cap X
+1,958,Researcher's Hood
+1,959,Researcher's Cap
+1,960,Rathalos Helm XR
+1,961,Rathalos Cap XR
+1,962,Lagiacrus Helm XR
+1,963,Lagiacrus Cap XR
+1,964,Gore Helm XR
+1,965,Gore Cap XR
+1,966,Agnaktor Helm X
+1,967,Agnaktor Cap X
+1,968,Regios Helm X
+1,969,Regios Cap X
+1,970,Duramboros Helm X
+1,971,Duramboros Cap X
+1,972,Tigrex Helm X
+1,973,Tigrex Cap X
+1,974,Tigrex Helm XR
+1,975,Tigrex Cap XR
+1,976,Diablos Helm X
+1,977,Diablos Cap X
+1,978,Diablos Helm XR
+1,979,Diablos Cap XR
+1,980,Brachydios Helm X
+1,981,Brachydios Cap X
+1,982,Arc Helm X
+1,983,Storge Helm X
+1,984,Arc Cap X
+1,985,Storge Cap X
+1,986,Arc Helm XR
+1,987,Storge Helm XR
+1,988,Arc Cap XR
+1,989,Storge Cap XR
+1,990,Valfalk Helm X
+1,991,Valfalk Cap X
+1,992,Grand God's Peer Mask
+1,993,Grand Hermit Mask
+1,994,Vangis Helm X
+1,995,Vangis Cap X
+1,996,Kushala Glare X
+1,997,Kushala Snarl X
+1,998,Kushala Glare XR
+1,999,Kushala Snarl XR
+1,1000,Grand Mizuha Cap
+1,1001,Grand Cham Hat
+1,1002,Kaiser Crown X
+1,1003,Kaiser Mask X
+1,1004,Silver Solhelm Z
+1,1005,Silver Solcap Z
+1,1006,Golden Lunehelm Z
+1,1007,Golden Lunecap Z
+1,1008,Yaksha Mask
+1,1009,Carnage Helm
+1,1010,Guardian Helm X
+1,1011,Guardian Mask X
+1,1012,Blue G. Knight Tricorne X
+1,1013,Blue G. Knight Tricorne X
+1,1014,Blue G. Knight Mask X
+1,1015,Blue G. Knight Mask X
+1,1016,Red G. Knight Tricorne X
+1,1017,Red G. Knight Tricorne X
+1,1018,Red G. Knight Mask X
+1,1019,Red G. Knight Mask X
+1,1020,G. Knight Feather X
+1,1021,G. Knight Mask X
+1,1022,G. Bard Lobos X
+1,1023,G. Bard Hat X
+1,1024,Ace Headgear X
+1,1025,Ace Mask X
+1,1026,Sororal Headgear X
+1,1027,Sororal Mask X
+1,1028,Shinobi Heaven Mask X
+1,1029,Shinobi Land Mask X
+1,1030,Kaiserin Helm
+1,1031,Kaiserin Cap
+1,1032,Barmaid's Mask
+1,1033,Barmaid's Earrings
+1,1034,Bartender's Mask
+1,1035,Bartender's Earrings
+1,1036,Helios Helm X
+1,1037,Selene Helm X
+1,1038,Helios Cap X
+1,1039,Selene Cap X
+1,1040,Citadel Ranger's Headgear
+1,1041,Citadel Archer's Turban
+1,1042,Damascus Helm X
+1,1043,Damascus Cap X
+1,1044,Chaos Helm
+1,1045,Nephilim Helm
+1,1046,Chaos Cap
+1,1047,Nephilim Cap
+1,1048,Grand Divine Ire Mask
+1,1049,Grand Crusher Mask
+1,1050,Esurient Helm Z
+1,1051,Esurient Cap Z
+1,1052,Brachydium Helm
+1,1053,Brachydium Cap
+1,1054,Akantor Mask X
+1,1055,Akantor Fangs X
+1,1056,Akantor Mask XR
+1,1057,Akantor Fangs XR
+1,1058,Ukanlos Mask X
+1,1059,Ukanlos Fangs X
+1,1060,True Tempest Crown
+1,1061,True Welkin Crown
+1,1062,True Skeletal Skull
+1,1063,True Decayed Skull
+1,1064,Astral Helm X
+1,1065,Astral Mask X
+1,1066,Neset Khat
+1,1067,Neset Lappet
+1,1068,Black Head X
+1,1069,Black Face X
+1,1070,Escadora Wisdom X
+1,1071,Escadora Sagesse X
+1,1072,Escadora Wisdom XR
+1,1073,Escadora Sagesse XR
+1,1074,Fatalis Crimsonhead
+1,1075,Fatalis Crimsonface
+1,1076,GX Fatalis Crimsonhead
+1,1077,GX Fatalis Crimsonface
+1,1078,Fatalis Crimsonhead XR
+1,1079,Fatalis Crimsonface XR
+1,1080,White Fatalis Head
+1,1081,White Fatalis Face
+1,1082,GX White Fatalis Head
+1,1083,GX White Fatalis Face
+1,1084,Helper Hood X
+1,1085,Healer Glasses X
+1,1086,Ancient Helm X
+1,1087,Ancient Cap X
+1,1088,Master's Earcuff X
+1,1089,Master's Earrings X
+1,1090,True Toka Kabuto
+1,1091,True Mitsuaoi Kabuto
+1,1092,Bherna Fiore
+1,1093,Kokoto Hat
+1,1094,Pokke Neve
+1,1095,Yukumo Terme
+1,1096,Black Belt Helm X
+1,1097,Black Belt Cap X
+1,1098,Emotion Piercing
+1,1099,Desire Piercing
+1,1100,Auroros Kermes Headpiece
+1,1101,Borealis Kermes Crown
+1,1102,Genesis Kermes Headpiece
+1,1103,Glyph Kermes Crown
+1,1104,Silver Solhelm XR
+1,1105,Silver Solcap XR
+1,1106,Esurient Helm XR
+1,1107,Esurient Cap XR
+1,1108,Shredclaw Helm
+1,1109,Shredclaw Cap
+1,1110,Hazewing Helm
+1,1111,Hazewing Cap
+1,1112,Divinesight Helm
+1,1113,Divinesight Cap
+1,1114,Azurebolt Helm
+1,1115,Azurebolt Cap
+1,1116,Frostpeak Helm
+1,1117,Frostpeak Cap
+1,1118,Bloodlust Helm
+1,1119,Bloodlust Cap
+1,1120,Gammoth Helm X
+1,1121,Gammoth Cap X
+1,1122,GX Genprey Helm
+1,1123,GX Genprey Cap
+1,1124,GX Ioprey Helm
+1,1125,GX Ioprey Cap
+1,1126,GX Vespoid Helm
+1,1127,GX Vespoid Cap
+1,1128,Hornetaur Helm XR
+1,1129,Hornetaur Cap XR
+1,1130,GX Hornetaur Helm
+1,1131,GX Hornetaur Cap
+1,1132,GX Cephalos Helm
+1,1133,GX Cephalos Cap
+1,1134,GX Hermitaur Helm
+1,1135,GX Hermitaur Cap
+1,1136,GX Rathian Helm
+1,1137,GX Rathian Cap
+1,1138,GX Ceanataur Helm
+1,1139,GX Ceanataur Cap
+1,1140,GX Blango Helm
+1,1141,GX Blango Cap
+1,1142,GX Gore Helm
+1,1143,GX Gore Cap
+1,1144,GX Zinogre Helm
+1,1145,GX Zinogre Cap
+1,1146,GX Tigrex Helm
+1,1147,GX Tigrex Cap
+1,1148,GX Brachydios Helm
+1,1149,GX Brachydios Cap
+1,1150,GX Rathalos Helm
+1,1151,GX Rathalos Cap
+1,1152,GX Arc Helm
+1,1153,GX Arc Cap
+1,1154,GX Storge Helm
+1,1155,GX Storge Cap
+1,1156,GX Kushala Glare
+1,1157,GX Kushala Snarl
+1,1158,GX Mizuha Cap
+1,1159,GX Cham Hat
+1,1160,GX Kaiser Crown
+1,1161,GX Kaiser Mask
+1,1162,GX Lavasioth Helm
+1,1163,GX Lavasioth Cap
+1,1164,GX Silver Solhelm
+1,1165,GX Silver Solcap
+1,1166,GX Golden Lunehelm
+1,1167,GX Golden Lunecap
+1,1168,Tempest Kermes Crown
+1,1169,Welkin Kermes Crown
+1,1170,Leather Helm X
+1,1171,Leather Cap X
+1,1172,Chainmail Helm X
+1,1173,Chainmail Cap X
+1,1174,dummy
+1,1175,Hunter's Helm X
+1,1176,Hunter's Cap X
+1,1177,Bone Helm X
+1,1178,Bone Cap X
+1,1179,Dober Helm X
+1,1180,Dober Cap X
+1,1181,Alloy Helm X
+1,1182,Alloy Cap X
+1,1183,Ingot Helm X
+1,1184,Ingot Cap X
+1,1185,Damascus Helm XR
+1,1186,Damascus Cap XR
+1,1187,Battle Helm X
+1,1188,Battle Cap X
+1,1189,High Metal Helm X
+1,1190,High Metal Cap X
+1,1191,High Metal Helm Z
+1,1192,High Metal Cap Z
+1,1193,Mosgharl Vizor X
+1,1194,Mosgharl Brim X
+1,1195,Mosgharl Vizor X
+1,1196,Mosgharl Brim X
+1,1197,Obituary Vertex X
+1,1198,Obituary Clypeus X
+1,1199,Butterfly Vertex X
+1,1200,Butterfly Clypeus X
+1,1201,Aelucanth Vertex X
+1,1202,Aelucanth Clypeus X
+1,1203,Rhopessa Vertex X
+1,1204,Rhopessa Clypeus X
+1,1205,Vaik Helm X
+1,1206,Vaik Cap X
+1,1207,Guardian Helm Z
+1,1208,Guardian Mask Z
+1,1209,Helper Hood Z
+1,1210,Healer Beret Z
+1,1211,Death Stench Brain XR
+1,1212,Death Stench Soul XR
+1,1213,Makluva Hood X
+1,1214,Makluva Gills X
+1,1215,Makluva Hood Z
+1,1216,Makluva Gills Z
+1,1217,Melahoa Hat X
+1,1218,Melahoa Bloom X
+1,1219,Melahoa Hat Z
+1,1220,Melahoa Bloom Z
+1,1221,Derring Helm X
+1,1222,Derring Cap X
+1,1223,GX Kita Star Headdress
+1,1224,GX Umi Ocean Headdress
+1,1225,True Chaoshroom
+1,1226,True Chaos Diadem
+1,1227,Wisdom Head X
+1,1228,Wisdom Hat X
+1,1229,Cheerful Helm X
+1,1230,Cheerful Cap X
+1,1231,Mariner Hat X
+1,1232,Mariner Cap X
+1,1233,dummy
+1,1234,dummy
+1,1235,dummy
+1,1236,dummy
+1,1237,dummy
+1,1238,dummy
+1,1239,dummy
+1,1240,dummy
+1,1241,Giaprey Head X
+1,1242,Giaprey Mask X
+1,1243,Garuga Mask X
+1,1244,Dragonlord's Gaze X
+1,1245,dummy
+1,1246,Smart Glasses X
+1,1247,dummy
+1,1248,dummy
+1,1249,dummy
+1,1250,dummy
+1,1251,Artian Helm XR
+1,1252,Artian Cap XR
+1,1253,Dragonhead
+1,1254,Dragonface
+1,1255,Criminal Mask
+1,1256,Criminal Hood
+1,1257,Gon Helm
+1,1258,Gon Cap
+1,1259,Arcfire Kasa
+1,1260,Bonfire Kasa
+1,1261,Waka Kasa
+1,1262,Wagaku Kasa
+1,1263,Ruler Arcfire Kasa
+1,1264,Ruler Bonfire Kasa
+1,1265,Ruler Waka Kasa
+1,1266,Ruler Wagaku Kasa
+1,1267,Supreme Arcfire Kasa
+1,1268,Supreme Bonfire Kasa
+1,1269,Supreme Wagaku Kasa
+1,1270,Supreme Wagaku Kasa
+1,1271,Golden Knight Helm
+1,1272,Golden Knight Cap
+1,1273,Varia Suit Visor
+1,1274,Varia Suit Scope
+1,1275,Zero Suit Ponytail
+1,1276,Zero Suit Hairpiece
+1,1277,Lodestar Band
+1,1278,Lodestar Hoop
+1,1279,Hylian Hat
+1,1280,Hylian Hood
+1,1281,Hiryu Sky Mask
+1,1282,Hiryu Land Mask
+2,0,(None)
+2,1,Leather Vest
+2,2,Chainmail Vest
+2,3,Bherna Mail
+2,4,Hunting Mail
+2,5,Hunting Vest
+2,6,Mafumofu Jacket
+2,7,Yukumo Dogi
+2,8,Loc Lac Shawl
+2,9,Hunter's Mail
+2,10,Hunter's Vest
+2,11,Bone Mail
+2,12,Bone Vest
+2,13,dummy
+2,14,dummy
+2,15,Chaos Plate
+2,16,Chaos Brigandine
+2,17,dummy
+2,18,dummy
+2,19,dummy
+2,20,dummy
+2,21,dummy
+2,22,dummy
+2,23,Jaggi Mail
+2,24,Jaggi Vest
+2,25,Maccao Mail
+2,26,Maccao Vest
+2,27,Velociprey Mail
+2,28,Velociprey Vest
+2,29,Giaprey Mail
+2,30,Giaprey Vest
+2,31,Genprey Mail
+2,32,Genprey Vest
+2,33,Vespoid Mail
+2,34,Vespoid Vest
+2,35,Hornetaur Mail
+2,36,Hornetaur Vest
+2,37,Bnahabra Suit
+2,38,Bnahabra Vest
+2,39,dummy
+2,40,dummy
+2,41,Mosswine Vest
+2,42,Rhenoplos Mail
+2,43,Rhenoplos Vest
+2,44,Bulldrome Mail
+2,45,Bulldrome Vest
+2,46,dummy
+2,47,Arzuros Mail
+2,48,Arzuros Vest
+2,49,Cephalos Mail
+2,50,Cephalos Vest
+2,51,Derring Jacket
+2,52,Alloy Mail
+2,53,Alloy Vest
+2,54,Battle Mail
+2,55,Battle Vest
+2,56,Ingot Mail
+2,57,Ingot Vest
+2,58,High Metal Mail
+2,59,High Metal Vest
+2,60,dummy
+2,61,dummy
+2,62,Melahoa Jacket
+2,63,Melahoa Stalk
+2,64,Makluva Cover
+2,65,Makluva Scale
+2,66,Bistro Suit
+2,67,Bistro Vest
+2,68,Obituary Thorax
+2,69,Obituary Pleuron
+2,70,Butterfly Thorax
+2,71,Butterfly Pleuron
+2,72,Death Stench Muscle
+2,73,Death Stench Heart
+2,74,Acorn Mail
+2,75,Acorn Vest
+2,76,Mosgharl Ribplate
+2,77,Mosgharl Ribguard
+2,78,Edel Ribplate
+2,79,Edel Ribguard
+2,80,Skalda Thorax
+2,81,Skalda Pleuron
+2,82,Spio Thorax
+2,83,Spio Pleuron
+2,84,Droth Mail
+2,85,Droth Vest
+2,86,Uroktor Torso
+2,87,Uroktor Vest
+2,88,dummy
+2,89,dummy
+2,90,Moofah Suit
+2,91,Moofah Jacket
+2,92,dummy
+2,93,Velociprey Body
+2,94,Velociprey Suit
+2,95,Genprey Body
+2,96,Genprey Suit
+2,97,Ioprey Body
+2,98,Ioprey Wear
+2,99,Remobra Suit
+2,100,Remobra Wear
+2,101,Ioprey Mail
+2,102,Ioprey Vest
+2,103,Kut-Ku Mail
+2,104,Kut-Ku Vest
+2,105,Lagombi Mail
+2,106,Lagombi Vest
+2,107,Gypceros Mail
+2,108,Gypceros Vest
+2,109,Tetsucabra Mail
+2,110,Tetsucabra Vest
+2,111,Hermitaur Mail
+2,112,Hermitaur Vest
+2,113,Volvidon Mail
+2,114,Volvidon Vest
+2,115,Ludroth Mail
+2,116,Ludroth Vest
+2,117,Malfestio Mail
+2,118,Malfestio Vest
+2,119,Khezu Mail
+2,120,Khezu Vest
+2,121,Rathian Mail
+2,122,Rathian Vest
+2,123,Nibelsnarf Mail
+2,124,Nibelsnarf Vest
+2,125,Blango Mail
+2,126,Blango Vest
+2,127,Ceanataur Mail
+2,128,Ceanataur Vest
+2,129,Najarala Mail
+2,130,Najarala Vest
+2,131,Nargacuga Mail
+2,132,Nargacuga Vest
+2,133,Scholarly Suit
+2,134,Scholarly Vest
+2,135,Vaik Mail
+2,136,Vaik Vest
+2,137,dummy
+2,138,dummy
+2,139,Aelucanth Thorax
+2,140,Aelucanth Pleuron
+2,141,Rhopessa Thorax
+2,142,Rhopessa Pleuron
+2,143,Artian Mail
+2,144,Artian Vest
+2,145,Garuga Mail
+2,146,Garuga Vest
+2,147,dummy
+2,148,Uragaan Mail
+2,149,Uragaan Vest
+2,150,Rathalos Mail
+2,151,Rathalos Vest
+2,152,Lagiacrus Mail
+2,153,Lagiacrus Vest
+2,154,Zinogre Mail
+2,155,Zinogre Vest
+2,156,Mizutsune Mail
+2,157,Mizutsune Vest
+2,158,Astalos Mail
+2,159,Astalos Vest
+2,160,Gammoth Mail
+2,161,Gammoth Vest
+2,162,Glavenus Mail
+2,163,Glavenus Vest
+2,164,Gore Mail
+2,165,Gore Vest
+2,166,Regios Mail
+2,167,Regios Vest
+2,168,Tigrex Mail
+2,169,Tigrex Vest
+2,170,Kirin Jacket
+2,171,Kirin Cape
+2,172,Brachydios Mail
+2,173,Brachydios Vest
+2,174,Arc Mail
+2,175,Storge Mail
+2,176,Arc Vest
+2,177,Storge Vest
+2,178,Kushala Cista
+2,179,Kushala Vise
+2,180,Mizuha Guards
+2,181,Cham Camise
+2,182,Kaiser Mail
+2,183,Kaiser Vest
+2,184,Skeletal Sternum
+2,185,Decayed Sternum
+2,186,Black Hide
+2,187,Black Skin
+2,188,Black Belt Mail
+2,189,Black Belt Vest
+2,190,Guild Bard Bolero
+2,191,Guild Bard Vest
+2,192,Maiden's Suit
+2,193,French Maid Vest
+2,194,Helper Suit
+2,195,Healer Vest
+2,196,Dianthus Gown
+2,197,Campanile Gown
+2,198,Bath Robe
+2,199,Gourmew Suit
+2,200,Gourmew Vest
+2,201,Leather Mail S
+2,202,Chainmail Armor S
+2,203,Bherna Mail S
+2,204,Bherna Vest S
+2,205,Hunting Mail S
+2,206,Hunting Vest S
+2,207,Mafumofu Suit S
+2,208,Mafumofu Jacket S
+2,209,Yukumo Sky Dogi
+2,210,Yukumo Land Dogi
+2,211,Loc Lac Shawl S
+2,212,Hunter's Mail S
+2,213,Hunter's Vest S
+2,214,Hunter's Mail R
+2,215,Hunter's Vest R
+2,216,Bone Mail S
+2,217,Bone Vest S
+2,218,dummy
+2,219,dummy
+2,220,dummy
+2,221,dummy
+2,222,Chaos Archplate
+2,223,Chaos Archbrigandine
+2,224,Melahoa Jacket S
+2,225,Melahoa Stalk S
+2,226,Melahoa Jacket U
+2,227,Melahoa Stalk U
+2,228,Makluva Cover S
+2,229,Makluva Scale S
+2,230,Makluva Cover U
+2,231,Makluva Scale U
+2,232,Bistro Suit S
+2,233,Bistro Vest S
+2,234,Acorn Mail S
+2,235,Acorn Vest S
+2,236,Mosgharl Ribplate S
+2,237,Mosgharl Ribguard S
+2,238,Edel Ribplate S
+2,239,Edel Ribguard S
+2,240,Moofah Suit S
+2,241,Moofah Jacket S
+2,242,Slagtoth Cloak
+2,243,Slagtoth Wrap
+2,244,dummy
+2,245,dummy
+2,246,dummy
+2,247,Velociprey Body S
+2,248,Velociprey Suit S
+2,249,Genprey Body S
+2,250,Genprey Suit S
+2,251,Ioprey Body S
+2,252,Ioprey Wear S
+2,253,Remobra Suit S
+2,254,Remobra Wear S
+2,255,dummy
+2,256,dummy
+2,257,dummy
+2,258,dummy
+2,259,dummy
+2,260,dummy
+2,261,Mosswine Vest S
+2,262,Rhenoplos Mail S
+2,263,Rhenoplos Vest S
+2,264,Jaggi Mail S
+2,265,Jaggi Vest S
+2,266,Droth Mail S
+2,267,Droth Vest S
+2,268,Uroktor Torso S
+2,269,Uroktor Vest S
+2,270,Maccao Mail S
+2,271,Maccao Vest S
+2,272,Velociprey Mail S
+2,273,Velociprey Vest S
+2,274,Giaprey Mail S
+2,275,Giaprey Vest S
+2,276,Genprey Mail S
+2,277,Genprey Vest S
+2,278,EX Genprey Mail
+2,279,EX Genprey Vest
+2,280,Ioprey Mail S
+2,281,Ioprey Vest S
+2,282,EX Ioprey Mail
+2,283,EX Ioprey Vest
+2,284,Vespoid Mail S
+2,285,Vespoid Vest S
+2,286,EX Vespoid Mail
+2,287,EX Vespoid Vest
+2,288,Hornetaur Mail S
+2,289,Hornetaur Vest S
+2,290,EX Hornetaur Mail
+2,291,EX Hornetaur Vest
+2,292,Hornetaur Mail R
+2,293,Hornetaur Vest R
+2,294,Bnahabra Suit S
+2,295,Bnahabra Vest S
+2,296,dummy
+2,297,dummy
+2,298,Bulldrome Mail S
+2,299,Bulldrome Vest S
+2,300,dummy
+2,301,Arzuros Mail S
+2,302,Arzuros Vest S
+2,303,Cephalos Mail S
+2,304,Cephalos Vest S
+2,305,EX Cephalos Mail
+2,306,EX Cephalos Vest
+2,307,Kut-Ku Mail S
+2,308,Kut-Ku Vest S
+2,309,Kecha Mail
+2,310,Kecha Vest
+2,311,Lagombi Mail S
+2,312,Lagombi Vest S
+2,313,Gypceros Mail S
+2,314,Gypceros Vest S
+2,315,Gypceros Mail R
+2,316,Gypceros Vest R
+2,317,Tetsucabra Mail S
+2,318,Tetsucabra Vest S
+2,319,Hermitaur Mail S
+2,320,Hermitaur Vest S
+2,321,EX Hermitaur Mail
+2,322,EX Hermitaur Vest
+2,323,Hermitaur Mail R
+2,324,Hermitaur Vest R
+2,325,Volvidon Mail S
+2,326,Volvidon Vest S
+2,327,Ludroth Mail S
+2,328,Ludroth Vest S
+2,329,Ludroth Mail R
+2,330,Ludroth Vest R
+2,331,Lecturer's Suit
+2,332,Lecturer's Jacket
+2,333,Alloy Mail S
+2,334,Alloy Vest S
+2,335,Alloy Mail R
+2,336,Alloy Vest R
+2,337,Battle Mail S
+2,338,Battle Vest S
+2,339,Ingot Mail S
+2,340,Ingot Vest S
+2,341,Ingot Mail R
+2,342,Ingot Vest R
+2,343,High Metal Mail S
+2,344,High Metal Vest S
+2,345,High Metal Mail U
+2,346,High Metal Vest U
+2,347,dummy
+2,348,dummy
+2,349,Lobster Mail
+2,350,Lobster Vest
+2,351,Obituary Thorax S
+2,352,Obituary Pleuron S
+2,353,Butterfly Thorax S
+2,354,Butterfly Pleuron S
+2,355,Death Stench Muscle S
+2,356,Death Stench Heart S
+2,357,Death Stench Muscle R
+2,358,Death Stench Heart R
+2,359,Vaik Mail S
+2,360,Vaik Vest S
+2,361,Aelucanth Thorax S
+2,362,Aelucanth Pleuron S
+2,363,Rhopessa Thorax S
+2,364,Rhopessa Pleuron S
+2,365,Patissier's Suit
+2,366,Patissier's Vest
+2,367,Skalda Thorax S
+2,368,Skalda Pleuron S
+2,369,Spio Thorax S
+2,370,Spio Pleuron S
+2,371,Malfestio Mail S
+2,372,Malfestio Vest S
+2,373,Zamtrios Mail
+2,374,Zamtrios Vest
+2,375,Khezu Mail S
+2,376,Khezu Vest S
+2,377,Khezu Mail R
+2,378,Khezu Vest R
+2,379,Rathian Mail S
+2,380,Rathian Vest S
+2,381,EX Rathian Mail
+2,382,EX Rathian Vest
+2,383,Rathian Mail R
+2,384,Rathian Vest R
+2,385,Nibelsnarf Mail S
+2,386,Nibelsnarf Vest S
+2,387,Plesioth Mail
+2,388,Plesioth Vest
+2,389,Blango Mail S
+2,390,Blango Vest S
+2,391,EX Blango Mail
+2,392,EX Blango Vest
+2,393,Lavasioth Mail
+2,394,Lavasioth Vest
+2,395,EX Lavasioth Mail
+2,396,EX Lavasioth Vest
+2,397,Ceanataur Mail S
+2,398,Ceanataur Vest S
+2,399,EX Ceanataur Mail
+2,400,EX Ceanataur Vest
+2,401,Ceanataur Mail R
+2,402,Ceanataur Vest R
+2,403,Najarala Mail S
+2,404,Najarala Vest S
+2,405,Nargacuga Mail S
+2,406,Nargacuga Vest S
+2,407,Garuga Mail S
+2,408,Garuga Vest S
+2,409,dummy
+2,410,Uragaan Mail S
+2,411,Uragaan Vest S
+2,412,Black Belt Mail S
+2,413,Black Belt Vest S
+2,414,Guardian Suit
+2,415,Guardian Vest
+2,416,Guardian Suit U
+2,417,Guardian Vest U
+2,418,Scholar's Blouse
+2,419,Scholar's Vest
+2,420,Sailor Suit
+2,421,Sailor Vest
+2,422,Luxury Bath Robe
+2,423,Kita Star Jacket
+2,424,Umi Ocean Jacket
+2,425,dummy
+2,426,Derring Mail S
+2,427,Derring Vest S
+2,428,Dober Mail
+2,429,Dober Vest
+2,430,Damascus Mail
+2,431,Damascus Vest
+2,432,Damascus Mail R
+2,433,Damascus Vest R
+2,434,dummy
+2,435,dummy
+2,436,dummy
+2,437,dummy
+2,438,dummy
+2,439,dummy
+2,440,Artian Mail S
+2,441,Artian Vest S
+2,442,Artian Mail R
+2,443,Artian Vest R
+2,444,Seltas Mail
+2,445,Seltas Vest
+2,446,Rathalos Mail S
+2,447,Rathalos Vest S
+2,448,EX Rathalos Mail
+2,449,EX Rathalos Vest
+2,450,Rathalos Mail R
+2,451,Rathalos Vest R
+2,452,Lagiacrus Mail S
+2,453,Lagiacrus Vest S
+2,454,Lagiacrus Mail R
+2,455,Lagiacrus Vest R
+2,456,Zinogre Mail S
+2,457,Zinogre Vest S
+2,458,EX Zinogre Mail
+2,459,EX Zinogre Vest
+2,460,Mizutsune Mail S
+2,461,Mizutsune Vest S
+2,462,Astalos Mail S
+2,463,Astalos Vest S
+2,464,Gammoth Mail S
+2,465,Gammoth Vest S
+2,466,Glavenus Mail S
+2,467,Glavenus Vest S
+2,468,Agnaktor Mail
+2,469,Agnaktor Vest
+2,470,Gore Mail S
+2,471,Gore Vest S
+2,472,EX Gore Mail
+2,473,EX Gore Vest
+2,474,Gore Mail R
+2,475,Gore Vest R
+2,476,Regios Mail S
+2,477,Regios Vest S
+2,478,Duramboros Mail
+2,479,Duramboros Vest
+2,480,Tigrex Mail S
+2,481,Tigrex Vest S
+2,482,EX Tigrex Mail
+2,483,EX Tigrex Vest
+2,484,Tigrex Mail R
+2,485,Tigrex Vest R
+2,486,Kirin Jacket S
+2,487,Kirin Cape S
+2,488,Kirin Jacket R
+2,489,Kirin Cape R
+2,490,Brachydios Mail S
+2,491,Brachydios Vest S
+2,492,EX Brachydios Mail
+2,493,EX Brachydios Vest
+2,494,Golden Haori
+2,495,Puppeteer Suit
+2,496,Vangis Mail
+2,497,Vangis Vest
+2,498,Guild Knight Suit
+2,499,Guild Knight Vest
+2,500,Maiden's Suit S
+2,501,French Maid Vest S
+2,502,Blue Guild Suit
+2,503,Blue Guild Vest
+2,504,Red Guild Suit
+2,505,Red Guild Vest
+2,506,Helper Suit S
+2,507,Healer Vest S
+2,508,Helper Suit U
+2,509,Healer Vest U
+2,510,Guild Bard Bolero S
+2,511,Guild Bard Vest S
+2,512,Chakra Necklace
+2,513,dummy
+2,514,dummy
+2,515,Dianthus Wealgown
+2,516,Campanile Wealgown
+2,517,Ace Mail
+2,518,Ace Vest
+2,519,Sororal Mail
+2,520,Sororal Vest
+2,521,Hawksuit
+2,522,Hawkjacket
+2,523,Gourmew Suit S
+2,524,Gourmew Vest S
+2,525,dummy
+2,526,Scholarly Suit S
+2,527,Scholarly Vest S
+2,528,Ranger's Girdle
+2,529,Archer's Girdle
+2,530,Shinobi Heaven Suit
+2,531,Shinobi Land Suit
+2,532,Shinobi Sky Suit
+2,533,Shinobi Sea Suit
+2,534,Ancient Mail
+2,535,Ancient Vest
+2,536,Master's Mail
+2,537,Master's Vest
+2,538,Black Hide S
+2,539,Black Skin S
+2,540,Toka Doate
+2,541,Mitsuaoi Doate
+2,542,EX Rathian Mail S
+2,543,EX Rathian Vest S
+2,544,EX Rathalos Mail S
+2,545,EX Rathalos Vest S
+2,546,EX Tigrex Mail S
+2,547,EX Tigrex Vest S
+2,548,Arc Mail S
+2,549,Storge Mail S
+2,550,Arc Vest S
+2,551,Storge Vest S
+2,552,EX Arc Mail
+2,553,EX Storge Mail
+2,554,EX Arc Vest
+2,555,EX Storge Vest
+2,556,Arc Mail R
+2,557,Storge Mail R
+2,558,Arc Vest R
+2,559,Storge Vest R
+2,560,Kushala Cista S
+2,561,Kushala Vise S
+2,562,EX Kushala Cista
+2,563,EX Kushala Vise
+2,564,Kushala Cista R
+2,565,Kushala Vise R
+2,566,Mizuha Guards S
+2,567,Cham Camise S
+2,568,EX Mizuha Guards
+2,569,EX Cham Camise
+2,570,Kaiser Mail S
+2,571,Kaiser Vest S
+2,572,EX Kaiser Mail
+2,573,EX Kaiser Vest
+2,574,Silver Solmail
+2,575,Silver Solvest
+2,576,EX Silver Solmail
+2,577,EX Silver Solvest
+2,578,Silver Solmail R
+2,579,Silver Solvest R
+2,580,Golden Lunemail
+2,581,Golden Lunevest
+2,582,EX Golden Lunemail
+2,583,EX Golden Lunevest
+2,584,Divine Ire Haori
+2,585,Crusher Garb
+2,586,Esurient Mail
+2,587,Esurient Vest
+2,588,Esurient Mail R
+2,589,Esurient Vest R
+2,590,Akantor Aegis
+2,591,Akantor Plate
+2,592,Akantor Aegis R
+2,593,Akantor Plate R
+2,594,Ukanlos Aegis
+2,595,Ukanlos Plate
+2,596,Tempest Robe
+2,597,Welkin Robe
+2,598,Tempest Robe R
+2,599,Welkin Robe R
+2,600,Skeletal Sternum R
+2,601,Decayed Sternum R
+2,602,Astral Suit
+2,603,Astral Vest
+2,604,Escadora Soul
+2,605,Escadora Seele
+2,606,Escadora Soul R
+2,607,Escadora Seele R
+2,608,dummy
+2,609,dummy
+2,610,dummy
+2,611,dummy
+2,612,dummy
+2,613,dummy
+2,614,dummy
+2,615,Strange Mail
+2,616,Strange Vest
+2,617,Redhelm Mail
+2,618,Redhelm Vest
+2,619,Snowbaron Mail
+2,620,Snowbaron Vest
+2,621,Stonefist Mail
+2,622,Stonefist Vest
+2,623,Dreadqueen Mail
+2,624,Dreadqueen Vest
+2,625,Drilltusk Mail
+2,626,Drilltusk Vest
+2,627,Silverwind Mail
+2,628,Silverwind Vest
+2,629,Crystalbeard Mail
+2,630,Crystalbeard Vest
+2,631,Deadeye Mail
+2,632,Deadeye Vest
+2,633,Dreadking Mail
+2,634,Dreadking Vest
+2,635,Thunderlord Mail
+2,636,Thunderlord Vest
+2,637,Grimclaw Mail
+2,638,Grimclaw Vest
+2,639,Hellblade Mail
+2,640,Hellblade Vest
+2,641,dummy
+2,642,dummy
+2,643,dummy
+2,644,dummy
+2,645,dummy
+2,646,X Gammoth Jacket
+2,647,X Gammoth Jersey
+2,648,X Mizutsune Jacket
+2,649,X Mizutsune Jersey
+2,650,X Dino Jacket
+2,651,X Dino Jersey
+2,652,X Astalos Jacket
+2,653,X Astalos Jersey
+2,654,Booyah Jacket
+2,655,Booyah Bomber
+2,656,Biker Jacket
+2,657,Biker Leather
+2,658,Ultimate Garb
+2,659,Ultimate Attire
+2,660,Champion's Body
+2,661,Strongman's Body
+2,662,Zodias Mail
+2,663,Zodias Vest
+2,664,Pirate Suit J
+2,665,Pirate Jacket J
+2,666,Buccaneer Suit J
+2,667,Buccaneer Jacket J
+2,668,Dynaqlo Coat
+2,669,Dynaqlo Jacket
+2,670,Promising Plate
+2,671,Halcyon Plate
+2,672,Blue Star Suit
+2,673,Blue Star Jacket
+2,674,Star Rook Mail
+2,675,Star Rook Vest
+2,676,Star Knight Mail
+2,677,Star Knight Vest
+2,678,Nisetama Suit
+2,679,Nisetama Body
+2,680,Nisetama Suit S
+2,681,Nisetama Body S
+2,682,Hero's Clothes
+2,683,Hero's Tunic
+2,684,Varia Suit Armor
+2,685,Varia Suit Barrier
+2,686,Zero Suit Body
+2,687,Zero Suit Wear
+2,688,Mail of Rage
+2,689,Vest of Rage
+2,690,Mail of Anat
+2,691,Vest of Anat
+2,692,Rider Jacket
+2,693,Rider Leather
+2,694,Mosgharl Ribplate
+2,695,Mosgharl Ribguard
+2,696,Gammoth Mail
+2,697,Gammoth Vest
+2,698,Gourmew Suit
+2,699,Gourmew Vest
+2,700,Leather Vest S
+2,701,Chainmail Vest S
+2,702,Mosgharl Ribplate S
+2,703,Mosgharl Ribguard S
+2,704,Gammoth Mail S
+2,705,Gammoth Vest S
+2,706,Blue Guild Suit
+2,707,Blue Guild Vest
+2,708,Red Guild Suit
+2,709,Red Guild Vest
+2,710,Gourmew Suit S
+2,711,Gourmew Vest S
+2,712,Promising Archplate
+2,713,Halcyon Archplate
+2,714,Lucid Robe
+2,715,Dreamy Robe
+2,716,Lucid Archrobe
+2,717,Dreamy Archrobe
+2,718,Conga Mail
+2,719,Conga Vest
+2,720,Giaprey Body
+2,721,Giaprey Suit
+2,722,Barroth Mail
+2,723,Barroth Vest
+2,724,Basarios Mail
+2,725,Basarios Vest
+2,726,Nerscylla Mail
+2,727,Nerscylla Vest
+2,728,Barioth Mail
+2,729,Barioth Vest
+2,730,Gravios Mail
+2,731,Gravios Vest
+2,732,Cheerful Mail
+2,733,Cheerful Vest
+2,734,Mariner Suit
+2,735,Mariner Vest
+2,736,dummy
+2,737,dummy
+2,738,Diablos Mail
+2,739,Diablos Vest
+2,740,Diablos R Mail
+2,741,Diablos R Vest
+2,742,Valfalk Mail
+2,743,Valfalk Vest
+2,744,Wisdom Suit
+2,745,Wisdom Vest
+2,746,dummy
+2,747,dummy
+2,748,dummy
+2,749,dummy
+2,750,dummy
+2,751,Bherna Mail X
+2,752,Bherna Vest X
+2,753,Hunting Mail X
+2,754,Hunting Vest X
+2,755,Mafumofu Suit X
+2,756,Mafumofu Jacket X
+2,757,Xtreme YukumoSky Dogi
+2,758,Xtreme YukumoLand Dogi
+2,759,Slagtoth Cloak X
+2,760,Slagtoth Wrap X
+2,761,dummy
+2,762,dummy
+2,763,Velociprey Body X
+2,764,Velociprey Suit X
+2,765,Genprey Body X
+2,766,Genprey Suit X
+2,767,Ioprey Suit X
+2,768,Ioprey Wear X
+2,769,Remobra Suit X
+2,770,Remobra Wear X
+2,771,dummy
+2,772,dummy
+2,773,Mosswine Vest X
+2,774,Rhenoplos Mail X
+2,775,Rhenoplos Vest X
+2,776,Jaggi Mail X
+2,777,Jaggi Vest X
+2,778,dummy
+2,779,dummy
+2,780,Droth Mail X
+2,781,Droth Vest X
+2,782,Uroktor Torso X
+2,783,Uroktor Vest X
+2,784,Maccao Mail X
+2,785,Maccao Vest X
+2,786,Velociprey Mail X
+2,787,Velociprey Vest X
+2,788,Giaprey Mail X
+2,789,Giaprey Vest X
+2,790,Genprey Mail X
+2,791,Genprey Vest X
+2,792,Ioprey Mail X
+2,793,Ioprey Vest X
+2,794,Vespoid Mail X
+2,795,Vespoid Vest X
+2,796,Hornetaur Mail X
+2,797,Hornetaur Vest X
+2,798,Bnahabra Suit X
+2,799,Bnahabra Vest X
+2,800,dummy
+2,801,dummy
+2,802,Bulldrome Mail X
+2,803,Bulldrome Vest X
+2,804,dummy
+2,805,Arzuros Mail X
+2,806,Arzuros Vest X
+2,807,Cephalos Mail X
+2,808,Cephalos Vest X
+2,809,Kut-Ku Mail X
+2,810,Kut-Ku Vest X
+2,811,Kecha Mail X
+2,812,Kecha Vest X
+2,813,Lagombi Mail X
+2,814,Lagombi Vest X
+2,815,Gypceros Mail X
+2,816,Gypceros Vest X
+2,817,Tetsucabra Mail X
+2,818,Tetsucabra Vest X
+2,819,Hermitaur Mail X
+2,820,Hermitaur Vest X
+2,821,Ludroth Mail X
+2,822,Ludroth Vest X
+2,823,Gourmew Suit X
+2,824,Gourmew Vest X
+2,825,Gourmew Suit X
+2,826,Gourmew Vest X
+2,827,Moofah Suit X
+2,828,Moofah Jacket X
+2,829,Edel Ribplate X
+2,830,Edel Ribguard X
+2,831,Acorn Mail X
+2,832,Acorn Vest X
+2,833,Death Stench Muscle X
+2,834,Death Stench Heart X
+2,835,Skalda Thorax X
+2,836,Skalda Pleuron X
+2,837,Spio Thorax X
+2,838,Spio Pleuron X
+2,839,Hunter's Mail XR
+2,840,Hunter's Vest XR
+2,841,Volvidon Mail X
+2,842,Volvidon Vest X
+2,843,Conga Mail X
+2,844,Conga Vest X
+2,845,Barroth Mail X
+2,846,Barroth Vest X
+2,847,Basarios Mail X
+2,848,Basarios Vest X
+2,849,Malfestio Mail X
+2,850,Malfestio Vest X
+2,851,Zamtrios Mail X
+2,852,Zamtrios Vest X
+2,853,Khezu Mail X
+2,854,Khezu Vest X
+2,855,Nerscylla Mail X
+2,856,Nerscylla Vest X
+2,857,Rathian Mail X
+2,858,Rathian Vest X
+2,859,Nibelsnarf Mail X
+2,860,Nibelsnarf Vest X
+2,861,Plesioth Mail X
+2,862,Plesioth Vest X
+2,863,Blangonga Mail X
+2,864,Blangonga Vest X
+2,865,Ceanataur Mail X
+2,866,Ceanataur Vest X
+2,867,Najarala Mail X
+2,868,Najarala Vest X
+2,869,Nargacuga Mail X
+2,870,Nargacuga Vest X
+2,871,Gypceros Mail XR
+2,872,Gypceros Vest XR
+2,873,Hermitaur Mail XR
+2,874,Hermitaur Vest XR
+2,875,Ludroth Mail XR
+2,876,Ludroth Vest XR
+2,877,Strange Mail X
+2,878,Strange Vest X
+2,879,Bistro Suit X
+2,880,Bistro Vest X
+2,881,Lecturer's Suit X
+2,882,Lecturer's Jacket X
+2,883,Patissier's Suit X
+2,884,Patissier's Vest X
+2,885,Luxury Bath Robe X
+2,886,Maiden's Suit X
+2,887,Exclusive Vest X
+2,888,Dianthus Wealgown X
+2,889,Campanile Wealgown X
+2,890,GX Conga Mail
+2,891,GX Conga Vest
+2,892,Alloy Mail XR
+2,893,Alloy Vest XR
+2,894,Ingot Mail XR
+2,895,Ingot Vest XR
+2,896,Artian Mail X
+2,897,Artian Vest X
+2,898,Lobster Mail X
+2,899,Lobster Vest X
+2,900,Khezu Mail XR
+2,901,Khezu Vest XR
+2,902,Ceanataur Mail XR
+2,903,Ceanataur Vest XR
+2,904,Rathian Mail XR
+2,905,Rathian Vest XR
+2,906,Lavasioth Mail X
+2,907,Lavasioth Vest X
+2,908,Garuga Mail X
+2,909,Garuga Vest X
+2,910,Uragaan Mail X
+2,911,Uragaan Vest X
+2,912,Barioth Mail X
+2,913,Barioth Vest X
+2,914,Seltas Mail X
+2,915,Seltas Vest X
+2,916,Rathalos Mail X
+2,917,Rathalos Vest X
+2,918,Lagiacrus Mail X
+2,919,Lagiacrus Vest X
+2,920,Zinogre Mail X
+2,921,Zinogre Vest X
+2,922,Gravios Mail X
+2,923,Gravios Vest X
+2,924,Mizutsune Mail X
+2,925,Mizutsune Vest X
+2,926,Astalos Mail X
+2,927,Astalos Vest X
+2,928,Gammoth Mail X
+2,929,Gammoth Vest X
+2,930,Glavenus Mail X
+2,931,Glavenus Vest X
+2,932,Gore Mail X
+2,933,Gore Vest X
+2,934,Kirin Jacket X
+2,935,Kirin Cape X
+2,936,Kirin Jacket XR
+2,937,Kirin Cape XR
+2,938,Auroros Torso
+2,939,Borealis Chest
+2,940,Genesis Torso
+2,941,Glyph Chest
+2,942,GX Auroros Torso
+2,943,GX Borealis Chest
+2,944,GX Genesis Torso
+2,945,GX Glyph Chest
+2,946,Battle Auroros Torso
+2,947,Battle Borealis Chest
+2,948,Battle Genesis Torso
+2,949,Battle Glyph Chest
+2,950,Scholar's Blouse X
+2,951,Scholar's Vest X
+2,952,Sailor Suit X
+2,953,Sailor Vest X
+2,954,Hawksuit X
+2,955,Hawkjacket X
+2,956,Scholarly Suit X
+2,957,Scholarly Vest X
+2,958,Researcher's Suit
+2,959,Researcher's Vest
+2,960,Rathalos Mail XR
+2,961,Rathalos Vest XR
+2,962,Lagiacrus Mail XR
+2,963,Lagiacrus Vest XR
+2,964,Gore Mail XR
+2,965,Gore Vest XR
+2,966,Agnaktor Mail X
+2,967,Agnaktor Vest X
+2,968,Regios Mail X
+2,969,Regios Vest X
+2,970,Duramboros Mail X
+2,971,Duramboros Vest X
+2,972,Tigrex Mail X
+2,973,Tigrex Vest X
+2,974,Tigrex Mail XR
+2,975,Tigrex Vest XR
+2,976,Diablos Mail X
+2,977,Diablos Vest X
+2,978,Diablos Mail XR
+2,979,Diablos Vest XR
+2,980,Brachydios Mail X
+2,981,Brachydios Vest X
+2,982,Arc Mail X
+2,983,Storge Mail X
+2,984,Arc Vest X
+2,985,Storge Vest X
+2,986,Arc Mail XR
+2,987,Storge Mail XR
+2,988,Arc Vest XR
+2,989,Storge Vest XR
+2,990,Valfalk Mail X
+2,991,Valfalk Vest X
+2,992,Grand God's Peer Robe
+2,993,Grand Hermit Robe
+2,994,Vangis Mail X
+2,995,Vangis Vest X
+2,996,Kushala Cista X
+2,997,Kushala Vise X
+2,998,Kushala Cista XR
+2,999,Kushala Vise XR
+2,1000,Grand Mizuha Guards
+2,1001,Grand Cham Camise
+2,1002,Kaiser Mail X
+2,1003,Kaiser Vest X
+2,1004,Silver Solmail Z
+2,1005,Silver Solvest Z
+2,1006,Golden Lunemail Z
+2,1007,Golden Lunevest Z
+2,1008,Yaksha Raiment
+2,1009,Carnage Raiment
+2,1010,Guardian Suit X
+2,1011,Guardian Vest X
+2,1012,Blue G. Knight Suit X
+2,1013,Blue G. Knight Suit X
+2,1014,Blue G. Knight Vest X
+2,1015,Blue G. Knight Vest X
+2,1016,Red G. Knight Suit X
+2,1017,Red G. Knight Suit X
+2,1018,Red G. Knight Vest X
+2,1019,Red G. Knight Vest X
+2,1020,G. Knight Suit X
+2,1021,G. Knight Vest X
+2,1022,G. Bard Bolero X
+2,1023,G. Bard Vest X
+2,1024,Ace Mail X
+2,1025,Ace Vest X
+2,1026,Sororal Mail X
+2,1027,Sororal Vest X
+2,1028,Shinobi Heaven Suit X
+2,1029,Shinobi Land Suit X
+2,1030,Kaiserin Mail
+2,1031,Kaiserin Vest
+2,1032,Barmaid's Suit
+2,1033,Barmaid's Vest
+2,1034,Bartender's Suit
+2,1035,Bartender's Vest
+2,1036,Helios Mail X
+2,1037,Selene Mail X
+2,1038,Helios Vest X
+2,1039,Selene Vest X
+2,1040,Citadel Ranger's Girdle
+2,1041,Citadel Archer's Girdle
+2,1042,Damascus Mail X
+2,1043,Damascus Vest X
+2,1044,Chaos Mail
+2,1045,Nephilim Mail
+2,1046,Chaos Vest
+2,1047,Nephilim Vest
+2,1048,Grand Divine Ire Haori
+2,1049,Grand Crusher Garb
+2,1050,Esurient Mail Z
+2,1051,Esurient Vest Z
+2,1052,Brachydium Mail
+2,1053,Brachydium Vest
+2,1054,Akantor Aegis X
+2,1055,Akantor Plate X
+2,1056,Akantor Aegis XR
+2,1057,Akantor Plate XR
+2,1058,Ukanlos Aegis X
+2,1059,Ukanlos Plate X
+2,1060,True Tempest Robe
+2,1061,True Welkin Robe
+2,1062,True Skeletal Sternum
+2,1063,True Decayed Sternum
+2,1064,Astral Suit X
+2,1065,Astral Vest X
+2,1066,Neset Pleuron
+2,1067,Neset Korpus
+2,1068,Black Hide X
+2,1069,Black Skin X
+2,1070,Escadora Soul X
+2,1071,Escadora Seele X
+2,1072,Escadora Soul XR
+2,1073,Escadora Seele XR
+2,1074,Fatalis Crimsonhide
+2,1075,Fatalis Crimsonskin
+2,1076,GX Fatalis Crimsonhide
+2,1077,GX Fatalis Crimsonskin
+2,1078,Fatalis Crimsonhide XR
+2,1079,Fatalis Crimsonskin XR
+2,1080,White Fatalis Hide
+2,1081,White Fatalis Skin
+2,1082,GX White Fatalis Hide
+2,1083,GX White Fatalis Skin
+2,1084,Helper Suit X
+2,1085,Healer Vest X
+2,1086,Ancient Mail X
+2,1087,Ancient Vest X
+2,1088,Master's Mail X
+2,1089,Master's Vest X
+2,1090,True Toka Doate
+2,1091,True Mitsuaoi Doate
+2,1092,dummy
+2,1093,dummy
+2,1094,dummy
+2,1095,dummy
+2,1096,Black Belt Mail X
+2,1097,Black Belt Vest X
+2,1098,dummy
+2,1099,dummy
+2,1100,Auroros Kermes Torso
+2,1101,Borealis Kermes Chest
+2,1102,Genesis Kermes Torso
+2,1103,Glyph Kermes Chest
+2,1104,Silver Solmail XR
+2,1105,Silver Solvest XR
+2,1106,Esurient Mail XR
+2,1107,Esurient Vest XR
+2,1108,Shredclaw Mail
+2,1109,Shredclaw Vest
+2,1110,Hazewing Mail
+2,1111,Hazewing Vest
+2,1112,Divinesight Mail
+2,1113,Divinesight Vest
+2,1114,Azurebolt Mail
+2,1115,Azurebolt Vest
+2,1116,Frostpeak Mail
+2,1117,Frostpeak Vest
+2,1118,Bloodlust Mail
+2,1119,Bloodlust Vest
+2,1120,Gammoth Mail X
+2,1121,Gammoth Vest X
+2,1122,GX Genprey Mail
+2,1123,GX Genprey Vest
+2,1124,GX Ioprey Mail
+2,1125,GX Ioprey Vest
+2,1126,GX Vespoid Mail
+2,1127,GX Vespoid Vest
+2,1128,Hornetaur Mail XR
+2,1129,Hornetaur Vest XR
+2,1130,GX Hornetaur Mail
+2,1131,GX Hornetaur Vest
+2,1132,GX Cephalos Mail
+2,1133,GX Cephalos Vest
+2,1134,GX Hermitaur Mail
+2,1135,GX Hermitaur Vest
+2,1136,GX Rathian Mail
+2,1137,GX Rathian Vest
+2,1138,GX Ceanataur Mail
+2,1139,GX Ceanataur Vest
+2,1140,GX Blango Mail
+2,1141,GX Blango Vest
+2,1142,GX Gore Mail
+2,1143,GX Gore Vest
+2,1144,GX Zinogre Mail
+2,1145,GX Zinogre Vest
+2,1146,GX Tigrex Mail
+2,1147,GX Tigrex Vest
+2,1148,GX Brachydios Mail
+2,1149,GX Brachydios Vest
+2,1150,GX Rathalos Mail
+2,1151,GX Rathalos Vest
+2,1152,GX Arc Mail
+2,1153,GX Arc Vest
+2,1154,GX Storge Mail
+2,1155,GX Storge Vest
+2,1156,GX Kushala Cista
+2,1157,GX Kushala Vise
+2,1158,GX Mizuha Mail
+2,1159,GX Cham Chamise
+2,1160,GX Kaiser Mail
+2,1161,GX Kaiser Vest
+2,1162,GX Lavasioth Mail
+2,1163,GX Lavasioth Vest
+2,1164,GX Silver Solmail
+2,1165,GX Silver Solvest
+2,1166,GX Golden Lunemail
+2,1167,GX Golden Lunevest
+2,1168,Tempest Kermes Robe
+2,1169,Welkin Kermes Robe
+2,1170,Leather Mail X
+2,1171,Leather Vest X
+2,1172,Chainmail Armor X
+2,1173,Chainmail Vest X
+2,1174,Loc Lac Shawl X
+2,1175,Hunter's Mail X
+2,1176,Hunter's Vest X
+2,1177,Bone Mail X
+2,1178,Bone Vest X
+2,1179,Dober Mail X
+2,1180,Dober Vest X
+2,1181,Alloy Mail X
+2,1182,Alloy Vest X
+2,1183,Ingot Mail X
+2,1184,Ingot Vest X
+2,1185,Damascus Mail XR
+2,1186,Damascus Vest XR
+2,1187,Battle Mail X
+2,1188,Battle Vest X
+2,1189,High Metal Mail X
+2,1190,High Metal Vest X
+2,1191,High Metal Mail Z
+2,1192,High Metal Vest Z
+2,1193,Mosgharl Ribplate X
+2,1194,Mosgharl Ribguard X
+2,1195,Mosgharl Ribplate X
+2,1196,Mosgharl Ribguard X
+2,1197,Obituary Thorax X
+2,1198,Obituary Pleuron X
+2,1199,Butterfly Thorax X
+2,1200,Butterfly Pleuron X
+2,1201,Aelucanth Thorax X
+2,1202,Aelucanth Pleuron X
+2,1203,Rhopessa Thorax X
+2,1204,Rhopessa Pleuron X
+2,1205,Vaik Mail X
+2,1206,Vaik Vest X
+2,1207,Guardian Suit Z
+2,1208,Guardian Vest Z
+2,1209,Helper Suit Z
+2,1210,Healer Vest Z
+2,1211,Death Stench Muscle XR
+2,1212,Death Stench Heart XR
+2,1213,Makluva Cover X
+2,1214,Makluva Scale X
+2,1215,Makluva Cover Z
+2,1216,Makluva Scale Z
+2,1217,Melahoa Jacket X
+2,1218,Melahoa Stalk X
+2,1219,Melahoa Jacket Z
+2,1220,Melahoa Stalk Z
+2,1221,Derring Mail X
+2,1222,Derring Vest X
+2,1223,GX Kita Star Jacket
+2,1224,GX Umi Ocean Jacket
+2,1225,True Chaos Plate
+2,1226,True Chaos Brigandine
+2,1227,Wisdom Suit X
+2,1228,Wisdom Vest X
+2,1229,Cheerful Mail X
+2,1230,Cheerful Vest X
+2,1231,Mariner Suit X
+2,1232,Mariner Vest X
+2,1233,dummy
+2,1234,dummy
+2,1235,dummy
+2,1236,dummy
+2,1237,dummy
+2,1238,dummy
+2,1239,dummy
+2,1240,dummy
+2,1241,Giaprey Body X
+2,1242,Giaprey Suit X
+2,1243,dummy
+2,1244,dummy
+2,1245,dummy
+2,1246,dummy
+2,1247,dummy
+2,1248,dummy
+2,1249,dummy
+2,1250,dummy
+2,1251,Artian Mail XR
+2,1252,Artian Vest XR
+2,1253,Dragonhide
+2,1254,Dragonskin
+2,1255,Criminal Suit
+2,1256,Criminal Vest
+2,1257,Gon Mail
+2,1258,Gon Vest
+2,1259,Arcfire Dogi
+2,1260,Bonfire Dogi
+2,1261,Waka Dogi
+2,1262,Wagaku Dogi
+2,1263,Ruler Arcfire Dogi
+2,1264,Ruler Bonfire Dogi
+2,1265,Ruler Waka Dogi
+2,1266,Ruler Wagaku Dogi
+2,1267,Supreme Arcfire Dogi
+2,1268,Supreme Bonfire Dogi
+2,1269,Supreme Wagaku Dogi
+2,1270,Supreme Wagaku Dogi
+2,1271,Golden Knight Armor
+2,1272,Golden Knight Mail
+2,1273,Varia Suit Armor
+2,1274,Varia Suit Barrier
+2,1275,Zero Suit Body
+2,1276,Zero Suit Wear
+2,1277,Lodestar Suit
+2,1278,Lodestar Vest
+2,1279,Blue Clothes
+2,1280,Blue Tunic
+2,1281,Hiryu Sky Suit
+2,1282,Hiryu Land Suit
+2,1283,XX Val Jacket
+2,1284,XX Val Leather
+2,1285,XX Devilish Jacket
+2,1286,XX Devilish Leather
+3,0,(None)
+3,1,Leather Gloves
+3,2,Chainmail Gloves
+3,3,Bherna Braces
+3,4,Hunting Braces
+3,5,Hunting Guards
+3,6,Mafumofu Mittens
+3,7,Yukumo Kote
+3,8,dummy
+3,9,Hunter's Vambraces
+3,10,Hunter's Guards
+3,11,Bone Vambraces
+3,12,Bone Guards
+3,13,dummy
+3,14,dummy
+3,15,dummy
+3,16,dummy
+3,17,Trapper's Gauntlets
+3,18,Trapper's Gloves
+3,19,Maccao Gauntlets
+3,20,Maccao Gloves
+3,21,Jaggi Gauntlets
+3,22,Jaggi Gloves
+3,23,Jaggi Vambraces
+3,24,Jaggi Guards
+3,25,Maccao Braces
+3,26,Maccao Guards
+3,27,Velociprey Braces
+3,28,Velociprey Guards
+3,29,Giaprey Vambraces
+3,30,Giaprey Guards
+3,31,Genprey Vambraces
+3,32,Genprey Guards
+3,33,Vespoid Vambraces
+3,34,Vespoid Guards
+3,35,Hornetaur Braces
+3,36,Hornetaur Guards
+3,37,Bnahabra Gloves
+3,38,Bnahabra Sleeves
+3,39,Konchu Braces
+3,40,Konchu Guards
+3,41,Mosswine Gloves
+3,42,Rhenoplos Vambraces
+3,43,Rhenoplos Guards
+3,44,Bulldrome Braces
+3,45,Bulldrome Guards
+3,46,dummy
+3,47,Arzuros Vambraces
+3,48,Arzuros Guards
+3,49,Cephalos Braces
+3,50,Cephalos Guards
+3,51,Derring Gloves
+3,52,Alloy Vambraces
+3,53,Alloy Guards
+3,54,Battle Vambraces
+3,55,Battle Guards
+3,56,Ingot Vambraces
+3,57,Ingot Guards
+3,58,High Metal Braces
+3,59,High Metal Guards
+3,60,dummy
+3,61,dummy
+3,62,Melahoa Branch
+3,63,Melahoa Petal
+3,64,Makluva Sleeves
+3,65,Makluva Sucker
+3,66,dummy
+3,67,dummy
+3,68,Obituary Brachia
+3,69,Obituary Manus
+3,70,Butterfly Brachia
+3,71,Butterfly Manus
+3,72,Death Stench Grip
+3,73,Death Stench Grasp
+3,74,dummy
+3,75,dummy
+3,76,Mosgharl Creeper
+3,77,Mosgharl Tendril
+3,78,Edel Creeper
+3,79,Edel Tendril
+3,80,Skalda Brachia
+3,81,Skalda Manus
+3,82,Spio Brachia
+3,83,Spio Manus
+3,84,dummy
+3,85,dummy
+3,86,dummy
+3,87,dummy
+3,88,dummy
+3,89,dummy
+3,90,Moofah Claws
+3,91,Moofah Sleeves
+3,92,dummy
+3,93,Velociprey Claws
+3,94,Velociprey Gloves
+3,95,Genprey Claws
+3,96,Genprey Gloves
+3,97,Ioprey Claws
+3,98,Ioprey Gloves
+3,99,Remobra Gloves
+3,100,Remobra Hands
+3,101,Ioprey Vambraces
+3,102,Ioprey Guards
+3,103,Kut-Ku Vambraces
+3,104,Kut-Ku Guards
+3,105,Lagombi Vambraces
+3,106,Lagombi Guards
+3,107,Gypceros Braces
+3,108,Gypceros Guards
+3,109,Tetsucabra Braces
+3,110,Tetsucabra Guards
+3,111,Hermitaur Braces
+3,112,Hermitaur Guards
+3,113,Volvidon Vambraces
+3,114,Volvidon Guards
+3,115,Ludroth Braces
+3,116,Ludroth Guards
+3,117,Malfestio Braces
+3,118,Malfestio Guards
+3,119,Khezu Vambraces
+3,120,Khezu Guards
+3,121,Rathian Braces
+3,122,Rathian Guards
+3,123,Nibelsnarf Braces
+3,124,Nibelsnarf Guards
+3,125,Blango Vambraces
+3,126,Blango Guards
+3,127,Ceanataur Braces
+3,128,Ceanataur Guards
+3,129,Najarala Braces
+3,130,Najarala Guards
+3,131,Nargacuga Braces
+3,132,Nargacuga Guards
+3,133,Scholarly Grips
+3,134,Scholarly Cuffs
+3,135,Vaik Braces
+3,136,Vaik Guards
+3,137,dummy
+3,138,dummy
+3,139,Aelucanth Brachia
+3,140,Aelucanth Manus
+3,141,Rhopessa Brachia
+3,142,Rhopessa Manus
+3,143,Artian Braces
+3,144,Artian Guards
+3,145,Garuga Vambraces
+3,146,Garuga Guards
+3,147,dummy
+3,148,Uragaan Vambraces
+3,149,Uragaan Guards
+3,150,Rathalos Braces
+3,151,Rathalos Guards
+3,152,Lagiacrus Braces
+3,153,Lagiacrus Guards
+3,154,Zinogre Braces
+3,155,Zinogre Guards
+3,156,Mizutsune Braces
+3,157,Mizutsune Guards
+3,158,Astalos Braces
+3,159,Astalos Guards
+3,160,Gammoth Braces
+3,161,Gammoth Guards
+3,162,Glavenus Braces
+3,163,Glavenus Guards
+3,164,Gore Braces
+3,165,Gore Guards
+3,166,Regios Vambraces
+3,167,Regios Guards
+3,168,Tigrex Braces
+3,169,Tigrex Guards
+3,170,Kirin Longarms
+3,171,Kirin Gloves
+3,172,Brachydios Braces
+3,173,Brachydios Guards
+3,174,Arc Vambraces
+3,175,Storge Braces
+3,176,Arc Guards
+3,177,Storge Guards
+3,178,Kushala Grip
+3,179,Kushala Embrace
+3,180,Mizuha Sleeves
+3,181,Cham Sleeves
+3,182,Kaiser Vambraces
+3,183,Kaiser Guards
+3,184,Skeletal Humerus
+3,185,Decayed Humerus
+3,186,Black Claw
+3,187,Black Fist
+3,188,Black Belt Braces
+3,189,Black Belt Guards
+3,190,Guild Bard Braces
+3,191,Guild Bard Sleeves
+3,192,Maiden's Gloves
+3,193,French Maid Sleeves
+3,194,Helper Sleeves
+3,195,Healer Sleeves
+3,196,Dianthus Sleeves
+3,197,Campanile Sleeves
+3,198,Bath Sleeves
+3,199,Gourmew Gloves
+3,200,Gourmew Mitts
+3,201,Leather Braces S
+3,202,Chainmail Braces S
+3,203,Bherna Braces S
+3,204,Bherna Guards S
+3,205,Hunting Braces S
+3,206,Hunting Guards S
+3,207,Mafumofu Grips S
+3,208,Mafumofu Mittens S
+3,209,Yukumo Sky Kote
+3,210,Yukumo Land Kote
+3,211,dummy
+3,212,Hunter's Vambraces S
+3,213,Hunter's Guards S
+3,214,Hunter's Braces R
+3,215,Hunter's Guards R
+3,216,Bone Vambraces S
+3,217,Bone Guards S
+3,218,dummy
+3,219,dummy
+3,220,dummy
+3,221,dummy
+3,222,dummy
+3,223,dummy
+3,224,Melahoa Branch S
+3,225,Melahoa Petal S
+3,226,Melahoa Branch U
+3,227,Melahoa Petal U
+3,228,Makluva Sleeves S
+3,229,Makluva Sucker S
+3,230,Makluva Sleeves U
+3,231,Makluva Sucker U
+3,232,dummy
+3,233,dummy
+3,234,dummy
+3,235,dummy
+3,236,Mosgharl Creeper S
+3,237,Mosgharl Tendril S
+3,238,Edel Creeper S
+3,239,Edel Tendril S
+3,240,Moofah Claws S
+3,241,Moofah Sleeves S
+3,242,dummy
+3,243,dummy
+3,244,dummy
+3,245,dummy
+3,246,dummy
+3,247,Velociprey Claws S
+3,248,Velociprey Gloves S
+3,249,Genprey Claws S
+3,250,Genprey Gloves S
+3,251,Ioprey Claws S
+3,252,Ioprey Gloves S
+3,253,Remobra Gloves S
+3,254,Remobra Hands S
+3,255,Trapper's Gauntlets S
+3,256,Trapper's Gloves S
+3,257,Maccao Gauntlets S
+3,258,Maccao Gloves S
+3,259,Jaggi Gauntlets S
+3,260,Jaggi Gloves S
+3,261,Mosswine Gloves S
+3,262,Rhenoplos Braces S
+3,263,Rhenoplos Guards S
+3,264,Jaggi Vambraces S
+3,265,Jaggi Guards S
+3,266,dummy
+3,267,dummy
+3,268,dummy
+3,269,dummy
+3,270,Maccao Braces S
+3,271,Maccao Guards S
+3,272,Velociprey Braces S
+3,273,Velociprey Guards S
+3,274,Giaprey Braces S
+3,275,Giaprey Guards S
+3,276,Genprey Vambraces S
+3,277,Genprey Guards S
+3,278,EX Genprey Braces
+3,279,EX Genprey Guards
+3,280,Ioprey Vambraces S
+3,281,Ioprey Guards S
+3,282,EX Ioprey Vambraces
+3,283,EX Ioprey Guards
+3,284,Vespoid Vambraces S
+3,285,Vespoid Guards S
+3,286,EX Vespoid Vambraces
+3,287,EX Vespoid Guards
+3,288,Hornetaur Braces S
+3,289,Hornetaur Guards S
+3,290,EX Hornetaur Braces
+3,291,EX Hornetaur Guards
+3,292,Hornetaur Braces R
+3,293,Hornetaur Guards R
+3,294,Bnahabra Gloves S
+3,295,Bnahabra Sleeves S
+3,296,Konchu Braces S
+3,297,Konchu Guards S
+3,298,Bulldrome Braces S
+3,299,Bulldrome Guards S
+3,300,dummy
+3,301,Arzuros Vambraces S
+3,302,Arzuros Guards S
+3,303,Cephalos Vambraces S
+3,304,Cephalos Guards S
+3,305,EX Cephalos Braces
+3,306,EX Cephalos Guards
+3,307,Kut-Ku Vambraces S
+3,308,Kut-Ku Guards S
+3,309,Kecha Vambraces
+3,310,Kecha Guards
+3,311,Lagombi Vambraces S
+3,312,Lagombi Guards S
+3,313,Gypceros Braces S
+3,314,Gypceros Guards S
+3,315,Gypceros Braces R
+3,316,Gypceros Guards R
+3,317,Tetsucabra Braces S
+3,318,Tetsucabra Guards S
+3,319,Hermitaur Braces S
+3,320,Hermitaur Guards S
+3,321,EX Hermitaur Braces
+3,322,EX Hermitaur Guards
+3,323,Hermitaur Braces R
+3,324,Hermitaur Guards R
+3,325,Volvidon Vambraces S
+3,326,Volvidon Guards S
+3,327,Ludroth Braces S
+3,328,Ludroth Guards S
+3,329,Ludroth Braces R
+3,330,Ludroth Guards R
+3,331,Lecturer's Braces
+3,332,Lecturer's Guards
+3,333,Alloy Vambraces S
+3,334,Alloy Guards S
+3,335,Alloy Braces R
+3,336,Alloy Guards R
+3,337,Battle Vambraces S
+3,338,Battle Guards S
+3,339,Ingot Vambraces S
+3,340,Ingot Guards S
+3,341,Ingot Vambraces R
+3,342,Ingot Guards R
+3,343,High Metal Braces S
+3,344,High Metal Guards S
+3,345,High Metal Braces U
+3,346,High Metal Guards U
+3,347,dummy
+3,348,dummy
+3,349,Lobster Vambraces
+3,350,Lobster Guards
+3,351,Obituary Brachia S
+3,352,Obituary Manus S
+3,353,Butterfly Brachia S
+3,354,Butterfly Manus S
+3,355,Death Stench Grip S
+3,356,Death Stench Grasp S
+3,357,Death Stench Grip R
+3,358,Death Stench Grasp R
+3,359,Vaik Braces S
+3,360,Vaik Guards S
+3,361,Aelucanth Brachia S
+3,362,Aelucanth Manus S
+3,363,Rhopessa Brachia S
+3,364,Rhopessa Manus S
+3,365,Patissier's Gloves
+3,366,Patissier's Mitts
+3,367,Skalda Brachia S
+3,368,Skalda Manus S
+3,369,Spio Brachia S
+3,370,Spio Manus S
+3,371,Malfestio Braces S
+3,372,Malfestio Guards S
+3,373,Zamtrios Braces
+3,374,Zamtrios Guards
+3,375,Khezu Vambraces S
+3,376,Khezu Guards S
+3,377,Khezu Braces R
+3,378,Khezu Guards R
+3,379,Rathian Braces S
+3,380,Rathian Guards S
+3,381,EX Rathian Braces
+3,382,EX Rathian Guards
+3,383,Rathian Braces R
+3,384,Rathian Guards R
+3,385,Nibelsnarf Braces S
+3,386,Nibelsnarf Guards S
+3,387,Plesioth Vambraces
+3,388,Plesioth Guards
+3,389,Blango Vambraces S
+3,390,Blango Guards S
+3,391,EX Blango Braces
+3,392,EX Blango Guards
+3,393,Lavasioth Braces
+3,394,Lavasioth Guards
+3,395,EX Lavasioth Braces
+3,396,EX Lavasioth Guards
+3,397,Ceanataur Braces S
+3,398,Ceanataur Guards S
+3,399,EX Ceanataur Braces
+3,400,EX Ceanataur Guards
+3,401,Ceanataur Braces R
+3,402,Ceanataur Guards R
+3,403,Najarala Braces S
+3,404,Najarala Guards S
+3,405,Nargacuga Braces S
+3,406,Nargacuga Guards S
+3,407,Garuga Vambraces S
+3,408,Garuga Guards S
+3,409,dummy
+3,410,Uragaan Vambraces S
+3,411,Uragaan Guards S
+3,412,Black Belt Braces S
+3,413,Black Belt Guards S
+3,414,Guardian Braces
+3,415,Guardian Guards
+3,416,Guardian Braces U
+3,417,Guardian Guards U
+3,418,Scholar's Gloves
+3,419,Scholar's Sleeves
+3,420,Sailor Gloves
+3,421,Sailor Sleeves
+3,422,Luxury Bath Sleeves
+3,423,Kita Star Sleeves
+3,424,Umi Ocean Sleeves
+3,425,dummy
+3,426,Derring Vambraces S
+3,427,Derring Guards S
+3,428,Dober Vambraces
+3,429,Dober Guards
+3,430,Damascus Vambraces
+3,431,Damascus Guards
+3,432,Damascus Braces R
+3,433,Damascus Guards R
+3,434,dummy
+3,435,dummy
+3,436,dummy
+3,437,dummy
+3,438,dummy
+3,439,dummy
+3,440,Artian Braces S
+3,441,Artian Guards S
+3,442,Artian Braces R
+3,443,Artian Guards R
+3,444,Seltas Vambraces
+3,445,Seltas Guards
+3,446,Rathalos Braces S
+3,447,Rathalos Guards S
+3,448,EX Rathalos Braces
+3,449,EX Rathalos Guards
+3,450,Rathalos Braces R
+3,451,Rathalos Guards R
+3,452,Lagiacrus Braces S
+3,453,Lagiacrus Guards S
+3,454,Lagiacrus Braces R
+3,455,Lagiacrus Guards R
+3,456,Zinogre Braces S
+3,457,Zinogre Guards S
+3,458,EX Zinogre Braces
+3,459,EX Zinogre Guards
+3,460,Mizutsune Braces S
+3,461,Mizutsune Guards S
+3,462,Astalos Braces S
+3,463,Astalos Guards S
+3,464,Gammoth Braces S
+3,465,Gammoth Guards S
+3,466,Glavenus Braces S
+3,467,Glavenus Guards S
+3,468,Agnaktor Vambraces
+3,469,Agnaktor Guards
+3,470,Gore Braces S
+3,471,Gore Guards S
+3,472,EX Gore Braces
+3,473,EX Gore Guards
+3,474,Gore Braces R
+3,475,Gore Guards R
+3,476,Regios Vambraces S
+3,477,Regios Guards S
+3,478,Duramboros Braces
+3,479,Duramboros Guards
+3,480,Tigrex Braces S
+3,481,Tigrex Guards S
+3,482,EX Tigrex Braces
+3,483,EX Tigrex Guards
+3,484,Tigrex Braces R
+3,485,Tigrex Guards R
+3,486,Kirin Longarms S
+3,487,Kirin Gloves S
+3,488,Kirin Longarms R
+3,489,Kirin Gloves R
+3,490,Brachydios Braces S
+3,491,Brachydios Guards S
+3,492,EX Brachydios Braces
+3,493,EX Brachydios Guards
+3,494,Golden Kote
+3,495,Puppeteer Gloves
+3,496,Vangis Vambraces
+3,497,Vangis Guards
+3,498,Guild Knight Gloves
+3,499,Guild Knight Sleeves
+3,500,Maiden's Gloves S
+3,501,French Maid Sleeves S
+3,502,Blue Guild Gloves
+3,503,Blue Guild Sleeves
+3,504,Red Guild Gloves
+3,505,Red Guild Sleeves
+3,506,Helper Sleeves S
+3,507,Healer Sleeves S
+3,508,Helper Sleeves U
+3,509,Healer Sleeves U
+3,510,Guild Bard Braces S
+3,511,Guild Bard Sleeves S
+3,512,Chakra Bracelet
+3,513,dummy
+3,514,dummy
+3,515,Dianthus Wealsleeves
+3,516,Campanile Wealsleeves
+3,517,Ace Vambraces
+3,518,Ace Guards
+3,519,Sororal Vambraces
+3,520,Sororal Guards
+3,521,Hawkbraces
+3,522,Hawkguards
+3,523,Gourmew Gloves S
+3,524,Gourmew Mitts S
+3,525,dummy
+3,526,Scholarly Grips S
+3,527,Scholarly Cuffs S
+3,528,Ranger's Gauntlets
+3,529,Archer's Gauntlets
+3,530,Shinobi Heaven Kote
+3,531,Shinobi Land Kote
+3,532,Shinobi Sky Kote
+3,533,Shinobi Sea Kote
+3,534,Ancient Arms
+3,535,Ancient Guards
+3,536,Master's Gauntlets
+3,537,Master's Guards
+3,538,Black Claw S
+3,539,Black Fist S
+3,540,Toka Kote
+3,541,Mitsuaoi Kote
+3,542,EX Rathian Braces S
+3,543,EX Rathian Guards S
+3,544,EX Rathalos Braces S
+3,545,EX Rathalos Guards S
+3,546,EX Tigrex Braces S
+3,547,EX Tigrex Guards S
+3,548,Arc Vambraces S
+3,549,Storge Braces S
+3,550,Arc Guards S
+3,551,Storge Guards S
+3,552,EX Arc Vambraces
+3,553,EX Storge Vambraces
+3,554,EX Arc Guards
+3,555,EX Storge Guards
+3,556,Arc Braces R
+3,557,Storge Braces R
+3,558,Arc Guards R
+3,559,Storge Guards R
+3,560,Kushala Grip S
+3,561,Kushala Embrace S
+3,562,EX Kushala Grip
+3,563,EX Kushala Embrace
+3,564,Kushala Grip R
+3,565,Kushala Embrace R
+3,566,Mizuha Sleeves S
+3,567,Cham Sleeves S
+3,568,EX Mizuha Sleeves
+3,569,EX Cham Sleeves
+3,570,Kaiser Vambraces S
+3,571,Kaiser Guards S
+3,572,EX Kaiser Vambraces
+3,573,EX Kaiser Guards
+3,574,Silver Solbraces
+3,575,Silver Solguards
+3,576,EX Silver Solbraces
+3,577,EX Silver Solguards
+3,578,Silver Solbraces R
+3,579,Silver Solguards R
+3,580,Golden Lunebraces
+3,581,Golden Luneguards
+3,582,EX Golden Lunebraces
+3,583,EX Golden Luneguards
+3,584,Divine Ire Kote
+3,585,Crusher Braces
+3,586,Esurient Vambraces
+3,587,Esurient Guards
+3,588,Esurient Braces R
+3,589,Esurient Guards R
+3,590,Akantor Claws
+3,591,Akantor Gauntlets
+3,592,Akantor Claws R
+3,593,Akantor Gauntlets R
+3,594,Ukanlos Claws
+3,595,Ukanlos Gauntlets
+3,596,Tempest Sleeves
+3,597,Welkin Sleeves
+3,598,Tempest Sleeves R
+3,599,Welkin Sleeves R
+3,600,Skeletal Humerus R
+3,601,Decayed Humerus R
+3,602,Astral Vambraces
+3,603,Astral Guards
+3,604,Escadora Armguards
+3,605,Escadora Arma
+3,606,Escadora Armguards R
+3,607,Escadora Arma R
+3,608,Caravaneer's Armlets
+3,609,dummy
+3,610,dummy
+3,611,dummy
+3,612,dummy
+3,613,dummy
+3,614,dummy
+3,615,Strange Vambraces
+3,616,Strange Guards
+3,617,Redhelm Vambraces
+3,618,Redhelm Guards
+3,619,Snowbaron Vambraces
+3,620,Snowbaron Guards
+3,621,Stonefist Vambraces
+3,622,Stonefist Guards
+3,623,Dreadqueen Braces
+3,624,Dreadqueen Guards
+3,625,Drilltusk Braces
+3,626,Drilltusk Guards
+3,627,Silverwind Braces
+3,628,Silverwind Guards
+3,629,Crystalbeard Braces
+3,630,Crystalbeard Guards
+3,631,Deadeye Vambraces
+3,632,Deadeye Guards
+3,633,Dreadking Braces
+3,634,Dreadking Guards
+3,635,Thunderlord Braces
+3,636,Thunderlord Guards
+3,637,Grimclaw Braces
+3,638,Grimclaw Guards
+3,639,Hellblade Braces
+3,640,Hellblade Guards
+3,641,dummy
+3,642,dummy
+3,643,dummy
+3,644,dummy
+3,645,dummy
+3,646,dummy
+3,647,dummy
+3,648,dummy
+3,649,dummy
+3,650,dummy
+3,651,dummy
+3,652,dummy
+3,653,dummy
+3,654,dummy
+3,655,dummy
+3,656,dummy
+3,657,dummy
+3,658,dummy
+3,659,dummy
+3,660,Champion's Wraps
+3,661,Strongman's Wraps
+3,662,Zodias Vambraces
+3,663,Zodias Guards
+3,664,Pirate Gloves J
+3,665,Pirate Cuffs J
+3,666,Buccaneer Gloves J
+3,667,Buccaneer Cuffs J
+3,668,Dynaqlo Glovelettes
+3,669,Dynaqlo Gloves
+3,670,Promising Braces
+3,671,Halcyon Braces
+3,672,Blue Star Braces
+3,673,Blue Star Sleeves
+3,674,Star Rook Vambraces
+3,675,Star Rook Guards
+3,676,Star Knight Vambraces
+3,677,Star Knight Guards
+3,678,Nisetama Gloves
+3,679,Nisetama Sleeves
+3,680,Nisetama Gloves S
+3,681,Nisetama Sleeves S
+3,682,Hero's Braces
+3,683,Hero's Gloves
+3,684,Varia Suit Guards
+3,685,Varia Suit Shield
+3,686,Zero Suit Gloves
+3,687,Zero Suit Hands
+3,688,Braces of Rage
+3,689,Guards of Rage
+3,690,Braces of Anat
+3,691,Guards of Anat
+3,692,dummy
+3,693,dummy
+3,694,Mosgharl Creeper
+3,695,Mosgharl Tendril
+3,696,Gammoth Braces
+3,697,Gammoth Guards
+3,698,Gourmew Gloves
+3,699,Gourmew Mitts
+3,700,Leather Guards S
+3,701,Chainmail Guards S
+3,702,Mosgharl Creeper S
+3,703,Mosgharl Tendril S
+3,704,Gammoth Braces S
+3,705,Gammoth Guards S
+3,706,Blue Guild Gloves
+3,707,Blue Guild Sleeves
+3,708,Red Guild Gloves
+3,709,Red Guild Sleeves
+3,710,Gourmew Gloves S
+3,711,Gourmew Mitts S
+3,712,Promising Archbraces
+3,713,Halcyon Archbraces
+3,714,Lucid Gauntlets
+3,715,Dreamy Gauntlets
+3,716,Lucid Archbraces
+3,717,Dreamy Archbraces
+3,718,Conga Vambraces
+3,719,Conga Guards
+3,720,Giaprey Claws
+3,721,Giaprey Gloves
+3,722,Barroth Vambraces
+3,723,Barroth Guards
+3,724,Basarios Vambraces
+3,725,Basarios Guards
+3,726,Nerscylla Vambraces
+3,727,Nerscylla Guards
+3,728,Barioth Vambraces
+3,729,Barioth Guards
+3,730,Gravios Vambraces
+3,731,Gravios Guards
+3,732,Cheerful Vambraces
+3,733,Cheerful Guards
+3,734,Mariner Gloves
+3,735,Mariner Sleeves
+3,736,dummy
+3,737,dummy
+3,738,Diablos Vambraces
+3,739,Diablos Guards
+3,740,Diablos R Vambraces
+3,741,Diablos R Guards
+3,742,Valfalk Vambraces
+3,743,Valfalk Guards
+3,744,Wisdom Gloves
+3,745,Wisdom Cuffs
+3,746,dummy
+3,747,dummy
+3,748,dummy
+3,749,dummy
+3,750,dummy
+3,751,Bherna Braces X
+3,752,Bherna Guards X
+3,753,Hunting Braces X
+3,754,Hunting Guards X
+3,755,Mafumofu Grips X
+3,756,Mafumofu Mittens X
+3,757,Xtreme YukumoSky Kote
+3,758,Xtreme YukumoLand Kote
+3,759,dummy
+3,760,dummy
+3,761,dummy
+3,762,dummy
+3,763,Velociprey Claws X
+3,764,Velociprey Gloves X
+3,765,Genprey Claws X
+3,766,Genprey Gloves X
+3,767,Ioprey Claws X
+3,768,Ioprey Gloves X
+3,769,Remobra Gloves X
+3,770,Remobra Hands X
+3,771,Trapper's Gauntlets X
+3,772,Trapper's Gloves X
+3,773,Mosswine Gloves X
+3,774,Rhenoplos Braces X
+3,775,Rhenoplos Guards X
+3,776,Jaggi Braces X
+3,777,Jaggi Guards X
+3,778,dummy
+3,779,dummy
+3,780,dummy
+3,781,dummy
+3,782,dummy
+3,783,dummy
+3,784,Maccao Braces X
+3,785,Maccao Guards X
+3,786,Velociprey Braces X
+3,787,Velociprey Guards X
+3,788,Giaprey Braces X
+3,789,Giaprey Guards X
+3,790,Genprey Braces X
+3,791,Genprey Guards X
+3,792,Ioprey Vambraces X
+3,793,Ioprey Guards X
+3,794,Vespoid Vambraces X
+3,795,Vespoid Guards X
+3,796,Hornetaur Braces X
+3,797,Hornetaur Guards X
+3,798,Bnahabra Gloves X
+3,799,Bnahabra Sleeves X
+3,800,Konchu Vambraces X
+3,801,Konchu Guards X
+3,802,Bulldrome Braces X
+3,803,Bulldrome Guards X
+3,804,dummy
+3,805,Arzuros Vambraces X
+3,806,Arzuros Guards X
+3,807,Cephalos Vambraces X
+3,808,Cephalos Guards X
+3,809,Kut-Ku Vambraces X
+3,810,Kut-Ku Guards X
+3,811,Kecha Braces X
+3,812,Kecha Guards X
+3,813,Lagombi Vambraces X
+3,814,Lagombi Guards X
+3,815,Gypceros Vambraces X
+3,816,Gypceros Guards X
+3,817,Tetsucabra Braces X
+3,818,Tetsucabra Guards X
+3,819,Hermitaur Braces X
+3,820,Hermitaur Guards X
+3,821,Ludroth Braces X
+3,822,Ludroth Guards X
+3,823,Gourmew Gloves X
+3,824,Gourmew Mitts X
+3,825,Gourmew Gloves X
+3,826,Gourmew Mitts X
+3,827,Moofah Claws X
+3,828,Moofah Sleeves X
+3,829,Edel Creeper X
+3,830,Edel Tendril X
+3,831,dummy
+3,832,dummy
+3,833,Death Stench Grip X
+3,834,Death Stench Grasp X
+3,835,Skalda Brachia X
+3,836,Skalda Manus X
+3,837,Spio Brachia X
+3,838,Spio Manus X
+3,839,Hunter's Vambraces XR
+3,840,Hunter's Guards XR
+3,841,Volvidon Vambraces X
+3,842,Volvidon Guards X
+3,843,Conga Vambraces X
+3,844,Conga Guards X
+3,845,Barroth Vambraces X
+3,846,Barroth Guards X
+3,847,Basarios Vambraces X
+3,848,Basarios Guards X
+3,849,Malfestio Braces X
+3,850,Malfestio Guards X
+3,851,Zamtrios Braces X
+3,852,Zamtrios Guards X
+3,853,Khezu Vambraces X
+3,854,Khezu Guards X
+3,855,Nerscylla Braces X
+3,856,Nerscylla Guards X
+3,857,Rathian Vambraces X
+3,858,Rathian Guards X
+3,859,Nibelsnarf Braces X
+3,860,Nibelsnarf Guards X
+3,861,Plesioth Vambraces X
+3,862,Plesioth Guards X
+3,863,Blangonga Vambraces X
+3,864,Blangonga Guards X
+3,865,Ceanataur Braces X
+3,866,Ceanataur Guards X
+3,867,Najarala Braces X
+3,868,Najarala Guards X
+3,869,Nargacuga Braces X
+3,870,Nargacuga Guards X
+3,871,Gypceros Braces XR
+3,872,Gypceros Guards XR
+3,873,Hermitaur Braces XR
+3,874,Hermitaur Guards XR
+3,875,Ludroth Braces XR
+3,876,Ludroth Guards XR
+3,877,Strange Vambraces X
+3,878,Strange Guards X
+3,879,dummy
+3,880,dummy
+3,881,Lecturer's Braces X
+3,882,Lecturer's Guards X
+3,883,Patissier's Gloves X
+3,884,Patissier's Mitts X
+3,885,Luxury Bath Sleeves X
+3,886,Maiden's Gloves X
+3,887,Exclusive Sleeves X
+3,888,Dianthus Wealsleeves X
+3,889,Campanile Wealsleeves X
+3,890,GX Conga Braces
+3,891,GX Conga Guards
+3,892,Alloy Vambraces XR
+3,893,Alloy Guards XR
+3,894,Ingot Vambraces XR
+3,895,Ingot Guards XR
+3,896,Artian Vambraces X
+3,897,Artian Guards X
+3,898,Lobster Vambraces X
+3,899,Lobster Guards X
+3,900,Khezu Vambraces XR
+3,901,Khezu Guards XR
+3,902,Ceanataur Braces XR
+3,903,Ceanataur Guards XR
+3,904,Rathian Braces XR
+3,905,Rathian Guards XR
+3,906,Lavasioth Vambraces X
+3,907,Lavasioth Guards X
+3,908,Garuga Vambraces X
+3,909,Garuga Guards X
+3,910,Uragaan Vambraces X
+3,911,Uragaan Guards X
+3,912,Barioth Vambraces X
+3,913,Barioth Guards X
+3,914,Seltas Vambraces X
+3,915,Seltas Guards X
+3,916,Rathalos Vambraces X
+3,917,Rathalos Guards X
+3,918,Lagiacrus Braces X
+3,919,Lagiacrus Guards X
+3,920,Zinogre Vambraces X
+3,921,Zinogre Guards X
+3,922,Gravios Vambraces X
+3,923,Gravios Guards X
+3,924,Mizutsune Braces X
+3,925,Mizutsune Guards X
+3,926,Astalos Braces X
+3,927,Astalos Guards X
+3,928,Gammoth Braces X
+3,929,Gammoth Guards X
+3,930,Glavenus Braces X
+3,931,Glavenus Guards X
+3,932,Gore Braces X
+3,933,Gore Guards X
+3,934,Kirin Longarms X
+3,935,Kirin Gloves X
+3,936,Kirin Longarms XR
+3,937,Kirin Gloves XR
+3,938,Auroros Gauntlets
+3,939,Borealis Gauntlets
+3,940,Genesis Gauntlets
+3,941,Glyph Gauntlets
+3,942,GX Auroros Gauntlets
+3,943,GX Borealis Gauntlets
+3,944,GX Genesis Gauntlets
+3,945,GX Glyph Gauntlets
+3,946,Battle Auroros Gauntlets
+3,947,Battle Borealis Gauntlets
+3,948,Battle Genesis Gauntlets
+3,949,Battle Glyph Gauntlets
+3,950,Scholar's Gloves X
+3,951,Scholar's Sleeves X
+3,952,Sailor Gloves X
+3,953,Sailor Sleeves X
+3,954,Hawkbraces X
+3,955,Hawkguards X
+3,956,Scholarly Grips X
+3,957,Scholarly Cuffs X
+3,958,Researcher's Grips
+3,959,Researcher's Cuff
+3,960,Rathalos Braces XR
+3,961,Rathalos Guards XR
+3,962,Lagiacrus Braces XR
+3,963,Lagiacrus Guards XR
+3,964,Gore Braces XR
+3,965,Gore Guards XR
+3,966,Agnaktor Vambraces X
+3,967,Agnaktor Guards X
+3,968,Regios Vambraces X
+3,969,Regios Guards X
+3,970,Duramboros Braces X
+3,971,Duramboros Guards X
+3,972,Tigrex Vambraces X
+3,973,Tigrex Guards X
+3,974,Tigrex Braces XR
+3,975,Tigrex Guards XR
+3,976,Diablos Vambraces X
+3,977,Diablos Guards X
+3,978,Diablos Vambraces XR
+3,979,Diablos Guards XR
+3,980,Brachydios Braces X
+3,981,Brachydios Guards X
+3,982,Arc Vambraces X
+3,983,Storge Vambraces X
+3,984,Arc Guards X
+3,985,Storge Guards X
+3,986,Arc Vambraces XR
+3,987,Storge Vambraces XR
+3,988,Arc Guards XR
+3,989,Storge Guards XR
+3,990,Valfalk Vambraces X
+3,991,Valfalk Guards X
+3,992,Grand God's Peer Arms
+3,993,Grand Hermit Arms
+3,994,Vangis Vambraces X
+3,995,Vangis Guards X
+3,996,Kushala Grip X
+3,997,Kushala Embrace X
+3,998,Kushala Grip XR
+3,999,Kushala Embrace XR
+3,1000,Grand Mizuha Sleeves
+3,1001,Grand Cham Sleeves
+3,1002,Kaiser Vambraces X
+3,1003,Kaiser Guards X
+3,1004,Silver Solbraces Z
+3,1005,Silver Solguards Z
+3,1006,Golden Lunebraces Z
+3,1007,Golden Luneguards Z
+3,1008,Yaksha Braces
+3,1009,Carnage Vambraces
+3,1010,Guardian Vambraces X
+3,1011,Guardian Guards X
+3,1012,Blue G. Knight Gloves X
+3,1013,Blue G. Knight Gloves X
+3,1014,Blue G. Knight Sleeves X
+3,1015,Blue G. Knight Sleeves X
+3,1016,Red G. Knight Gloves X
+3,1017,Red G. Knight Gloves X
+3,1018,Red G. Knight Sleeves X
+3,1019,Red G. Knight Sleeves X
+3,1020,G. Knight Gloves X
+3,1021,G. Knight Sleeves X
+3,1022,G. Bard Braces X
+3,1023,G. Bard Sleeves X
+3,1024,Ace Vambraces X
+3,1025,Ace Guards X
+3,1026,Sororal Vambraces X
+3,1027,Sororal Guards X
+3,1028,Shinobi Heaven Kote X
+3,1029,Shinobi Land Kote X
+3,1030,Kaiserin Braces
+3,1031,Kaiserin Guards
+3,1032,Barmaid's Gloves
+3,1033,Barmaid's Sleeves
+3,1034,Bartender's Gloves
+3,1035,Bartender's Sleeves
+3,1036,Helios Vambraces X
+3,1037,Selene Vambraces X
+3,1038,Helios Guards X
+3,1039,Selene Guards X
+3,1040,Citadel Ranger's Gauntlets
+3,1041,Citadel Archer's Gauntlets
+3,1042,Damascus Braces X
+3,1043,Damascus Guards X
+3,1044,Chaos Vambraces
+3,1045,Nephilim Vambraces
+3,1046,Chaos Guards
+3,1047,Nephilim Guards
+3,1048,Grand Divine Ire Kote
+3,1049,Grand Crusher Braces
+3,1050,Esurient Vambraces Z
+3,1051,Esurient Guards Z
+3,1052,Brachydium Vambraces
+3,1053,Brachydium Guards
+3,1054,Akantor Claws X
+3,1055,Akantor Gauntlets X
+3,1056,Akantor Claws XR
+3,1057,Akantor Gauntlets XR
+3,1058,Ukanlos Claws X
+3,1059,Ukanlos Gauntlets X
+3,1060,True Tempest Sleeves
+3,1061,True Welkin Sleeves
+3,1062,True Skeletal Humerus
+3,1063,True Decayed Humerus
+3,1064,Astral Vambraces X
+3,1065,Astral Guards X
+3,1066,Neset Manus
+3,1067,Neset Brachia
+3,1068,Black Claw X
+3,1069,Black Fist X
+3,1070,Escadora Armguards x
+3,1071,Escadora Arma X
+3,1072,Escadora Armguards XR
+3,1073,Escadora Arma XR
+3,1074,Fatalis Crimsonclaws
+3,1075,Fatalis Crimsonfists
+3,1076,GX Fatalis Crimsonclaws
+3,1077,GX Fatalis Crimsonfists
+3,1078,Fatalis Crimsonclaws XR
+3,1079,Fatalis Crimsonfists XR
+3,1080,White Fatalis Claw
+3,1081,White Fatalis Fist
+3,1082,GX White Fatalis Claw
+3,1083,GX White Fatalis Fist
+3,1084,Helper Sleeves X
+3,1085,Healer Sleeves X
+3,1086,Ancient Arms X
+3,1087,Ancient Guards X
+3,1088,Master's Gauntlets X
+3,1089,Master's Guards X
+3,1090,True Toka Kote
+3,1091,True Mitsuaoi Kote
+3,1092,dummy
+3,1093,dummy
+3,1094,dummy
+3,1095,dummy
+3,1096,Black Belt Braces X
+3,1097,Black Belt Guards X
+3,1098,dummy
+3,1099,dummy
+3,1100,Auroros Kermes Gauntlets
+3,1101,Borealis Kermes Gauntlets
+3,1102,Genesis Kermes Gauntlets
+3,1103,Glyph Kermes Gauntlets
+3,1104,Silver Solbraces XR
+3,1105,Silver Solguards XR
+3,1106,Esurient Braces XR
+3,1107,Esurient Guards XR
+3,1108,Shredclaw Braces
+3,1109,Shredclaw Guards
+3,1110,Hazewing Braces
+3,1111,Hazewing Guards
+3,1112,Divinesight Braces
+3,1113,Divinesight Guards
+3,1114,Azurebolt Braces
+3,1115,Azurebolt Guards
+3,1116,Frostpeak Braces
+3,1117,Frostpeak Guards
+3,1118,Bloodlust Braces
+3,1119,Bloodlust Guards
+3,1120,Gammoth Braces X
+3,1121,Gammoth Guards X
+3,1122,GX Genprey Vambraces
+3,1123,GX Genprey Guards
+3,1124,GX Ioprey Vambraces
+3,1125,GX Ioprey Guards
+3,1126,GX Vespoid Vambraces
+3,1127,GX Vespoid Guards
+3,1128,Hornetaur Braces XR
+3,1129,Hornetaur Guards XR
+3,1130,GX Hornetaur Vambraces
+3,1131,GX Hornetaur Guards
+3,1132,GX Cephalos Vambraces
+3,1133,GX Cephalos Guards
+3,1134,GX Hermitaur Braces
+3,1135,GX Hermitaur Guards
+3,1136,GX Rathian Braces
+3,1137,GX Rathian Guards
+3,1138,GX Ceanataur Braces
+3,1139,GX Ceanataur Guards
+3,1140,GX Blango Vambraces
+3,1141,GX Blango Guards
+3,1142,GX Gore Braces
+3,1143,GX Gore Guards
+3,1144,GX Zinogre Braces
+3,1145,GX Zinogre Guards
+3,1146,GX Tigrex Braces
+3,1147,GX Tigrex Guards
+3,1148,GX Brachydios Braces
+3,1149,GX Brachydios Guards
+3,1150,GX Rathalos Braces
+3,1151,GX Rathalos Guards
+3,1152,GX Arc Vambraces
+3,1153,GX Arc Guards
+3,1154,GX Storge Vambraces
+3,1155,GX Storge Guards
+3,1156,GX Kushala Grip
+3,1157,GX Kushala Embrace
+3,1158,GX Mizuha Sleeves
+3,1159,GX Cham Sleeves
+3,1160,GX Kaiser Vambraces
+3,1161,GX Kaiser Guards
+3,1162,GX Lavasioth Braces
+3,1163,GX Lavasioth Guards
+3,1164,GX Silver Solbraces
+3,1165,GX Silver Solguards
+3,1166,GX Golden Lunebraces
+3,1167,GX Golden Luneguards
+3,1168,Tempest Kermes Sleeves
+3,1169,Welkin Kermes Sleeves
+3,1170,Leather Braces X
+3,1171,Leather Guards X
+3,1172,Chainmail Braces X
+3,1173,Chainmail Guards X
+3,1174,dummy
+3,1175,Hunter's Vambraces X
+3,1176,Hunter's Guards X
+3,1177,Bone Vambraces X
+3,1178,Bone Guards X
+3,1179,Dober Braces X
+3,1180,Dober Guards X
+3,1181,Alloy Vambraces X
+3,1182,Alloy Guards X
+3,1183,Ingot Vambraces X
+3,1184,Ingot Guards X
+3,1185,Damascus Braces XR
+3,1186,Damascus Guards XR
+3,1187,Battle Vambraces X
+3,1188,Battle Guards X
+3,1189,High Metal Braces X
+3,1190,High Metal Guards X
+3,1191,High Metal Braces Z
+3,1192,High Metal Guards Z
+3,1193,Mosgharl Creeper X
+3,1194,Mosgharl Tendril X
+3,1195,Mosgharl Creeper X
+3,1196,Mosgharl Tendril X
+3,1197,Obituary Brachia X
+3,1198,Obituary Manus X
+3,1199,Butterfly Brachia X
+3,1200,Butterfly Manus X
+3,1201,Aelucanth Brachia X
+3,1202,Aelucanth Manus X
+3,1203,Rhopessa Brachia X
+3,1204,Rhopessa Manus X
+3,1205,Vaik Braces X
+3,1206,Vaik Guards X
+3,1207,Guardian Vambraces Z
+3,1208,Guardian Guards Z
+3,1209,Helper Sleeves Z
+3,1210,Healer Sleeves Z
+3,1211,Death Stench Grip XR
+3,1212,Death Stench Grasp XR
+3,1213,Makluva Sleeves X
+3,1214,Makluva Sucker X
+3,1215,Makluva Sleeves Z
+3,1216,Makluva Sucker Z
+3,1217,Melahoa Branch X
+3,1218,Melahoa Petal X
+3,1219,Melahoa Branch Z
+3,1220,Melahoa Petal Z
+3,1221,Derring Vambraces X
+3,1222,Derring Guards X
+3,1223,GX Kita Star Sleeves
+3,1224,GX Umi Ocean Sleeves
+3,1225,dummy
+3,1226,dummy
+3,1227,Wisdom Gloves X
+3,1228,Wisdom Cuffs X
+3,1229,Cheerful Vambraces X
+3,1230,Cheerful Guards X
+3,1231,Mariner Gloves X
+3,1232,Mariner Sleeves X
+3,1233,dummy
+3,1234,dummy
+3,1235,dummy
+3,1236,dummy
+3,1237,dummy
+3,1238,dummy
+3,1239,dummy
+3,1240,dummy
+3,1241,Giaprey Claws X
+3,1242,Giaprey Gloves X
+3,1243,dummy
+3,1244,dummy
+3,1245,Brigade Wristlet X
+3,1246,dummy
+3,1247,Maccao Gauntlets X
+3,1248,Maccao Gloves X
+3,1249,Jaggi Gauntlets X
+3,1250,Jaggi Gloves X
+3,1251,Artian Braces XR
+3,1252,Artian Sleeves XR
+3,1253,Dragonclaws
+3,1254,Dragonfists
+3,1255,Criminal Gloves
+3,1256,Criminal Sleeves
+3,1257,Gon Braces
+3,1258,Gon Guards
+3,1259,Arcfire Kote
+3,1260,Bonfire Kote
+3,1261,Waka Kote
+3,1262,Wagaku Kote
+3,1263,Ruler Arcfire Kote
+3,1264,Ruler Bonfire Kote
+3,1265,Ruler Waka Kote
+3,1266,Ruler Wagaku Kote
+3,1267,Supreme Arcfire Kote
+3,1268,Supreme Bonfire Kote
+3,1269,Supreme Wagaku Kote
+3,1270,Supreme Wagaku Kote
+3,1271,Golden Knight Braces
+3,1272,Golden Knight Guards
+3,1273,Varia Suit Guards
+3,1274,Varia Suit Shield
+3,1275,Zero Suit Gloves
+3,1276,Zero Suit Hands
+3,1277,Lodestar Armguards
+3,1278,Lodestar Cuffs
+3,1279,Hylian Braces
+3,1280,Hylian Gloves
+3,1281,Hiryu Sky Kote
+3,1282,Hiryu Land Kote
+4,0,(None)
+4,1,Leather Belt
+4,2,Chainmail Belt
+4,3,Bherna Belt
+4,4,Hunting Faulds
+4,5,Hunting Coat
+4,6,Mafumofu Coat
+4,7,Yukumo Obi
+4,8,Loc Lac Kilt
+4,9,Hunter's Faulds
+4,10,Hunter's Coat
+4,11,Bone Faulds
+4,12,Bone Coat
+4,13,Light Belt
+4,14,Iron Belt
+4,15,dummy
+4,16,dummy
+4,17,dummy
+4,18,dummy
+4,19,dummy
+4,20,dummy
+4,21,dummy
+4,22,dummy
+4,23,Jaggi Faulds
+4,24,Jaggi Coat
+4,25,Maccao Faulds
+4,26,Maccao Coat
+4,27,Velociprey Tassets
+4,28,Velociprey Coat
+4,29,Giaprey Tassets
+4,30,Giaprey Coat
+4,31,Genprey Tassets
+4,32,Genprey Coat
+4,33,Vespoid Tassets
+4,34,Vespoid Coat
+4,35,Hornetaur Tassets
+4,36,Hornetaur Coat
+4,37,Bnahabra Coil
+4,38,Bnahabra Coat
+4,39,dummy
+4,40,dummy
+4,41,Mosswine Hip
+4,42,Rhenoplos Coil
+4,43,Rhenoplos Coat
+4,44,Bulldrome Faulds
+4,45,Bulldrome Coat
+4,46,dummy
+4,47,Arzuros Faulds
+4,48,Arzuros Coat
+4,49,Cephalos Tassets
+4,50,Cephalos Coat
+4,51,Derring Belt
+4,52,Alloy Coil
+4,53,Alloy Coat
+4,54,Battle Tassets
+4,55,Battle Coat
+4,56,Ingot Coil
+4,57,Ingot Coat
+4,58,High Metal Tassets
+4,59,High Metal Coat
+4,60,dummy
+4,61,dummy
+4,62,Melahoa Folia
+4,63,Melahoa Trunk
+4,64,Makluva Coil
+4,65,Makluva Fin
+4,66,Bistro Sarong
+4,67,Bistro Apron
+4,68,Obituary Elytra
+4,69,Obituary Alae
+4,70,Butterfly Elytra
+4,71,Butterfly Alae
+4,72,Death Stench Bowels
+4,73,Death Stench Belly
+4,74,dummy
+4,75,dummy
+4,76,Mosgharl Folia
+4,77,Mosgharl Fronds
+4,78,Edel Folia
+4,79,Edel Fronds
+4,80,Skalda Elytra
+4,81,Skalda Alae
+4,82,Spio Elytra
+4,83,Spio Alae
+4,84,Droth Faulds
+4,85,Droth Coat
+4,86,Uroktor Tassets
+4,87,Uroktor Coat
+4,88,dummy
+4,89,dummy
+4,90,Moofah Coil
+4,91,Moofah Coat
+4,92,dummy
+4,93,dummy
+4,94,dummy
+4,95,dummy
+4,96,dummy
+4,97,dummy
+4,98,dummy
+4,99,Remobra Belt
+4,100,Remobra Band
+4,101,Ioprey Tassets
+4,102,Ioprey Coat
+4,103,Kut-Ku Tassets
+4,104,Kut-Ku Coat
+4,105,Lagombi Faulds
+4,106,Lagombi Coat
+4,107,Gypceros Tassets
+4,108,Gypceros Coat
+4,109,Tetsucabra Faulds
+4,110,Tetsucabra Coat
+4,111,Hermitaur Tassets
+4,112,Hermitaur Coat
+4,113,Volvidon Faulds
+4,114,Volvidon Coat
+4,115,Ludroth Faulds
+4,116,Ludroth Coat
+4,117,Malfestio Faulds
+4,118,Malfestio Coat
+4,119,Khezu Tassets
+4,120,Khezu Coat
+4,121,Rathian Faulds
+4,122,Rathian Coat
+4,123,Nibelsnarf Faulds
+4,124,Nibelsnarf Coat
+4,125,Blango Tassets
+4,126,Blango Coat
+4,127,Ceanataur Tassets
+4,128,Ceanataur Coat
+4,129,Najarala Faulds
+4,130,Najarala Coat
+4,131,Nargacuga Faulds
+4,132,Nargacuga Coat
+4,133,Scholarly Sash
+4,134,Scholarly Coat
+4,135,Vaik Faulds
+4,136,Vaik Coat
+4,137,dummy
+4,138,dummy
+4,139,Aelucanth Elytra
+4,140,Aelucanth Alae
+4,141,Rhopessa Elytra
+4,142,Rhopessa Alae
+4,143,dummy
+4,144,dummy
+4,145,Garuga Tassets
+4,146,Garuga Coat
+4,147,dummy
+4,148,Uragaan Faulds
+4,149,Uragaan Coat
+4,150,Rathalos Faulds
+4,151,Rathalos Coat
+4,152,Lagiacrus Faulds
+4,153,Lagiacrus Coat
+4,154,Zinogre Faulds
+4,155,Zinogre Coat
+4,156,Mizutsune Faulds
+4,157,Mizutsune Coat
+4,158,Astalos Faulds
+4,159,Astalos Coat
+4,160,Gammoth Faulds
+4,161,Gammoth Coat
+4,162,Glavenus Faulds
+4,163,Glavenus Coat
+4,164,Gore Faulds
+4,165,Gore Coat
+4,166,Regios Tassets
+4,167,Regios Coat
+4,168,Tigrex Tassets
+4,169,Tigrex Coat
+4,170,Kirin Hoop
+4,171,Kirin Shorts
+4,172,Brachydios Faulds
+4,173,Brachydios Coat
+4,174,Arc Faulds
+4,175,Storge Faulds
+4,176,Arc Coat
+4,177,Storge Coat
+4,178,Kushala Cocoon
+4,179,Kushala Wind Wrap
+4,180,Mizuha Sash
+4,181,Cham Coat
+4,182,Kaiser Tassets
+4,183,Kaiser Coat
+4,184,Skeletal Hipbone
+4,185,Decayed Hipbone
+4,186,Black Spine
+4,187,Black Scale
+4,188,Black Belt Tassets
+4,189,Black Belt Coat
+4,190,Guild Bard Coil
+4,191,Guild Bard Coat
+4,192,Maiden's Skirt
+4,193,French Maid Frills
+4,194,Helper Skirt
+4,195,Healer Frills
+4,196,Dianthus Skirt
+4,197,Campanile Skirt
+4,198,dummy
+4,199,Gourmew Sarong
+4,200,Gourmew Apron
+4,201,Leather Faulds S
+4,202,Chainmail Faulds S
+4,203,Bherna Belt S
+4,204,Bherna Coat S
+4,205,Hunting Faulds S
+4,206,Hunting Coat S
+4,207,Mafumofu Coil S
+4,208,Mafumofu Coat S
+4,209,Yukumo Sky Obi
+4,210,Yukumo Land Obi
+4,211,Loc Lac Kilt S
+4,212,Hunter's Faulds S
+4,213,Hunter's Coat S
+4,214,Hunter's Faulds R
+4,215,Hunter's Coat R
+4,216,Bone Faulds S
+4,217,Bone Coat S
+4,218,Light Belt S
+4,219,Iron Belt S
+4,220,dummy
+4,221,dummy
+4,222,dummy
+4,223,dummy
+4,224,Melahoa Folia S
+4,225,Melahoa Trunk S
+4,226,Melahoa Folia U
+4,227,Melahoa Trunk U
+4,228,Makluva Coil S
+4,229,Makluva Fin S
+4,230,Makluva Coil U
+4,231,Makluva Fin U
+4,232,Bistro Sarong S
+4,233,Bistro Apron S
+4,234,dummy
+4,235,dummy
+4,236,Mosgharl Folia S
+4,237,Mosgharl Fronds S
+4,238,Edel Folia S
+4,239,Edel Fronds S
+4,240,Moofah Coil S
+4,241,Moofah Coat S
+4,242,dummy
+4,243,dummy
+4,244,dummy
+4,245,dummy
+4,246,dummy
+4,247,dummy
+4,248,dummy
+4,249,dummy
+4,250,dummy
+4,251,dummy
+4,252,dummy
+4,253,Remobra Belt S
+4,254,Remobra Band S
+4,255,dummy
+4,256,dummy
+4,257,dummy
+4,258,dummy
+4,259,dummy
+4,260,dummy
+4,261,Mosswine Hip S
+4,262,Rhenoplos Coil S
+4,263,Rhenoplos Coat S
+4,264,Jaggi Faulds S
+4,265,Jaggi Coat S
+4,266,Droth Faulds S
+4,267,Droth Coat S
+4,268,Uroktor Tassets S
+4,269,Uroktor Coat S
+4,270,Maccao Faulds S
+4,271,Maccao Coat S
+4,272,Velociprey Tassets S
+4,273,Velociprey Coat S
+4,274,Giaprey Faulds S
+4,275,Giaprey Coat S
+4,276,Genprey Tassets S
+4,277,Genprey Coat S
+4,278,EX Genprey Tassets
+4,279,EX Genprey Coat
+4,280,Ioprey Tassets S
+4,281,Ioprey Coat S
+4,282,EX Ioprey Tassets
+4,283,EX Ioprey Coat
+4,284,Vespoid Tassets S
+4,285,Vespoid Coat S
+4,286,EX Vespoid Tassets
+4,287,EX Vespoid Coat
+4,288,Hornetaur Tassets S
+4,289,Hornetaur Coat S
+4,290,EX Hornetaur Tassets
+4,291,EX Hornetaur Coat
+4,292,Hornetaur Tassets R
+4,293,Hornetaur Coat R
+4,294,Bnahabra Coil S
+4,295,Bnahabra Coat S
+4,296,dummy
+4,297,dummy
+4,298,Bulldrome Faulds S
+4,299,Bulldrome Coat S
+4,300,dummy
+4,301,Arzuros Faulds S
+4,302,Arzuros Coat S
+4,303,Cephalos Tassets S
+4,304,Cephalos Coat S
+4,305,EX Cephalos Tassets
+4,306,EX Cephalos Coat
+4,307,Kut-Ku Tassets S
+4,308,Kut-Ku Coat S
+4,309,Kecha Faulds
+4,310,Kecha Coat
+4,311,Lagombi Faulds S
+4,312,Lagombi Coat S
+4,313,Gypceros Tassets S
+4,314,Gypceros Coat S
+4,315,Gypceros Tassets R
+4,316,Gypceros Coat R
+4,317,Tetsucabra Faulds S
+4,318,Tetsucabra Coat S
+4,319,Hermitaur Tassets S
+4,320,Hermitaur Coat S
+4,321,EX Hermitaur Tassets
+4,322,EX Hermitaur Coat
+4,323,Hermitaur Tassets R
+4,324,Hermitaur Coat R
+4,325,Volvidon Faulds S
+4,326,Volvidon Coat S
+4,327,Ludroth Faulds S
+4,328,Ludroth Coat S
+4,329,Ludroth Tassets R
+4,330,Ludroth Coat R
+4,331,Lecturer's Skirt
+4,332,Lecturer's Frills
+4,333,Alloy Coil S
+4,334,Alloy Coat S
+4,335,Alloy Coil R
+4,336,Alloy Coat R
+4,337,Battle Tassets S
+4,338,Battle Coat S
+4,339,Ingot Coil S
+4,340,Ingot Coat S
+4,341,Ingot Coil R
+4,342,Ingot Coat R
+4,343,High Metal Tassets S
+4,344,High Metal Coat S
+4,345,High Metal Tassets U
+4,346,High Metal Coat U
+4,347,dummy
+4,348,dummy
+4,349,Lobster Coil
+4,350,Lobster Coat
+4,351,Obituary Elytra S
+4,352,Obituary Alae S
+4,353,Butterfly Elytra S
+4,354,Butterfly Alae S
+4,355,Death Stench Bowels S
+4,356,Death Stench Belly S
+4,357,Death Stench Bowels R
+4,358,Death Stench Belly R
+4,359,Vaik Faulds S
+4,360,Vaik Coat S
+4,361,Aelucanth Elytra S
+4,362,Aelucanth Alae S
+4,363,Rhopessa Elytra S
+4,364,Rhopessa Alae S
+4,365,Patissier's Sarong
+4,366,Patissier's Apron
+4,367,Skalda Elytra S
+4,368,Skalda Alae S
+4,369,Spio Elytra S
+4,370,Spio Alae S
+4,371,Malfestio Faulds S
+4,372,Malfestio Coat S
+4,373,Zamtrios Faulds
+4,374,Zamtrios Coat
+4,375,Khezu Tassets S
+4,376,Khezu Coat S
+4,377,Khezu Tassets R
+4,378,Khezu Coat R
+4,379,Rathian Faulds S
+4,380,Rathian Coat S
+4,381,EX Rathian Faulds
+4,382,EX Rathian Coat
+4,383,Rathian Faulds R
+4,384,Rathian Coat R
+4,385,Nibelsnarf Faulds S
+4,386,Nibelsnarf Coat S
+4,387,dummy
+4,388,dummy
+4,389,Blango Tassets S
+4,390,Blango Coat S
+4,391,EX Blango Tassets
+4,392,EX Blango Coat
+4,393,Lavasioth Tassets
+4,394,Lavasioth Coat
+4,395,EX Lavasioth Tassets
+4,396,EX Lavasioth Coat
+4,397,Ceanataur Tassets S
+4,398,Ceanataur Coat S
+4,399,EX Ceanataur Tassets
+4,400,EX Ceanataur Coat
+4,401,Ceanataur Tassets R
+4,402,Ceanataur Coat R
+4,403,Najarala Faulds S
+4,404,Najarala Coat S
+4,405,Nargacuga Tassets S
+4,406,Nargacuga Coat S
+4,407,Garuga Tassets S
+4,408,Garuga Coat S
+4,409,dummy
+4,410,Uragaan Faulds S
+4,411,Uragaan Coat S
+4,412,Black Belt Tassets S
+4,413,Black Belt Coat S
+4,414,Guardian Coil
+4,415,Guardian Coat
+4,416,Guardian Coil U
+4,417,Guardian Coat U
+4,418,Scholar's Skirt
+4,419,Scholar's Mini
+4,420,Sailor Skirt
+4,421,Sailor Mini
+4,422,dummy
+4,423,dummy
+4,424,dummy
+4,425,dummy
+4,426,Derring Faulds S
+4,427,Derring Coat S
+4,428,Dober Coil
+4,429,Dober Coat
+4,430,Damascus Coil
+4,431,Damascus Coat
+4,432,Damascus Coil R
+4,433,Damascus Coat R
+4,434,dummy
+4,435,dummy
+4,436,dummy
+4,437,dummy
+4,438,Chrome Metal Coil
+4,439,Chrome Metal Coat
+4,440,Artian Coil S
+4,441,Artian Coat S
+4,442,Artian Coil R
+4,443,Artian Coat R
+4,444,Seltas Faulds
+4,445,Seltas Coat
+4,446,Rathalos Faulds S
+4,447,Rathalos Coat S
+4,448,EX Rathalos Faulds
+4,449,EX Rathalos Coat
+4,450,Rathalos Faulds R
+4,451,Rathalos Coat R
+4,452,Lagiacrus Faulds S
+4,453,Lagiacrus Coat S
+4,454,Lagiacrus Faulds R
+4,455,Lagiacrus Coat R
+4,456,Zinogre Faulds S
+4,457,Zinogre Coat S
+4,458,EX Zinogre Faulds
+4,459,EX Zinogre Coat
+4,460,Mizutsune Faulds S
+4,461,Mizutsune Coat S
+4,462,Astalos Faulds S
+4,463,Astalos Coat S
+4,464,Gammoth Faulds S
+4,465,Gammoth Coat S
+4,466,Glavenus Faulds S
+4,467,Glavenus Coat S
+4,468,Agnaktor Faulds
+4,469,Agnaktor Coat
+4,470,Gore Faulds S
+4,471,Gore Coat S
+4,472,EX Gore Faulds
+4,473,EX Gore Coat
+4,474,Gore Faulds R
+4,475,Gore Coat R
+4,476,Regios Tassets S
+4,477,Regios Coat S
+4,478,Duramboros Faulds
+4,479,Duramboros Coat
+4,480,Tigrex Tassets S
+4,481,Tigrex Coat S
+4,482,EX Tigrex Tassets
+4,483,EX Tigrex Coat
+4,484,Tigrex Tassets R
+4,485,Tigrex Coat R
+4,486,Kirin Hoop S
+4,487,Kirin Shorts S
+4,488,Kirin Hoop R
+4,489,Kirin Shorts R
+4,490,Brachydios Faulds S
+4,491,Brachydios Coat S
+4,492,EX Brachydios Faulds
+4,493,EX Brachydios Coat
+4,494,Golden Obi
+4,495,Puppeteer Obi
+4,496,Vangis Coil
+4,497,Vangis Coat
+4,498,Guild Knight Coat
+4,499,Guild Knight Kilt
+4,500,Maiden's Skirt S
+4,501,French Maid Frills S
+4,502,Blue Guild Coil
+4,503,Blue Guild Coat
+4,504,Red Guild Coil
+4,505,Red Guild Coat
+4,506,Helper Skirt S
+4,507,Healer Frills S
+4,508,Helper Skirt U
+4,509,Healer Frills U
+4,510,Guild Bard Coil S
+4,511,Guild Bard Coat S
+4,512,Chakra Waistlet
+4,513,dummy
+4,514,dummy
+4,515,Dianthus Wealskirt
+4,516,Campanile Wealskirt
+4,517,Ace Faulds
+4,518,Ace Coat
+4,519,Sororal Faulds
+4,520,Sororal Coat
+4,521,Hawkcoil
+4,522,Hawkcoat
+4,523,Gourmew Sarong S
+4,524,Gourmew Apron S
+4,525,dummy
+4,526,Scholarly Sash S
+4,527,Scholarly Coat S
+4,528,Ranger's Sash
+4,529,Archer's Belt
+4,530,Shinobi Heaven Belt
+4,531,Shinobi Land Belt
+4,532,Shinobi Sky Belt
+4,533,Shinobi Sea Belt
+4,534,Ancient Coil
+4,535,Ancient Coat
+4,536,Master's Faulds
+4,537,Master's Coat
+4,538,Black Spine S
+4,539,Black Scale S
+4,540,Toka Koshiate
+4,541,Mitsuaoi Koshiate
+4,542,EX Rathian Faulds S
+4,543,EX Rathian Coat S
+4,544,EX Rathalos Faulds S
+4,545,EX Rathalos Coat S
+4,546,EX Tigrex Coil S
+4,547,EX Tigrex Coat S
+4,548,Arc Faulds S
+4,549,Storge Faulds S
+4,550,Arc Coat S
+4,551,Storge Coat S
+4,552,EX Arc Faulds
+4,553,EX Storge Faulds
+4,554,EX Arc Coat
+4,555,EX Storge Coat
+4,556,Arc Faulds R
+4,557,Storge Faulds R
+4,558,Arc Coat R
+4,559,Storge Coat R
+4,560,Kushala Cocoon S
+4,561,Kushala Wind Wrap S
+4,562,EX Kushala Cocoon
+4,563,EX Kushala Wind Wrap
+4,564,Kushala Cocoon R
+4,565,Kushala Wind Wrap R
+4,566,Mizuha Sash S
+4,567,Cham Coat S
+4,568,EX Mizuha Sash
+4,569,EX Cham Coat
+4,570,Kaiser Tassets S
+4,571,Kaiser Coat S
+4,572,EX Kaiser Tassets
+4,573,EX Kaiser Coat
+4,574,Silver Solcoil
+4,575,Silver Solcoat
+4,576,EX Silver Solcoil
+4,577,EX Silver Solcoat
+4,578,Silver Solcoil R
+4,579,Silver Solcoat R
+4,580,Golden Lunecoil
+4,581,Golden Lunecoat
+4,582,EX Golden Lunecoil
+4,583,EX Golden Lunecoat
+4,584,Divine Ire Obi
+4,585,Crusher Belt
+4,586,Esurient Faulds
+4,587,Esurient Coat
+4,588,Esurient Faulds R
+4,589,Esurient Coat R
+4,590,Akantor Cincture
+4,591,Akantor Sash
+4,592,Akantor Cincture R
+4,593,Akantor Sash R
+4,594,Ukanlos Cincture
+4,595,Ukanlos Sash
+4,596,Tempest Obi
+4,597,Welkin Obi
+4,598,Tempest Obi R
+4,599,Welkin Obi R
+4,600,Skeletal Hipbone R
+4,601,Decayed Hipbone R
+4,602,Astral Coil
+4,603,Astral Coat
+4,604,Escadora Might
+4,605,Escadora Force
+4,606,Escadora Might R
+4,607,Escadora Force R
+4,608,dummy
+4,609,dummy
+4,610,dummy
+4,611,dummy
+4,612,dummy
+4,613,dummy
+4,614,dummy
+4,615,Strange Faulds
+4,616,Strange Coat
+4,617,Redhelm Faulds
+4,618,Redhelm Coat
+4,619,Snowbaron Faulds
+4,620,Snowbaron Coat
+4,621,Stonefist Faulds
+4,622,Stonefist Coat
+4,623,Dreadqueen Faulds
+4,624,Dreadqueen Coat
+4,625,Drilltusk Faulds
+4,626,Drilltusk Coat
+4,627,Silverwind Faulds
+4,628,Silverwind Coat
+4,629,Crystalbeard Faulds
+4,630,Crystalbeard Coat
+4,631,Deadeye Faulds
+4,632,Deadeye Coat
+4,633,Dreadking Faulds
+4,634,Dreadking Coat
+4,635,Thunderlord Faulds
+4,636,Thunderlord Coat
+4,637,Grimclaw Faulds
+4,638,Grimclaw Coat
+4,639,Hellblade Faulds
+4,640,Hellblade Coat
+4,641,dummy
+4,642,dummy
+4,643,dummy
+4,644,dummy
+4,645,dummy
+4,646,dummy
+4,647,dummy
+4,648,dummy
+4,649,dummy
+4,650,dummy
+4,651,dummy
+4,652,dummy
+4,653,dummy
+4,654,Booyah Belt
+4,655,Booyah Buckle
+4,656,dummy
+4,657,dummy
+4,658,dummy
+4,659,dummy
+4,660,Champion's Belt
+4,661,Strongman's Belt
+4,662,Zodias Coil
+4,663,Zodias Coat
+4,664,Pirate Coil J
+4,665,Pirate Skirt J
+4,666,Buccaneer Coil J
+4,667,Buccaneer Skirt J
+4,668,Dynaqlo Belt
+4,669,Dynaqlo Pouch
+4,670,Promising Girdle
+4,671,Halcyon Girdle
+4,672,Blue Star Coil
+4,673,Blue Star Coat
+4,674,Star Rook Coil
+4,675,Star Rook Coat
+4,676,Star Knight Coil
+4,677,Star Knight Coat
+4,678,dummy
+4,679,dummy
+4,680,dummy
+4,681,dummy
+4,682,Hero's Belt
+4,683,Hero's Band
+4,684,dummy
+4,685,dummy
+4,686,dummy
+4,687,dummy
+4,688,dummy
+4,689,dummy
+4,690,dummy
+4,691,dummy
+4,692,dummy
+4,693,dummy
+4,694,Mosgharl Folia
+4,695,Mosgharl Fronds
+4,696,Gammoth Faulds
+4,697,Gammoth Coat
+4,698,Gourmew Sarong
+4,699,Gourmew Apron
+4,700,Leather Coat S
+4,701,Chainmail Coat S
+4,702,Mosgharl Folia S
+4,703,Mosgharl Fronds S
+4,704,Gammoth Faulds S
+4,705,Gammoth Coat S
+4,706,Blue Guild Coil
+4,707,Blue Guild Coat
+4,708,Red Guild Coil
+4,709,Red Guild Coat
+4,710,Gourmew Sarong S
+4,711,Gourmew Apron S
+4,712,Promising Archgirdle
+4,713,Halcyon Archgirdle
+4,714,Lucid Tassets
+4,715,Dreamy Tassets
+4,716,Lucid Archgirdle
+4,717,Dreamy Archgirdle
+4,718,Conga Tassets
+4,719,Conga Coat
+4,720,dummy
+4,721,dummy
+4,722,Barroth Faulds
+4,723,Barroth Coat
+4,724,Basarios Tassets
+4,725,Basarios Coat
+4,726,Nerscylla Faulds
+4,727,Nerscylla Coat
+4,728,Barioth Faulds
+4,729,Barioth Coat
+4,730,Gravios Tassets
+4,731,Gravios Coat
+4,732,Cheerful Belt
+4,733,Cheerful Coat
+4,734,Mariner Skirt
+4,735,Mariner Mini
+4,736,dummy
+4,737,dummy
+4,738,Diablos Coil
+4,739,Diablos Coat
+4,740,Diablos R Coil
+4,741,Diablos R Coat
+4,742,Valfalk Fold
+4,743,Valfalk Coat
+4,744,Wisdom Coil
+4,745,Wisdom Coat
+4,746,dummy
+4,747,dummy
+4,748,dummy
+4,749,dummy
+4,750,dummy
+4,751,Bherna Belt X
+4,752,Bherna Coat X
+4,753,Hunting Faulds X
+4,754,Hunting Coat X
+4,755,Mafumofu Coil X
+4,756,Mafumofu Coat X
+4,757,Xtreme YukumoSky Obi
+4,758,Xtreme YukumoLand Obi
+4,759,dummy
+4,760,dummy
+4,761,dummy
+4,762,dummy
+4,763,dummy
+4,764,dummy
+4,765,dummy
+4,766,dummy
+4,767,dummy
+4,768,dummy
+4,769,Remobra Belt X
+4,770,Remobra Band X
+4,771,dummy
+4,772,dummy
+4,773,Mosswine Hip X
+4,774,Rhenoplos Coil X
+4,775,Rhenoplos Coat X
+4,776,Jaggi Coil X
+4,777,Jaggi Coat X
+4,778,dummy
+4,779,dummy
+4,780,Droth Faulds X
+4,781,Droth Coat X
+4,782,Uroktor Tassets X
+4,783,Uroktor Coat X
+4,784,Maccao Faulds X
+4,785,Maccao Coat X
+4,786,Velociprey Tassets X
+4,787,Velociprey Coat X
+4,788,Giaprey Tassets X
+4,789,Giaprey Coat X
+4,790,Genprey Tassets X
+4,791,Genprey Coat X
+4,792,Ioprey Tassets X
+4,793,Ioprey Coat X
+4,794,Vespoid Tassets X
+4,795,Vespoid Coat X
+4,796,Hornetaur Tassets X
+4,797,Hornetaur Coat X
+4,798,Bnahabra Coil X
+4,799,Bnahabra Coat X
+4,800,dummy
+4,801,dummy
+4,802,Bulldrome Faulds X
+4,803,Bulldrome Coat X
+4,804,dummy
+4,805,Arzuros Faulds X
+4,806,Arzuros Coil X
+4,807,Cephalos Tassets X
+4,808,Cephalos Coat X
+4,809,Kut-Ku Tassets X
+4,810,Kut-Ku Coat X
+4,811,Kecha Faulds X
+4,812,Kecha Coat X
+4,813,Lagombi Faulds X
+4,814,Lagombi Coat X
+4,815,Gypceros Tassets X
+4,816,Gypceros Coat X
+4,817,Tetsucabra Faulds X
+4,818,Tetsucabra Coat X
+4,819,Hermitaur Tassets X
+4,820,Hermitaur Coat X
+4,821,Ludroth Tassets X
+4,822,Ludroth Coat X
+4,823,Gourmew Sarong X
+4,824,Gourmew Apron X
+4,825,Gourmew Sarong X
+4,826,Gourmew Apron X
+4,827,Moofah Coil X
+4,828,Moofah Coat X
+4,829,Edel Folia X
+4,830,Edel Fronds X
+4,831,dummy
+4,832,dummy
+4,833,Death Stench Bowels X
+4,834,Death Stench Belly X
+4,835,Skalda Elytra X
+4,836,Skalda Alae X
+4,837,Spio Elytra X
+4,838,Spio Alae X
+4,839,Hunter's Faulds XR
+4,840,Hunter's Coat XR
+4,841,Volvidon Faulds X
+4,842,Volvidon Coat X
+4,843,Conga Tassets X
+4,844,Conga Coat X
+4,845,Barroth Faulds X
+4,846,Barroth Coat X
+4,847,Basarios Tassets X
+4,848,Basarios Coat X
+4,849,Malfestio Faulds X
+4,850,Malfestio Coat X
+4,851,Zamtrios Faulds X
+4,852,Zamtrios Coat X
+4,853,Khezu Tassets X
+4,854,Khezu Coat X
+4,855,Nerscylla Faulds X
+4,856,Nerscylla Coat X
+4,857,Rathian Faulds X
+4,858,Rathian Coat X
+4,859,Nibelsnarf Faulds X
+4,860,Nibelsnarf Coat X
+4,861,dummy
+4,862,dummy
+4,863,Blangonga Coil X
+4,864,Blangonga Coat X
+4,865,Ceanataur Tassets X
+4,866,Ceanataur Coat X
+4,867,Najarala Faulds X
+4,868,Najarala Coat X
+4,869,Nargacuga Faulds X
+4,870,Nargacuga Coat X
+4,871,Gypceros Tassets XR
+4,872,Gypceros Coat XR
+4,873,Hermitaur Tassets XR
+4,874,Hermitaur Coat XR
+4,875,Ludroth Faulds XR
+4,876,Ludroth Coat XR
+4,877,Strange Faulds X
+4,878,Strange Coat X
+4,879,Bistro Sarong X
+4,880,Bistro Apron X
+4,881,Lecturer's Skirt X
+4,882,Lecturer's Frills X
+4,883,Patissier's Sarong X
+4,884,Patissier's Apron X
+4,885,dummy
+4,886,Maiden's Skirt X
+4,887,Exclusive Frills X
+4,888,Dianthus Wealskirt X
+4,889,Campanile Wealskirt X
+4,890,GX Conga Faulds
+4,891,GX Conga Coat
+4,892,Alloy Coil XR
+4,893,Alloy Coat XR
+4,894,Ingot Coil XR
+4,895,Ingot Coat XR
+4,896,Artian Coil X
+4,897,Artian Coat X
+4,898,Lobster Coil X
+4,899,Lobster Coat X
+4,900,Khezu Tassets XR
+4,901,Khezu Coat XR
+4,902,Ceanataur Tassets XR
+4,903,Ceanataur Coat XR
+4,904,Rathian Faulds XR
+4,905,Rathian Coat XR
+4,906,Lavasioth Tassets X
+4,907,Lavasioth Coat X
+4,908,Garuga Tassets X
+4,909,Garuga Coat X
+4,910,Uragaan Faulds X
+4,911,Uragaan Coat X
+4,912,Barioth Faulds X
+4,913,Barioth Coat X
+4,914,Seltas Faulds X
+4,915,Seltas Coat X
+4,916,Rathalos Faulds X
+4,917,Rathalos Coat X
+4,918,Lagiacrus Faulds X
+4,919,Lagiacrus Coat X
+4,920,Zinogre Faulds X
+4,921,Zinogre Coat X
+4,922,Gravios Tassets X
+4,923,Gravios Coat X
+4,924,Mizutsune Faulds X
+4,925,Mizutsune Coat X
+4,926,Astalos Faulds X
+4,927,Astalos Coat X
+4,928,Gammoth Faulds X
+4,929,Gammoth Coat X
+4,930,Glavenus Faulds X
+4,931,Glavenus Coat X
+4,932,Gore Faulds X
+4,933,Gore Coat X
+4,934,Kirin Hoop X
+4,935,Kirin Shorts X
+4,936,Kirin Hoop XR
+4,937,Kirin Shorts XR
+4,938,Auroros Tassets
+4,939,Borealis Tassets
+4,940,Genesis Tassets
+4,941,Glyph Tassets
+4,942,GX Auroros Tassets
+4,943,GX Borealis Tassets
+4,944,GX Genesis Tassets
+4,945,GX Glyph Tassets
+4,946,Battle Auroros Tassets
+4,947,Battle Borealis Tassets
+4,948,Battle Genesis Tassets
+4,949,Battle Glyph Tassets
+4,950,Scholar's Skirt X
+4,951,Scholar's Mini X
+4,952,Sailor Skirt X
+4,953,Sailor Mini X
+4,954,Hawkcoil X
+4,955,Hawkcoat X
+4,956,Scholarly Sash X
+4,957,Scholarly Coat X
+4,958,Researcher's Sash
+4,959,Researcher's Coat
+4,960,Rathalos Faulds XR
+4,961,Rathalos Coat XR
+4,962,Lagiacrus Faulds XR
+4,963,Lagiacrus Coat XR
+4,964,Gore Faulds XR
+4,965,Gore Coat XR
+4,966,Agnaktor Faulds X
+4,967,Agnaktor Coat X
+4,968,Regios Tassets X
+4,969,Regios Coat X
+4,970,Duramboros Faulds X
+4,971,Duramboros Coat X
+4,972,Tigrex Tassets X
+4,973,Tigrex Coat X
+4,974,Tigrex Tassets XR
+4,975,Tigrex Coat XR
+4,976,Diablos Coil X
+4,977,Diablos Coat X
+4,978,Diablos Coil XR
+4,979,Diablos Coat XR
+4,980,Brachydios Faulds X
+4,981,Brachydios Coat X
+4,982,Arc Faulds X
+4,983,Storge Faulds X
+4,984,Arc Coat X
+4,985,Storge Coat X
+4,986,Arc Faulds XR
+4,987,Storge Faulds XR
+4,988,Arc Coat XR
+4,989,Storge Coat XR
+4,990,Valfalk Faulds X
+4,991,Valfalk Coil X
+4,992,Grand God's Peer Belt
+4,993,Grand Hermit Belt
+4,994,Vangis Coil X
+4,995,Vangis Coat X
+4,996,Kushala Cocoon X
+4,997,Kushala Wind Wrap X
+4,998,Kushala Cocoon XR
+4,999,Kushala Wind Wrap XR
+4,1000,Grand Mizuha Sash
+4,1001,Grand Cham Coat
+4,1002,Kaiser Tassets X
+4,1003,Kaiser Coat X
+4,1004,Silver Solcoil Z
+4,1005,Silver Solcoat Z
+4,1006,Golden Lunecoil Z
+4,1007,Golden Lunecoat Z
+4,1008,Yaksha Coil
+4,1009,Carnage Wrap
+4,1010,Guardian Coil X
+4,1011,Guardian Coat X
+4,1012,Blue G. Knight Coil X
+4,1013,Blue G. Knight Coil X
+4,1014,Blue G. Knight Coat X
+4,1015,Blue G. Knight Coat X
+4,1016,Red G. Knight Coil X
+4,1017,Red G. Knight Coil X
+4,1018,Red G. Knight Coat X
+4,1019,Red G. Knight Coat X
+4,1020,G. Knight Coat X
+4,1021,G. Knight Kilt X
+4,1022,G. Bard Coil X
+4,1023,G. Bard Coat X
+4,1024,Ace Faulds X
+4,1025,Ace Coat X
+4,1026,Sororal Faulds X
+4,1027,Sororal Coat X
+4,1028,Shinobi Heaven Belt X
+4,1029,Shinobi Land Belt X
+4,1030,Kaiserin Faulds
+4,1031,Kaiserin Coat
+4,1032,Barmaid's Skirt
+4,1033,Barmaid's Kilt
+4,1034,Bartender's Belt
+4,1035,Bartender's Coat
+4,1036,Helios Coil X
+4,1037,Selene Coil X
+4,1038,Helios Coat X
+4,1039,Selene Coat X
+4,1040,Citadel Ranger's Sash
+4,1041,Citadel Archer's Belt
+4,1042,Damascus Coil X
+4,1043,Damascus Coat X
+4,1044,Chaos Faulds
+4,1045,Nephilim Tassets
+4,1046,Chaos Coat
+4,1047,Nephilim Coat
+4,1048,Grand Divine Ire Obi
+4,1049,Grand Crusher Belt
+4,1050,Esurient Faulds Z
+4,1051,Esurient Coat Z
+4,1052,Brachydium Faulds
+4,1053,Brachydium Coat
+4,1054,Akantor Cincture X
+4,1055,Akantor Sash X
+4,1056,Akantor Cincture XR
+4,1057,Akantor Sash XR
+4,1058,Ukanlos Cincture X
+4,1059,Ukanlos Sash X
+4,1060,True Tempest Obi
+4,1061,True Welkin Obi
+4,1062,True Skeletal Hipbone
+4,1063,True Decayed Hipbone
+4,1064,Astral Coil X
+4,1065,Astral Coat X
+4,1066,Neset Alae
+4,1067,Neset Elytra
+4,1068,Black Spine X
+4,1069,Black Scale X
+4,1070,Escadora Might X
+4,1071,Escadora Force X
+4,1072,Escadora Might XR
+4,1073,Escadora Force XR
+4,1074,Fatalis Crimsonspine
+4,1075,Fatalis Crimsonscale
+4,1076,GX Fatalis Crimsonspine
+4,1077,GX Fatalis Crimsonscale
+4,1078,Fatalis Crimsonspine XR
+4,1079,Fatalis Crimsonscale XR
+4,1080,White Fatalis Spine
+4,1081,White Fatalis Scale
+4,1082,GX White Fatalis Spine
+4,1083,GX White Fatalis Scale
+4,1084,Helper Skirt X
+4,1085,Healer Frills X
+4,1086,Ancient Coil X
+4,1087,Ancient Coat X
+4,1088,Master's Faulds X
+4,1089,Master's Coil X
+4,1090,True Toka Koshiate
+4,1091,True Mitsuaoi Koshiate
+4,1092,dummy
+4,1093,dummy
+4,1094,dummy
+4,1095,dummy
+4,1096,Black Belt Tassets X
+4,1097,Black Belt Coat X
+4,1098,dummy
+4,1099,dummy
+4,1100,Auroros Kermes Tassets
+4,1101,Borealis Kermes Tassets
+4,1102,Genesis Kermes Tassets
+4,1103,Glyph Kermes Tassets
+4,1104,Silver Solcoil XR
+4,1105,Silver Solcoat XR
+4,1106,Esurient Faulds XR
+4,1107,Esurient Coat XR
+4,1108,Shredclaw Faulds
+4,1109,Shredclaw Coat
+4,1110,Hazewing Faulds
+4,1111,Hazewing Coat
+4,1112,Divinesight Faulds
+4,1113,Divinesight Coat
+4,1114,Azurebolt Faulds
+4,1115,Azurebolt Coat
+4,1116,Frostpeak Faulds
+4,1117,Frostpeak Coat
+4,1118,Bloodlust Faulds
+4,1119,Bloodlust Coat
+4,1120,Gammoth Faulds X
+4,1121,Gammoth Coat X
+4,1122,GX Genprey Tassets
+4,1123,GX Genprey Coat
+4,1124,GX Ioprey Tassets
+4,1125,GX Ioprey Coat
+4,1126,GX Vespoid Tassets
+4,1127,GX Vespoid Coat
+4,1128,Hornetaur Tassets XR
+4,1129,Hornetaur Coat XR
+4,1130,GX Hornetaur Tassets
+4,1131,GX Hornetaur Coat
+4,1132,GX Cephalos Tassets
+4,1133,GX Cephalos Coat
+4,1134,GX Hermitaur Tassets
+4,1135,GX Hermitaur Coat
+4,1136,GX Rathian Faulds
+4,1137,GX Rathian Coat
+4,1138,GX Ceanataur Tassets
+4,1139,GX Ceanataur Coat
+4,1140,GX Blango Tassets
+4,1141,GX Blango Coat
+4,1142,GX Gore Faulds
+4,1143,GX Gore Coat
+4,1144,GX Zinogre Faulds
+4,1145,GX Zinogre Coat
+4,1146,GX Tigrex Tassets
+4,1147,GX Tigrex Coat
+4,1148,GX Brachydios Faulds
+4,1149,GX Brachydios Coat
+4,1150,GX Rathalos Faulds
+4,1151,GX Rathalos Coat
+4,1152,GX Arc Faulds
+4,1153,GX Arc Coat
+4,1154,GX Storge Faulds
+4,1155,GX Storge Coat
+4,1156,GX Kushala Cocoon
+4,1157,GX Kushala Wind Wrap
+4,1158,GX Mizuha Sash
+4,1159,GX Cham Coat
+4,1160,GX Kaiser Tassets
+4,1161,GX Kaiser Coat
+4,1162,GX Lavasioth Tassets
+4,1163,GX Lavasioth Coat
+4,1164,GX Silver Solcoil
+4,1165,GX Silver Solcoat
+4,1166,GX Golden Lunecoil
+4,1167,GX Golden Lunecoat
+4,1168,Tempest Kermes Obi
+4,1169,Welkin Kermes Obi
+4,1170,Leather Faulds X
+4,1171,Leather Coat X
+4,1172,Chainmail Faulds X
+4,1173,Chainmail Coat X
+4,1174,Loc Lac Kilt X
+4,1175,Hunter's Faulds X
+4,1176,Hunter's Coat X
+4,1177,Bone Faulds X
+4,1178,Bone Coat X
+4,1179,Dober Faulds X
+4,1180,Dober Coat X
+4,1181,Alloy Coil X
+4,1182,Alloy Coat X
+4,1183,Ingot Coil X
+4,1184,Ingot Coat X
+4,1185,Damascus Coil XR
+4,1186,Damascus Coat XR
+4,1187,Battle Tassets X
+4,1188,Battle Coat X
+4,1189,High Metal Tassets X
+4,1190,High Metal Coat X
+4,1191,High Metal Tassets Z
+4,1192,High Metal Coat Z
+4,1193,Mosgharl Folia X
+4,1194,Mosgharl Fronds X
+4,1195,Mosgharl Folia X
+4,1196,Mosgharl Fronds X
+4,1197,Obituary Elytra X
+4,1198,Obituary Alae X
+4,1199,Butterfly Elytra X
+4,1200,Butterfly Alae X
+4,1201,Aelucanth Elytra X
+4,1202,Aelucanth Alae X
+4,1203,Rhopessa Elytra X
+4,1204,Rhopessa Alae X
+4,1205,Vaik Faulds X
+4,1206,Vaik Coat X
+4,1207,Guardian Coil Z
+4,1208,Guardian Coat Z
+4,1209,Helper Skirt Z
+4,1210,Healer Frills Z
+4,1211,Death Stench Bowels XR
+4,1212,Death Stench Belly XR
+4,1213,Makluva Coil X
+4,1214,Makluva Fin X
+4,1215,Makluva Coil Z
+4,1216,Makluva Fin Z
+4,1217,Melahoa Folia X
+4,1218,Melahoa Trunk X
+4,1219,Melahoa Folia Z
+4,1220,Melahoa Trunk Z
+4,1221,Derring Faulds X
+4,1222,Derring Coat X
+4,1223,dummy
+4,1224,dummy
+4,1225,dummy
+4,1226,dummy
+4,1227,Wisdom Coil X
+4,1228,Wisdom Coat X
+4,1229,Cheerful Belt X
+4,1230,Cheerful Coat X
+4,1231,Mariner Skirt X
+4,1232,Mariner Mini X
+4,1233,dummy
+4,1234,dummy
+4,1235,dummy
+4,1236,dummy
+4,1237,dummy
+4,1238,dummy
+4,1239,Chrome Metal Coil X
+4,1240,Chrome Metal Coat X
+4,1241,dummy
+4,1242,dummy
+4,1243,dummy
+4,1244,dummy
+4,1245,dummy
+4,1246,dummy
+4,1247,dummy
+4,1248,dummy
+4,1249,dummy
+4,1250,dummy
+4,1251,Artian Coil XR
+4,1252,Artian Coat XR
+4,1253,Dragonbarbs
+4,1254,Dragonsheath
+4,1255,dummy
+4,1256,dummy
+4,1257,dummy
+4,1258,dummy
+4,1259,Arcfire Obi
+4,1260,Bonfire Obi
+4,1261,Waka Obi
+4,1262,Wagaku Obi
+4,1263,Ruler Arcfire Obi
+4,1264,Ruler Bonfire Obi
+4,1265,Ruler Waka Obi
+4,1266,Ruler Wagaku Obi
+4,1267,Supreme Arcfire Obi
+4,1268,Supreme Bonfire Obi
+4,1269,Supreme Wagaku Obi
+4,1270,Supreme Wagaku Obi
+4,1271,Golden Knight Faulds
+4,1272,Golden Knight Coat
+4,1273,dummy
+4,1274,dummy
+4,1275,dummy
+4,1276,dummy
+4,1277,Lodestar Belt
+4,1278,Lodestar Cloak
+4,1279,Hylian Belt
+4,1280,Hylian Band
+4,1281,Hiryu Sky Belt
+4,1282,Hiryu Land Belt
+5,0,(None)
+5,1,Leather Trousers
+5,2,Chainmail Trousers
+5,3,Bherna Greaves
+5,4,Hunting Greaves
+5,5,Hunting Leggings
+5,6,Mafumofu Boots
+5,7,Yukumo Hakama
+5,8,Loc Lac Boots
+5,9,Hunter's Greaves
+5,10,Hunter's Leggings
+5,11,Bone Greaves
+5,12,Bone Leggings
+5,13,dummy
+5,14,dummy
+5,15,dummy
+5,16,dummy
+5,17,Trapper's Greaves
+5,18,Trapper's Boots
+5,19,Maccao Shinguards
+5,20,Maccao Boots
+5,21,Jaggi Shinguards
+5,22,Jaggi Boots
+5,23,Jaggi Greaves
+5,24,Jaggi Leggings
+5,25,Maccao Greaves
+5,26,Maccao Leggings
+5,27,Velociprey Greaves
+5,28,Velociprey Leggings
+5,29,Giaprey Greaves
+5,30,Giaprey Leggings
+5,31,Genprey Greaves
+5,32,Genprey Leggings
+5,33,Vespoid Greaves
+5,34,Vespoid Leggings
+5,35,Hornetaur Greaves
+5,36,Hornetaur Leggings
+5,37,Bnahabra Boots
+5,38,Bnahabra Pants
+5,39,dummy
+5,40,dummy
+5,41,Mosswine Feet
+5,42,Rhenoplos Greaves
+5,43,Rhenoplos Leggings
+5,44,Bulldrome Greaves
+5,45,Bulldrome Leggings
+5,46,dummy
+5,47,Arzuros Greaves
+5,48,Arzuros Leggings
+5,49,Cephalos Greaves
+5,50,Cephalos Leggings
+5,51,Derring Trousers
+5,52,Alloy Greaves
+5,53,Alloy Leggings
+5,54,Battle Greaves
+5,55,Battle Leggings
+5,56,Ingot Greaves
+5,57,Ingot Leggings
+5,58,High Metal Greaves
+5,59,High Metal Leggings
+5,60,Metal Boots
+5,61,Metal Feet
+5,62,Melahoa Roots
+5,63,Melahoa Taproot
+5,64,Makluva Pants
+5,65,Makluva Leggings
+5,66,dummy
+5,67,dummy
+5,68,Obituary Crura
+5,69,Obituary Tarsi
+5,70,Butterfly Crura
+5,71,Butterfly Tarsi
+5,72,Death Stench Heel
+5,73,Death Stench March
+5,74,dummy
+5,75,dummy
+5,76,Mosgharl Roots
+5,77,Mosgharl Radicles
+5,78,Edel Roots
+5,79,Edel Radicles
+5,80,Skalda Crura
+5,81,Skalda Tarsi
+5,82,Spio Crura
+5,83,Spio Tarsi
+5,84,Droth Greaves
+5,85,Droth Leggings
+5,86,dummy
+5,87,dummy
+5,88,dummy
+5,89,dummy
+5,90,dummy
+5,91,dummy
+5,92,dummy
+5,93,Velociprey Feet
+5,94,Velociprey Tights
+5,95,Genprey Feet
+5,96,Genprey Tights
+5,97,Ioprey Feet
+5,98,Ioprey Tights
+5,99,Remobra Feet
+5,100,Remobra Tights
+5,101,Ioprey Greaves
+5,102,Ioprey Leggings
+5,103,Kut-Ku Greaves
+5,104,Kut-Ku Leggings
+5,105,Lagombi Greaves
+5,106,Lagombi Leggings
+5,107,Gypceros Greaves
+5,108,Gypceros Leggings
+5,109,Tetsucabra Greaves
+5,110,Tetsucabra Leggings
+5,111,Hermitaur Greaves
+5,112,Hermitaur Leggings
+5,113,Volvidon Greaves
+5,114,Volvidon Leggings
+5,115,Ludroth Greaves
+5,116,Ludroth Leggings
+5,117,Malfestio Greaves
+5,118,Malfestio Leggings
+5,119,Khezu Greaves
+5,120,Khezu Leggings
+5,121,Rathian Greaves
+5,122,Rathian Leggings
+5,123,Nibelsnarf Greaves
+5,124,Nibelsnarf Leggings
+5,125,Blango Greaves
+5,126,Blango Leggings
+5,127,Ceanataur Greaves
+5,128,Ceanataur Leggings
+5,129,Najarala Greaves
+5,130,Najarala Leggings
+5,131,Nargacuga Greaves
+5,132,Nargacuga Leggings
+5,133,Scholarly Boots
+5,134,Scholarly Tights
+5,135,Vaik Greaves
+5,136,Vaik Leggings
+5,137,dummy
+5,138,dummy
+5,139,Aelucanth Crura
+5,140,Aelucanth Tarsi
+5,141,Rhopessa Crura
+5,142,Rhopessa Tarsi
+5,143,Artian Greaves
+5,144,Artian Leggings
+5,145,Garuga Greaves
+5,146,Garuga Leggings
+5,147,dummy
+5,148,Uragaan Greaves
+5,149,Uragaan Leggings
+5,150,Rathalos Greaves
+5,151,Rathalos Leggings
+5,152,Lagiacrus Greaves
+5,153,Lagiacrus Leggings
+5,154,Zinogre Greaves
+5,155,Zinogre Leggings
+5,156,Mizutsune Greaves
+5,157,Mizutsune Leggings
+5,158,Astalos Greaves
+5,159,Astalos Leggings
+5,160,Gammoth Greaves
+5,161,Gammoth Leggings
+5,162,Glavenus Greaves
+5,163,Glavenus Leggings
+5,164,Gore Greaves
+5,165,Gore Leggings
+5,166,Regios Greaves
+5,167,Regios Leggings
+5,168,Tigrex Greaves
+5,169,Tigrex Leggings
+5,170,Kirin Leg Guards
+5,171,Kirin Boots
+5,172,Brachydios Greaves
+5,173,Brachydios Leggings
+5,174,Arc Greaves
+5,175,Storge Greaves
+5,176,Arc Leggings
+5,177,Storge Leggings
+5,178,Kushala Crus
+5,179,Kushala Shank
+5,180,Mizuha Gaiters
+5,181,Cham Trousers
+5,182,Kaiser Greaves
+5,183,Kaiser Leggings
+5,184,Skeletal Femur
+5,185,Decayed Femur
+5,186,Black Feet
+5,187,Black Legs
+5,188,Black Belt Greaves
+5,189,Black Belt Leggings
+5,190,Guild Bard Boots
+5,191,Guild Bard Gaiters
+5,192,Maiden's Socks
+5,193,French Maid Tights
+5,194,Helper Socks
+5,195,Healer Socks
+5,196,Dianthus Pants
+5,197,Campanile Pants
+5,198,Bath Sandals
+5,199,Gourmew Boots
+5,200,Gourmew Paws
+5,201,Leather Greaves S
+5,202,Chainmail Greaves S
+5,203,Bherna Greaves S
+5,204,Bherna Leggings S
+5,205,Hunting Greaves S
+5,206,Hunting Leggings S
+5,207,Mafumofu Boots S
+5,208,Mafumofu Tights S
+5,209,Yukumo Sky Hakama
+5,210,Yukumo Land Hakama
+5,211,Loc Lac Boots S
+5,212,Hunter's Greaves S
+5,213,Hunter's Leggings S
+5,214,Hunter's Greaves R
+5,215,Hunter's Leggings R
+5,216,Bone Greaves S
+5,217,Bone Leggings S
+5,218,dummy
+5,219,dummy
+5,220,Silver Metal Boots
+5,221,Silver Feet
+5,222,dummy
+5,223,dummy
+5,224,Melahoa Roots S
+5,225,Melahoa Taproot S
+5,226,Melahoa Roots U
+5,227,Melahoa Taproot U
+5,228,Makluva Pants S
+5,229,Makluva Leggings S
+5,230,Makluva Pants U
+5,231,Makluva Leggings U
+5,232,dummy
+5,233,dummy
+5,234,dummy
+5,235,dummy
+5,236,Mosgharl Roots S
+5,237,Mosgharl Radicles S
+5,238,Edel Roots S
+5,239,Edel Radicles S
+5,240,dummy
+5,241,dummy
+5,242,dummy
+5,243,dummy
+5,244,dummy
+5,245,dummy
+5,246,dummy
+5,247,Velociprey Feet S
+5,248,Velociprey Tights S
+5,249,Genprey Feet S
+5,250,Genprey Tights S
+5,251,Ioprey Feet S
+5,252,Ioprey Tights S
+5,253,Remobra Feet S
+5,254,Remobra Tights S
+5,255,Trapper's Shinguards S
+5,256,Trapper's Boots S
+5,257,Maccao Shinguards S
+5,258,Maccao Boots S
+5,259,Jaggi Shinguards S
+5,260,Jaggi Boots S
+5,261,Mosswine Feet S
+5,262,Rhenoplos Greaves S
+5,263,Rhenoplos Leggings S
+5,264,Jaggi Greaves S
+5,265,Jaggi Leggings S
+5,266,Droth Greaves S
+5,267,Droth Leggings S
+5,268,dummy
+5,269,dummy
+5,270,Maccao Greaves S
+5,271,Maccao Leggings S
+5,272,Velociprey Greaves S
+5,273,Velociprey Leggings S
+5,274,Giaprey Greaves S
+5,275,Giaprey Leggings S
+5,276,Genprey Greaves S
+5,277,Genprey Leggings S
+5,278,EX Genprey Greaves
+5,279,EX Genprey Leggings
+5,280,Ioprey Greaves S
+5,281,Ioprey Leggings S
+5,282,EX Ioprey Greaves
+5,283,EX Ioprey Leggings
+5,284,Vespoid Greaves S
+5,285,Vespoid Leggings S
+5,286,EX Vespoid Greaves
+5,287,EX Vespoid Leggings
+5,288,Hornetaur Greaves S
+5,289,Hornetaur Leggings S
+5,290,EX Hornetaur Greaves
+5,291,EX Hornetaur Leggings
+5,292,Hornetaur Greaves R
+5,293,Hornetaur Leggings R
+5,294,Bnahabra Boots S
+5,295,Bnahabra Pants S
+5,296,dummy
+5,297,dummy
+5,298,Bulldrome Greaves S
+5,299,Bulldrome Leggings S
+5,300,dummy
+5,301,Arzuros Greaves S
+5,302,Arzuros Leggings S
+5,303,Cephalos Greaves S
+5,304,Cephalos Leggings S
+5,305,EX Cephalos Greaves
+5,306,EX Cephalos Leggings
+5,307,Kut-Ku Greaves S
+5,308,Kut-Ku Leggings S
+5,309,Kecha Greaves
+5,310,Kecha Leggings
+5,311,Lagombi Greaves S
+5,312,Lagombi Leggings S
+5,313,Gypceros Greaves S
+5,314,Gypceros Leggings S
+5,315,Gypceros Greaves R
+5,316,Gypceros Leggings R
+5,317,Tetsucabra Greaves S
+5,318,Tetsucabra Leggings S
+5,319,Hermitaur Greaves S
+5,320,Hermitaur Leggings S
+5,321,EX Hermitaur Greaves
+5,322,EX Hermitaur Leggings
+5,323,Hermitaur Greaves R
+5,324,Hermitaur Leggings R
+5,325,Volvidon Greaves S
+5,326,Volvidon Leggings S
+5,327,Ludroth Greaves S
+5,328,Ludroth Leggings S
+5,329,Ludroth Greaves R
+5,330,Ludroth Leggings R
+5,331,Lecturer's Boots
+5,332,Lecturer's Footwear
+5,333,Alloy Greaves S
+5,334,Alloy Leggings S
+5,335,Alloy Greaves R
+5,336,Alloy Leggings R
+5,337,Battle Greaves S
+5,338,Battle Leggings S
+5,339,Ingot Greaves S
+5,340,Ingot Leggings S
+5,341,Ingot Greaves R
+5,342,Ingot Leggings R
+5,343,High Metal Greaves S
+5,344,High Metal Leggings S
+5,345,High Metal Greaves U
+5,346,High Metal Leggings U
+5,347,Pink Metal Boots
+5,348,Pink Metal Feet
+5,349,Lobster Greaves
+5,350,Lobster Leggings
+5,351,Obituary Crura S
+5,352,Obituary Tarsi S
+5,353,Butterfly Crura S
+5,354,Butterfly Tarsi S
+5,355,Death Stench Heel S
+5,356,Death Stench March S
+5,357,Death Stench Heel R
+5,358,Death Stench March R
+5,359,Vaik Greaves S
+5,360,Vaik Leggings S
+5,361,Aelucanth Crura S
+5,362,Aelucanth Tarsi S
+5,363,Rhopessa Crura S
+5,364,Rhopessa Tarsi S
+5,365,Patissier's Boots
+5,366,Patissier's Footwear
+5,367,Skalda Crura S
+5,368,Skalda Tarsi S
+5,369,Spio Crura S
+5,370,Spio Tarsi S
+5,371,Malfestio Greaves S
+5,372,Malfestio Leggings S
+5,373,Zamtrios Greaves
+5,374,Zamtrios Leggings
+5,375,Khezu Greaves S
+5,376,Khezu Leggings S
+5,377,Khezu Greaves R
+5,378,Khezu Leggings R
+5,379,Rathian Greaves S
+5,380,Rathian Leggings S
+5,381,EX Rathian Greaves
+5,382,EX Rathian Leggings
+5,383,Rathian Greaves R
+5,384,Rathian Leggings R
+5,385,Nibelsnarf Greaves S
+5,386,Nibelsnarf Leggings S
+5,387,Plesioth Greaves
+5,388,Plesioth Leggings
+5,389,Blango Greaves S
+5,390,Blango Leggings S
+5,391,EX Blango Greaves
+5,392,EX Blango Leggings
+5,393,Lavasioth Greaves
+5,394,Lavasioth Leggings
+5,395,EX Lavasioth Greaves
+5,396,EX Lavasioth Leggings
+5,397,Ceanataur Greaves S
+5,398,Ceanataur Leggings S
+5,399,EX Ceanataur Greaves
+5,400,EX Ceanataur Leggings
+5,401,Ceanataur Greaves R
+5,402,Ceanataur Leggings R
+5,403,Najarala Greaves S
+5,404,Najarala Leggings S
+5,405,Nargacuga Greaves S
+5,406,Nargacuga Leggings S
+5,407,Garuga Greaves S
+5,408,Garuga Leggings S
+5,409,dummy
+5,410,Uragaan Greaves S
+5,411,Uragaan Leggings S
+5,412,Black Belt Greaves S
+5,413,Black Belt Leggings S
+5,414,Guardian Boots
+5,415,Guardian Pants
+5,416,Guardian Boots U
+5,417,Guardian Pants U
+5,418,Scholar's Socks
+5,419,Scholar's Sandals
+5,420,Sailor Socks
+5,421,Sailor Sandals
+5,422,Luxury Bath Sandals
+5,423,Kita Star Hakama
+5,424,Umi Ocean Hakama
+5,425,dummy
+5,426,Derring Greaves S
+5,427,Derring Leggings S
+5,428,Dober Greaves
+5,429,Dober Leggings
+5,430,Damascus Greaves
+5,431,Damascus Leggings
+5,432,Damascus Greaves R
+5,433,Damascus Leggings R
+5,434,dummy
+5,435,dummy
+5,436,Dark Metal Boots
+5,437,Dark Metal Feet
+5,438,Chrome Metal Boots
+5,439,Chrome Metal Feet
+5,440,Artian Greaves S
+5,441,Artian Leggings S
+5,442,Artian Greaves R
+5,443,Artian Leggings R
+5,444,Seltas Greaves
+5,445,Seltas Leggings
+5,446,Rathalos Greaves S
+5,447,Rathalos Leggings S
+5,448,EX Rathalos Greaves
+5,449,EX Rathalos Leggings
+5,450,Rathalos Greaves R
+5,451,Rathalos Leggings R
+5,452,Lagiacrus Greaves S
+5,453,Lagiacrus Leggings S
+5,454,Lagiacrus Greaves R
+5,455,Lagiacrus Leggings R
+5,456,Zinogre Greaves S
+5,457,Zinogre Leggings S
+5,458,EX Zinogre Greaves
+5,459,EX Zinogre Leggings
+5,460,Mizutsune Greaves S
+5,461,Mizutsune Leggings S
+5,462,Astalos Greaves S
+5,463,Astalos Leggings S
+5,464,Gammoth Greaves S
+5,465,Gammoth Leggings S
+5,466,Glavenus Greaves S
+5,467,Glavenus Leggings S
+5,468,Agnaktor Greaves
+5,469,Agnaktor Leggings
+5,470,Gore Greaves S
+5,471,Gore Leggings S
+5,472,EX Gore Greaves
+5,473,EX Gore Leggings
+5,474,Gore Greaves R
+5,475,Gore Leggings R
+5,476,Regios Greaves S
+5,477,Regios Leggings S
+5,478,Duramboros Greaves
+5,479,Duramboros Leggings
+5,480,Tigrex Greaves S
+5,481,Tigrex Leggings S
+5,482,EX Tigrex Greaves
+5,483,EX Tigrex Leggings
+5,484,Tigrex Greaves R
+5,485,Tigrex Leggings R
+5,486,Kirin Leg Guards S
+5,487,Kirin Boots S
+5,488,Kirin Leg Guards R
+5,489,Kirin Boots R
+5,490,Brachydios Greaves S
+5,491,Brachy Leggings S
+5,492,EX Brachydios Greaves
+5,493,EX Brachydios Leggings
+5,494,Golden Hakama
+5,495,Puppeteer Tabi
+5,496,Vangis Greaves
+5,497,Vangis Leggings
+5,498,Guild Knight Boots
+5,499,Guild Knight Tights
+5,500,Maiden's Socks S
+5,501,French Maid Tights S
+5,502,Blue Guild Boots
+5,503,Blue Guild Tights
+5,504,Red Guild Boots
+5,505,Red Guild Tights
+5,506,Helper Socks S
+5,507,Healer Socks S
+5,508,Helper Socks U
+5,509,Healer Socks U
+5,510,Guild Bard Boots S
+5,511,Guild Bard Gaiters S
+5,512,Chakra Anklet
+5,513,dummy
+5,514,dummy
+5,515,Dianthus Wealpants
+5,516,Campanile Wealpants
+5,517,Ace Greaves
+5,518,Ace Leggings
+5,519,Sororal Greaves
+5,520,Sororal Leggings
+5,521,Hawkboots
+5,522,Hawkfeet
+5,523,Gourmew Boots S
+5,524,Gourmew Paws S
+5,525,dummy
+5,526,Scholarly Boots S
+5,527,Scholarly Tights S
+5,528,Ranger's Espadrilles
+5,529,Archer's Espadrilles
+5,530,Shinobi Heaven Boots
+5,531,Shinobi Land Boots
+5,532,Shinobi Sky Boots
+5,533,Shinobi Sea Boots
+5,534,Ancient Boots
+5,535,Ancient Feet
+5,536,Master's Greaves
+5,537,Master's Leggings
+5,538,Black Feet S
+5,539,Black Legs S
+5,540,Toka Gusoku
+5,541,Mitsuaoi Gusoku
+5,542,EX Rathian Greaves S
+5,543,EX Rathian Leggings S
+5,544,EX Rathalos Greaves S
+5,545,EX Rathalos Leggings S
+5,546,EX Tigrex Greaves S
+5,547,EX Tigrex Leggings S
+5,548,Arc Greaves S
+5,549,Storge Greaves S
+5,550,Arc Leggings S
+5,551,Storge Leggings S
+5,552,EX Arc Greaves
+5,553,EX Storge Greaves
+5,554,EX Arc Leggings
+5,555,EX Storge Leggings
+5,556,Arc Greaves R
+5,557,Storge Greaves R
+5,558,Arc Leggings R
+5,559,Storge Leggings R
+5,560,Kushala Crus S
+5,561,Kushala Shank S
+5,562,EX Kushala Crus
+5,563,EX Kushala Shank
+5,564,Kushala Crus R
+5,565,Kushala Shank R
+5,566,Mizuha Gaiters S
+5,567,Cham Trousers S
+5,568,EX Mizuha Gaiters
+5,569,EX Cham Trousers
+5,570,Kaiser Greaves S
+5,571,Kaiser Leggings S
+5,572,EX Kaiser Greaves
+5,573,EX Kaiser Leggings
+5,574,Silver Solgreaves
+5,575,Silver Solleggings
+5,576,EX Silver Solgreaves
+5,577,EX Silver Solleggings
+5,578,Silver Solgreaves R
+5,579,Silver Solleggings R
+5,580,Golden Lunegreaves
+5,581,Golden Luneleggings
+5,582,EX Golden Lunegreaves
+5,583,EX Golden Luneleggings
+5,584,Divine Ire Hakama
+5,585,Mind Crusher Tabi
+5,586,Esurient Greaves
+5,587,Esurient Leggings
+5,588,Esurient Greaves R
+5,589,Esurient Leggings R
+5,590,Akantor Hessian
+5,591,Akantor Boots
+5,592,Akantor Hessian R
+5,593,Akantor Boots R
+5,594,Ukanlos Hessian
+5,595,Ukanlos Boots
+5,596,Tempest Hakama
+5,597,Welkin Hakama
+5,598,Tempest Hakama R
+5,599,Welkin Hakama R
+5,600,Skeletal Femur R
+5,601,Decayed Femur R
+5,602,Astral Boots
+5,603,Astral Feet
+5,604,Escadora Sheath
+5,605,Escadora Scala
+5,606,Escadora Sheath R
+5,607,Escadora Scala R
+5,608,dummy
+5,609,dummy
+5,610,dummy
+5,611,dummy
+5,612,dummy
+5,613,dummy
+5,614,dummy
+5,615,Strange Greaves
+5,616,Strange Leggings
+5,617,Redhelm Greaves
+5,618,Redhelm Leggings
+5,619,Snowbaron Greaves
+5,620,Snowbaron Leggings
+5,621,Stonefist Greaves
+5,622,Stonefist Leggings
+5,623,Dreadqueen Greaves
+5,624,Dreadqueen Leggings
+5,625,Drilltusk Greaves
+5,626,Drilltusk Leggings
+5,627,Silverwind Greaves
+5,628,Silverwind Leggings
+5,629,Crystalbeard Greaves
+5,630,Crystalbeard Leggings
+5,631,Deadeye Greaves
+5,632,Deadeye Leggings
+5,633,Dreadking Greaves
+5,634,Dreadking Leggings
+5,635,Thunderlord Greaves
+5,636,Thunderlord Leggings
+5,637,Grimclaw Greaves
+5,638,Grimclaw Leggings
+5,639,Hellblade Greaves
+5,640,Hellblade Leggings
+5,641,dummy
+5,642,Black Leather Chaps
+5,643,Black Leather Pants
+5,644,dummy
+5,645,dummy
+5,646,dummy
+5,647,dummy
+5,648,dummy
+5,649,dummy
+5,650,dummy
+5,651,dummy
+5,652,dummy
+5,653,dummy
+5,654,Booyah Jeans
+5,655,Booyah Denim
+5,656,dummy
+5,657,dummy
+5,658,Ultimate Pleats
+5,659,Ultimate Walkers
+5,660,Champion's Shorts
+5,661,Strongman's Shorts
+5,662,Zodias Greaves
+5,663,Zodias Leggings
+5,664,Pirate Boots J
+5,665,Pirate Pants J
+5,666,Buccaneer Boots J
+5,667,Buccaneer Pants J
+5,668,Dynaqlo Cargo Pants
+5,669,Dynaqlo Combats
+5,670,Promising Sabatons
+5,671,Halcyon Sabatons
+5,672,Blue Star Boots
+5,673,Blue Star Footwear
+5,674,Star Rook Greaves
+5,675,Star Rook Leggings
+5,676,Star Knight Greaves
+5,677,Star Knight Leggings
+5,678,Nisetama Greaves
+5,679,Nisetama Leggings
+5,680,Nisetama Greaves S
+5,681,Nisetama Leggings S
+5,682,Hero's Boots
+5,683,Hero's Leggings
+5,684,Varia Suit Leg Guards
+5,685,Varia Suit Legs
+5,686,Zero Suit Boots
+5,687,Zero Suit Tights
+5,688,Greaves of Rage
+5,689,Leggings of Rage
+5,690,Greaves of Anat
+5,691,Leggings of Anat
+5,692,dummy
+5,693,dummy
+5,694,Mosgharl Roots
+5,695,Mosgharl Radicles
+5,696,Gammoth Greaves
+5,697,Gammoth Leggings
+5,698,Gourmew Boots
+5,699,Gourmew Paws
+5,700,Leather Leggings S
+5,701,Chainmail Leggings S
+5,702,Mosgharl Roots S
+5,703,Mosgharl Radicles S
+5,704,Gammoth Greaves S
+5,705,Gammoth Leggings S
+5,706,Blue Guild Boots
+5,707,Blue Guild Tights
+5,708,Red Guild Boots
+5,709,Red Guild Tights
+5,710,Gourmew Boots S
+5,711,Gourmew Paws S
+5,712,Promising Archpleats
+5,713,Halcyon Archpleats
+5,714,Lucid Pleats
+5,715,Dreamy Pleats
+5,716,Lucid Archpleats
+5,717,Dreamy Archpleats
+5,718,Conga Greaves
+5,719,Conga Leggings
+5,720,Giaprey Feet
+5,721,Giaprey Thights
+5,722,Barroth Greaves
+5,723,Barroth Leggings
+5,724,Basarios Greaves
+5,725,Basarios Leggings
+5,726,Nerscylla Greaves
+5,727,Nerscylla Leggings
+5,728,Barioth Greaves
+5,729,Barioth Leggings
+5,730,Gravios Greaves
+5,731,Gravios Leggings
+5,732,Cheerful Boots
+5,733,Cheerful Leggings
+5,734,Mariner Socks
+5,735,Mariner Sandals
+5,736,dummy
+5,737,dummy
+5,738,Diablos Greaves
+5,739,Diablos Leggings
+5,740,Diablos R Greaves
+5,741,Diablos R Leggings
+5,742,Valfalk Greaves
+5,743,Valfalk Leggings
+5,744,Wisdom Boots
+5,745,Wisdom Feet
+5,746,dummy
+5,747,dummy
+5,748,dummy
+5,749,dummy
+5,750,dummy
+5,751,Bherna Greaves X
+5,752,Bherna Leggings X
+5,753,Hunting Greaves X
+5,754,Hunting Leggings X
+5,755,Mafumofu Boots X
+5,756,Mafumofu Tights X
+5,757,Xtreme YukumoSky Hakama
+5,758,Xtreme YukumoLand Hakama
+5,759,dummy
+5,760,dummy
+5,761,dummy
+5,762,dummy
+5,763,Velociprey Feet X
+5,764,Velociprey Tights X
+5,765,Genprey Feet X
+5,766,Genprey Tights X
+5,767,Ioprey Feet X
+5,768,Ioprey Tights X
+5,769,Remobra Feet X
+5,770,Remobra Tights X
+5,771,Trapper's Boots X
+5,772,Trapper's Greaves X
+5,773,Mosswine Feet X
+5,774,Rhenoplos Greaves X
+5,775,Rhenoplos Leggings X
+5,776,Jaggi Greaves X
+5,777,Jaggi Leggings X
+5,778,dummy
+5,779,dummy
+5,780,Droth Greaves X
+5,781,Droth Leggings X
+5,782,dummy
+5,783,dummy
+5,784,Maccao Greaves X
+5,785,Maccao Leggings X
+5,786,Velociprey Greaves X
+5,787,Velociprey Leggings X
+5,788,Giaprey Greaves X
+5,789,Giaprey Leggings X
+5,790,Genprey Greaves X
+5,791,Genprey Leggings X
+5,792,Ioprey Greaves X
+5,793,Ioprey Leggings X
+5,794,Vespoid Greaves X
+5,795,Vespoid Leggings X
+5,796,Hornetaur Greaves X
+5,797,Hornetaur Leggings X
+5,798,Bnahabra Boots X
+5,799,Bnahabra Pants X
+5,800,dummy
+5,801,dummy
+5,802,Bulldrome Greaves X
+5,803,Bulldrome Leggings X
+5,804,dummy
+5,805,Arzuros Greaves X
+5,806,Arzuros Leggings X
+5,807,Cephalos Greaves X
+5,808,Cephalos Leggings X
+5,809,Kut-Ku Greaves X
+5,810,Kut-Ku Leggings X
+5,811,Kecha Greaves X
+5,812,Kecha Leggings X
+5,813,Lagombi Greaves X
+5,814,Lagombi Leggings X
+5,815,Gypceros Greaves X
+5,816,Gypceros Leggings X
+5,817,Tetsucabra Greaves X
+5,818,Tetsucabra Leggings X
+5,819,Hermitaur Greaves X
+5,820,Hermitaur Leggings X
+5,821,Ludroth Greaves X
+5,822,Ludroth Leggings X
+5,823,Gourmew Boots X
+5,824,Gourmew Paws X
+5,825,Gourmew Boots X
+5,826,Gourmew Paws X
+5,827,dummy
+5,828,dummy
+5,829,Edel Roots X
+5,830,Edel Radicles X
+5,831,dummy
+5,832,dummy
+5,833,Death Stench Heel X
+5,834,Death Stench March X
+5,835,Skalda Crura X
+5,836,Skalda Tarsi X
+5,837,Spio Crura X
+5,838,Spio Tarsi X
+5,839,Hunter's Greaves XR
+5,840,Hunter's Leggings XR
+5,841,Volvidon Greaves X
+5,842,Volvidon Leggings X
+5,843,Conga Greaves X
+5,844,Conga Leggings X
+5,845,Barroth Greaves X
+5,846,Barroth Leggings X
+5,847,Basarios Greaves X
+5,848,Basarios Leggings X
+5,849,Malfestio Greaves X
+5,850,Malfestio Leggings X
+5,851,Zamtrios Greaves X
+5,852,Zamtrios Leggings X
+5,853,Khezu Greaves X
+5,854,Khezu Leggings X
+5,855,Nerscylla Greaves X
+5,856,Nerscylla Leggings X
+5,857,Rathian Greaves X
+5,858,Rathian Leggings X
+5,859,Nibelsnarf Greaves X
+5,860,Nibelsnarf Leggings X
+5,861,Plesioth Greaves X
+5,862,Plesioth Leggings X
+5,863,Blangonga Greaves X
+5,864,Blangonga Leggings X
+5,865,Ceanataur Greaves X
+5,866,Ceanataur Leggings X
+5,867,Najarala Greaves X
+5,868,Najarala Leggings X
+5,869,Nargacuga Greaves X
+5,870,Nargacuga Leggings X
+5,871,Gypceros Greaves XR
+5,872,Gypceros Leggings XR
+5,873,Hermitaur Greaves XR
+5,874,Hermitaur Leggings XR
+5,875,Ludroth Greaves XR
+5,876,Ludroth Leggings XR
+5,877,Strange Greaves X
+5,878,Strange Leggings X
+5,879,dummy
+5,880,dummy
+5,881,Lecturer's Boots X
+5,882,Lecturer's Footwear X
+5,883,Patissier's Boots X
+5,884,Patissier's Footwear X
+5,885,Luxury Bath Sandals X
+5,886,Maiden's Socks X
+5,887,Exclusive Tights X
+5,888,Dianthus Wealpants X
+5,889,Campanile Wealpants X
+5,890,GX Conga Greaves
+5,891,GX Conga Leggings
+5,892,Alloy Greaves XR
+5,893,Alloy Leggings XR
+5,894,Ingot Greaves XR
+5,895,Ingot Leggings XR
+5,896,Artian Greaves X
+5,897,Artian Leggings X
+5,898,Lobster Greaves X
+5,899,Lobster Leggings X
+5,900,Khezu Greaves XR
+5,901,Khezu Leggings XR
+5,902,Ceanataur Greaves XR
+5,903,Ceanataur Leggings XR
+5,904,Rathian Greaves XR
+5,905,Rathian Leggings XR
+5,906,Lavasioth Greaves X
+5,907,Lavasioth Leggings X
+5,908,Garuga Greaves X
+5,909,Garuga Leggings X
+5,910,Uragaan Greaves X
+5,911,Uragaan Leggings X
+5,912,Barioth Greaves X
+5,913,Barioth Leggings X
+5,914,Seltas Greaves X
+5,915,Seltas Leggings X
+5,916,Rathalos Greaves X
+5,917,Rathalos Leggings X
+5,918,Lagiacrus Greaves X
+5,919,Lagiacrus Leggings X
+5,920,Zinogre Greaves X
+5,921,Zinogre Leggings X
+5,922,Gravios Greaves X
+5,923,Gravios Leggings X
+5,924,Mizutsune Greaves X
+5,925,Mizutsune Leggings X
+5,926,Astalos Greaves X
+5,927,Astalos Leggings X
+5,928,Gammoth Greaves X
+5,929,Gammoth Leggings X
+5,930,Glavenus Greaves X
+5,931,Glavenus Leggings X
+5,932,Gore Greaves X
+5,933,Gore Leggings X
+5,934,Kirin Leg Guards X
+5,935,Kirin Boots X
+5,936,Kirin Leg Guards XR
+5,937,Kirin Boots XR
+5,938,Auroros Pants
+5,939,Borealis Hakama
+5,940,Genesis Pants
+5,941,Glyph Hakama
+5,942,GX Auroros Pants
+5,943,GX Borealis Hakama
+5,944,GX Genesis Pants
+5,945,GX Glyph Hakama
+5,946,Battle Auroros Pants
+5,947,Battle Borealis Hakama
+5,948,Battle Genesis Pants
+5,949,Battle Glyph Hakama
+5,950,Scholar's Socks X
+5,951,Scholar's Sandals X
+5,952,Sailor Socks X
+5,953,Sailor Sandals X
+5,954,Hawkboots X
+5,955,Hawkfeet X
+5,956,Scholarly Boots X
+5,957,Scholarly Tights X
+5,958,Researcher's Boots
+5,959,Researcher's Tights
+5,960,Rathalos Greaves XR
+5,961,Rathalos Leggings XR
+5,962,Lagiacrus Greaves XR
+5,963,Lagiacrus Leggings XR
+5,964,Gore Greaves XR
+5,965,Gore Leggings XR
+5,966,Agnaktor Greaves X
+5,967,Agnaktor Leggings X
+5,968,Regios Greaves X
+5,969,Regios Leggings X
+5,970,Duramboros Greaves X
+5,971,Duramboros Leggings X
+5,972,Tigrex Greaves X
+5,973,Tigrex Leggings X
+5,974,Tigrex Greaves XR
+5,975,Tigrex Leggings XR
+5,976,Diablos Greaves X
+5,977,Diablos Leggings X
+5,978,Diablos Greaves XR
+5,979,Diablos Leggings XR
+5,980,Brachydios Greaves X
+5,981,Brachydios Leggings X
+5,982,Arc Greaves X
+5,983,Storge Greaves X
+5,984,Arc Leggings X
+5,985,Storge Leggings X
+5,986,Arc Greaves XR
+5,987,Storge Greaves XR
+5,988,Arc Leggings XR
+5,989,Storge Leggings XR
+5,990,Valfalk Greaves X
+5,991,Valfalk Leggings X
+5,992,Grand God's Peer Feet
+5,993,Grand Hermit Feet
+5,994,Vangis Greaves X
+5,995,Vangis Leggings X
+5,996,Kushala Crus X
+5,997,Kushala Shank X
+5,998,Kushala Crus XR
+5,999,Kushala Shank XR
+5,1000,Grand Mizuha Leg Wrap
+5,1001,Grand Cham Trousers
+5,1002,Kaiser Greaves X
+5,1003,Kaiser Leggings X
+5,1004,Silver Solgreaves Z
+5,1005,Silver Solleggings Z
+5,1006,Golden Lunegreaves Z
+5,1007,Golden Luneleggings Z
+5,1008,Yaksha Boots
+5,1009,Carnage Boots
+5,1010,Guardian Boots X
+5,1011,Guardian Pants X
+5,1012,Blue G. Knight Boots X
+5,1013,Blue G. Knight Boots X
+5,1014,Blue G. Knight Tights X
+5,1015,Blue G. Knight Tights X
+5,1016,Red G. Knight Boots X
+5,1017,Red G. Knight Boots X
+5,1018,Red G. Knight Tights X
+5,1019,Red G. Knight Tights X
+5,1020,G. Knight Boots X
+5,1021,G. Knight Tights X
+5,1022,G. Bard Boots X
+5,1023,G. Bard Gaiters X
+5,1024,Ace Greaves X
+5,1025,Ace Leggings X
+5,1026,Sororal Greaves X
+5,1027,Sororal Leggings X
+5,1028,Shinobi Heaven Boots X
+5,1029,Shinobi Land Boots X
+5,1030,Kaiserin Greaves
+5,1031,Kaiserin Leggings
+5,1032,Barmaid's Boots
+5,1033,Barmaid's Tights
+5,1034,Bartender's Boots
+5,1035,Bartender's Tights
+5,1036,Helios Greaves X
+5,1037,Selene Greaves X
+5,1038,Helios Leggings X
+5,1039,Selene Leggings X
+5,1040,Citadel Ranger's Espadrilles
+5,1041,Citadel Archer's Espadrilles
+5,1042,Damaskus Greaves X
+5,1043,Damascus Leggings X
+5,1044,Chaos Greaves
+5,1045,Nephilim Greaves
+5,1046,Chaos Leggings
+5,1047,Nephilim Leggings
+5,1048,Grand Divine Ire Hakama
+5,1049,Grand Crusher Tabi
+5,1050,Esurient Greaves Z
+5,1051,Esurient Leggings Z
+5,1052,Brachydium Greaves
+5,1053,Brachydium Leggings
+5,1054,Akantor Hessian X
+5,1055,Akantor Boots X
+5,1056,Akantor Hessian XR
+5,1057,Akantor Boots XR
+5,1058,Ukanlos Hessian X
+5,1059,Ukanlos Boots X
+5,1060,True Tempest Hakama
+5,1061,True Welkin Hakama
+5,1062,True Skeletal Femur
+5,1063,True Decayed Femur
+5,1064,Astral Boots X
+5,1065,Astral Feet X
+5,1066,Neset Dara
+5,1067,Neset Saku
+5,1068,Black Feet X
+5,1069,Black Legs X
+5,1070,Escadora Sheath X
+5,1071,Escadora Scala X
+5,1072,Escadora Sheath XR
+5,1073,Escadora Scala XR
+5,1074,Fatalis Crimsonfeet
+5,1075,Fatalis Crimsonlegs
+5,1076,GX Fatalis Crimsonfeet
+5,1077,GX Fatalis Crimsonlegs
+5,1078,Fatalis Crimsonfeet XR
+5,1079,Fatalis Crimsonlegs XR
+5,1080,White Fatalis Feet
+5,1081,White Fatalis Legs
+5,1082,GX White Fatalis Feet
+5,1083,GX White Fatalis Legs
+5,1084,Helper Socks X
+5,1085,Healer Socks X
+5,1086,Ancient Boots X
+5,1087,Ancient Feet X
+5,1088,Master's Greaves X
+5,1089,Master's Leggings X
+5,1090,True Toka Gosuko
+5,1091,True Mitsuaoi Gosuko
+5,1092,dummy
+5,1093,dummy
+5,1094,dummy
+5,1095,dummy
+5,1096,Black Belt Greaves X
+5,1097,Black Belt Leggings X
+5,1098,dummy
+5,1099,dummy
+5,1100,Auroros Kermes Hakama
+5,1101,Borealis Kermes Hakama
+5,1102,Genesis Kermes Hakama
+5,1103,Glyph Kermes Hakama
+5,1104,Silver Solgreaves XR
+5,1105,Silver Solleggings XR
+5,1106,Esurient Greaves XR
+5,1107,Esurient Leggings XR
+5,1108,Shredclaw Greaves
+5,1109,Shredclaw Leggings
+5,1110,Hazewing Greaves
+5,1111,Hazewing Leggings
+5,1112,Divinesight Greaves
+5,1113,Divinesight Leggings
+5,1114,Azurebolt Greaves
+5,1115,Azurebolt Leggings
+5,1116,Frostpeak Greaves
+5,1117,Frostpeak Leggings
+5,1118,Bloodlust Greaves
+5,1119,Bloodlust Leggings
+5,1120,Gammoth Greaves X
+5,1121,Gammoth Leggings X
+5,1122,GX Genprey Greaves
+5,1123,GX Genprey Leggings
+5,1124,GX Ioprey Greaves
+5,1125,GX Ioprey Leggings
+5,1126,GX Vespoid Greaves
+5,1127,GX Vespoid Leggings
+5,1128,Hornetaur Greaves XR
+5,1129,Hornetaur Leggings XR
+5,1130,GX Hornetaur Greaves
+5,1131,GX Hornetaur Leggings
+5,1132,GX Cephalos Greaves
+5,1133,GX Cephalos Leggings
+5,1134,GX Hermitaur Greaves
+5,1135,GX Hermitaur Leggings
+5,1136,GX Rathian Greaves
+5,1137,GX Rathian Leggings
+5,1138,GX Ceanataur Greaves
+5,1139,GX Ceanataur Leggings
+5,1140,GX Blango Greaves
+5,1141,GX Blango Leggings
+5,1142,GX Gore Greaves
+5,1143,GX Gore Leggings
+5,1144,GX Zinogre Greaves
+5,1145,GX Zinogre Leggings
+5,1146,GX Tigrex Greaves
+5,1147,GX Tigrex Leggings
+5,1148,GX Brachydios Greaves
+5,1149,GX Brachydios Leggings
+5,1150,GX Rathalos Greaves
+5,1151,GX Rathalos Leggings
+5,1152,GX Arc Greaves
+5,1153,GX Arc Leggings
+5,1154,GX Storge Greaves
+5,1155,GX Storge Leggings
+5,1156,GX Kushala Crus
+5,1157,GX Kushala Shank
+5,1158,GX Mizuha Gaiters
+5,1159,GX Cham Trousers
+5,1160,GX Kaiser Greaves
+5,1161,GX Kaiser Leggings
+5,1162,GX Lavasioth Greaves
+5,1163,GX Lavasioth Leggings
+5,1164,GX Silver Solgreaves
+5,1165,GX Silver Solleggings
+5,1166,GX Golden Lunegreaves
+5,1167,GX Golden Luneleggings
+5,1168,Tempest Kermes Hakama
+5,1169,Welkin Kermes Hakama
+5,1170,Leather Greaves X
+5,1171,Leather Leggings X
+5,1172,Chainmail Greaves X
+5,1173,Chainmail Leggings X
+5,1174,Loc Lac Boots X
+5,1175,Hunter's Greaves X
+5,1176,Hunter's Leggings X
+5,1177,Bone Greaves X
+5,1178,Bone Leggings X
+5,1179,Dober Greaves X
+5,1180,Dober Leggings X
+5,1181,Alloy Greaves X
+5,1182,Alloy Leggings X
+5,1183,Ingot Greaves X
+5,1184,Ingot Leggings X
+5,1185,Damascus Greaves XR
+5,1186,Damascus Leggings XR
+5,1187,Battle Greaves X
+5,1188,Battle Leggings X
+5,1189,High Metal Greaves X
+5,1190,High Metal Leggings X
+5,1191,High Metal Greaves Z
+5,1192,High Metal Leggings Z
+5,1193,Mosgharl Roots X
+5,1194,Mosgharl Radicles X
+5,1195,Mosgharl Roots X
+5,1196,Mosgharl Radicles X
+5,1197,Obituary Crura X
+5,1198,Obituary Tarsi X
+5,1199,Butterfly Crura X
+5,1200,Butterfly Tarsi X
+5,1201,Aelucanth Crura X
+5,1202,Aelucanth Tarsi X
+5,1203,Rhopessa Crura X
+5,1204,Rhopessa Tarsi X
+5,1205,Vaik Greaves X
+5,1206,Vaik Leggings X
+5,1207,Guardian Boots Z
+5,1208,Guardian Pants Z
+5,1209,Helper Socks Z
+5,1210,Healer Socks Z
+5,1211,Death Stench Heel XR
+5,1212,Death Stench March XR
+5,1213,Makluva Pants X
+5,1214,Makluva Leggings X
+5,1215,Makluva Pants Z
+5,1216,Makluva Leggings Z
+5,1217,Melahoa Roots X
+5,1218,Melahoa Taproot X
+5,1219,Melahoa Roots Z
+5,1220,Melahoa Taproot Z
+5,1221,Derring Greaves X
+5,1222,Derring Leggings X
+5,1223,GX Kita Star Hakama
+5,1224,GX Umi Ocean Hakama
+5,1225,dummy
+5,1226,dummy
+5,1227,Wisdom Boots X
+5,1228,Wisdom Feet X
+5,1229,Cheerful Boots X
+5,1230,Cheerful Leggings X
+5,1231,Mariner Socks X
+5,1232,Mariner Sandals X
+5,1233,Silver Metal Boots X
+5,1234,Silver Feet X
+5,1235,Dark Metal Boots X
+5,1236,Dark Metal Feet X
+5,1237,Pink Metal Boots X
+5,1238,Pink Metal Feet X
+5,1239,Chrome Metal Boots X
+5,1240,Chrome Metal Feet X
+5,1241,Giaprey Feet X
+5,1242,Giaprey Tights X
+5,1243,dummy
+5,1244,dummy
+5,1245,dummy
+5,1246,dummy
+5,1247,Maccao Shinguards X
+5,1248,Maccao Boots X
+5,1249,Jaggi Shinguards X
+5,1250,Jaggi Boots X
+5,1251,Artian Greaves XR
+5,1252,Artian Leggings XR
+5,1253,Dragonfeet
+5,1254,Dragonlegs
+5,1255,Criminal Greaves
+5,1256,Criminal Leggings
+5,1257,Gon Greaves
+5,1258,Gon Leggings
+5,1259,Arcfire Hakama
+5,1260,Bonfire Hakama
+5,1261,Waka Hakama
+5,1262,Wagaku Hakama
+5,1263,Ruler Arcfire Hakama
+5,1264,Ruler Bonfire Hakama
+5,1265,Ruler Waka Hakama
+5,1266,Ruler Wagaku Hakama
+5,1267,Supreme Arcfire Hakama
+5,1268,Supreme Bonfire Hakama
+5,1269,Supreme Wagaku Hakama
+5,1270,Supreme Wagaku Hakama
+5,1271,Golden Knight Boots
+5,1272,Golden Knight Greaves
+5,1273,Varia Suit Leg Guards
+5,1274,Varia Suit Legs
+5,1275,Zero Suit Boots
+5,1276,Zero Suit Tights
+5,1277,Lodestar Boots
+5,1278,Lodestar Greaves
+5,1279,Hylian Boots
+5,1280,Hylian Leggings
+5,1281,Hiryu Sky Boots
+5,1282,Hiryu Land Boots
+6,0,(None)
+6,1,Pawn Talisman
+6,2,Bishop Talisman
+6,3,Knight Talisman
+6,4,Rook Talisman
+6,5,Queen Talisman
+6,6,King Talisman
+6,7,Dragon Talisman
+6,8,Hero Talisman
+6,9,Legend Talisman
+6,10,Creator Talisman
+7,0,(None)
+7,1,Petrified Blade
+7,2,Obsidian Blade
+7,3,Halberd
+7,4,Decider
+7,5,Igneous Blade
+7,6,Type 41 Wyvernator
+7,7,Khezu Shock Sword
+7,8,Defender
+7,9,Usurper's Storm
+7,10,Barbaroi Blade
+7,11,Iron Sword
+7,12,Lagiacrus Blade
+7,13,Lagia Lightning
+7,14,Plesioth Watercutter
+7,15,Plesioth Wave Sword
+7,16,Ravager Blade
+7,17,Lacerator Blade
+7,18,Tactical Blade
+7,19,Hidden Blade
+7,20,Buster Sword
+7,21,Chrome Razor
+7,22,Brazenwall
+7,23,Skraga
+7,24,Santoku Reaver
+7,25,Toad Bereaver
+7,26,Bone Cleaver
+7,27,Red Wing
+7,28,Rathalos Gleamsword
+7,29,Cheda Blade
+7,30,Seditious Cleaver
+7,31,Jawblade
+7,32,Wyvern Jawblade
+7,33,Thrash Sword
+7,34,Thrash Blade
+7,35,Golem Blade
+7,36,Valkyrie Blade
+7,37,Spartacus Blade
+7,38,Tiger Jawblade
+7,39,Dios Blade
+7,40,Demolition Sword
+7,41,Executioner
+7,42,Ludroth Bone Sword
+7,43,Cataclysm Sword
+7,44,Snowclad
+7,45,Red Stripe
+7,46,Red Pincer
+7,47,Ceanataur Blade
+7,48,Azure Serpentblade
+7,49,Saffron Fangblade
+7,50,Fanged Serpentblade
+7,51,Deadly Serpentblade
+7,52,White Serpentblade
+7,53,Chicken Decapitator
+7,54,Sentoryu Raven
+7,55,Sentoryu Bane
+7,56,Nocturnal Falx
+7,57,Verdant Wing
+7,58,Giant's Slicer
+7,59,Hanayako Yohino
+7,60,Scorching Blazer
+7,61,Schattenstolz
+7,62,L'Apotheose
+7,63,Kirin Thundersword
+7,64,Grand Shamshir
+7,65,Demon Rod
+7,66,Demonlord Club
+7,67,Berserker Sword
+7,68,Consummate Blade
+7,69,Skeletal Great Sword
+7,70,Astral Leo
+7,71,Akantor Broadsword
+7,72,Ukanlos Destructor
+7,73,Alatreon Great Sword
+7,74,Roilcloud Sword
+7,75,Rusted Great Sword
+7,76,Ancient Blade
+7,77,Icesteel Edge
+7,78,Worn Great Sword
+7,79,Epitaph Blade
+7,80,Teostra Blade
+7,81,Vulcanis
+7,82,Black Blade
+7,83,Yukumo Edge
+7,84,Yukumo Pure Edge
+7,85,Larisaber
+7,86,Cheese Mixer
+7,87,Autumn Umbrella
+7,88,Frozen Speartuna
+7,89,Wyvern's Perch
+7,90,Aloe Blade
+7,91,Cat's Soul
+7,92,El Dora Blade
+7,93,Black Belt Blade
+7,94,Expert Blade
+7,95,Eostoclad
+7,96,Stonefist Pincer
+7,97,Royal Blade
+7,98,Demon Knife
+7,99,Blazing Squall
+7,100,Grobowall
+7,101,Sentoryo Calamity
+7,102,Flamelord Wing
+7,103,Thunderlord Gekirai
+7,104,Rudra Jawblade
+7,105,Crisped Blazer
+7,106,Fox Blade
+7,107,Captain Blade J
+7,108,Amol Saiqa
+7,109,Chivalry
+7,110,G Blade
+7,111,Jewelled Greatsword
+7,112,Silverwing Greatsword
+7,113,Zephyr Wing
+7,114,Kanhana Sokin
+7,115,Frostpeak Blade
+7,116,Massacre Blade
+7,117,Shredclaw Greatsword
+7,118,Wolvercrz
+7,119,Dragon Killer
+7,120,Vulcan Blade
+7,121,Fatalis Blade
+7,122,Lightbreak Blade
+7,123,Lumiere/Ombre
+7,124,Splintered Horn
+7,125,Icicle Fang
+7,126,Carapace Sword
+7,127,Immane Blade
+7,128,Scylla Blade
+7,129,Red Note
+7,130,Unsolved Sword
+7,131,Viking Horn
+7,132,Pirit Mazel
+7,133,Elder Blade
+7,134,Cleros Blade
+7,135,Drifter's Katana
+7,136,Garo Sword
+8,0,(None)
+8,1,Petrified Sword
+8,2,Obsidian Sword
+8,3,Dios Edge
+8,4,Demolition Cutter
+8,5,Hidden Edge
+8,6,Frost Edge
+8,7,Velocidrome Bite
+8,8,Raven Blade
+8,9,Spiked Circle
+8,10,Shura Fan
+8,11,Hunter's Knife
+8,12,Odyssey Blade
+8,13,Hunter's Dagger
+8,14,Heavy Bang
+8,15,Baumfaller
+8,16,Dual Carapace
+8,17,Lava Pick
+8,18,Soldier's Dagger
+8,19,Usurper's Firebolt
+8,20,Princess Rapier
+8,21,Lunatic Rose
+8,22,Khezu Razor
+8,23,Serpent Bite
+8,24,Viper Bite
+8,25,Hydra Bite
+8,26,Snake Bite
+8,27,Naab Sword
+8,28,Seditious Fang
+8,29,Bone Kris
+8,30,Djinn
+8,31,Corona
+8,32,Golden Falchion
+8,33,Bone Pick
+8,34,Rajang Club
+8,35,Demonlord Mace
+8,36,Weary Finsword
+8,37,Thunderbane
+8,38,Ludroth's Nail
+8,39,Royal Claw
+8,40,Rex Talon
+8,41,Gigas Club
+8,42,Bone Tabar
+8,43,Sharkutter
+8,44,Sharfin Sword
+8,45,Lagia Sword
+8,46,Storm Sword
+8,47,Poison Axe
+8,48,Brash Buddies
+8,49,Secta Nulo
+8,50,Secta Nulo (G)
+8,51,Secta Nulo (R)
+8,52,Celestial Sword
+8,53,Cross Sword
+8,54,Verdant Rapier
+8,55,Giant's Tusk
+8,56,Hana no Nagoriwo
+8,57,Burning Prominar
+8,58,Sucher-Ankh
+8,59,Le Detecteur
+8,60,Kirin Bolt Ultimus
+8,61,Skeletal Blade
+8,62,Astral Taurus
+8,63,Akantor Duo
+8,64,Ukanlos Soul Hatchet
+8,65,Alatreon Sword
+8,66,Ominous Treasure
+8,67,Rusted Sword
+8,68,Eternal Strife
+8,69,Icesteel Dagger
+8,70,Worn Sword
+8,71,Divine Exodus
+8,72,Teostra's Spada
+8,73,Tusk Gear
+8,74,Black Sword
+8,75,Yukumo Cutter
+8,76,Yukumo Pure Cutter
+8,77,Moofah Sword
+8,78,Hero's Blade
+8,79,Dragonseal Sword
+8,80,Kitchen Knife
+8,81,Chak Chak
+8,82,Floral Seif
+8,83,Ninja Sword
+8,84,Shining Wyvern Blade
+8,85,Catspaw
+8,86,Melynx Tool
+8,87,Eldora Closure
+8,88,Black Belt Sword
+8,89,Dreadqueen Rapier
+8,90,Drilltusk Truncheon
+8,91,Nightfall Edge
+8,92,Geode Mace
+8,93,Hardened Edge
+8,94,Tomb Edge
+8,95,Thunderlord Firebolt
+8,96,Grimclaw Barb
+8,97,Fiery Prominar
+8,98,Inazuma Works
+8,99,Levindicator
+8,100,Star Knight Sword
+8,101,Hero's Sword
+8,102,Jewelled Knife
+8,103,Silverwing Sword
+8,104,Zephyr Estoc
+8,105,Kyoka Fugetsu
+8,106,Frostpeak Sword
+8,107,Massacre Club
+8,108,Shredclaw Carapace
+8,109,Wolverfang
+8,110,Ruiner Sword
+8,111,W. Fatalis Sword
+8,112,Lightbreak Sword
+8,113,Cacher/Chercher
+8,114,Flame Syphos
+8,115,Studded Club
+8,116,Icicle Spike
+8,117,Cyro Cross
+8,118,Carapace Mace
+8,119,Scaly Sword
+8,120,Bloodscale Sword
+8,121,Platinum Dawn
+8,122,Kukri
+8,123,Drome Rush Dagger
+8,124,Unsolved Knife
+8,125,Wyverian Dagger
+8,126,Elder Sword
+8,127,Shin's Sword
+8,128,Falchion
+9,0,(None)
+9,1,Petrified Hammer
+9,2,Obsidian Hammer
+9,3,Fist of Fury
+9,4,Striped Striker
+9,5,Great Nova
+9,6,Brazenclout
+9,7,Type 42 Shellbuster
+9,8,Iron Hammer
+9,9,Devil Masher
+9,10,Anvil Hammer
+9,11,Accelerated Hammer
+9,12,Nitro Boost Hammer
+9,13,Binding Bludgeon
+9,14,War Hammer
+9,15,War Stamp
+9,16,Iron Striker
+9,17,Mane Malice
+9,18,Demonlord Hammer
+9,19,Gun Hammer
+9,20,Shot Crusher
+9,21,Spiked Hammer
+9,22,Vortex Hammer
+9,23,Vortical Hammer
+9,24,Frozen Core
+9,25,Bone Hammer
+9,26,Lobstrosity
+9,27,Calamitous Portent
+9,28,Dios Tailhammer
+9,29,Demolition Hammer
+9,30,Cyclo-Hammer
+9,31,Matraca Hammer
+9,32,Seditious Hammer
+9,33,Skullcrusher
+9,34,Jupiter's Sphere
+9,35,Conehead Hammer
+9,36,Ceanataur Head Axe
+9,37,Bag o' Horrors
+9,38,Bone Bludgeon
+9,39,Meaty Smash
+9,40,Meaty Press
+9,41,Ludroth Bone Mace
+9,42,Ludroth Splashhammer
+9,43,Revenge Hammer
+9,44,Feather Hammer
+9,45,Bull Head Hammer
+9,46,Plesioth Head
+9,47,Usurper's Thunder
+9,48,Dragonhead Hammer
+9,49,Red Bludgeon
+9,50,Leonid Starcrusher
+9,51,Hidden Breaker
+9,52,Kut-Ku Pick
+9,53,Raven Torrent
+9,54,Vile Torrent
+9,55,Venom Monster
+9,56,Emerald Beater
+9,57,Giant's Hammer
+9,58,Purity Hammer
+9,59,Scorching Isshata
+9,60,Wuchtblick
+9,61,Le Jugement
+9,62,Genie's Expanse
+9,63,Devil's Due
+9,64,Consummate Hammer
+9,65,Skeletal Hammer
+9,66,Polaris Hammer
+9,67,Ukanlos Trampler
+9,68,Alatreon Hammer
+9,69,Incubus Hammer
+9,70,Rusted Hammer
+9,71,Breath Core Hammer
+9,72,Teostra Cratermaker
+9,73,Worn Hammer
+9,74,Pulsating Core
+9,75,Icesteel Hammer
+9,76,Gaiarch
+9,77,Black Hammer
+9,78,Yukumo Mallet
+9,79,Yukumo Purehammer
+9,80,Airship Hammer
+9,81,Teddybear
+9,82,Enormous Ham
+9,83,Cactus Creamer
+9,84,Black Frying Pan
+9,85,One Star Silver Pot
+9,86,Pumpking
+9,87,Anchor Hammer
+9,88,Portsmark
+9,89,Arluq Whammer
+9,90,Pride of Harth
+9,91,White Kitty Stamp
+9,92,Black Kitty Stamp
+9,93,Egg Hammer
+9,94,Graceful Death
+9,95,Black Belt Hammer
+9,96,Expert Hammer
+9,97,Pincher Hammer
+9,98,Nightfall Hammer
+9,99,Geode Hammer
+9,100,Hardened Hammer
+9,101,Tomb Hammer
+9,102,Raiden Hammer
+9,103,Seize Hammer
+9,104,Magma Hammer
+9,105,Thunder Works
+9,106,Demon Visage
+9,107,Jewelled Hammer
+9,108,Silverwing Hammer
+9,109,Zephyr Beat
+9,110,Kojorakugetsu
+9,111,Frostpeak Hammer
+9,112,Shredclaw Hammer
+9,113,Dragon Destroyer
+9,114,Vulcan Buster
+9,115,Fatalis Buster
+9,116,Lightbreak Hammer
+9,117,Sourire/Eblouir
+9,118,Gigaton Hammer
+9,119,Basarios Blow
+9,120,Shell Hammer
+9,121,Carapace Hammer
+9,122,Barroth Mallet
+9,123,Cluster Hammer
+9,124,Cluster Musterer
+9,125,Jail Hammer
+9,126,Archambra Fellmace
+9,127,Blacksmith
+9,128,Volare Commemorative
+9,129,Unsolved Hammer
+9,130,Crystal Rock
+9,131,Elder Hammer
+10,0,(None)
+10,1,Petrified Lance
+10,2,Obsidian Lance
+10,3,Cross Coloris
+10,4,Incessant Raven
+10,5,Incessant Evil
+10,6,Twistcrawl
+10,7,Twisting Crawler
+10,8,Boros Spear
+10,9,Naag Serpentblade
+10,10,Iron Lance
+10,11,Squire Spear
+10,12,Estoc
+10,13,Paladin Lance
+10,14,Babel Spear
+10,15,Growling Wyvern
+10,16,Tiger Stinger
+10,17,Lava Cone
+10,18,Thane Lance
+10,19,Acrus Lance
+10,20,Doris Spear
+10,21,Steel Knight's Pike
+10,22,Dragon Rider Spear
+10,23,Drill Lance
+10,24,Hidden Stinger
+10,25,Spiked Spear
+10,26,Aqua Spear
+10,27,Rockabye Spear
+10,28,Thunderspear
+10,29,Type 43 Dragonlance
+10,30,Bone Lance
+10,31,Longhorn Spear
+10,32,Giant Tusk
+10,33,Harbah Lance
+10,34,Seditious Lance
+10,35,Barbarian Tusk
+10,36,Barbaroi Tusk
+10,37,Bone Claw Lance
+10,38,Ceanataur Stinger
+10,39,Volvi Stroke
+10,40,Ploshasta
+10,41,Spiral Heat
+10,42,Usurper's Coming
+10,43,Ludroth Bone Spear
+10,44,Spiral Lance
+10,45,Dark Lance
+10,46,Wild Boar Lance
+10,47,Demon Lance
+10,48,Demonlord Spear
+10,49,Expelger
+10,50,Expelgouger
+10,51,Carnivicious
+10,52,Omnivicious
+10,53,Dios Stinger
+10,54,Demolition Lance
+10,55,Red Tail
+10,56,Silver Prominence
+10,57,Verdant Tail
+10,58,Giant's Jouster
+10,59,Hana mo Hana Nare
+10,60,Svarog Blazer
+10,61,Eiferschild
+10,62,L'Egide
+10,63,Grief Lance
+10,64,Skeletal Lance
+10,65,Astral Capricorn
+10,66,Ukanlos Calamity
+10,67,Alatreon Lance
+10,68,Ominous Cloud
+10,69,Rusted Lance
+10,70,Undertaker
+10,71,Icesteel Spear
+10,72,Worn Spear
+10,73,Skyscraper
+10,74,Teostra's Howl
+10,75,Blue Crater
+10,76,Black Lance
+10,77,Yukumo Lance
+10,78,Yukumo Purelance
+10,79,Fondue Lance
+10,80,Blimp Lance
+10,81,Frontrider Lance
+10,82,Native Spear
+10,83,Vacuum Striker
+10,84,Fragrance
+10,85,Sharq Byte
+10,86,Plegis Needle
+10,87,Guardian Lance
+10,88,Alacrantze
+10,89,Black Belt Lance
+10,90,Expert Lance
+10,91,Stonefist Lance
+10,92,Dreadqueen Thorn
+10,93,Gale Stinger
+10,94,Incessant Calamity
+10,95,Groad Tail
+10,96,Thunderlord Tenrai
+10,97,Rudra Stinger
+10,98,Svarog Boomer
+10,99,Brain Fox
+10,100,Jewelled Lance
+10,101,Silverwing Spear
+10,102,Zephyr Tail
+10,103,Hikarakuyo
+10,104,Frostpeak Spear
+10,105,Massacre Horn
+10,106,Shredclaw Stinger
+10,107,Wolver Coloris
+10,108,Vermillion Rim
+10,109,Ruiner Lance
+10,110,W. Fatalis Lance
+10,111,Lightbreak Lance
+10,112,Anesto/Falsch
+10,113,Venom Lance
+10,114,Gravios Spear
+10,115,Diablos Lance
+10,116,Tusk Lance
+10,117,Rugged Lance
+10,118,Spark Plug
+10,119,Stungun Lance
+10,120,Dark
+10,121,Noble Fragrance
+10,122,Commemorative Baroni
+10,123,Unsolved Lance
+10,124,Haiharo
+10,125,Gorgon Lance
+10,126,Elder Lance
+11,0,(None)
+11,1,Petrified Cannon
+11,2,Queen's Longfire
+11,3,Obsidian Cannon
+11,4,Griffin's Charge
+11,5,Crab Buster
+11,6,Piercing Crab
+11,7,Spheniscine Slayer
+11,8,Hidden Gambit
+11,9,Anteka Burst
+11,10,Rapidcaster
+11,11,Carom Shot
+11,12,Agnaboom
+11,13,Sand Diver
+11,14,Pressurized Plaser
+11,15,Arbalest
+11,16,Tigrex Howl
+11,17,Yian Kut-Ku Cannon
+11,18,Raven Heirloom
+11,19,Binary Blaster
+11,20,Tankmage
+11,21,Icethrower
+11,22,Quickcaster
+11,23,Injector Cannon
+11,24,Flechette Gun
+11,25,Meteor Bazooka
+11,26,Meteor Buster
+11,27,Striker's Bowgun
+11,28,Bite Blaster
+11,29,Sayyad Cannon
+11,30,Seditious Cannon
+11,31,Bone Shooter
+11,32,Dios Cannon
+11,33,Demolition Cannon
+11,34,Type 46 Gunflage
+11,35,Lagia Blitz
+11,36,Usurper's Tremor
+11,37,Marino Burst
+11,38,Arzuros Gun
+11,39,Straw Drumcannon
+11,40,Monteverde
+11,41,Shooting Star
+11,42,Wyvern Blaster
+11,43,Giant's Cannon
+11,44,Cirrus Blaster
+11,45,Burning Igna
+11,46,Todlicher Abzug
+11,47,Le Desastre
+11,48,Daora's Delphinidae
+11,49,Kamaeleon
+11,50,Teostra's Artillery
+11,51,Skeletal Cannon
+11,52,Cosmic Cannon
+11,53,Gluttonous Cannon
+11,54,Endless Famine
+11,55,Akantor Cannon
+11,56,Ukanlos Cannon
+11,57,Chaos Wing
+11,58,Ill Omen
+11,59,Moofire Cannon
+11,60,Hero Blaster
+11,61,Black Cannon
+11,62,Yukumo Bowgun
+11,63,Yukumo Puregun
+11,64,Ladybug Cannon
+11,65,Carrozza Bazooka
+11,66,Aquamatic 'Needler'
+11,67,Felyne Bowgun
+11,68,Lunastra's Zeal
+11,69,Crimson Bowgun
+11,70,Eeostopen Burst
+11,71,Stonefist Buster
+11,72,Dreadqueen Shot
+11,73,Demonic Cannon
+11,74,Silverwind Sniper
+11,75,Grobo Shot
+11,76,Cahoe Shot
+11,77,Lord's Shot
+11,78,Rudra's Howl
+11,79,Ashen Blaster
+11,80,Pirate Cannon J
+11,81,Jewelled Cannon
+11,82,Silverwing Cannon
+11,83,Zephyr Shot
+11,84,Akikaza Kiyoshi
+11,85,Frostpeak Cannon
+11,86,Massarce Threat
+11,87,Shredclaw Shot
+11,88,Wolverkra
+11,89,Lao-Shan Lung Cannon
+11,90,Vor Cannon
+11,91,Destiny's Hand
+11,92,Fatalis Enslaver
+11,93,Lightbreak Cannon
+11,94,Verrat/Foi
+11,95,Rock Eater
+11,96,Gravios Howl
+11,97,Dual Threat
+11,98,Power Stinger
+11,99,Guerrilla Cannon
+11,100,Ner Bustergun
+11,101,Despot Quarcus
+11,102,Agna Magnum
+11,103,Unsolved Cannon
+11,104,Amore Anello
+11,105,Alva Red
+11,106,Eldra Cannon
+11,107,Elder Cannon
+11,108,Super Trench Snarfer
+12,0,(None)
+13,0,(None)
+13,1,Petrified Shooter
+13,2,Dios Blaster
+13,3,Demolition Gun
+13,4,Obsidian Shooter
+13,5,Mythical Three-Horn
+13,6,Blitz Bowgun
+13,7,Valkyrie Fire
+13,8,Blossomayhem
+13,9,Tail String
+13,10,Tail Blizzard
+13,11,Sawgun
+13,12,Kut-Ku Anger
+13,13,Raven Do
+13,14,Vile Do
+13,15,Hunter's Rifle
+13,16,Mandible Blaster
+13,17,Durambarrel
+13,18,Usurper's Crime
+13,19,Rasasa Bowgun
+13,20,Seditious Shot
+13,21,Scale Tornado
+13,22,Khezu Syringe
+13,23,Quill Burst
+13,24,Shotgun (White)
+13,25,Shotgun (Blood)
+13,26,Shotgun (Azure)
+13,27,Shotgun (Green)
+13,28,Shotgun (Viper)
+13,29,Cross Bowgun
+13,30,Desert Storm
+13,31,Lava Storm
+13,32,Yakt Shooter
+13,33,Shell Shooter
+13,34,Machine Strafer
+13,35,Tigrex Tank
+13,36,Rathling Gun
+13,37,Thundacrus
+13,38,Royal Launcher
+13,39,Hidden Eye
+13,40,Striped Shell
+13,41,Lobster Gun
+13,42,Maelstrom
+13,43,Demon's Isle
+13,44,God's Isle
+13,45,Astalos Gun
+13,46,Giant's Blaster
+13,47,Desolate Mist
+13,48,Burning Answer
+13,49,Faulnisschleuder
+13,50,La Lumiere
+13,51,Icesteel Wasp
+13,52,Blessed Lamp
+13,53,Skeletal Bowgun
+13,54,Polarstar Shooter
+13,55,Devil's Grin
+13,56,Diregun 'Dementia'
+13,57,Rajang Barrage
+13,58,Demonlord Blaster
+13,59,Silver Spartacus
+13,60,Gold Valkyrie
+13,61,Ukanlos Frost Bow
+13,62,Wicked Needle
+13,63,Veiled Bell
+13,64,Airship Gun
+13,65,Black Parasol
+13,66,Angel Parasol
+13,67,Yukumo Light Bowgun
+13,68,Yukumo Pureshot
+13,69,Gourd Shot
+13,70,Fiossidare
+13,71,Springnight Shot
+13,72,Beast Sniper
+13,73,Felyne Ragdoll
+13,74,Melynx Ragdoll
+13,75,Kettleblower
+13,76,Eldra Musket
+13,77,Black Belt Bowgun
+13,78,Rathian Fire
+13,79,Squall's Gaze
+13,80,Wicked Do
+13,81,Dreadking Blaster
+13,82,Thunder Lycan
+13,83,Rudra Shot
+13,84,Infernal Solution
+13,85,Arm Cannon
+13,86,Jewelled Bowgun
+13,87,Silverwing Crossbow
+13,88,Zephyr Howl
+13,89,Ukigumo Asatsuyu
+13,90,Frostpeak Blaster
+13,91,Massacre Beretta
+13,92,Wolvervuaya
+13,93,Black Wing
+13,94,Fatalis Blaster
+13,95,Absolute Shot
+13,96,Lightbreak Gun
+13,97,Incanto/Orakel
+13,98,Grenade Launcher
+13,99,Titan Launcher
+13,100,Assault Conga
+13,101,Blizzard Cannon
+13,102,Barro Barrel
+13,103,Azraqvya
+13,104,Despot Thunder
+13,105,Barbus Commemorative
+13,106,Unsolved Gun
+13,107,Well
+13,108,Elder Beretta
+13,109,Fox Baretta
+14,0,(None)
+14,1,Petrified Saber
+14,2,Obsidian Saber
+14,3,Diapason
+14,4,Guardian Sword
+14,5,Aqua Guardian
+14,6,Chainslaughter
+14,7,Ivory Rabbit
+14,8,Mirage Finsword
+14,9,Iron Katana
+14,10,Hidden Saber
+14,11,Eager Cleaver
+14,12,Wailing Ghost
+14,13,Thunderclap
+14,14,Imperial Saber
+14,15,Rimeblossom
+14,16,Yuki Ichimonji
+14,17,Aikuchi
+14,18,Toad Abetter
+14,19,Plume Sword
+14,20,Liquid Fire Blade
+14,21,Khanga Edge
+14,22,Seditious Edge
+14,23,Serrated Jaw
+14,24,Dancing Flames
+14,25,Rusty Claymore
+14,26,Canine Katana
+14,27,Bone Katana 'Wolf'
+14,28,Usurper's Boltslicer
+14,29,Tigrine Edge
+14,30,Dios Katana
+14,31,Demolition Katana
+14,32,Wyvern Blade 'Verde'
+14,33,Wyvern Blade 'Flame'
+14,34,Wyvern Blade 'Blood'
+14,35,Wyvern Blade 'Pale'
+14,36,Coiled Nail
+14,37,Coiled Saber
+14,38,Black Katana Mk.I
+14,39,Bone
+14,40,Curviscera
+14,41,Bicurviscera
+14,42,Blango Destroyer
+14,43,Blango Decimator
+14,44,Arzuros Naginata
+14,45,Demon Halberd
+14,46,Demonlord Katana
+14,47,Daito Crow
+14,48,Daito Bane
+14,49,Drowning Shaft
+14,50,Anteka Blade
+14,51,Dark Scythe
+14,52,Scythe of Menace
+14,53,Mountain Reaper
+14,54,Crab Cutter
+14,55,Plesioth Splasher
+14,56,Shogun Cutter
+14,57,Shogun Splitter
+14,58,Wyvern Blade 'Beryl'
+14,59,Giant's Tower
+14,60,Kakaru Kumo Naki
+14,61,Billowing Luger
+14,62,Stahlfakt
+14,63,La Justiciere
+14,64,Reaver 'Cruelty'
+14,65,Consummate Katana
+14,66,Skeletal Sword
+14,67,Astral Pisces
+14,68,Akantor Katana
+14,69,Ukanlos Slicer
+14,70,Dark Claw
+14,71,Ominous Spring
+14,72,Worn Long Sword
+14,73,Oblivion
+14,74,Icesteel Blade
+14,75,Windeater
+14,76,Black Scythe
+14,77,Yukumo Long Sword
+14,78,Yukumo Puresword
+14,79,Cheese Knife
+14,80,Moofah Staff
+14,81,Centenarian Dagger
+14,82,Great Hornfly Saber
+14,83,Barbarian Blade
+14,84,Hairtail's Hairblade
+14,85,Cawscythe
+14,86,Crimson Maw
+14,87,Ebon Rabbit
+14,88,Stonefist Cutter
+14,89,Demon Swirl
+14,90,Nightfall Saber
+14,91,Geode Saber
+14,92,Daito Calamity
+14,93,Tomb Saber
+14,94,Thunderlord Raikiri
+14,95,Seize Cutter
+14,96,Blazing Ognar
+14,97,Fox Select
+14,98,Light Works
+14,99,Pirate Sword J
+14,100,Starlight Gate
+14,101,Wing of Judgment
+14,102,Fan Club Bamboo Rod
+14,103,Jewelled Sickle
+14,104,Silverwing Katana
+14,105,Wyvern Blade 'Corundum'
+14,106,Unsanmusho
+14,107,Frostpeak Katana
+14,108,Shredclaw Cutter
+14,109,Wolvermaran
+14,110,Fire Dragonsword
+14,111,Fatalis Scythe
+14,112,Fatalis Ascencia
+14,113,Lightbreak Edge
+14,114,Mal/Justice
+14,115,Giant Makaera
+14,116,Busting Edge
+14,117,Blood Cry
+14,118,Noble Blood Cry
+14,119,Rogue Boss
+14,120,Notos
+14,121,Despot Nitorus
+14,122,Unsolved Katana
+14,123,Brunyaf
+14,124,Elder Saber
+14,125,Urano Meteoria
+14,126,Flame Katana
+15,0,(None)
+15,1,Petrified Axe
+15,2,Obsidian Axe
+15,3,Heavy Divider
+15,4,Bolt Axe
+15,5,Volt Axe
+15,6,Reckless Hatchet
+15,7,Arzuros Axe
+15,8,Dios Axe
+15,9,Demolition Axe
+15,10,Motor Burst
+15,11,Iron Axe
+15,12,Elite Switch Axe
+15,13,Notched Doom
+15,14,Notched Tyrant
+15,15,General's Strongaxe
+15,16,Aksa Switch
+15,17,Seditious Axe
+15,18,Dragonmaiden Axe
+15,19,Golden Crescent
+15,20,The Shredder
+15,21,Dream Captor
+15,22,Scissor Axe
+15,23,Exoskeleton Axe
+15,24,Bone Axe
+15,25,Usurper's Downpour
+15,26,Power Gasher
+15,27,Vavoom Axe
+15,28,Vavoom Vengeance
+15,29,Rath Flame Splitter
+15,30,Rathsplicer
+15,31,Hidden Axe
+15,32,Ludroth Axe
+15,33,Finslash
+15,34,Bruiser Axe
+15,35,Wild Axe
+15,36,Rex Slasher
+15,37,Fire Tempest
+15,38,Flickaxe
+15,39,Flicker Axe
+15,40,Binding Roller
+15,41,Voltaic Axe
+15,42,Giant's Axe
+15,43,Fond Farewell
+15,44,Scorching Drafa
+15,45,Eisenleib
+15,46,La Guillotine
+15,47,Peal
+15,48,Daora's Farasa
+15,49,Waxglare Wand
+15,50,Undying Axe
+15,51,Demonlord Axe
+15,52,Tyrannos
+15,53,Saligia Vileaxe
+15,54,Skeletal Axe
+15,55,Polaris Skalvia
+15,56,Akantor Switch Axe
+15,57,Murkham Axe
+15,58,Dark Switch Axe
+15,59,Cloudburst Axe
+15,60,Worn Switch Axe
+15,61,Mundus Altus
+15,62,Teostra's Arx
+15,63,Rough Edge
+15,64,Black Axe
+15,65,Yukumo Switch Axe
+15,66,Yukumo Pure Axe
+15,67,Gouda Axe
+15,68,Wycademy Axe
+15,69,Arctic Ledge
+15,70,Grim Cat
+15,71,Infernal Axe
+15,72,Black Belt Axe
+15,73,Crimson Axe
+15,74,Blackhare Axe
+15,75,Pincher Axe
+15,76,Royal Axe
+15,77,Pierce Axe
+15,78,Nightfall Axe
+15,79,Geode Axe
+15,80,Tomb Axe
+15,81,Raiden Axe
+15,82,Seize Axe
+15,83,Magma Axe
+15,84,Switch Fox
+15,85,Raikou Works
+15,86,Pirate Axe J
+15,87,Jewelled Axe
+15,88,Silverwing Axe
+15,89,Zephyr Glaive
+15,90,Aibetsuriku
+15,91,Frostpeak Axe
+15,92,Massacre Axe
+15,93,Wolverakaleid
+15,94,Dragon Ripper
+15,95,Ruiner's Bane
+15,96,Fatalis Force
+15,97,Lightbreak Axe
+15,98,Corps/Esprit
+15,99,Axe Semper Tyrannis
+15,100,Golba Bandar
+15,101,Amber Slash
+15,102,Galefrost
+15,103,Assault Axe
+15,104,Beak Axe
+15,105,Unsolved Axe
+15,106,Naval Task
+15,107,Zola Axe
+15,108,Elder Axe
+15,109,Red Tomahawk
+16,0,(None)
+16,1,Petrified Gunlance
+16,2,Obsidian Gunlance
+16,3,Hard Hitter
+16,4,Shattershot
+16,5,Full Voltage
+16,6,Lagomberator
+16,7,Lagomberastrophe
+16,8,Marine Fisher
+16,9,Volcano Gunlance
+16,10,Red Devil Gunlance
+16,11,Blue Devil Uberlance
+16,12,Flamethrower
+16,13,Iron Gunlance
+16,14,Seadiver
+16,15,Deepbuster
+16,16,Jaya Gunlance
+16,17,Seditious Gunlance
+16,18,Striker's Gunlance
+16,19,General's Arbalance
+16,20,Red Rook
+16,21,Silver Rook
+16,22,Lagia Burst
+16,23,Dios Gunlance
+16,24,Demolition Gunlance
+16,25,Ancient Gyrelance
+16,26,Type 62 Stormlance
+16,27,Rogue Gunlance
+16,28,Arya Gadda
+16,29,Genenam Lance
+16,30,Bone Gunlance
+16,31,Demon Gunlance
+16,32,Demonlord Artillery
+16,33,Tiger Blast
+16,34,Princess Panoply
+16,35,Queen's Panoply
+16,36,Usurper's Roar
+16,37,Golem Gunlance
+16,38,Thunder Yell
+16,39,Spine Blaster
+16,40,Hellsting
+16,41,Gerd Sting
+16,42,Scissor Gunlance
+16,43,Hidden Gunlance
+16,44,Fiore Nulo
+16,45,Fiore Nulo (G)
+16,46,Fiore Nulo (R)
+16,47,Monsieur Gore
+16,48,Madame Butcher
+16,49,Verdant Rook
+16,50,Giant's Artillery
+16,51,Ukiyo no Yamiwo
+16,52,Burning Kabeira
+16,53,Tyrannenarm
+16,54,L'Onde
+16,55,Venomous Cologne
+16,56,Ravenous Gunlance
+16,57,Consummate Gunlance
+16,58,Chasm Gunlance
+16,59,Astral Centaurus
+16,60,Akantor Gunlance
+16,61,Ukanlos Gunlance
+16,62,Ominous Monsoon
+16,63,Worn Gunlance
+16,64,Obelisk
+16,65,Icesteel Gunlance
+16,66,Black Smoke Gunlance
+16,67,Yukumo Gunlance
+16,68,Yukumo Puregunlance
+16,69,Baa Baa Gunlance
+16,70,Wycademy Gunlance
+16,71,Hero Gunlance
+16,72,Kamak Gunlance
+16,73,Felyoshka
+16,74,Bamboo Birdsbane
+16,75,Cornpopper
+16,76,Teostra Gunlance
+16,77,Blackhare Gunlance
+16,78,Pincher Cannon
+16,79,Royal Burst
+16,80,Pierce Cannon
+16,81,Nightfall Burst
+16,82,Geode Burst
+16,83,Hardened Gunlance
+16,84,Tomb Gunlance
+16,85,Raiden Cannon
+16,86,Seize Burst
+16,87,Explosive Kabeira
+16,88,Platinum Trophy
+16,89,Volt Works
+16,90,Pirate Gunlance J
+16,91,Jewelled Gunlance
+16,92,Silverwing Gunlance
+16,93,Zephyr Rook
+16,94,Mumyodjoya
+16,95,Frostpeak Gunlance
+16,96,Massacre Glower
+16,97,Wolverstone
+16,98,Ruiner Gunlance
+16,99,W. Fatalis Gunlance
+16,100,Lightbreak Gunlance
+16,101,Paix/Tyrannie
+16,102,White Gunlance
+16,103,Diablos Glower
+16,104,Snow Gear
+16,105,Barroth Loader
+16,106,Roscasludge
+16,107,Shell Gunbird
+16,108,Noble Gunbird
+16,109,Hororabaruto
+16,110,Agna Vulcan
+16,111,Eine Wahrheit
+16,112,Unsolved Gunlance
+16,113,Nikuyaki
+16,114,Elder Gunlance
+17,0,(None)
+17,1,Petrified Bow
+17,2,Obsidian Bow
+17,3,Usurper's Rumble
+17,4,Arko Nulo (Y)
+17,5,Arko Nulo (W)
+17,6,Sonic Bow
+17,7,Heat Haze
+17,8,Feminine Haze
+17,9,Plume Bow
+17,10,Hidden Bow
+17,11,Daimyo's Warbow
+17,12,Bear Blade Bow
+17,13,Hunter's Stoutbow
+17,14,Yekla Arc
+17,15,Demon Helm Bow
+17,16,Prominence Bow
+17,17,Queen Blaster
+17,18,Type 64 Multibow
+17,19,Tigrex Archer
+17,20,Shalya Bow
+17,21,Seditious Arrow
+17,22,Brazencord
+17,23,Dios Flier
+17,24,Demolition Bow
+17,25,Crystalline Flower
+17,26,Blue Alighter
+17,27,Ice Cold Alighter
+17,28,Khezu Bow
+17,29,Hunter's Bow
+17,30,Kelbi Stingshot
+17,31,Kut-Ku Stave
+17,32,Crow Bow
+17,33,Vile Bow
+17,34,Blango Fur Bow
+17,35,Abominable Bow
+17,36,Spongia Bow
+17,37,Voltsender
+17,38,Worn Bow
+17,39,Angelbein
+17,40,Icesteel Bow
+17,41,Arca Raptora
+17,42,Lightning Bow
+17,43,Giant's Bow
+17,44,Blessed Rain
+17,45,Ashen Wrath
+17,46,Entbehrung
+17,47,Le Ravisseur
+17,48,Genie's Grimoire
+17,49,Bow of Hope & Valor
+17,50,Skeletal Bow
+17,51,Polar Avian Bow
+17,52,Beast Thunderbow
+17,53,Archbeast Thunderbow
+17,54,Hyperion
+17,55,Selene Moonbroken
+17,56,Akantor Bow
+17,57,Ukanlos Bow
+17,58,Alatreon Bow
+17,59,Tempest Nightbow
+17,60,Ivory Bow
+17,61,Onyx Bow
+17,62,Yukumo Bow
+17,63,Yukumo Purebow
+17,64,Bamboo Taketori
+17,65,Seahorse Harp
+17,66,Morsel Bowfish
+17,67,Chaos Bow
+17,68,Felyne Bow
+17,69,Arachnid Bow
+17,70,Crimson Bow
+17,71,Stonefist Bow
+17,72,Royal Blaster
+17,73,Demonic Bow
+17,74,Silverwind Bow
+17,75,Grobo Arc
+17,76,Wicked Bow
+17,77,Dread Bow
+17,78,Rumble Bow
+17,79,Rudra Bow
+17,80,Hellish Wrath
+17,81,Hero's Bow
+17,82,Jewelled Bow
+17,83,Silverwing Greatbow
+17,84,Zephyr Bow
+17,85,Rouushorai
+17,86,Frostpeak Bow
+17,87,Massacre Bow
+17,88,Shredclaw Blade Bow
+17,89,Dragon Bow Earth
+17,90,Bow of Fall & Break
+17,91,Bow of Rage & Disaster
+17,92,Victory and Glory
+17,93,Lightbreak Bow
+17,94,Obtenir/Perdu
+17,95,Diablos Coilbender
+17,96,Power Wildbow
+17,97,Ice Crest
+17,98,Scylla Fist
+17,99,Scylla Weave
+17,100,Wild Bow
+17,101,Despot Sagittus
+17,102,Unsolved Bow
+17,103,Kayamba Slinger
+17,104,Ala Victoria
+17,105,Elder Bow
+17,106,Pirate Bow J
+17,107,Ancient Armament
+18,0,(None)
+18,1,Petrified Daggers
+18,2,Obsidian Daggers
+18,3,Gelid Mind
+18,4,Twin Chainsaws
+18,5,Roving Saws
+18,6,Type 51 Macerators
+18,7,Insecticutters
+18,8,Insectiscythes
+18,9,Twin Daggers
+18,10,Hurricane
+18,11,Cleaving Jaws
+18,12,Cool Cleavers
+18,13,Dios Slicers
+18,14,Demolition Blades
+18,15,Zakun Twins
+18,16,Seditious Talons
+18,17,Dual Hatchets
+18,18,Tornado Hatchets
+18,19,Rex Slicers
+18,20,Usurper's Fulgur
+18,21,Sworn Rapiers
+18,22,Dual Piercers
+18,23,Flamestorm
+18,24,Rouge Flames
+18,25,Khezu Daggers
+18,26,Bone Scythes
+18,27,Twin Flames
+18,28,Wyvern Strife
+18,29,Talon Carvers
+18,30,Plesioth Cutlasses
+18,31,Firestorm
+18,32,Bladed Edges
+18,33,Bladed Pincers
+18,34,Hidden Gemini
+18,35,Crab Horns
+18,36,Monarch
+18,37,Cerulean Axes
+18,38,Blazeblades
+18,39,Ludroth Pair
+18,40,Twin Acrus
+18,41,Snow Slicers
+18,42,Maulagombs
+18,43,Dual Battleaxes
+18,44,Vprey Claws
+18,45,Snow Venom
+18,46,Whirlitwists
+18,47,Whirlitorture
+18,48,Kut-Ku Pair
+18,49,Raven Tessen
+18,50,Wicked Tessen
+18,51,Twin Bolts
+18,52,Giant's Daggers
+18,53,Morning Dawn
+18,54,Smoldering Cities
+18,55,Fledderklauen
+18,56,Les Apotres
+18,57,Twin Nails
+18,58,Suzuka Takamaru
+18,59,Wrath & Rancor
+18,60,Consummate Pair
+18,61,Chasm Blades
+18,62,Astral Gemini
+18,63,Akantor Blades
+18,64,Ukanlos Ruinblades
+18,65,Stormwind Fans
+18,66,Worn Blades
+18,67,Enduring Schism
+18,68,Hi Twin Daggers
+18,69,Black Twin Daggers
+18,70,Yukumo Duo
+18,71,Pure Yukumo Duo
+18,72,Wycademy Blades
+18,73,Heroic Twins
+18,74,Guild Knight Sabers
+18,75,Addled Beers
+18,76,Pokke Mittens
+18,77,White Dango
+18,78,Spicy Dango
+18,79,Tengu Dango
+18,80,Glutton's Tools
+18,81,Stewbry Stirfoils
+18,82,Qornu Waga
+18,83,Shaka Scarecrows
+18,84,Felyne and Melynx
+18,85,Felyne Claws
+18,86,Daora Blades
+18,87,Crimson Daggers
+18,88,Blackhare Daggers
+18,89,Pincher Daggers
+18,90,Royal Daggers
+18,91,Nightfall Daggers
+18,92,Hardened Daggers
+18,93,Raiden Daggers
+18,94,Seize Slicers
+18,95,Enflamed Slicers
+18,96,Pirate Edges J
+18,97,Exploding Blades
+18,98,Baki Combat Jutsu
+18,99,Twin Star Blades
+18,100,Fan Club Fans
+18,101,Jewelled Blades
+18,102,Silverwing Blades
+18,103,Twin Revolt
+18,104,Shikisokuzeku
+18,105,Frostpeak Blades
+18,106,Massacre Spine
+18,107,Shredclaw Ripper
+18,108,Flaming Pair
+18,109,Ebonblood Twindrakes
+18,110,Ultimus Celestials
+18,111,Lightbreak Twins
+18,112,Apptre/Sorciere
+18,113,Diablos Bashers
+18,114,Pink Maracas
+18,115,Giaprey Claws
+18,116,Blizzarioths
+18,117,Ignis Noire
+18,118,Verdant Slashers
+18,119,Unsolved Blades
+18,120,Tareache Lucatore
+18,121,That's All
+18,122,Luzo-Soulo
+18,123,Elder Dagger
+18,124,Thunderclap Works
+18,125,Light Sword Cypher
+19,0,(None)
+19,1,Petrified Horn
+19,2,Obsidian Horn
+19,3,Vadya Muse
+19,4,Seditious Warhorn
+19,5,Droth Drone
+19,6,Kut-Ku's Song
+19,7,Poisoned Capri
+19,8,Larinoth Ocarina
+19,9,Iron Horn
+19,10,Agnakdion
+19,11,Valkyrie Chordmaker
+19,12,Gold Chordmaker
+19,13,Metal Bagpipe
+19,14,Heavy Bagpipe
+19,15,Lagia Horn
+19,16,Hidden Harmonic
+19,17,Poli'ahu Pipe
+19,18,Type 63 Warmonica
+19,19,Sonic Glass
+19,20,Bone Horn
+19,21,Hunter's Horn
+19,22,Dios Bell
+19,23,Demolition Chime
+19,24,Danger Call
+19,25,Hazardous Call
+19,26,Velociprey Balloon
+19,27,Velocidrome Balloon
+19,28,Giaprey Balloon
+19,29,Khezu Horn
+19,30,Bull Grunt
+19,31,Zurogong Primo
+19,32,Kecha Whappa
+19,33,Kecha Thumpa
+19,34,Striped Dragonga
+19,35,Brazengaita
+19,36,Demon Block
+19,37,Mountain Crusher
+19,38,Shell Castanet
+19,39,Vicello Nulo
+19,40,Vicello Nulo (G)
+19,41,Vicello Nulo (R)
+19,42,Vicello Nulo (W)
+19,43,Usurper's Growl
+19,44,Fool's Harp
+19,45,Lava Alphorn
+19,46,Raven Shamisen
+19,47,Vile Shamisen
+19,48,Dodotto Horn
+19,49,Emerald Flap
+19,50,Giant's Koto
+19,51,Poetic Bell
+19,52,Hell Horn
+19,53,Kummerklang
+19,54,La Sépulture
+19,55,Blessed Ocarina
+19,56,Teostra's Tiple
+19,57,Denden Daiko
+19,58,Skeletal Melody
+19,59,Polaris Wraith
+19,60,Akantor Horn
+19,61,Ukanlos Horned Flute
+19,62,Autumn Lute
+19,63,Worn Horn
+19,64,Avenir's Music Box
+19,65,Daora's Taus
+19,66,Black Lute
+19,67,Yukumo Flute
+19,68,Yukumo Pureflute
+19,69,Bherna Chime
+19,70,Airship Horn
+19,71,Handmade Frog
+19,72,Magia Charm
+19,73,Swell Shell
+19,74,Azumand Wind
+19,75,Poison Fungasax
+19,76,Cornupion
+19,77,Crimson Horn
+19,78,Royal Horn
+19,79,Pierce Horn
+19,80,Nightfall Horn
+19,81,Geode Horn
+19,82,Hardened Horn
+19,83,Tomb Horn
+19,84,Raiden Horn
+19,85,Seize Horn
+19,86,Magma Horn
+19,87,Blitz Works
+19,88,Tama Frypan
+19,89,Megaphone
+19,90,Jewelled Horn
+19,91,Silverwing Horn
+19,92,Zephyr Flap
+19,93,Senri Ketsugen
+19,94,Frostpeak Chord
+19,95,Shredclaw Horn
+19,96,Wolverion
+19,97,Vulcan Lied
+19,98,Fatalis Ancient Lied
+19,99,Lightbreak Timbre
+19,100,Rugueux/Cri
+19,101,Basarios Rock
+19,102,Volcanic Rock
+19,103,War Bongo
+19,104,Bariguiro
+19,105,Sandpipe
+19,106,Sandsinger
+19,107,War Drum
+19,108,Glass Royale
+19,109,Mosca Commemorative
+19,110,Unsolved Horn
+19,111,Elder Horn
+20,0,(None)
+20,1,Petrified Rod
+20,2,Obsidian Rod
+20,3,Kut-Ku Pike
+20,4,Royal Bloom
+20,5,Fader Rod
+20,6,Altair
+20,7,Seditious Breaker
+20,8,Hidden Scythe
+20,9,Bolt Chamber
+20,10,Iron Bayonet
+20,11,Arcane Strike
+20,12,Azure Bayonet
+20,13,Heaven's Rath Glaive
+20,14,Crimson Fury
+20,15,Sand Anchor
+20,16,Fin Harpoon
+20,17,Neve Rod
+20,18,Bone Staff
+20,19,Sky-high Glaive
+20,20,Mind Stick
+20,21,Sturdy Glaive
+20,22,Flaming Halberd
+20,23,Deep Blue Glaive
+20,24,Dios Rod
+20,25,Demolition Press
+20,26,Needle Ivy
+20,27,Wardance Cudgel
+20,28,Rage Cudgel
+20,29,Shell Intoner
+20,30,Hortadent
+20,31,Sect Happa
+20,32,Trim Happa
+20,33,Astalos Cudgel
+20,34,Giant's Cudgel
+20,35,Fox Halberd
+20,36,Flaming Teuza
+20,37,Leumundslist
+20,38,Le Traqueur
+20,39,Daora's Entom
+20,40,Caster's Rod
+20,41,Indigo Flash
+20,42,Metal Mauler
+20,43,Demonlord Cudgel
+20,44,Skeletal Cudgel
+20,45,Polaris Zimbal
+20,46,Ukanlos Staff
+20,47,Alatreon Dragonspire
+20,48,Black Rod
+20,49,Push Broom
+20,50,Magia Pitareen
+20,51,Garia Club
+20,52,Acorn Rod
+20,53,Deathport Staff
+20,54,Stonefist Caster
+20,55,Nightfall Scythe
+20,56,Grobo Blow
+20,57,Ashen Teuza
+20,58,Conviction Glaive J
+20,59,Aladdin's Wand
+20,60,Spear of the Beast
+20,61,Jewelled Glaive
+20,62,Silverwing Glaive
+20,63,Zephyr Extreme
+20,64,Shunshu Shushi
+20,65,Frostpeak Club
+20,66,Massacre Rod
+20,67,Shredclaw Rod
+20,68,True Fatalis Providence
+20,69,Fatalis Rod
+20,70,Fatalis Soldier
+20,71,Lightbreak Press
+20,72,List/Confiance
+20,73,Graviafaren
+20,74,Diablos Rod
+20,75,Stealth Glaive
+20,76,Assault Glaive
+20,77,Misery Cloud
+20,78,Blossomajesty
+20,79,Boltbrute
+20,80,Unsolved Rod
+20,81,Eldra Glaive
+20,82,Elder Rod
+21,0,(None)
+21,1,Petrified Strongarm
+21,2,Obsidian Strongarm
+21,3,Lava's Veil
+21,4,Dios Strongarm
+21,5,Demolition Blade
+21,6,Type 31 Wyvernslayer
+21,7,Poison Blade
+21,8,Elite Blade
+21,9,Guardsqual
+21,10,Serrated Glace
+21,11,Blackguard
+21,12,Sentinel Blade
+21,13,K. Captain's Blade
+21,14,Tigrex Divide
+21,15,Dear Lutemis
+21,16,Luna Eostre
+21,17,Rogue Axe
+21,18,Horror Zofar
+21,19,Snowy Veil
+21,20,Bone Blade
+21,21,Poisonous Veil
+21,22,Axelion Blade
+21,23,Hellsire Blade
+21,24,Lagia Storm
+21,25,Guardian Blade
+21,26,Schildsect
+21,27,Dominisect
+21,28,Desertfall
+21,29,Aslat Charger
+21,30,Seditious Blade
+21,31,Axela Blade
+21,32,Giant's Edge
+21,33,Mizuniya Drill
+21,34,Scorching Demander
+21,35,Elendskraft
+21,36,L'Oppresseur
+21,37,Daora's Casca
+21,38,Demonlord Blade
+21,39,Wicked Edge
+21,40,Gant Blade
+21,41,Akantor C. Blade
+21,42,Altostratus Blade
+21,43,Worn C. Blade
+21,44,Chrono Gear
+21,45,Teostra's Striker
+21,46,Black Strongarm
+21,47,Pizzaxe
+21,48,Hero Strongarm
+21,49,Vaik Veil
+21,50,Mandible Blade
+21,51,Cuddly Cat
+21,52,Chameleos C. Blade
+21,53,Dear Regina
+21,54,Dreaded Blade
+21,55,Rudra Divide
+21,56,Ashen Demander
+21,57,Charge Fox
+21,58,Legendary Anchor J
+21,59,Starlight Axe
+21,60,Jewelled Guard
+21,61,Silverwing C.Blade
+21,62,Zephyr Volt
+21,63,Koinryusui
+21,64,Frostpeak Guard
+21,65,Massacre Arms
+21,66,Shredclaw C.Blade
+21,67,Wolversofer
+21,68,Vermillion Veil
+21,69,Ruiner Reaver
+21,70,Fatalis Mien
+21,71,Lightbreak C. Blade
+21,72,Elends/Essor
+21,73,Diablos Strongarm
+21,74,Barroth Guard
+21,75,Arachnoscale
+21,76,Alatreon C.Blade
+21,77,Blossomauler
+21,78,Unsolved C.Blade
+21,79,Penyoax
+21,80,Elder Arms
