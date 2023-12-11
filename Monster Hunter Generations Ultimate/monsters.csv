@@ -1,138 +1,138 @@
-ID,Monster,Silver Size,Gold Size,Small Size
-0,Rathian,115,123,90
-1,Gold Rathian,117,123,97
-2,Dreadqueen Rathian,105,109,96
-3,Rathalos,115,123,90
-4,Silver Rathalos,117,123,97
-5,Dreadking Rathalos,105,109,96
-6,Khezu,115,123,90
-7,Yian Kut-Ku,115,123,90
-8,Gypceros,115,123,90
-9,Plesioth,115,123,90
-10,Kirin,117,123,90
-11,Velocidrome,115,123,90
-12,Gendrome,115,123,90
-13,Iodrome,115,123,90
-14,Cephadrome,115,123,90
-15,Yian Garuga,115,123,90
-16,Deadeye Yian Garuga,117,123,97
-17,Daimyo Hermitaur,115,123,90
-18,Stonefist Hermitaur,114,119,97
-19,Shogun Ceanataur,115,123,90
-20,Blangonga,115,123,90
-21,Rajang,117,123,90
-22,Furious Rajang,117,123,90
-23,Kushala Daora,117,123,90
-24,Chameleos,117,123,90
-25,Teostra,117,123,90
-26,Bulldrome,115,123,90
-27,Tigrex,115,123,90
-28,Grimclaw Tigrex,105,109,96
-29,Akantor,115,123,90
-30,Lavasioth,115,123,90
-31,Nargacuga,115,123,90
-32,Silverwind Nargacuga,117,123,97
-33,Ukanlos,115,123,90
-34,Deviljho,120,128,90
-35,Savage Deviljho,120,128,90
-36,Uragaan,115,123,90
-37,Crystalbeard Uragaan,105,109,96
-38,Lagiacrus,115,123,90
-39,Royal Ludroth,115,123,90
-40,Agnaktor,115,123,90
-41,Alatreon,115,123,90
-42,Duramboros,115,123,90
-43,Nibelsnarf,115,123,90
-44,Zinogre,115,123,90
-45,Thunderlord Zinogre,117,123,97
-46,Amatsu,115,123,90
-47,Arzuros,115,123,90
-48,Redhelm Arzuros,105,109,96
-49,Lagombi,115,123,90
-50,Snowbaron Lagombi,117,123,97
-51,Volvidon,115,123,90
-52,Brachydios,115,123,90
-53,Kecha Wacha,115,123,90
-54,Tetsucabra,115,123,90
-55,Drilltusk Tetsucabra,105,109,96
-56,Zamtrios,115,123,90
-57,Najarala,115,123,90
-58,Seltas Queen,115,123,90
-59,Gore Magala,115,123,90
-60,Shagaru Magala,117,123,90
-61,Seltas,115,123,90
-62,Seregios,115,123,90
-63,Malfestio,115,123,90
-64,Glavenus,115,123,90
-65,Hellblade Glavenus,114,119,97
-66,Astalos,115,123,90
-67,Mizutsune,115,123,90
-68,Gammoth,115,123,90
-69,Nakarkos,115,123,90
-70,Great Maccao,115,123,90
-71,Aptonoth,,,
-72,Apceros,,,
-73,Kelbi,,,
-74,Mosswine,,,
-75,Hornetaur,,,
-76,Vespoid,,,
-77,Felyne,,,
-78,Melynx,,,
-79,Velociprey,,,
-80,Genprey,,,
-81,Ioprey,,,
-82,Cephalos,,,
-83,Bullfango,,,
-84,Popo,,,
-85,Giaprey,,,
-86,Anteka,,,
-87,Remobra,,,
-88,Hermitaur,,,
-89,Ceanataur,,,
-90,Blango,,,
-91,Rhenoplos,,,
-92,Bnahabra,,,
-93,Altaroth,,,
-94,Jaggi,,,
-95,Jaggia,,,
-96,Ludroth,,,
-97,Uroktor,,,
-98,Slagtoth,,,
-99,Gargwa,,,
-100,Zamite,,,
-101,Konchu,,,
-102,Maccao,,,
-103,Larinoth,,,
-104,Moofah,,,
-105,,,,
-106,,,,
-107,,,,
-108,,,,
-109,,,,
-110,,,,
-111,,,,
-112,Basarios,115,123,90
-113,Gravios,115,123,90
-114,Diablos,115,123,90
-115,Bloodbath Diablos,110,114,96
-116,Lao-Shan Lung,115,123,90
-117,Fatalis,115,123,90
-118,Crimson Fatalis,115,123,90
-119,White Fatalis,115,123,90
-120,Rustrazor Ceanataur,110,114,96
-121,Congalala,115,123,90
-122,Giadrome,115,123,90
-123,Barioth,115,123,90
-124,Barroth,115,123,90
-125,Raging Brachydios,115,123,90
-126,Nerscylla,115,123,90
-127,Chaotic Gore Magala,115,123,90
-128,Nightcloak Malfestio,117,123,97
-129,Boltreaver Astalos,105,109,96
-130,Soulseer Mizutsune,110,114,97
-131,Elderfrost Gammoth,110,114,97
-132,Valstrax,112,118,90
-133,,,,
-134,Ahtal-Ka,115,123,90
-135,Great Thunderbug,,,
-136,Conga,,,
+ID,Monster
+0,Rathian
+1,Gold Rathian
+2,Dreadqueen Rathian
+3,Rathalos
+4,Silver Rathalos
+5,Dreadking Rathalos
+6,Khezu
+7,Yian Kut-Ku
+8,Gypceros
+9,Plesioth
+10,Kirin
+11,Velocidrome
+12,Gendrome
+13,Iodrome
+14,Cephadrome
+15,Yian Garuga
+16,Deadeye Yian Garuga
+17,Daimyo Hermitaur
+18,Stonefist Hermitaur
+19,Shogun Ceanataur
+20,Blangonga
+21,Rajang
+22,Furious Rajang
+23,Kushala Daora
+24,Chameleos
+25,Teostra
+26,Bulldrome
+27,Tigrex
+28,Grimclaw Tigrex
+29,Akantor
+30,Lavasioth
+31,Nargacuga
+32,Silverwind Nargacuga
+33,Ukanlos
+34,Deviljho
+35,Savage Deviljho
+36,Uragaan
+37,Crystalbeard Uragaan
+38,Lagiacrus
+39,Royal Ludroth
+40,Agnaktor
+41,Alatreon
+42,Duramboros
+43,Nibelsnarf
+44,Zinogre
+45,Thunderlord Zinogre
+46,Amatsu
+47,Arzuros
+48,Redhelm Arzuros
+49,Lagombi
+50,Snowbaron Lagombi
+51,Volvidon
+52,Brachydios
+53,Kecha Wacha
+54,Tetsucabra
+55,Drilltusk Tetsucabra
+56,Zamtrios
+57,Najarala
+58,Seltas Queen
+59,Gore Magala
+60,Shagaru Magala
+61,Seltas
+62,Seregios
+63,Malfestio
+64,Glavenus
+65,Hellblade Glavenus
+66,Astalos
+67,Mizutsune
+68,Gammoth
+69,Nakarkos
+70,Great Maccao
+71,Aptonoth
+72,Apceros
+73,Kelbi
+74,Mosswine
+75,Hornetaur
+76,Vespoid
+77,Felyne
+78,Melynx
+79,Velociprey
+80,Genprey
+81,Ioprey
+82,Cephalos
+83,Bullfango
+84,Popo
+85,Giaprey
+86,Anteka
+87,Remobra
+88,Hermitaur
+89,Ceanataur
+90,Blango
+91,Rhenoplos
+92,Bnahabra
+93,Altaroth
+94,Jaggi
+95,Jaggia
+96,Ludroth
+97,Uroktor
+98,Slagtoth
+99,Gargwa
+100,Zamite
+101,Konchu
+102,Maccao
+103,Larinoth
+104,Moofah
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,Basarios
+113,Gravios
+114,Diablos
+115,Bloodbath Diablos
+116,Lao-Shan Lung
+117,Fatalis
+118,Crimson Fatalis
+119,White Fatalis
+120,Rustrazor Ceanataur
+121,Congalala
+122,Giadrome
+123,Barioth
+124,Barroth
+125,Raging Brachydios
+126,Nerscylla
+127,Chaotic Gore Magala
+128,Nightcloak Malfestio
+129,Boltreaver Astalos
+130,Soulseer Mizutsune
+131,Elderfrost Gammoth
+132,Valstrax
+133,
+134,Ahtal-Ka
+135,Great Thunderbug
+136,Conga

@@ -1,0 +1,1564 @@
+Type,ID,Name
+1,0,(None)
+1,1,F Bone Wedge
+1,2,F Bherna Staff
+1,3,F Iron Sword
+1,4,F Bone Hammer
+1,5,F Jaggi Knife
+1,6,F Hunting Knife
+1,7,F Yukumo Bokken
+1,8,F Wood Chopper
+1,9,F Paw Punch
+1,10,F Alta Net
+1,11,F Rheno Hammer
+1,12,F Bnaha Dagger
+1,13,F Maccao Dagger
+1,14,F Vprey Bayonet
+1,15,F Bulldrome Tusk
+1,16,F Arzuros Mace
+1,17,F Genprey Bayonet
+1,18,F Cephalos Brush
+1,19,F Machalite Wedge
+1,20,F Giant Acorn
+1,21,F Stone Cat Statue
+1,22,F Venombee Bat
+1,23,F Gourmet Cheese
+1,24,F Moofah Cotton
+1,25,F Aptonoth Meat
+1,26,F Fish Stick
+1,27,F Grilled Hammer
+1,28,F Ioprey Bayonet
+1,29,F Lagombi Staff
+1,30,F Kut-Ku Cutter
+1,31,F Gypceros Glare
+1,32,F Cabra Pounder
+1,33,F Daimyo Shears
+1,34,F Ludroth Paw
+1,35,F Khezu Whaccine
+1,36,F Nibel Blammer
+1,37,F Quest Book
+1,38,F Vprey Wedge
+1,39,F Barrel Basher
+1,40,F Derring Lance
+1,41,F Edel Rod
+1,42,F Mosgharl Broom
+1,43,F Bushwhacker
+1,44,F Death Stench Scythe
+1,45,F Marauder Blade
+1,46,F Marauder Gavel
+1,47,F Volvi Lantern
+1,48,F Jester Parasol
+1,49,F Rathian Rapier
+1,50,F Blango Spear
+1,51,F Ceanataur Cutter
+1,52,F Naja Pungi
+1,53,F Narga Shuriken
+1,54,F Kokoto Beer
+1,55,F Pokke Mop
+1,56,F Yukumo Fan
+1,57,F Shroom Rod
+1,58,F Eldora Paw
+1,59,F Garuga Fan
+1,60,F Uragaan Iron
+1,61,F Rathalos Blade
+1,62,F Lagia Anchor
+1,63,F Astalos Spear
+1,64,F Enormews Staff
+1,65,F Mizutsune Parasol
+1,66,F Guild Rapier
+1,67,F Moofy Plush
+1,68,F Scorching Blade
+1,69,F Mewsurper's Peal
+1,70,F Katzenlampe
+1,71,F Seregios Edge
+1,72,F Tigrex Whammer
+1,73,F Kirin Rumblezap
+1,74,F Brachy Punch
+1,75,F Le Cœur de Chat
+1,76,F Kushala Wand
+1,77,F Genie Breath
+1,78,F Kaiser Mace
+1,79,F White Felyne Husk
+1,80,F Bone Wedge S
+1,81,F Bherna Staff S
+1,82,F Hunting Knife S
+1,83,F Yukumo Bonito
+1,84,F Carbalite Wedge
+1,85,F Giant Acorn S
+1,86,F Vprey Wedge S
+1,87,F Barrel Basher S
+1,88,F Gourmet Cheese S
+1,89,F Moofah Cotton S
+1,90,F Barbecue
+1,91,F Fish Stick S
+1,92,F Fingerlicker
+1,93,F Bushwhacker S
+1,94,F Paw Punch S
+1,95,F Carbalite Sword
+1,96,F Bone Hammer S
+1,97,F Alta Net S
+1,98,F Bnaha Dagger S
+1,99,F Jaggi Knife S
+1,100,F Rheno Hammer S
+1,101,F Slagtoth Leaf
+1,102,F Maccao Dagger S
+1,103,F Vprey Bayonet S
+1,104,F Bulldrome Tusk S
+1,105,F Arzuros Mace S
+1,106,F Genprey Bayonet S
+1,107,F Lagombi Staff S
+1,108,F Cephalos Brush S
+1,109,F Kut-Ku Cutter S
+1,110,F Gypceros Glare S
+1,111,F Cabra Pounder S
+1,112,F Daimyo Shears S
+1,113,F Ludroth Paw S
+1,114,F Kecha Harrow
+1,115,F Bell Rod
+1,116,F Gargouille Waltz
+1,117,F Venombee Bat S
+1,118,F Mosgharl Broom S
+1,119,F Meowtetsuken
+1,120,F Pounderpurr
+1,121,F Ioprey Bayonet S
+1,122,F Volvi Lantern S
+1,123,F Khezu Whaccine S
+1,124,F Nibel Blammer S
+1,125,F Slumbering Duke
+1,126,F Queen Rapier
+1,127,F Blango Spear S
+1,128,F Ceanataur Cutter S
+1,129,F Naja Pungi S
+1,130,F Narga Shuriken S
+1,131,F Garuga Fan S
+1,132,F Uragaan Iron S
+1,133,F Zamtrios Paw
+1,134,F Plesioth Board
+1,135,F Lava Mace
+1,136,F Edel Rod S
+1,137,F Lulling Moofy Plush
+1,138,F Wood Chopper S
+1,139,F Kut-Ku Cackle
+1,140,F Bulldrome Rrrush
+1,141,F Mighty Shroom Rod
+1,142,F D. Stench Scythe S
+1,143,F Lost Catspaw Staff
+1,144,F Lagia Anchor S
+1,145,F Scorched Whiskers
+1,146,F Lightning Spear
+1,147,F Ginormews Staff
+1,148,F Crimson Parasol
+1,149,F Blazing Blade
+1,150,F Mewsurper's Roar
+1,151,F Katzenfunzel
+1,152,F Tigrex Whammer S
+1,153,F Seltas Drill
+1,154,F Agnaktor Lance
+1,155,F Duram Axe
+1,156,F Kirin Bolt
+1,157,F Golden Gadget
+1,158,F Vangis Mace
+1,159,F Kut-Ku Cutter R
+1,160,F Kecha Harrow R
+1,161,F Gypceros Ankh R
+1,162,F Cabra Pounder R
+1,163,F Daimyo Shears R
+1,164,F Ludroth Paw R
+1,165,F Jester Parasol R
+1,166,F Zamtrios Paw R
+1,167,F Khezu Whaccine R
+1,168,F Rathian Rapier R
+1,169,F Nibel Blammer R
+1,170,F Plesioth Board R
+1,171,F Blango Spear R
+1,172,F Quest Book S
+1,173,F Kokoto Beer S
+1,174,F Pokke Mop S
+1,175,F Yukumo Fan S
+1,176,F Guildcalibur
+1,177,F Dragon Evertones
+1,178,F Barrel Mallet
+1,179,F Dirty Blade
+1,180,F Meowsketeer Rapier
+1,181,F Master's Blade
+1,182,F Derring Lance S
+1,183,F Seregios Edge S
+1,184,F Brachy Wallop
+1,185,F Le Chatphrodite
+1,186,F White Felyne Staff
+1,187,F Polaris Sword
+1,188,F Lava Mace R
+1,189,F Ceanataur Cutter R
+1,190,F Narga Shuriken R
+1,191,F Naja Pungi R
+1,192,F Garuga Fan R
+1,193,F Uragaan Iron R
+1,194,F Seltas Drill R
+1,195,F Rathalos Blade R
+1,196,F Lagia Anchor R
+1,197,F Mewsurper's Peal R
+1,198,F Kushala Wand S
+1,199,F Genie Breath S
+1,200,F Kaiser Mace S
+1,201,F Akantor Sword
+1,202,F Ukanlos Shovel
+1,203,F Cursed Cloud
+1,204,F Escador Scythe
+1,205,F Mizutsune Parasol R
+1,206,F Astalos Spear R
+1,207,F Enormews Staff R
+1,208,F Scorching Blade R
+1,209,F Agnaktor Lance R
+1,210,F Katzenlampe R
+1,211,F Seregios Edge R
+1,212,F Duram Axe R
+1,213,F Tigrex Whammer R
+1,214,F Brachy Punch R
+1,215,F Golden Gadget R
+1,216,F Deviljho Mace R
+1,217,F Strange Hammer
+1,218,F Strange Hammer S
+1,219,F Redhelm Mace
+1,220,F Redhelm Mace S
+1,221,F Snowbaron Stick
+1,222,F Snowbaron Stick S
+1,223,F Stonefist Shears
+1,224,F Stonefist Shears S
+1,225,F Dreadqueen Rapier
+1,226,F Dreadqueen Rapier S
+1,227,F Drilltusk Pounder
+1,228,F Drilltusk Pounder S
+1,229,F Silverwind Star
+1,230,F Silverwind Star S
+1,231,F Crystalbeard Iron
+1,232,F Crystalbeard Iron S
+1,233,F Deadeye Fan
+1,234,F Deadeye Fan S
+1,235,F Dreadking Blade
+1,236,F Dreadking Blade S
+1,237,F Thunderlord's Peal
+1,238,F Thunderlord's Roar
+1,239,F Grimclaw Whammer
+1,240,F Grimclaw Whammer S
+1,241,F Blazing Ashes
+1,242,F Ashen Whiskers
+1,243,F Zombie-kun Gut
+1,244,F Fairy Tail Blade
+1,245,F Treasure Chalice J
+1,246,F Pirate Key J
+1,247,F Legendary Glass J
+1,248,F Greedy Hook J
+1,249,F Rolled-up Paper
+1,250,F Monqlo Ball
+1,251,F Meowstar Gunbai
+1,252,F Spirits Sword
+1,253,F Midousuji Bike
+1,254,F Zombie-kun Stomach
+1,255,F Grandpaw Danger
+1,256,F True Fairy Tail Blade
+1,257,F Dark Meowgic Staff
+1,258,F Booty Chalice J
+1,259,F Buccaneer Key J
+1,260,F King Scope J
+1,261,F Avaricious Hook J
+1,262,F Tightly-rolled Paper
+1,263,F Monqlo Ball S
+1,264,F Supreme Gunbai
+1,265,F Star World
+1,266,F Magical Baton
+1,267,F Kirimi Stick
+1,268,F Nyankyrie Weapon
+1,269,F Wind Waker
+1,270,F Blaster
+1,271,F Invincible Hammer
+1,272,F Sentry's Pickaxe
+1,273,F Minder's Binder
+1,274,F Sword of Purrity
+1,275,F Chun Bracelets
+1,276,F Blanka Fish
+1,277,F Alastor
+1,278,F Rushing Hammer
+1,279,F Melodic Baton
+1,280,F Spirits Sword S
+1,281,F Fan Megaphone
+1,282,F Tenderpaw Clog
+1,283,F Giaprey Bayonet
+1,284,F Conga Cymbal
+1,285,F Barroth Mace
+1,286,F Unsolved Glasses
+1,287,F Basarios Axe
+1,288,F Scylla Wedge
+1,289,F Barioth Knife
+1,290,F Gravios Bazooka
+1,291,F Diablos Hammer
+1,292,F Silverwing Sword
+1,293,F Bone Wedge X
+1,294,F Bherna Staff X
+1,295,F Eltalite Wedge
+1,296,F Giant Acorn X
+1,297,F Vprey Wedge X
+1,298,F Barrel Basher X
+1,299,F Gourmet Cheese X
+1,300,F Moofah Cotton X
+1,301,F Deluxe Barbecue
+1,302,F Fish Stick X
+1,303,F Manchu Feast
+1,304,F Bushwhacker X
+1,305,F Paw Punch X
+1,306,F Etalite Sword
+1,307,F Bone Hammer X
+1,308,F Alta Net X
+1,309,F Bnaha Dagger X
+1,310,F Jaggi Knife X
+1,311,F Rheno Hammer X
+1,312,F Slagtoth Leaf X
+1,313,F Maccao Dagger X
+1,314,F Vprey Bayonet X
+1,315,F Bulldrome Tusk X
+1,316,F Arzuros Mace X
+1,317,F Giaprey Bayonet X
+1,318,F Genprey Bayonet X
+1,319,F Lagombi Staff X
+1,320,F Cephalos Brush X
+1,321,F Kut-Ku Cutter X
+1,322,F Gypceros Glare X
+1,323,F Cabra Pounder X
+1,324,F Daimyo Shears X
+1,325,F Ludroth Paw X
+1,326,F Kecha Harrow X
+1,327,F Kokoto Beer X
+1,328,F Yukumo Fan X
+1,329,F Bell Rod X
+1,330,F Kut-Ku Cackler
+1,331,F Bulldrome Rrrusher
+1,332,F Behemoth Samba
+1,333,F Venombee Bat X
+1,334,F Mosgharl Broom X
+1,335,F Meowkotetsu
+1,336,F Marauder Mallet
+1,337,F Wyverian Loupe
+1,338,F Ioprey Bayonet X
+1,339,F Volvi Lantern X
+1,340,F Basarios Axe X
+1,341,F Conga Cymbal X
+1,342,F Barroth Mace X
+1,343,F Khezu Whaccine X
+1,344,F Nibel Blammer X
+1,345,F Slumbering Archduke
+1,346,F Clarify Rapier
+1,347,F Blango Spear X
+1,348,F Ceanataur Cutter X
+1,349,F Scylla Wedge X
+1,350,F Naja Pungi X
+1,351,F Narga Shuriken X
+1,352,F Zamtrios Paw X
+1,353,F Plesioth Board X
+1,354,F Kut-Ku Cutter XR
+1,355,F Kecha Harrow XR
+1,356,F Gypceros Ankh XR
+1,357,F Cabra Pounder XR
+1,358,F Daimyo Shears XR
+1,359,F Ludroth Paw XR
+1,360,F Quest Book X
+1,361,F Derring Lance X
+1,362,F Barrel Maul
+1,363,F ZZZ... Moofy Plush
+1,364,F Wood Chopper X
+1,365,F Nyacetism  Rod
+1,366,F D. Stench Scythe X
+1,367,F Prized Paw
+1,368,F Asleep Moofy Plush
+1,369,F Garuga Fan X
+1,370,F Uragaan Iron X
+1,371,F Lava Mace X
+1,372,F Lagia Anchor X
+1,373,F Scorched Nyarnova
+1,374,F Lightning Javelin
+1,375,F Ginormews Staff MAX
+1,376,F Scarlet Parasol
+1,377,F Barioth Knife X
+1,378,F Inferno Blade
+1,379,F Mewsurper's Howl
+1,380,F Gravios Bazooka X
+1,381,F Katzenlaterne
+1,382,F Tigrex Whammer X
+1,383,F Seltas Drill X
+1,384,F Kirin Thundercrack
+1,385,F Dragon Naginata
+1,386,F Basarios Axe XR
+1,387,F Conga Cymbal XR
+1,388,F Barroth Mace XR
+1,389,F Khezu Whaccine XR
+1,390,F Nibel Blammer XR
+1,391,F Jester Parasol XR
+1,392,F Rathian Rapier XR
+1,393,F Blango Spear XR
+1,394,F Ceanataur Cutter XR
+1,395,F Scylla Wedge XR
+1,396,F Naja Pungi XR
+1,397,F Narga Shuriken XR
+1,398,F Zamtrios Paw XR
+1,399,F Plesioth Board XR
+1,400,F Guildcalibur X
+1,401,F Brilliant D.tones
+1,402,F Pro Dirty Blade
+1,403,F Meowsketeer Blade
+1,404,F Legend Blade
+1,405,F Sherche Fan
+1,406,F Amore Nyago
+1,407,F Agnaktor Lance X
+1,408,F Duram Axe X
+1,409,F Seregios Edge X
+1,410,F Diablos Hammer X
+1,411,F Brachy Gigapunch
+1,412,F Le Nyaphrodite
+1,413,F Dragonstar Sword
+1,414,F Golden Gadget X
+1,415,F Vangis Mace X
+1,416,F Tuna/Chicken
+1,417,F Kushala Wand X
+1,418,F Genie Breath X
+1,419,F Kaiser Mace X
+1,420,F White Felyne Cane
+1,421,F Polaris Nailsword
+1,422,F Inscripted Wand
+1,423,F Garuga Fan XR
+1,424,F Uragaan Iron XR
+1,425,F Lava Mace XR
+1,426,F Lagia Anchor XR
+1,427,F Scorching Blade XR
+1,428,F Astalos Spear XR
+1,429,F Enormews Staff XR
+1,430,F Mizutsune Parasol XR
+1,431,F Barioth Knife XR
+1,432,F Rathalos Blade XR
+1,433,F Mewsurper's Peal XR
+1,434,F Gravios Bazooka XR
+1,435,F Katzenlampe XR
+1,436,F Tigrex Whammer XR
+1,437,F Seltas Drill R
+1,438,F Hunting Knife X
+1,439,F Yukumo H.Bonito
+1,440,F Pokke Mop X
+1,441,F Edel Rod X
+1,442,F Akantor Sword X
+1,443,F Ukanlos Shovel X
+1,444,F Cosmos Blade
+1,445,F Escador Scythe X
+1,446,F Black Dragon Eye
+1,447,F Annihilation Eye
+1,448,F Fatalis Rod
+1,449,F Agnaktor Lance XR
+1,450,F Duram Axe XR
+1,451,F Seregios Edge XR
+1,452,F Diablos Hammer XR
+1,453,F Brachy Punch XR
+1,454,F Golden Gadget XR
+1,455,F Deviljho Mace XR
+1,456,F Strange Hammer X
+1,457,F Strange Hammer XX
+1,458,F Redhelm Mace X
+1,459,F Redhelm Mace XX
+1,460,F Snowbaron Stick X
+1,461,F Snowbaron Stick XX
+1,462,F Stonefist Shears X
+1,463,F Stonefist Shears XX
+1,464,F Dreadqueen Rapier X
+1,465,F Dreadqueen Rapier XX
+1,466,F Drilltusk Pounder X
+1,467,F Drilltusk Pounder XX
+1,468,F Wolverasol
+1,469,F Dazzle Nyanbrella
+1,470,F Shredclaw Cutter
+1,471,F Shredclaw Scythe
+1,472,F Silverwind Star X
+1,473,F Silverwind Star XX
+1,474,F Crystalbeard Iron X
+1,475,F Crystalbeard Iron XX
+1,476,F Deadeye Fan X
+1,477,F Deadeye Fan XX
+1,478,F Dreadking Blade X
+1,479,F Dreadking Blade XX
+1,480,F Thunderlord Knife
+1,481,F Thunderlord Z.Knife
+1,482,F Grimclaw Whammer X
+1,483,F Grimclaw Whammer XX
+1,484,F Hellblade Nyari
+1,485,F Hellblade Nyarnova
+1,486,F Divinesight Parasol
+1,487,F Divinesight F.Parasol
+1,488,F Zephyr Spear
+1,489,F Zilvolt Spear
+1,490,F Silverpeak Staff
+1,491,F Silverpeak Smash
+1,492,F Massacre Hammer
+1,493,F Massacre Nyandis
+1,494,F Flame Naginata
+1,495,F C Moon Rod
+1,496,F Conquest Naginata
+1,497,F Tsumugari
+1,498,F Arthur's Lance
+1,499,F C Moon Rod S
+1,500,F Q.Bacon Skewer
+1,501,F Tsumugari X
+1,502,F Arthur's Lance X
+1,503,F C Moon Rod X
+1,504,F Q.Bacon Skewer X
+1,505,F Objection Panel
+1,506,F Spirits Pick
+1,507,F Korok Branch
+1,508,F Zenith Naginata
+2,0,(None)
+2,1,F Acorn Helm
+2,2,F Bherna Hood
+2,3,F Alloy Helm
+2,4,F Bone Helm
+2,5,F Jaggi Helm
+2,6,F Hunting Helm
+2,7,F Mafumofu Hood
+2,8,F Yukumo Kasa
+2,9,F Alta Hat
+2,10,F Rheno Helm
+2,11,F Bnaha Cap
+2,12,F Maccao Helm
+2,13,F Velociprey Helm
+2,14,F Bulldrome Mask
+2,15,F Arzuros Helm
+2,16,F Genprey Helm
+2,17,F Cephalos Hat
+2,18,F Stone Head
+2,19,F Venombee Cap
+2,20,F Gourmet Toque
+2,21,F Moofy Head
+2,22,F Aptonoth Mask
+2,23,F Popo Head
+2,24,F Gargwa Mask
+2,25,F Ioprey Helm
+2,26,F Lagombi Helm
+2,27,F Kut-Ku Mask
+2,28,F Gypceros Crest
+2,29,F Cabra Horn
+2,30,F Daimyo Mask
+2,31,F Ludroth Helm
+2,32,F Khezu Cap
+2,33,F Nibel Helm
+2,34,F Scholarly Cap
+2,35,F Derring Galea
+2,36,F Edel Pigtails
+2,37,F Kittendant Hood
+2,38,F Mosgharl Hat
+2,39,F Larinoth Mask
+2,40,F Death Stench Hood
+2,41,F Marauder Helm
+2,42,F Volvi Helm
+2,43,F Malfestio Mask
+2,44,F Rathian Helm
+2,45,F Blango Mask
+2,46,F Ceanataur Mask
+2,47,F Naja Turban
+2,48,F Narga Helm
+2,49,F Maiden Hood
+2,50,F Helper Hood
+2,51,F Pretty Toque
+2,52,F Chaos Bulbs
+2,53,F El Dora Helm
+2,54,F Artian Core
+2,55,F Garuga Hood
+2,56,F Uragaan Helm
+2,57,F Rathalos Helm
+2,58,F Lagia Tricorne
+2,59,F Astalos Mask
+2,60,F Gammoth Collar
+2,61,F Mizutsune Kasa
+2,62,F Guild Headgear
+2,63,F Glavenus Helm
+2,64,F Zinogre Helm
+2,65,F Gore Horror
+2,66,F Seregios Helm
+2,67,F Tigrex Helm
+2,68,F Kirin Horn
+2,69,F Brachy Headgear
+2,70,F Angel Halo
+2,71,F Kushala Glare
+2,72,F Genie Helm
+2,73,F Kaiser Periwig
+2,74,F Husk Mask
+2,75,F Acorn Helm S
+2,76,F Bherna Hood S
+2,77,F Hunting Helm S
+2,78,F Mafumofu Hood S
+2,79,F Yukumo Kasa S
+2,80,F Gourmet Toque S
+2,81,F Moofy Head S
+2,82,F Aptonoth Mask S
+2,83,F Popo Head S
+2,84,F Gargwa Mask S
+2,85,F Larinoth Mask S
+2,86,F Alloy Helm S
+2,87,F Bone Helm S
+2,88,F Alta Hat S
+2,89,F Bnaha Cap S
+2,90,F Jaggi Helm S
+2,91,F Rheno Helm S
+2,92,F Slagtoth Hood
+2,93,F Maccao Helm S
+2,94,F Velociprey Helm S
+2,95,F Bulldrome Mask S
+2,96,F Arzuros Helm S
+2,97,F Genprey Helm S
+2,98,F Lagombi Helm S
+2,99,F Cephalos Hat S
+2,100,F Kut-Ku Mask S
+2,101,F Gypceros Crest S
+2,102,F Cabra Horn S
+2,103,F Daimyo Mask S
+2,104,F Ludroth Helm S
+2,105,F Kecha Cap
+2,106,F Ladybug Cap
+2,107,F Lecturer's Hood
+2,108,F Guide's Hood
+2,109,F Sailor Hat
+2,110,F Stone King Head
+2,111,F Venombee Cap S
+2,112,F Mosgharl Hat S
+2,113,F Marauder Helm S
+2,114,F Ioprey Helm S
+2,115,F Volvi Helm S
+2,116,F Khezu Catnurse S
+2,117,F Nibel Helm S
+2,118,F Malfestio Mask S
+2,119,F Rathian Helm S
+2,120,F Blango Mask S
+2,121,F Ceanataur Mask S
+2,122,F Naja Turban S
+2,123,F Narga Helm S
+2,124,F Garuga Hood S
+2,125,F Uragaan Helm S
+2,126,F Zamtrios Helmet
+2,127,F Plesioth Cap
+2,128,F Lava Helm
+2,129,F Edel Pigtails S
+2,130,F Kittendant Hood S
+2,131,F Acorn Mask
+2,132,F Pincer Mask
+2,133,F Chaos Bulbs+
+2,134,F Death Stench Hood S
+2,135,F El Dora Helm S
+2,136,F Artian Core S
+2,137,F Lagia Triad S
+2,138,F Glavenus Helm S
+2,139,F Astalos Mask S
+2,140,F Gammoth Collar S
+2,141,F Mizutsune Kasa S
+2,142,F Rathalos Helm S
+2,143,F Zinogre Helm S
+2,144,F Gore Horror S
+2,145,F Tigrex Helm S
+2,146,F Seltas Head
+2,147,F Agnaktor Helm
+2,148,F Duram Helm
+2,149,F Kirin Horn S
+2,150,F Puppeteer Mask
+2,151,F Vangis Helm
+2,152,F Kut-Ku Mask R
+2,153,F Kecha Cap R
+2,154,F Gypceros Crest R
+2,155,F Cabra Horn R
+2,156,F Daimyo Mask R
+2,157,F Ludroth Helm R
+2,158,F Malfestio Mask R
+2,159,F Zamtrios Helmet R
+2,160,F Khezu Cap R
+2,161,F Rathian Helm R
+2,162,F Nibel Helm R
+2,163,F Plesioth Cap R
+2,164,F Blango Mask R
+2,165,F Scholarly Cap S
+2,166,F Maiden Hood S
+2,167,F Helper Hood S
+2,168,F Beautiful Toque
+2,169,F Ultimate Mask
+2,170,F Guild Headgear S
+2,171,F Soul Hairpiece
+2,172,F Transpurrter Kasa
+2,173,F Dirty Locks
+2,174,F D'Artanyan's Hat
+2,175,F Master's Helm
+2,176,F Derring Galea S
+2,177,F Seregios Helm S
+2,178,F Brachy Noggin S
+2,179,F Angel Aura S
+2,180,F Husk Mask S
+2,181,F Nakarkos Mask
+2,182,F Lava Helm R
+2,183,F Ceanataur Mask R
+2,184,F Narga Helm R
+2,185,F Naja Turban R
+2,186,F Garuga Hood R
+2,187,F Uragaan Helm R
+2,188,F Seltas Head R
+2,189,F Rathalos Helm R
+2,190,F Lagia Triad R
+2,191,F Zinogre Helm R
+2,192,
+2,193,F Kushala Glower S
+2,194,F Genie Helm S
+2,195,F Kaiser Crown
+2,196,F Akantor Visage
+2,197,F Ukanlos Visage
+2,198,F Majestic Crown
+2,199,F Escador Wisdom
+2,200,F Mizutsune Kasa R
+2,201,F Astalos Mask R
+2,202,F Gammoth Collar R
+2,203,F Glavenus Helm R
+2,204,F Agnaktor Helm R
+2,205,F Gore Horror R
+2,206,F Seregios Helm R
+2,207,F Duram Helm R
+2,208,F Tigrex Helm R
+2,209,F Brachy Head R
+2,210,F Puppeteer Mask R
+2,211,F Vangis Helm R
+2,212,F Strange Helm
+2,213,F Strange Helm S
+2,214,F Redhelm Helm
+2,215,F Redhelm Helm S
+2,216,F Snowbaron Helm
+2,217,F Snowbaron Helm S
+2,218,F Stonefist Mask
+2,219,F Stonefist Mask S
+2,220,F Dreadqueen Helm
+2,221,F Dreadqueen Helm S
+2,222,F Drilltusk Horn
+2,223,F Drilltusk Horn S
+2,224,F Silverwind Helm
+2,225,F Silverwind Helm S
+2,226,F Crystalbeard Helm
+2,227,F Crystalbeard Helm S
+2,228,F Deadeye Hood
+2,229,F Deadeye Hood S
+2,230,F Dreadking Helm
+2,231,F Dreadking Helm S
+2,232,F Thunderlord Helm
+2,233,F Thunderlord Helm S
+2,234,F Grimclaw Helm
+2,235,F Grimclaw Helm S
+2,236,F Hellblade Helm
+2,237,F Hellblade Helm S
+2,238,
+2,239,
+2,240,F Treasure Crown J
+2,241,F Pirate Bandanna J
+2,242,F Legendary Helm J
+2,243,F Greedy Skull J
+2,244,
+2,245,F Monqlo Cap
+2,246,F Meowstar Helm
+2,247,F Baby Tiga Hat
+2,248,F Spirits Helm
+2,249,F Postman Beret
+2,250,F Booyah Pompadour
+2,251,F Sohoku Helmet
+2,252,
+2,253,
+2,254,
+2,255,F Dark Meowgic Hood
+2,256,F Booty Crown J
+2,257,F Buccaneer Bandanna J
+2,258,F King Helm J
+2,259,F Avaricious Skull J
+2,260,
+2,261,F Monqlo Cap S
+2,262,F Supreme Helm
+2,263,F Star Hat
+2,264,F Magical Hat
+2,265,
+2,266,F Nyankyrie Head
+2,267,F Link Mask
+2,268,F Fox Mic
+2,269,F Mario Cap
+2,270,F Luigi Cap
+2,271,
+2,272,
+2,273,F Helm of Purrity
+2,274,F Chun Chignon
+2,275,
+2,276,F Dante Wig
+2,277,F Mega Helmet
+2,278,F Melodic Curls
+2,279,F Baby Tiga Hat S
+2,280,F Sunsnug Mask
+2,281,F Spirits Helm S
+2,282,F Meowniac's Mask
+2,283,F Pep Squad Cap
+2,284,F Giaprey Helm
+2,285,F Conga Spike
+2,286,F Barroth Helm
+2,287,F Pretty Ribbon
+2,288,F Wisdom Hat
+2,289,F Basarios Helm
+2,290,F Scylla Mask
+2,291,F Cheerful Cap
+2,292,F Mariner Cap
+2,293,F Barioth Helm
+2,294,F Gravios Mask
+2,295,F Diablos Helm
+2,296,F Valfalk Helm
+2,297,F Acorn Helm X
+2,298,F Bherna Hood X
+2,299,F Gourmet Toque X
+2,300,F Moofy Head X
+2,301,F Aptonoth Mask X
+2,302,F Popo Head X
+2,303,F Gargwa Mask X
+2,304,F Larinoth Mask X
+2,305,
+2,306,F Alloy Helm X
+2,307,F Bone Helm X
+2,308,F Alta Hat X
+2,309,F Bnaha Cap X
+2,310,F Jaggi Helm X
+2,311,F Rheno Helm X
+2,312,F Slagtoth Hood X
+2,313,F Maccao Helm X
+2,314,F Velociprey Helm X
+2,315,F Bulldrome Mask X
+2,316,F Arzuros Helm X
+2,317,F Giaprey Helm X
+2,318,F Genprey Helm X
+2,319,F Lagombi Helm X
+2,320,F Cephalos Hat X
+2,321,F Kut-Ku Mask X
+2,322,F Gypceros Crest X
+2,323,F Cabra Horn X
+2,324,F Daimyo Mask X
+2,325,F Ludroth Helm X
+2,326,F Kecha Cap X
+2,327,F Maiden Hood X
+2,328,F Alluring Toque
+2,329,F Ladybug Cap X
+2,330,F Acorn Odd Mask
+2,331,F Pincer Odd Mask
+2,332,F Lecturer's Hood X
+2,333,F Stone Head
+2,334,F Venombee Cap X
+2,335,F Mosgharl Hat X
+2,336,F Marauder Helm X
+2,337,F Pretty Ribbon X
+2,338,F Wisdom Hat X
+2,339,F Postman Beret X
+2,340,F Ioprey Helm X
+2,341,F Volvi Helm X
+2,342,F Basarios Helm X
+2,343,F Conga Spike X
+2,344,F Barroth Helm X
+2,345,F Khezu Cap X
+2,346,F Nibel Helm X
+2,347,F Malfestio Mask X
+2,348,F Rathian Helm X
+2,349,F Blango Mask X
+2,350,F Ceanataur Mask X
+2,351,F Scylla Mask X
+2,352,F Naja Turban X
+2,353,F Narga Helm X
+2,354,F Zamtrios Helmet X
+2,355,F Plesioth Cap X
+2,356,F Kut-Ku Mask XR
+2,357,F Kecha Cap XR
+2,358,F Gypceros Crest XR
+2,359,F Cabra Horn XR
+2,360,F Daimyo Mask XR
+2,361,F Ludroth Helm XR
+2,362,F Scholarly Cap X
+2,363,F Kittendant Hood X
+2,364,F Derring Galea X
+2,365,F Transpurrter Kasa L
+2,366,F Absolute Mask
+2,367,F Guide's Hood X
+2,368,F Sailor Hat X
+2,369,F True Chaos Bulbs
+2,370,F Death Stench Hood X
+2,371,F El Dora Helm X
+2,372,F Artian Core X
+2,373,F Cheerful Cap X
+2,374,F Mariner Cap X
+2,375,F Cute Ribbon
+2,376,F Garuga Hood X
+2,377,F Uragaan Helm X
+2,378,F Lava Helm X
+2,379,F Lagia Triad X
+2,380,F Glavenus Helm X
+2,381,F Astalos Mask X
+2,382,F Gammoth Collar X
+2,383,F Mizutsune Kasa X
+2,384,F Barioth Helm X
+2,385,F Rathalos Helm X
+2,386,F Zinogre Helm X
+2,387,F Gravios Mask X
+2,388,F Gore Horror X
+2,389,F Tigrex Helm X
+2,390,F Seltas Head X
+2,391,F Kirin Horn X
+2,392,F Borealis Horn
+2,393,F Basarios Helm XR
+2,394,F Conga Spike XR
+2,395,F Barroth Helm XR
+2,396,F Khezu Cap XR
+2,397,F Nibel Helm XR
+2,398,F Malfestio Mask XR
+2,399,F Rathian Helm XR
+2,400,F Blango Mask XR
+2,401,F Ceanataur Mask XR
+2,402,F Scylla Mask XR
+2,403,F Naja Turban XR
+2,404,F Narga Helm XR
+2,405,F Zamtrios Helmet XR
+2,406,F Plesioth Cap XR
+2,407,F Guild Headgear X
+2,408,F Spirit Hairpiece
+2,409,F Pro Dirty Locks
+2,410,F D'Artanyan's Hi-Hat
+2,411,F Master's Helm X
+2,412,F Barmaid's Hat
+2,413,F Bartender's Glasses
+2,414,F Agnaktor Helm X
+2,415,F Duram Helm X
+2,416,F Seregios Helm X
+2,417,F Diablos Helm X
+2,418,F Brachy Head X
+2,419,F Angel Aura X
+2,420,F Valfalk Helm X
+2,421,F Puppeteer Mask+
+2,422,F Vangis Helm X
+2,423,F Chaos Hood
+2,424,F Kushala Glower X
+2,425,F Genie Helm X
+2,426,F Kaiser Crown X
+2,427,F Husk Mask X
+2,428,F Nakarkos Mask X
+2,429,F Neset Helm
+2,430,F Garuga Hood XR
+2,431,F Uragaan Helm XR
+2,432,F Lava Helm XR
+2,433,F Lagia Triad XR
+2,434,F Glavenus Helm XR
+2,435,F Astalos Mask XR
+2,436,F Gammoth Collar XR
+2,437,F Mizutsune Kasa XR
+2,438,F Barioth Helm XR
+2,439,F Rathalos Helm XR
+2,440,F Zinogre Helm XR
+2,441,F Gravios Mask XR
+2,442,F Gore Horror XR
+2,443,F Tigrex Helm XR
+2,444,F Seltas Head XR
+2,445,F Hunting Helm X
+2,446,F Mafumofu Hood X
+2,447,F Yukumo Kasa X
+2,448,F Helper Hood X
+2,449,F Edel Pigtails X
+2,450,
+2,451,F Akantor Visage X
+2,452,F Ukanlos Visage X
+2,453,F True Majestic Crown
+2,454,F Escador Wisdom X
+2,455,F Dragon Helm
+2,456,F Crimson Helm
+2,457,F White Helm
+2,458,F Agnaktor Helm XR
+2,459,F Duram Helm XR
+2,460,F Seregios Helm XR
+2,461,F Diablos Helm XR
+2,462,F Brachy Head XR
+2,463,F Puppeteer Mask XR
+2,464,F Vangis Helm XR
+2,465,F Strange Helm X
+2,466,F Strange Helm XX
+2,467,F Redhelm Helm X
+2,468,F Redhelm Helm XX
+2,469,F Snowbaron Helm X
+2,470,F Snowbaron Helm XX
+2,471,F Stonefist Mask X
+2,472,F Stonefist Mask XX
+2,473,F Dreadqueen Helm X
+2,474,F Dreadqueen Helm XX
+2,475,F Drilltusk Horn X
+2,476,F Drilltusk Horn XX
+2,477,F Hazewing Mask X
+2,478,F Hazewing Mask XX
+2,479,F Shredclaw Mask X
+2,480,F Shredclaw Mask XX
+2,481,F Silverwind Helm X
+2,482,F Silverwind Helm XX
+2,483,F Crystalbeard Helm X
+2,484,F Crystalbeard Helm XX
+2,485,F Deadeye Hood X
+2,486,F Deadeye Hood XX
+2,487,F Dreadking Helm X
+2,488,F Dreadking Helm XX
+2,489,F Thunderlord Helm X
+2,490,F Thunderlord Helm XX
+2,491,F Grimclaw Helm X
+2,492,F Grimclaw Helm XX
+2,493,F Hellblade Helm X
+2,494,F Hellblade Helm XX
+2,495,F Divinesight Kasa X
+2,496,F Divinesight Kasa XX
+2,497,F Azurebolt Mask X
+2,498,F Azurebolt Mask XX
+2,499,F Frostpeak Collar X
+2,500,F Frostpeak Collar XX
+2,501,F Bloodlust Helm X
+2,502,F Bloodlust Helm XX
+2,503,
+2,504,F Nyatfire Kasa
+2,505,
+2,506,
+2,507,F Nyatfire Kasa+
+2,508,F Okami Hood
+2,509,F Arthur Helm
+2,510,
+2,511,F Detective Glasses
+2,512,
+2,513,
+2,514,F Okami Hood X
+2,515,F Arthur Helm X
+2,516,
+2,517,F Detective Glasses X
+2,518,
+2,519,
+2,520,F Tesshou Head
+2,521,F Booyah Pompadour X
+2,522,
+2,523,F Wright Head
+2,524,F Young Felyne
+2,525,
+2,526,F Nyatfire Kasa Z
+3,0,(None)
+3,1,F Acorn Mail
+3,2,F Bherna Mail
+3,3,F Alloy Mail
+3,4,F Bone Mail
+3,5,F Jaggi Mail
+3,6,F Hunting Mail
+3,7,F Mafumofu Vest
+3,8,F Yukumo Dogi
+3,9,F Alta Shirt
+3,10,F Rheno Mail
+3,11,F Bnaha Suit
+3,12,F Maccao Mail
+3,13,F Velociprey Mail
+3,14,F Bulldrome Vest
+3,15,F Arzuros Mail
+3,16,F Genprey Mail
+3,17,F Cephalos Dress
+3,18,F Stone Body
+3,19,F Venombee Wings
+3,20,F Gourmet Suit
+3,21,F Moofy Suit
+3,22,F Aptonoth Suit
+3,23,F Popo Wear
+3,24,F Gargwa Vest
+3,25,F Ioprey Mail
+3,26,F Lagombi Mail
+3,27,F Kut-Ku Wear
+3,28,F Gypceros Cloth
+3,29,F Cabra Wrap
+3,30,F Daimyo Suit
+3,31,F Ludroth Mail
+3,32,F Khezu Apron
+3,33,F Nibel Mail
+3,34,F Scholarly Suit
+3,35,F Derring Lorica
+3,36,F Edel Frills
+3,37,F Kittendant Suit
+3,38,F Mosgharl Mail
+3,39,F Larinoth Suit
+3,40,F Death Stench Coat
+3,41,F Marauder Armor
+3,42,F Volvi Mail
+3,43,F Malfestio Mail
+3,44,F Rathian Mail
+3,45,F Blango Garb
+3,46,F Ceanataur Suit
+3,47,F Naja Sirwal
+3,48,F Narga Mail
+3,49,F Maiden Mail
+3,50,F Helper Mail
+3,51,F Pretty Robe
+3,52,F Chaos Skirt
+3,53,F El Dora Mail
+3,54,F Artian Gear
+3,55,F Garuga Robe
+3,56,F Uragaan Mail
+3,57,F Rathalos Mail
+3,58,F Lagia Mail
+3,59,F Astalos Suit
+3,60,F Gammoth Coat
+3,61,F Mizutsune Suit
+3,62,F Guild Suit
+3,63,F Glavenus Mail
+3,64,F Zinogre Mail
+3,65,F Gore Ghost
+3,66,F Seregios Mail
+3,67,F Tigrex Mail
+3,68,F Kirin Vest
+3,69,F Brachy Gloves
+3,70,F Angel Feathers
+3,71,F Kushala Cista
+3,72,F Genie Carpet
+3,73,F Kaiser Robe
+3,74,F Husk Suit
+3,75,F Acorn Mail S
+3,76,F Bherna Mail S
+3,77,F Hunting Mail S
+3,78,F Mafumofu Vest S
+3,79,F Yukumo Dogi S
+3,80,F Gourmet Suit S
+3,81,F Moofy Suit S
+3,82,F Aptonoth Suit S
+3,83,F Popo Wear S
+3,84,F Gargwa Vest S
+3,85,F Larinoth Suit S
+3,86,F Alloy Mail S
+3,87,F Bone Mail S
+3,88,F Alta Shirt S
+3,89,F Bnaha Suit S
+3,90,F Jaggi Mail S
+3,91,F Rheno Mail S
+3,92,F Slagtoth Cape
+3,93,F Maccao Mail S
+3,94,F Velociprey Mail S
+3,95,F Bulldrome Vest S
+3,96,F Arzuros Mail S
+3,97,F Genprey Mail S
+3,98,F Lagombi Mail S
+3,99,F Cephalos Dress S
+3,100,F Kut-Ku Wear S
+3,101,F Gypceros Cloth S
+3,102,F Cabra Wrap S
+3,103,F Daimyo Suit S
+3,104,F Ludroth Mail S
+3,105,F Kecha Coat
+3,106,F Ladybug Wings
+3,107,F Lecturer's Suit
+3,108,F Guide's Suit
+3,109,F Sailor Suit
+3,110,F Stone King Body
+3,111,F Venombee Wings S
+3,112,F Mosgharl Mail S
+3,113,F Marauder Armor S
+3,114,F Ioprey Mail S
+3,115,F Volvi Mail S
+3,116,F Khezu Smock S
+3,117,F Nibel Mail S
+3,118,F Malfestio Mail S
+3,119,F Rathian Mail S
+3,120,F Blango Garb S
+3,121,F Ceanataur Suit S
+3,122,F Naja Sirwal S
+3,123,F Narga Mail S
+3,124,F Garuga Robe S
+3,125,F Uragaan Mail S
+3,126,F Zamtrios Suit
+3,127,F Plesioth Suit
+3,128,F Lava Mail
+3,129,F Edel Frills S
+3,130,F Kittendant Suit S
+3,131,F Shakalaka Duds
+3,132,F Straw Raincoat
+3,133,F Chaos Skirt+
+3,134,F Death Stench Coat S
+3,135,F El Dora Mail S
+3,136,F Artian Gear S
+3,137,F Lagia Pirate S
+3,138,F Glavenus Mail S
+3,139,F Astalos Suit S
+3,140,F Gammoth Coat S
+3,141,F Mizutsune Suit S
+3,142,F Rathalos Mail S
+3,143,F Zinogre Mail S
+3,144,F Gore Ghost S
+3,145,F Tigrex Mail S
+3,146,F Seltas Body
+3,147,F Agnaktor Mail
+3,148,F Duram Mail
+3,149,F Kirin Vest S
+3,150,F Puppeteer Garb
+3,151,F Vangis Mail
+3,152,F Kut-Ku Wear R
+3,153,F Kecha Coat R
+3,154,F Gypceros Cloth R
+3,155,F Cabra Wrap R
+3,156,F Daimyo Suit R
+3,157,F Ludroth Mail R
+3,158,F Malfestio Mail R
+3,159,F Zamtrios Suit R
+3,160,F Khezu Suit R
+3,161,F Rathian Mail R
+3,162,F Nibel Mail R
+3,163,F Plesioth Suit R
+3,164,F Blango Garb R
+3,165,F Scholarly Suit S
+3,166,F Maiden Mail S
+3,167,F Helper Mail S
+3,168,F Beautiful Robe
+3,169,
+3,170,F Guild Suit S
+3,171,F Arcadia Robe
+3,172,F Transpurrter Cape
+3,173,F Dirty Hakama
+3,174,F D'Artanyan's Cape
+3,175,F Master's Mail
+3,176,F Derring Lorica S
+3,177,F Seregios Mail S
+3,178,F Brachy Fist S
+3,179,F Angel Down S
+3,180,F Husk Suit S
+3,181,F Nakarkos Suit
+3,182,F Lava Mail R
+3,183,F Ceanataur Suit R
+3,184,F Narga Mail R
+3,185,F Naja Sirwal R
+3,186,F Garuga Robe R
+3,187,F Uragaan Mail R
+3,188,F Seltas Body R
+3,189,F Rathalos Mail R
+3,190,F Lagia Pirate R
+3,191,F Zinogre Mail R
+3,192,F Felcote's Coat
+3,193,F Kushala Cormi S
+3,194,F Genie Carpet S
+3,195,F Kaiser Panoply
+3,196,F Akantor Facade
+3,197,F Ukanlos Facade
+3,198,F Majestic Robe
+3,199,F Escador Soul
+3,200,F Mizutsune Suit R
+3,201,F Astalos Suit R
+3,202,F Gammoth Coat R
+3,203,F Glavenus Mail R
+3,204,F Agnaktor Mail R
+3,205,F Gore Ghost R
+3,206,F Seregios Mail R
+3,207,F Duram Mail R
+3,208,F Tigrex Mail R
+3,209,F Brachy Gloves R
+3,210,F Puppeteer Garb R
+3,211,F Vangis Mail R
+3,212,F Strange Mail
+3,213,F Strange Mail S
+3,214,F Redhelm Mail
+3,215,F Redhelm Mail S
+3,216,F Snowbaron Mail
+3,217,F Snowbaron Mail S
+3,218,F Stonefist Suit
+3,219,F Stonefist Suit S
+3,220,F Dreadqueen Mail
+3,221,F Dreadqueen Mail S
+3,222,F Drilltusk Wrap
+3,223,F Drilltusk Wrap S
+3,224,F Silverwind Mail
+3,225,F Silverwind Mail S
+3,226,F Crystalbeard Mail
+3,227,F Crystalbeard Mail S
+3,228,F Deadeye Robe
+3,229,F Deadeye Robe S
+3,230,F Dreadking Mail
+3,231,F Dreadking Mail S
+3,232,F Thunderlord Mail
+3,233,F Thunderlord Mail S
+3,234,F Grimclaw Mail
+3,235,F Grimclaw Mail S
+3,236,F Hellblade Mail
+3,237,F Hellblade Mail S
+3,238,F Zombie-kun Costume
+3,239,F Happy Outfit
+3,240,F Treasure Chest J
+3,241,F Pirate Vest J
+3,242,F Legendary Suit J
+3,243,F Greedy Bones J
+3,244,F Catboard
+3,245,F Monqlo Shirt
+3,246,F Meowstar Haori
+3,247,F Baby Tiga Suit
+3,248,F Spirits Armor
+3,249,F Postman Suit
+3,250,F Booyah Jacket
+3,251,F Sohoku Jersey
+3,252,F Zombie-kun Wear
+3,253,F Grandpaw D Guise
+3,254,F Happy Guise
+3,255,F Dark Meowgic Robe
+3,256,F Booty Chest J
+3,257,F Buccaneer Vest J
+3,258,F King Suit J
+3,259,F Avaricious Bones J
+3,260,F Super Catboard
+3,261,F Monqlo Shirt S
+3,262,F Supreme Haori
+3,263,F Star Suit
+3,264,F Magical Robe
+3,265,F Kirimi-Chan
+3,266,F Nyankyrie Suit
+3,267,F Link Tunic
+3,268,F Fox Suit
+3,269,F Mario Overalls
+3,270,F Luigi Overalls
+3,271,F Resetti Guise
+3,272,F Isabelle Guise
+3,273,F Armor of Purrity
+3,274,F Chun Attire
+3,275,F Fancy Blanka Wear
+3,276,F Dante Jacket
+3,277,F Mega Armor
+3,278,F Melodic Suit
+3,279,F Baby Tiga Suit S
+3,280,F Sunsnug Vest
+3,281,F Spirits Armor S
+3,282,F Fan Top
+3,283,F Pep Squad Suit
+3,284,F Giaprey Mail
+3,285,F Conga Cymbals
+3,286,F Barroth Mail
+3,287,F Pretty Dress
+3,288,F Wisdom Cloak
+3,289,F Basarios Mail
+3,290,F Scylla Mail
+3,291,F Cheerful Suit
+3,292,F Mariner Suit
+3,293,F Barioth Mail
+3,294,F Gravios Armor
+3,295,F Diablos Mail
+3,296,F Valfalk Mail
+3,297,F Acorn Mail X
+3,298,F Bherna Mail X
+3,299,F Gourmet Suit X
+3,300,F Moofy Suit X
+3,301,F Aptonoth Suit X
+3,302,F Popo Wear X
+3,303,F Gargwa Vest X
+3,304,F Larinoth Suit X
+3,305,F Barrel Body
+3,306,F Alloy Mail X
+3,307,F Bone Mail X
+3,308,F Alta Shirt X
+3,309,F Bnaha Suit X
+3,310,F Jaggi Mail X
+3,311,F Rheno Mail X
+3,312,F Slagtoth Cape X
+3,313,F Maccao Mail X
+3,314,F Velociprey Mail X
+3,315,F Bulldrome Vest X
+3,316,F Arzuros Mail X
+3,317,F Giaprey Mail X
+3,318,F Genprey Mail X
+3,319,F Lagombi Mail X
+3,320,F Cephalos Dress X
+3,321,F Kut-Ku Wear X
+3,322,F Gypceros Cloth X
+3,323,F Cabra Wrap X
+3,324,F Daimyo Suit X
+3,325,F Ludroth Mail X
+3,326,F Kecha Coat X
+3,327,F Maiden Mail X
+3,328,F Alluring Robe
+3,329,F Ladybug Wings X
+3,330,F Shaka Fineclothes
+3,331,F Big Straw Raincoat
+3,332,F Lecturer's Suit X
+3,333,F Stone Body
+3,334,F Venombee Wings X
+3,335,F Mosgharl Mail X
+3,336,F Marauder Armor X
+3,337,F Pretty Dress X
+3,338,F Wisdom Cloak X
+3,339,F Postman Suit X
+3,340,F Ioprey Mail X
+3,341,F Volvi Mail X
+3,342,F Basarios Mail X
+3,343,F Conga Cymbals X
+3,344,F Barroth Mail X
+3,345,F Khezu Suit X
+3,346,F Nibel Mail X
+3,347,F Malfestio Mail X
+3,348,F Rathian Mail X
+3,349,F Blango Garb X
+3,350,F Ceanataur Suit X
+3,351,F Scylla Mail X
+3,352,F Naja Sirwal X
+3,353,F Narga Mail X
+3,354,F Zamtrios Suit X
+3,355,F Plesioth Suit X
+3,356,F Kut-Ku Wear XR
+3,357,F Kecha Coat XR
+3,358,F Gypceros Cloth XR
+3,359,F Cabra Wrap XR
+3,360,F Daimyo Suit XR
+3,361,F Ludroth Mail XR
+3,362,F Scholarly Suit X
+3,363,F Kittendant Suit X
+3,364,F Derring Lorica X
+3,365,F Transpurrter Cloak
+3,366,
+3,367,F Guide's Suit X
+3,368,F Sailor Suit X
+3,369,F True Chaos Skirt
+3,370,F Death Stench Coat X
+3,371,F El Dora Mail X
+3,372,F Artian Gear X
+3,373,F Cheerful Suit X
+3,374,F Mariner Suit X
+3,375,F Cute Dress
+3,376,F Garuga Robe X
+3,377,F Uragaan Mail X
+3,378,F Lava Mail X
+3,379,F Lagia Pirate X
+3,380,F Glavenus Mail X
+3,381,F Astalos Suit X
+3,382,F Gammoth Coat X
+3,383,F Mizutsune Suit X
+3,384,F Barioth Mail X
+3,385,F Rathalos Mail X
+3,386,F Zinogre Mail X
+3,387,F Gravios Armor X
+3,388,F Gore Ghost X
+3,389,F Tigrex Mail X
+3,390,F Seltas Body X
+3,391,F Kirin Vest X
+3,392,F Borealis Armor
+3,393,F Basarios Mail XR
+3,394,F Conga Cymbals XR
+3,395,F Barroth Mail XR
+3,396,F Khezu Suit XR
+3,397,F Nibel Mail XR
+3,398,F Malfestio Mail XR
+3,399,F Rathian Mail XR
+3,400,F Blango Garb XR
+3,401,F Ceanataur Suit XR
+3,402,F Scylla Mail XR
+3,403,F Naja Sirwal XR
+3,404,F Narga Mail XR
+3,405,F Zamtrios Suit XR
+3,406,F Plesioth Suit XR
+3,407,F Guild Suit X
+3,408,F Arcadia Vestment
+3,409,F Pro Dirty Hakama
+3,410,F D'Artanyan's Cloak
+3,411,F Master's Mail X
+3,412,F Barmaid's Dress
+3,413,F Bartender's Suit
+3,414,F Agnaktor Mail X
+3,415,F Duram Mail X
+3,416,F Seregios Mail X
+3,417,F Diablos Mail X
+3,418,F Brachy Gloves X
+3,419,F Angel Down X
+3,420,F Valfalk Mail X
+3,421,F Puppeteer Garb+
+3,422,F Vangis Mail X
+3,423,F Chaos Cape
+3,424,F Kushala Cormi X
+3,425,F Genie Carpet X
+3,426,F Kaiser Panoply X
+3,427,F Husk Suit X
+3,428,F Nakarkos Suit X
+3,429,F Neset Mail
+3,430,F Garuga Robe XR
+3,431,F Uragaan Mail XR
+3,432,F Lava Mail XR
+3,433,F Lagia Pirate XR
+3,434,F Glavenus Mail XR
+3,435,F Astalos Suit XR
+3,436,F Gammoth Coat XR
+3,437,F Mizutsune Suit XR
+3,438,F Barioth Mail XR
+3,439,F Rathalos Mail XR
+3,440,F Zinogre Mail XR
+3,441,F Gravios Armor XR
+3,442,F Gore Ghost XR
+3,443,F Tigrex Mail XR
+3,444,F Seltas Body XR
+3,445,F Hunting Mail X
+3,446,F Mafumofu Vest X
+3,447,F Yukumo Dogi X
+3,448,F Helper Mail X
+3,449,F Edel Frills X
+3,450,F Felcote's Coat
+3,451,F Akantor Facade X
+3,452,F Ukanlos Facade X
+3,453,F True Majestic Robe
+3,454,F Escador Soul X
+3,455,F Dragon Mail
+3,456,F Crimson Mail
+3,457,F White Mail
+3,458,F Agnaktor Mail XR
+3,459,F Duram Mail XR
+3,460,F Seregios Mail XR
+3,461,F Diablos Mail XR
+3,462,F Brachy Gloves XR
+3,463,F Puppeteer Garb XR
+3,464,F Vangis Mail XR
+3,465,F Strange Mail X
+3,466,F Strange Mail XX
+3,467,F Redhelm Mail X
+3,468,F Redhelm Mail XX
+3,469,F Snowbaron Mail X
+3,470,F Snowbaron Mail XX
+3,471,F Stonefist Suit X
+3,472,F Stonefist Suit XX
+3,473,F Dreadqueen Mail X
+3,474,F Dreadqueen Mail XX
+3,475,F Drilltusk Wrap X
+3,476,F Drilltusk Wrap XX
+3,477,F Hazewing Mail X
+3,478,F Hazewing Mail XX
+3,479,F Shredclaw Suit X
+3,480,F Shredclaw Suit XX
+3,481,F Silverwind Mail X
+3,482,F Silverwind Mail XX
+3,483,F Crystalbeard Mail X
+3,484,F Crystalbeard Mail XX
+3,485,F Deadeye Robe X
+3,486,F Deadeye Robe XX
+3,487,F Dreadking Mail X
+3,488,F Dreadking Mail XX
+3,489,F Thunderlord Mail X
+3,490,F Thunderlord Mail XX
+3,491,F Grimclaw Mail X
+3,492,F Grimclaw Mail XX
+3,493,F Hellblade Mail X
+3,494,F Hellblade Mail XX
+3,495,F Divinesight Suit X
+3,496,F Divinesight Suit XX
+3,497,F Azurebolt Suit X
+3,498,F Azurebolt Suit XX
+3,499,F Frostpeak Coat X
+3,500,F Frostpeak Coat XX
+3,501,F Bloodlust Mail X
+3,502,F Bloodlust Mail XX
+3,503,F Navirou Cosplay
+3,504,F Nyatfire Suit
+3,505,F Luna Cosplay
+3,506,F Navirou Dress Up
+3,507,F Nyatfire Suit+
+3,508,F Divine Retribution
+3,509,F Arthur Mail
+3,510,F Luna Dress Up
+3,511,F Detective Suit
+3,512,F Gudetama Ppoi
+3,513,F Stylish Navirou
+3,514,F Divine Retribution X
+3,515,F Arthur Mail X
+3,516,F Stylish Luna
+3,517,F Detective Suit X
+3,518,F Gudetama Ppoi X
+3,519,F Stylish Retsu Kaioh
+3,520,F Tesshou Jacket
+3,521,F Booyah Jacket X
+3,522,F Stylish D Lehman
+3,523,F Wright Jacket
+3,524,
+3,525,F Stylish Korok
+3,526,F Nyatfire Suit Z
