@@ -4,6 +4,7 @@
 
 ## Data Sources
 
+ - [Monster Hunter Equipment Modding Tool](https://github.com/GReinoso96/MHEdit)
  - [Monster Hunter 3 Ultimate Save Editor](https://github.com/gocario/mh3u-se)
  - [Monster Hunter 4 Ultimate Save Editor](https://github.com/mikewii/MH4U-Editor)
  - [Monster Hunter Generations Ultimate Database](https://github.com/gatheringhallstudios/MHGenDatabase)

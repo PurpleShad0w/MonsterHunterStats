@@ -1,0 +1,1540 @@
+Type,ID,Name
+1,0,Nothing Equipped
+1,1,Iron Sword
+1,2,Iron Sword+
+1,3,Buster Sword
+1,4,Buster Sword+
+1,5,Buster Blade
+1,6,Ravager Blade
+1,7,Ravager Blade+
+1,8,Lacerator Blade
+1,9,Lacerator Blade+
+1,10,Iron Katana
+1,11,"Iron Katana ""Grace"""
+1,12,"Iron Katana ""Gospel"""
+1,13,"Bone Katana ""Wolf"""
+1,14,"Bone Katana ""Shark"""
+1,15,"Bone Katana ""Dragon"""
+1,16,Black Katana Mk.I
+1,17,Black Katana Mk.II
+1,18,Defender
+1,19,Defender+
+1,20,Sentinel
+1,21,Halberd
+1,22,Halberd+
+1,23,Judgment
+1,24,Executioner
+1,25,Executioner+
+1,26,Dark Scythe
+1,27,Tormentor
+1,28,Bone Blade
+1,29,Bone Blade+
+1,30,Agito
+1,31,Agito+
+1,32,Dragon Agito
+1,33,Golem Blade
+1,34,Golem Blade+
+1,35,Valkyrie Blade
+1,36,Sieglinde
+1,37,Dragonslayer
+1,38,Dragon Massacre
+1,39,Finblade
+1,40,Finblade+
+1,41,Plesioth Watersword
+1,42,Redwing
+1,43,Rathalos Firesword
+1,44,Rusted Great Sword
+1,45,Tarnished Great Swd
+1,46,Legendary Great Swd
+1,47,Ancient Blade
+1,48,Bone
+1,49,Large Bone
+1,50,Fire Dragonsword
+1,51,Red Dragonsword
+1,52,Serpentblade
+1,53,Vile Serpentblade
+1,54,Great Serpentblade
+1,55,Iron Hammer
+1,56,Iron Hammer+
+1,57,War Hammer
+1,58,War Hammer+
+1,59,War Mace
+1,60,Iron Striker
+1,61,Iron Striker+
+1,62,Iron Impact
+1,63,Iron Impact+
+1,64,Spiked Hammer
+1,65,Spiked Hammer+
+1,66,Crystal Hammer
+1,67,Crystal Nova
+1,68,Anvil Hammer
+1,69,Earthshaker
+1,70,Bone Axe
+1,71,Bone Axe+
+1,72,Bone Broadaxe
+1,73,Gigaton Hammer
+1,74,Gigaton Hammer+
+1,75,Titan Hammer
+1,76,Shell Hammer
+1,77,Graviton Hammer
+1,78,Bone Hammer
+1,79,Bone Hammer+
+1,80,Cyclo-Hammer
+1,81,Cyclo-Hammer+
+1,82,Atlas Hammer
+1,83,Skullcrusher
+1,84,Skullcrusher+
+1,85,Kut-Ku Chin
+1,86,Kut-Ku Jaw
+1,87,Diablo Hammer
+1,88,Diablo Hammer+
+1,89,Diablos Maul
+1,90,Jail Hammer
+1,91,Jail Hammer+
+1,92,Prison Hammer
+1,93,Gunhammer Prototype
+1,94,Dead Revolver
+1,95,Rusted Hammer
+1,96,Tarnished Hammer
+1,97,Legendary Hammer
+1,98,Breath Core Hammer
+1,99,Bone Club
+1,100,Great Bone Club
+1,101,Dragon Destroyer
+1,102,Dragonbreaker
+1,103,Iron Lance
+1,104,Iron Lance+
+1,105,Knight Lance
+1,106,Knight Lance+
+1,107,Knight Spear
+1,108,Paladin Lance
+1,109,Paladin Lance+
+1,110,Rampart
+1,111,Babel Spear
+1,112,Iron Knight's Pike
+1,113,Steel Knight's Pike
+1,114,Dragon Knight's Pike
+1,115,Dark Lance
+1,116,Dark Lance+
+1,117,Dark Spear
+1,118,Shock Lance
+1,119,Trident
+1,120,Bone Javelin
+1,121,Bone Javelin+
+1,122,Spiked Spear
+1,123,Aqua Spear
+1,124,Aqua Spear+
+1,125,Lullaby Spear
+1,126,Requiem Spear
+1,127,Bone Lance
+1,128,Bone Lance+
+1,129,Longhorn
+1,130,Longhorn+
+1,131,Long Tusk
+1,132,Barbarian Tusk
+1,133,Barbarian Tusk+
+1,134,Barbaroi Tusk
+1,135,Ogre Tusk
+1,136,Red Tail
+1,137,Red Tail+
+1,138,Hellfire
+1,139,Diablo Horn
+1,140,Diablos Lance+
+1,141,Diablo Spear
+1,142,Crimson Lance
+1,143,Crimson War Pike
+1,144,Venom Lance
+1,145,Venom Lance+
+1,146,Basarios Venom Spear
+1,147,Gravios Spear
+1,148,Gunlance Prototype
+1,149,Gatling Lance
+1,150,Rusted Lance
+1,151,Tarnished Lance
+1,152,Legendary Lance
+1,153,Undertaker
+1,154,Dragonlance
+1,155,Dragoon Lord
+1,156,Hunter's Knife
+1,157,Hunter's Knife+
+1,158,Hunter's Dagger
+1,159,Hunter's Dagger+
+1,160,Assassin's Dagger
+1,161,Kirin Bolt
+1,162,Kirin Bolt+
+1,163,Kirin Bolt Mega
+1,164,Kirin Bolt Ultimus
+1,165,Serpent Bite
+1,166,Serpent Bite+
+1,167,Viper Bite
+1,168,Viper Bite+
+1,169,Deathprize
+1,170,Hydra Bite
+1,171,Hydra Bite+
+1,172,Deadly Poison
+1,173,Thunderbane
+1,174,Thunderbane+
+1,175,Frightbane
+1,176,Poison Axe
+1,177,Poison Battleaxe
+1,178,Bone Kris
+1,179,Bone Kris+
+1,180,Bonepick
+1,181,Bonepick+
+1,182,Bonespike
+1,183,Red Saber
+1,184,Red Saber+
+1,185,Flame Falchion
+1,186,Blazing Falchion
+1,187,Weary Finsword
+1,188,Weary Finsword+
+1,189,Sandman Finsword
+1,190,Hero's Blade
+1,191,Master's Blade
+1,192,Studded Club
+1,193,Studded Club+
+1,194,Spiked Bat
+1,195,Crimson Club
+1,196,Monoblos Club
+1,197,Rusted Sword
+1,198,Tarnished Sword
+1,199,Legendary Sword
+1,200,Eternal Strife
+1,201,Kitchen Knife
+1,202,Iron Chefblade
+1,203,Dragonbuster
+1,204,Dragonblood
+1,205,Catspaw
+1,206,Catburglar
+1,207,Tactical Blade
+1,208,Eager Cleaver
+1,209,Divine Slasher
+1,210,Chrome Razor
+1,211,Eternal Annihilator
+1,212,Finishing Hammer
+1,213,Onslaught Hammer
+1,214,Binder Mace
+1,215,Iron Devil
+1,216,Grayburg Javelin
+1,217,Nightmare
+1,218,Spear of Prominence
+1,219,Black Dragon Spear
+1,220,Thundertip
+1,221,Corona
+1,222,Black Dragon Sword
+1,223,Odyssey
+1,224,Teddybear
+1,225,Valhalla
+1,226,Ninja Sword
+1,227,Enormous Ham
+1,228,Siegmund
+1,229,Frozen Tuna
+1,230,Cactus Creamer
+1,231,Vacuum Striker
+1,232,Native Spear
+1,233,Polytan
+1,234,Twin Dagger
+1,235,Twin Dagger+
+1,236,Hurricane
+1,237,Hurricane+
+1,238,Cyclone
+1,239,Dual Tomahawk
+1,240,Dual Tomahawk+
+1,241,Guild Rapier
+1,242,Guild Rapier+
+1,243,Guild Saber
+1,244,Prototype Saw-Slicer
+1,245,Guillotine
+1,246,Bone Scythe
+1,247,Bone Scythe+
+1,248,Cutlass
+1,249,Cutlass+
+1,250,Dual Diablo
+1,251,Dual Diablo+
+1,252,Insector
+1,253,Insector+
+1,254,Gradios
+1,255,Gradios+
+1,256,Gradios Ultimus
+1,257,Double Dragon
+1,258,Dual Dragon Ultimus
+1,259,The Chrome Heart
+1,260,Barbaroi Blade
+1,261,Shiny Rathalos Sword
+1,262,Torment (Purgatory)
+1,263,White Disaster
+1,264,Velocidrome Bite
+1,265,Gabas
+1,266,Origin Sword G
+1,267,Origin Sword G+
+1,268,Dragon Agito G
+1,269,Dragon Agito G+
+1,270,True Dragon's Jaw
+1,271,Iron Sword G
+1,272,Iron Sword G+
+1,273,Rathalos Firesword+
+1,274,Greater Serpentblade
+1,275,Golden Serpentblade
+1,276,Plesioth Crystasword
+1,277,Scythe of Menace
+1,278,Enforcer's Axe
+1,279,Inferno Dragonsword
+1,280,Smolder Dragonsword
+1,281,Blushing Dame
+1,282,Pael Keizah
+1,283,Seiglinde+
+1,284,Great Golem+
+1,285,Devil Slicer
+1,286,Chrome Death Razor
+1,287,Eternal Eradicator
+1,288,Black Belt Blade
+1,289,Expert Blade
+1,290,Worn Great Sword
+1,291,Weathered Grt Sword
+1,292,Antique Great Sword
+1,293,Epitaph Blade
+1,294,Origin Hammer G
+1,295,Origin Hammer G+
+1,296,Atlas Hammer G
+1,297,Atlas Hammer G+
+1,298,Devil Masher
+1,299,Sanctioned GunHammer
+1,300,War Stamper
+1,301,War Basher
+1,302,Dark Punisher
+1,303,Dragon Demolisher
+1,304,Kut-Ku Pick
+1,305,Kut-Ku Pick+
+1,306,Great Nova
+1,307,Great Titan
+1,308,Black Belt Hammer
+1,309,Expert Hammer
+1,310,Worn Hammer
+1,311,Weathered Hammer
+1,312,Antique Hammer
+1,313,Pulsating Core
+1,314,Origin Lance G
+1,315,Origin Lance G+
+1,316,Longhorn G
+1,317,Longhorn G+
+1,318,Dark
+1,319,Sanctioned Gunlance
+1,320,Dragon Rider Spear
+1,321,True BlackDragon Spr
+1,322,Black Ruiner Lance
+1,323,Black Tempest
+1,324,Blaze Tail
+1,325,Red Prominence
+1,326,Blue Tail
+1,327,Blue Prominence
+1,328,Gravios Venom Spear
+1,329,Black Gravios Spear
+1,330,Black Belt Lance
+1,331,Expert Lance
+1,332,Worn Spear
+1,333,Weathered Spear
+1,334,Antique Lance
+1,335,Matenro
+1,336,Origin Knife G
+1,337,Origin Knife G+
+1,338,Superior Dagger
+1,339,Superior Dagger+
+1,340,Odyssey Blade
+1,341,Deadly Battleaxe
+1,342,Kirin Bolt Indora
+1,343,True BlackDragon Swd
+1,344,Black Ruiner Sword
+1,345,Cursed Spirit
+1,346,Djinn
+1,347,Djinn+
+1,348,High Ifrit
+1,349,Golden Falchion
+1,350,Sandman Spike
+1,351,High Sandman Spike
+1,352,Melynx Tool
+1,353,Black Belt Sword
+1,354,Expert Sword
+1,355,Great Ninja Sword
+1,356,Kirin Bolt Kami
+1,357,Ultimus Heaven&Earth
+1,358,Sanctioned Blades
+1,359,Guild Knight Sabers
+1,360,Insect Slicer
+1,361,Corpse Blades
+1,362,Worn Blades
+1,363,Weathered Blades
+1,364,Antique Blades
+1,365,Eternal Schism
+1,366,Obelion
+1,367,Titernia
+1,368,Ceramic Blos Lance
+1,369,Venom Monster
+1,370,Legendary Blades
+1,371,Serial Edge
+1,372,Upper Battleaxe
+1,373,Geyser Sword
+1,374,Polytan+
+1,375,Doom
+1,376,Watercutter
+1,377,Coma Rod
+1,378,Howling G
+1,379,Kirin Bolts
+1,380,Glutton's Set
+2,0,Nothing Equipped
+2,1,Crossbow Gun
+2,2,Crossbow Gun+
+2,3,Hornet Gun
+2,4,Valkyrie Fire
+2,5,Spartacus Fire
+2,6,Shotgun (Azure)
+2,7,Shotgun (Emerald)
+2,8,Shotgun (Blood)
+2,9,Maelstrom
+2,10,Sandstorm
+2,11,Grenade Launcher
+2,12,Titan Launcher
+2,13,Arbalest
+2,14,Arbalest+
+2,15,Tankmage
+2,16,Rapidcaster
+2,17,Quickcaster
+2,18,Meteor Cannon
+2,19,Vor Cannon
+2,20,Yian Kut-Ku Cannon
+2,21,Lao-Shan Lung Cannon
+2,22,Injector Cannon
+2,23,Flechette Gun
+2,24,Demonlock
+2,25,Dark Parasol
+2,26,Gravios Roar
+2,27,Mega Kut-Ku Cannon
+2,28,Great Crossbow Gun
+2,29,Valkyrie Flame
+2,30,Valkyrie Blaze
+2,31,Valkyrie Heart
+2,32,Gold Valkyrie
+2,33,Spartacus Flame
+2,34,Spartacus Blaze
+2,35,Spartacus Soul
+2,36,Silver Spartacus
+2,37,Crimson Blue
+2,38,Azure Sakura
+2,39,Empire Azure Sakura
+2,40,Supreme Azure Sakura
+2,41,Profusion
+2,42,Aqua Blade Shower
+2,43,Green Blade Shower
+2,44,Crimson Blade Shower
+2,45,Bullet Storm
+2,46,Maelstrom+
+2,47,Sandstorm+
+2,48,Desert Tempest
+2,49,Sandfall
+2,50,Grenade Launcher+
+2,51,Titan Launcher+
+2,52,Chronos Grenade
+2,53,Kut-Ku Anger
+2,54,Kut-Ku Rage
+2,55,Black Belt Bowgun
+2,56,Expert Bowgun
+2,57,Island of the Gods
+2,58,Dead Parasol
+2,59,Angel Parasol
+2,60,Sakura Parasol
+2,61,Great Arbalest
+2,62,Tankmage+
+2,63,Bastionmage
+2,64,Quickcaster+
+2,65,Duelcaster
+2,66,Duelcaster+
+2,67,Monodevilcaster
+2,68,Monodevilcaster+
+2,69,Meteor Buster
+2,70,Vor Cannon+
+2,71,Destiny's Hand
+2,72,Kut-Ku Cannon+
+2,73,Supreme Lao-Shan Can
+2,74,Empr Lao-Shan Cannon
+2,75,Honeycomber
+2,76,Gravios Howl
+2,77,Spring Blossomayhem
+3,0,Nothing Equipped
+3,1,Leather Helm
+3,2,Chain Helm
+3,3,Hunter's Helm
+3,4,Hunter's Cap
+3,5,Velociprey Helm
+3,6,Velociprey Cap
+3,7,Genprey Helm
+3,8,Genprey Cap
+3,9,Ioprey Helm
+3,10,Ioprey Cap
+3,11,Rathian Helm
+3,12,Rathian Cap
+3,13,Cephalos Helm
+3,14,Cephalos Cap
+3,15,Battle Helm
+3,16,Battle Cap
+3,17,Monoblos Helm
+3,18,Monoblos Cap
+3,19,Bone Helm
+3,20,Bone Cap
+3,21,Gypceros Helm
+3,22,Gypceros Cap
+3,23,Rathalos Helm
+3,24,Rathalos Cap
+3,25,Gravios Helm+
+3,26,Gravios Cap+
+3,27,Hi-Metal Helm+
+3,28,Hi-Metal Cap+
+3,29,Diablo Helm+
+3,30,Diablo Cap+
+3,31,Auroros Helm
+3,32,Genesis Headpiece
+3,33,Borealis Crown
+3,34,Glyph Crown
+3,35,Vespoid Helm+
+3,36,Vespoid Cap+
+3,37,Khezu Helm+
+3,38,Khezu Cap+
+3,39,Lobster Helm+
+3,40,Plesioth Helm+
+3,41,Plesioth Cap+
+3,42,Hornet Helm+
+3,43,Hornet Cap+
+3,44,Dragonhead
+3,45,Dragonface
+3,46,Guild Knight Feather
+3,47,Guild Knight Mask
+3,48,Maiden's Hat
+3,49,Personal Hat
+3,50,Velociprey Mask
+3,51,Shinobi Mask (Sun)
+3,52,Shinobi Mask (Moon)
+3,53,Mosswine Mask
+3,54,Bullfango Mask
+3,55,Skull Face
+3,56,Hi-Metal Helm
+3,57,Hi-Metal Cap
+3,58,Khezu Helm
+3,59,Khezu Cap
+3,60,Lobster Helm
+3,61,Plesioth Helm
+3,62,Plesioth Cap
+3,63,Vespoid Helm
+3,64,Vespoid Cap
+3,65,Diablo Helm
+3,66,Diablo Cap
+3,67,Hornet Helm
+3,68,Hornet Cap
+3,69,Gravios Helm
+3,70,Gravios Cap
+3,71,Rathian Helm+
+3,72,Rathian Cap+
+3,73,Rathalos Helm+
+3,74,Rathalos Cap+
+3,75,Leather Helm+
+3,76,Chain Helm+
+3,77,Hunter's Helm+
+3,78,Hunter's Cap+
+3,79,Bone Helm+
+3,80,Bone Cap+
+3,81,Velociprey Helm+
+3,82,Velociprey Cap+
+3,83,Battle Helm+
+3,84,Battle Cap+
+3,85,Genprey Helm+
+3,86,Genprey Cap+
+3,87,Ioprey Helm+
+3,88,Ioprey Cap+
+3,89,Gypceros Helm+
+3,90,Gypceros Cap+
+3,91,Cephalos Helm+
+3,92,Cephalos Cap+
+3,93,Leather Helm S
+3,94,Chain Helm S
+3,95,Hunter's Helm S
+3,96,Hunter's Cap S
+3,97,Bone Helm S
+3,98,Bone Cap S
+3,99,Velociprey Helm S
+3,100,Velociprey Cap S
+3,101,Battle Helm S
+3,102,Battle Cap S
+3,103,Vespoid Helm S
+3,104,Vespoid Cap S
+3,105,Hornet Helm S
+3,106,Hornet Cap S
+3,107,Hi-Metal Helm S
+3,108,Hi-Metal Cap S
+3,109,Genprey Helm S
+3,110,Genprey Cap S
+3,111,Ioprey Helm S
+3,112,Ioprey Cap S
+3,113,Gypceros Helm S
+3,114,Gypceros Cap S
+3,115,Cephalos Helm S
+3,116,Cephalos Cap S
+3,117,Rathian Helm S
+3,118,Rathian Cap S
+3,119,Khezu Helm S
+3,120,Khezu Cap S
+3,121,Rathalos Helm S
+3,122,Rathalos Cap S
+3,123,Plesioth Helm S
+3,124,Plesioth Cap S
+3,125,Lobster Helm S
+3,126,Diablo Helm S
+3,127,Diablo Cap S
+3,128,Monoblos Helm S
+3,129,Monoblos Cap S
+3,130,Gravios Helm S
+3,131,Gravios Cap S
+3,132,Leather Helm U
+3,133,Hunter's Helm U
+3,134,Hunter's Cap U
+3,135,Bone Helm U
+3,136,Bone Cap U
+3,137,Velociprey Helm U
+3,138,Velociprey Cap U
+3,139,Hi-Metal Helm U
+3,140,Hi-Metal Cap U
+3,141,Gypceros Helm U
+3,142,Gypceros Cap U
+3,143,Cephalos Helm U
+3,144,Cephalos Cap U
+3,145,Khezu Helm U
+3,146,Khezu Cap U
+3,147,Plesioth Helm U
+3,148,Plesioth Cap U
+3,149,Diablo Helm U
+3,150,Diablo Cap U
+3,151,Gravios Helm U
+3,152,Gravios Cap U
+3,153,Black Belt Helm
+3,154,Red Piercing
+3,155,Blue Piercing
+3,156,Yellow Piercing
+3,157,Black Piercing
+3,158,Rathian Heart Helm
+3,159,Rathian Heart Cap
+3,160,Rathalos Soul Helm
+3,161,Rathalos Soul Cap
+3,162,Monodevil Helm
+3,163,Monodevil Cap
+3,164,Mosswine Mask+
+3,165,Velociprey Mask+
+3,166,Bullfango Mask+
+3,167,Shinobi Mask (White)
+3,168,Shinobi Mask (Black)
+3,169,Guild KnightFeather+
+3,170,Guild Knight Mask+
+3,171,Maiden's Hat+
+3,172,Designer Glasses+
+3,173,Red Piercing+
+3,174,Blue Piercing+
+3,175,Yellow Piercing+
+3,176,Black Piercing+
+3,177,Skull Face+
+3,178,Rathian Heart Helm+
+3,179,Rathian Heart Cap+
+3,180,Rathalos Soul Helm+
+3,181,Rathalos Soul Cap+
+3,182,Auroros Helm Mai
+3,183,Genesis HeadpieceMai
+3,184,Borealis Crown Mai
+3,185,Glyph Crown Mai
+3,186,Dragonhead+
+3,187,Dragonface+
+3,188,Mosswine Face S
+3,189,Velociprey Mask S
+3,190,Bullfango Mask S
+3,191,Shinobi Mask(Heaven)
+3,192,Shinobi Mask (Earth)
+3,193,Guild KnightFeatherS
+3,194,Guild Knight Mask S
+3,195,Maiden's Hat S
+3,196,Designer Glasses S
+3,197,Red Piercing S
+3,198,Blue Piercing S
+3,199,Yellow Piercing S
+3,200,Black Piercing S
+3,201,Skull Face S
+3,202,Rathian Heart Helm S
+3,203,Rathian Heart Cap S
+3,204,Rathalos Soul Helm S
+3,205,Rathalos Soul Cap S
+3,206,Monodevil Helm S
+3,207,Monodevil Cap S
+3,208,Auroros Helm Haku
+3,209,GenesisHeadpieceHaku
+3,210,Borealis Crown Haku
+3,211,Glyph Crown Haku
+3,212,Dragonhead S
+3,213,Dragonface S
+3,214,Auroros Helm Ten
+3,215,Genesis HeadpieceTen
+3,216,Borealis Crown Ten
+3,217,Glyph Crown Ten
+3,218,Golden Moon Helm
+3,219,Golden Moon Cap
+3,220,Silver Sol Helm
+3,221,Silver Sol Cap
+3,222,Fatalis Head
+3,223,Fatalis Face
+3,224,Battle Helm U
+3,225,Battle Cap U
+3,226,Protection Piercing
+3,227,Expert Piercing
+3,228,Power Piercing
+3,229,Life Piercing
+3,230,Technique Piercing
+3,231,Ambitious Piercing
+3,232,Sword Saint Piercing
+3,233,Sure Shot Piercing
+3,234,Early Bird Piercing
+3,235,Guildmaster Piercing
+4,0,Nothing Equipped
+4,1,Leather Armor
+4,2,Chain Mail
+4,3,Hunter's Mail
+4,4,Hunter's Vest
+4,5,Velociprey Mail
+4,6,Velociprey Vest
+4,7,Genprey Mail
+4,8,Genprey Vest
+4,9,Ioprey Mail
+4,10,Ioprey Vest
+4,11,Rathian Mail
+4,12,Rathian Vest
+4,13,Cephalos Mail
+4,14,Cephalos Vest
+4,15,Kut-Ku Mail
+4,16,Kut-Ku Vest
+4,17,Battle Mail
+4,18,Battle Vest
+4,19,Monoblos Mail
+4,20,Monoblos Vest
+4,21,Bone Mail
+4,22,Bone Vest
+4,23,Gypceros Mail
+4,24,Gypceros Vest
+4,25,Rathalos Mail
+4,26,Rathalos Vest
+4,27,Gravios Mail+
+4,28,Gravios Vest+
+4,29,Hi-Metal Mail+
+4,30,Hi-Metal Vest+
+4,31,Diablo Mail+
+4,32,Diablo Vest+
+4,33,Auroros Torso
+4,34,Genesis Torso
+4,35,Borealis Chest
+4,36,Glyph Chest
+4,37,Vespoid Mail+
+4,38,Vespoid Vest+
+4,39,Khezu Mail+
+4,40,Khezu Vest+
+4,41,Lobster Mail+
+4,42,Lobster Vest+
+4,43,Plesioth Mail+
+4,44,Plesioth Vest+
+4,45,Hornet Mail+
+4,46,Hornet Vest+
+4,47,Dragonhide
+4,48,Dragonskin
+4,49,Guild Knight Suit
+4,50,Guild Knight Vest
+4,51,Maiden's Vest
+4,52,Personal Vest
+4,53,Shinobi Suit (Sun)
+4,54,Shinobi Suit (Moon)
+4,55,Moss Breastplate
+4,56,Hi-Metal Mail
+4,57,Hi-Metal Vest
+4,58,Khezu Mail
+4,59,Khezu Vest
+4,60,Lobster Mail
+4,61,Lobster Vest
+4,62,Plesioth Mail
+4,63,Plesioth Vest
+4,64,Vespoid Mail
+4,65,Vespoid Vest
+4,66,Diablo Mail
+4,67,Diablo Vest
+4,68,Hornet Mail
+4,69,Hornet Vest
+4,70,Gravios Mail
+4,71,Gravios Vest
+4,72,Steel Mail
+4,73,Steel Mail+
+4,74,Rathian Mail+
+4,75,Rathian Vest+
+4,76,Rathalos Mail+
+4,77,Rathalos Vest+
+4,78,Kut-Ku Mail+
+4,79,Kut-Ku Vest+
+4,80,Leather Armor+
+4,81,Chain Mail+
+4,82,Hunter's Mail+
+4,83,Hunter's Vest+
+4,84,Bone Mail+
+4,85,Bone Vest+
+4,86,Velociprey Mail+
+4,87,Velociprey Vest+
+4,88,Battle Mail+
+4,89,Battle Vest+
+4,90,Genprey Mail+
+4,91,Genprey Vest+
+4,92,Ioprey Mail+
+4,93,Ioprey Vest+
+4,94,Gypceros Mail+
+4,95,Gypceros Vest+
+4,96,Cephalos Mail+
+4,97,Cephalos Vest+
+4,98,Leather Armor S
+4,99,Chain Mail S
+4,100,Hunter's Mail S
+4,101,Hunter's Vest S
+4,102,Bone Mail S
+4,103,Bone Vest S
+4,104,Velociprey Mail S
+4,105,Velociprey Vest S
+4,106,Battle Mail S
+4,107,Battle Vest S
+4,108,Vespoid Mail S
+4,109,Vespoid Vest S
+4,110,Hornet Mail S
+4,111,Hornet Vest S
+4,112,Hi-Metal Mail S
+4,113,Hi-Metal Vest S
+4,114,Genprey Mail S
+4,115,Genprey Vest S
+4,116,Kut-Ku Mail S
+4,117,Kut-Ku Vest S
+4,118,Ioprey Mail S
+4,119,Ioprey Vest S
+4,120,Gypceros Mail S
+4,121,Gypceros Vest S
+4,122,Cephalos Mail S
+4,123,Cephalos Vest S
+4,124,Steel Mail S
+4,125,Rathian Mail S
+4,126,Rathian Vest S
+4,127,Khezu Mail S
+4,128,Khezu Vest S
+4,129,Rathalos Mail S
+4,130,Rathalos Vest S
+4,131,Plesioth Mail S
+4,132,Plesioth Vest S
+4,133,Lobster Mail S
+4,134,Lobster Vest S
+4,135,Diablo Mail S
+4,136,Diablo Vest S
+4,137,Monoblos Mail S
+4,138,Monoblos Vest S
+4,139,Gravios Mail S
+4,140,Gravios Vest S
+4,141,Leather Armor U
+4,142,Hunter's Mail U
+4,143,Hunter's Vest U
+4,144,Bone Mail U
+4,145,Bone Vest U
+4,146,Velociprey Mail U
+4,147,Velociprey Vest U
+4,148,Hi-Metal Mail U
+4,149,Hi-Metal Vest U
+4,150,Kut-Ku Mail U
+4,151,Kut-Ku Vest U
+4,152,Gypceros Mail U
+4,153,Gypceros Vest U
+4,154,Cephalos Mail U
+4,155,Cephalos Vest U
+4,156,Khezu Mail U
+4,157,Khezu Vest U
+4,158,Plesioth Mail U
+4,159,Plesioth Vest U
+4,160,Diablo Mail U
+4,161,Diablo Vest U
+4,162,Gravios Mail U
+4,163,Gravios Vest U
+4,164,Black Belt Mail
+4,165,Rathian Heart Mail
+4,166,Rathian Heart Vest
+4,167,Rathalos Soul Mail
+4,168,Rathalos Soul Vest
+4,169,Monodevil Mail
+4,170,Monodevil Vest
+4,171,Moss Breastplate+
+4,172,Shinobi Suit (White)
+4,173,Shinobi Suit (Black)
+4,174,Guild Knight Suit+
+4,175,Guild Knight Vest+
+4,176,Maiden's Vest+
+4,177,Personal Vest+
+4,178,Rathian Heart Mail+
+4,179,Rathian Heart Vest+
+4,180,Rathalos Soul Mail+
+4,181,Rathalos Soul Vest+
+4,182,Auroros Torso Mai
+4,183,Genesis Torso Mai
+4,184,Borealis Chest Mai
+4,185,Glyph Chest Mai
+4,186,Dragonhide+
+4,187,Dragonskin+
+4,188,Moss Breastplate S
+4,189,Shinobi Suit(Heaven)
+4,190,Shinobi Suit (Earth)
+4,191,Guild Knight Suit S
+4,192,Guild Knight Vest S
+4,193,Maiden's Vest S
+4,194,Personal Vest S
+4,195,Rathian Heart Mail S
+4,196,Rathian Heart Vest S
+4,197,Rathalos Soul Mail S
+4,198,Rathalos Soul Vest S
+4,199,Monodevil Mail S
+4,200,Monodevil Vest S
+4,201,Auroros Torso Haku
+4,202,Genesis Torso Haku
+4,203,Borealis Chest Haku
+4,204,Glyph Chest Haku
+4,205,Dragonhide S
+4,206,Dragonskin S
+4,207,Auroros Torso Ten
+4,208,Genesis Torso Ten
+4,209,Borealis Chest Ten
+4,210,Glyph Chest Ten
+4,211,Golden Moon Mail
+4,212,Golden Moon Vest
+4,213,Silver Sol Mail
+4,214,Silver Sol Vest
+4,215,Fatalis Hide
+4,216,Fatalis Skin
+4,217,Battle Mail U
+4,218,Battle Vest U
+4,219,W Rex Mail
+5,0,Nothing Equipped
+5,1,Leather Vambraces
+5,2,Chain Vambraces
+5,3,Hunter's Vambraces
+5,4,Hunter's Guards
+5,5,Velociprey Vambraces
+5,6,Velociprey Guards
+5,7,Genprey Vambraces
+5,8,Genprey Guards
+5,9,Ioprey Vambraces
+5,10,Ioprey Guards
+5,11,Rathian Vambraces
+5,12,Rathian Guards
+5,13,Cephalos Vambraces
+5,14,Cephalos Guards
+5,15,Kut-Ku Vambraces
+5,16,Kut-Ku Guards
+5,17,Battle Vambraces
+5,18,Battle Guards
+5,19,Monoblos Vambraces
+5,20,Monoblos Guards
+5,21,Bone Vambraces
+5,22,Bone Guards
+5,23,Gypceros Vambraces
+5,24,Gypceros Guards
+5,25,Rathalos Vambraces
+5,26,Rathalos Guards
+5,27,Gravios Vambraces+
+5,28,Gravios Guards+
+5,29,Hi-Metal Vambraces+
+5,30,Hi-Metal Guards+
+5,31,Diablo Vambraces+
+5,32,Diablo Guards+
+5,33,Auroros Gauntlets
+5,34,Genesis Gauntlets
+5,35,Borealis Gauntlets
+5,36,Glyph Gauntlets
+5,37,Vespoid Vambraces+
+5,38,Vespoid Guards+
+5,39,Khezu Vambraces+
+5,40,Khezu Guards+
+5,41,Lobster Vambraces+
+5,42,Lobster Guards+
+5,43,Plesioth Vambraces+
+5,44,Plesioth Guards+
+5,45,Hornet Vambraces+
+5,46,Hornet Guards+
+5,47,Dragonclaw
+5,48,Dragonfist
+5,49,Guild Knight Gloves
+5,50,Guild Knight Sleeves
+5,51,Maiden's Sleeves
+5,52,Personal Sleeves
+5,53,Shinobi Kote (Sun)
+5,54,Shinobi Kote (Moon)
+5,55,Hi-Metal Vambraces
+5,56,Hi-Metal Guards
+5,57,Khezu Vambraces
+5,58,Khezu Guards
+5,59,Lobster Vambraces
+5,60,Lobster Guards
+5,61,Plesioth Vambraces
+5,62,Plesioth Guards
+5,63,Vespoid Vambraces
+5,64,Vespoid Guards
+5,65,Diablo Vambraces
+5,66,Diablo Guards
+5,67,Hornet Vambraces
+5,68,Hornet Guards
+5,69,Gravios Vambraces
+5,70,Gravios Guards
+5,71,Steel Vambraces
+5,72,Steel Vambraces+
+5,73,Rathian Vambraces+
+5,74,Rathian Guards+
+5,75,Rathalos Vambraces+
+5,76,Rathalos Guards+
+5,77,Kut-Ku Vambraces+
+5,78,Kut-Ku Guards+
+5,79,Leather Vambraces+
+5,80,Chain Vambraces+
+5,81,Hunter's Vambraces+
+5,82,Hunter's Guards+
+5,83,Bone Vambraces+
+5,84,Bone Guards+
+5,85,Velociprey Braces+
+5,86,Velociprey Guards+
+5,87,Battle Vambraces+
+5,88,Battle Guards+
+5,89,Genprey Vambraces+
+5,90,Genprey Guards+
+5,91,Ioprey Vambraces+
+5,92,Ioprey Guards+
+5,93,Gypceros Vambraces+
+5,94,Gypceros Guards+
+5,95,Cephalos Vambraces+
+5,96,Cephalos Guards+
+5,97,Leather Vambraces S
+5,98,Chain Vambraces S
+5,99,Hunter's Vambraces S
+5,100,Hunter's Guards S
+5,101,Bone Vambraces S
+5,102,Bone Guards S
+5,103,Velociprey Braces S
+5,104,Velociprey Guards S
+5,105,Battle Vambraces S
+5,106,Battle Guards S
+5,107,Vespoid Vambraces S
+5,108,Vespoid Guards S
+5,109,Hornet Vambraces S
+5,110,Hornet Guards S
+5,111,Hi-Metal Vambraces S
+5,112,Hi-Metal Guards S
+5,113,Genprey Vambraces S
+5,114,Genprey Guards S
+5,115,Kut-Ku Vambraces S
+5,116,Kut-Ku Guards S
+5,117,Ioprey Vambraces S
+5,118,Ioprey Guards S
+5,119,Gypceros Vambraces S
+5,120,Gypceros Guards S
+5,121,Cephalos Vambraces S
+5,122,Cephalos Guards S
+5,123,Steel Vambraces S
+5,124,Rathian Vambraces S
+5,125,Rathian Guard S
+5,126,Khezu Vambraces S
+5,127,Khezu Guards S
+5,128,Rathalos Vambraces S
+5,129,Rathalos Guards S
+5,130,Plesioth Vambraces S
+5,131,Plesioth Guards S
+5,132,Lobster Vambraces S
+5,133,Lobster Guards S
+5,134,Diablo Vambraces S
+5,135,Diablo Guards S
+5,136,Monoblos Vambraces S
+5,137,Monoblos Guards S
+5,138,Gravios Vambraces S
+5,139,Gravios Guards S
+5,140,Leather Vambraces U
+5,141,Hunter's Vambraces U
+5,142,Hunter's Guards U
+5,143,Bone Vambraces U
+5,144,Bone Guards U
+5,145,Velociprey Braces U
+5,146,Velociprey Guards U
+5,147,Hi-Metal Vambraces U
+5,148,Hi-Metal Guards U
+5,149,Kut-Ku Vambraces U
+5,150,Kut-Ku Guards U
+5,151,Gypceros Vambraces U
+5,152,Gypceros Guards U
+5,153,Cephalos Vambraces U
+5,154,Cephalos Guards U
+5,155,Khezu Vambraces U
+5,156,Khezu Guards U
+5,157,Plesioth Vambraces U
+5,158,Plesioth Guards U
+5,159,Diablo Vambraces U
+5,160,Diablo Guards U
+5,161,Gravios Vambraces U
+5,162,Gravios Guards U
+5,163,Black Belt Vambraces
+5,164,Rathian Heart Braces
+5,165,Rathian Heart Guards
+5,166,Rathalos Soul Braces
+5,167,Rathalos Soul Guards
+5,168,Monodevil Vambraces
+5,169,Monodevil Guards
+5,170,Shinobi Kote (White)
+5,171,Shinobi Kote (Black)
+5,172,Guild Knight Gloves+
+5,173,Guild Knght Sleeves+
+5,174,Maiden's Sleeves+
+5,175,Personal Sleeves+
+5,176,Rathian Heart Brace+
+5,177,Rathian Heart Guard+
+5,178,Rathalos Soul Brace+
+5,179,Rathalos Soul Guard+
+5,180,Auroros Gauntlet Mai
+5,181,Genesis Gauntlet Mai
+5,182,Borealis GauntletMai
+5,183,Glyph Gauntlets Mai
+5,184,Dragonclaw+
+5,185,Dragonfist+
+5,186,Shinobi Kote(Heaven)
+5,187,Shinobi Kote (Earth)
+5,188,Guild Knight GlovesS
+5,189,Guild Knight SleeveS
+5,190,Maiden's Sleeves S
+5,191,Personal Sleeves S
+5,192,Rathian Heart BraceS
+5,193,Rathian Heart GuardS
+5,194,Rathalos Soul BraceS
+5,195,Rathalos Soul GuardS
+5,196,Monodevil VambracesS
+5,197,Monodevil Guards S
+5,198,Auroros GauntletHaku
+5,199,Genesis GauntletHaku
+5,200,BorealisGauntletHaku
+5,201,Glyph Gauntlets Haku
+5,202,Dragonclaw S
+5,203,Dragonfist S
+5,204,Auroros Gauntlet Ten
+5,205,Genesis Gauntlet Ten
+5,206,Borealis GauntletTen
+5,207,Glyph Gauntlets Ten
+5,208,Golden Moon Braces
+5,209,Golden Moon Guards
+5,210,Silver Sol Braces
+5,211,Silver Sol Guards
+5,212,Fatalis Claw
+5,213,Fatalis Fist
+5,214,Battle Vambraces U
+5,215,Battle Guards U
+5,216,Buddha Gloves
+6,0,Nothing Equipped
+6,1,Leather Belt
+6,2,Chain Belt
+6,3,Hunter's Tasset
+6,4,Hunter's Coat
+6,5,Velociprey Tasset
+6,6,Velociprey Coat
+6,7,Genprey Tasset
+6,8,Genprey Coat
+6,9,Ioprey Tasset
+6,10,Ioprey Coat
+6,11,Rathian Tasset
+6,12,Rathian Coat
+6,13,Cephalos Tasset
+6,14,Cephalos Coat
+6,15,Kut-Ku Tasset
+6,16,Kut-Ku Coat
+6,17,Battle Tasset
+6,18,Battle Coat
+6,19,Bone Tasset
+6,20,Bone Coat
+6,21,Gypceros Tasset
+6,22,Gypceros Coat
+6,23,Rathalos Tasset
+6,24,Rathalos Coat
+6,25,Gravios Tasset+
+6,26,Gravios Coat+
+6,27,Hi-Metal Tasset+
+6,28,Hi-Metal Coat+
+6,29,Auroros Tasset
+6,30,Genesis Tasset
+6,31,Borealis Tasset
+6,32,Glyph Tasset
+6,33,Vespoid Tasset+
+6,34,Vespoid Coat+
+6,35,Khezu Tasset+
+6,36,Khezu Coat+
+6,37,Hornet Tasset+
+6,38,Hornet Coat+
+6,39,Dragonwings
+6,40,Dragontail
+6,41,Guild Knight Coat
+6,42,Guild Knight Kilt
+6,43,Maiden's Skirt
+6,44,Personal Frills
+6,45,Shinobi Belt (Sun)
+6,46,Shinobi Belt (Moon)
+6,47,Light Belt
+6,48,Hide Belt
+6,49,Iron Belt
+6,50,Steel Belt
+6,51,Red Borealis Tasset
+6,52,Red Glyph Tasset
+6,53,Hi-Metal Tasset
+6,54,Hi-Metal Coat
+6,55,Khezu Tasset
+6,56,Khezu Coat
+6,57,Vespoid Tasset
+6,58,Vespoid Coat
+6,59,Hornet Tasset
+6,60,Hornet Coat
+6,61,Gravios Tasset
+6,62,Gravios Coat
+6,63,Steel Belt+
+6,64,Rathian Tasset+
+6,65,Rathian Coat+
+6,66,Rathalos Tasset+
+6,67,Rathalos Coat+
+6,68,Kut-Ku Tasset+
+6,69,Kut-Ku Coat+
+6,70,Chrome Metal Coat
+6,71,Leather Belt+
+6,72,Light Belt+
+6,73,Chain Belt+
+6,74,Iron Belt+
+6,75,Hunter's Tasset+
+6,76,Hunter's Coat+
+6,77,Bone Tasset+
+6,78,Bone Coat+
+6,79,Velociprey Tasset+
+6,80,Velociprey Coat+
+6,81,Battle Tasset+
+6,82,Battle Coat+
+6,83,Hide Belt+
+6,84,Genprey Tasset+
+6,85,Genprey Coat+
+6,86,Chrome Metal Coat+
+6,87,Ioprey Tasset+
+6,88,Ioprey Coat+
+6,89,Gypceros Tasset+
+6,90,Gypceros Coat+
+6,91,Cephalos Tasset+
+6,92,Cephalos Coat+
+6,93,Leather Belt S
+6,94,Light Belt S
+6,95,Chain Belt S
+6,96,Iron Belt S
+6,97,Hunter's Tasset S
+6,98,Hunter's Coat S
+6,99,Bone Tasset S
+6,100,Bone Coat S
+6,101,Velociprey Tasset S
+6,102,Velociprey Coat S
+6,103,Battle Tasset S
+6,104,Battle Coat S
+6,105,Hide Belt S
+6,106,Vespoid Tasset S
+6,107,Vespoid Coat S
+6,108,Hornet Tasset S
+6,109,Hornet Coat S
+6,110,Hi-Metal Tasset S
+6,111,Hi-Metal Coat S
+6,112,Genprey Tasset S
+6,113,Genprey Coat S
+6,114,Kut-Ku Tasset S
+6,115,Kut-Ku Coat S
+6,116,Chrome Metal Coat S
+6,117,Ioprey Tasset S
+6,118,Ioprey Coat S
+6,119,Gypceros Tasset S
+6,120,Gypceros Coat S
+6,121,Cephalos Tasset S
+6,122,Cephalos Coat S
+6,123,Steel Belt S
+6,124,Rathian Tasset S
+6,125,Rathian Coat S
+6,126,Khezu Tasset S
+6,127,Khezu Coat S
+6,128,Rathalos Tasset S
+6,129,Rathalos Coat S
+6,130,Gravios Tasset S
+6,131,Gravios Coat S
+6,132,Leather Belt U
+6,133,Hunter's Tasset U
+6,134,Hunter's Coat U
+6,135,Bone Tasset U
+6,136,Bone Coat U
+6,137,Velociprey Tasset U
+6,138,Velociprey Coat U
+6,139,Hi-Metal Tasset U
+6,140,Hi-Metal Coat U
+6,141,Kut-Ku Tasset U
+6,142,Kut-Ku Coat U
+6,143,Gypceros Tasset U
+6,144,Gypceros Coat U
+6,145,Cephalos Tasset U
+6,146,Cephalos Coat U
+6,147,Khezu Tasset U
+6,148,Khezu Coat U
+6,149,Gravios Tasset U
+6,150,Gravios Coat U
+6,151,Black Belt Tasset
+6,152,Rathian Heart Coil
+6,153,Rathian Heart Coat
+6,154,Rathalos Soul Coil
+6,155,Rathalos Soul Coat
+6,156,Shinobi Belt (White)
+6,157,Shinobi Belt (Black)
+6,158,Guild Knight Coat+
+6,159,Guild Knight Kilt+
+6,160,Maiden's Skirt+
+6,161,Personal Frills+
+6,162,Rathian Heart Coil+
+6,163,Rathian Heart Coat+
+6,164,Rathalos Soul Coil+
+6,165,Rathalos Soul Coat+
+6,166,Auroros Tasset Mai
+6,167,Genesis Tasset Mai
+6,168,Borealis Tasset Mai
+6,169,Glyph Tasset Mai
+6,170,Red Borealis Mai
+6,171,Red Glyph Mai
+6,172,Dragonwings+
+6,173,Dragontail+
+6,174,Shinobi Belt(Heaven)
+6,175,Shinobi Belt (Earth)
+6,176,Guild Knight Coat S
+6,177,Guild Knight Kilt S
+6,178,Maiden's Skirt S
+6,179,Personal Frills S
+6,180,Rathian Heart Coil S
+6,181,Rathian Heart Coat S
+6,182,Rathalos Soul Coil S
+6,183,Rathalos Soul Coat S
+6,184,Auroros Tasset Haku
+6,185,Genesis Tasset Haku
+6,186,Borealis Tasset Haku
+6,187,Glyph Tasset Haku
+6,188,Dragonwing S
+6,189,Dragontail S
+6,190,Auroros Tasset Ten
+6,191,Genesis Tasset Ten
+6,192,Borealis Tasset Ten
+6,193,Glyph Tasset Ten
+6,194,Golden Moon Tasset
+6,195,Golden Moon Coat
+6,196,Silver Sol Tasset
+6,197,Silver Sol Coat
+6,198,Fatalis Wing
+6,199,Fatalis Tail
+6,200,Battle Tasset U
+6,201,Battle Coat U
+6,202,Red Borealis Haku
+6,203,Red Glyph Haku
+6,204,Metal Rath Coil
+7,0,Nothing Equipped
+7,1,Green Pants
+7,2,Blue Pants
+7,3,Hunter's Greaves
+7,4,Hunter's Leggings
+7,5,Velociprey Greaves
+7,6,Velociprey Leggings
+7,7,Genprey Greaves
+7,8,Genprey Leggings
+7,9,Ioprey Greaves
+7,10,Ioprey Leggings
+7,11,Rathian Greaves
+7,12,Rathian Leggings
+7,13,Cephalos Greaves
+7,14,Cephalos Leggings
+7,15,Battle Greaves
+7,16,Battle Leggings
+7,17,Bone Greaves
+7,18,Bone Leggings
+7,19,Gypceros Greaves
+7,20,Gypceros Leggings
+7,21,Rathalos Greaves
+7,22,Rathalos Leggings
+7,23,Gravios Greaves+
+7,24,Gravios Leggings+
+7,25,Hi-Metal Greaves+
+7,26,Hi-Metal Leggings+
+7,27,Auroros Pants
+7,28,Genesis Pants
+7,29,Borealis Pants
+7,30,Glyph Pants
+7,31,Vespoid Greaves+
+7,32,Vespoid Leggings+
+7,33,Khezu Greaves+
+7,34,Khezu Leggings+
+7,35,Plesioth Greaves+
+7,36,Plesioth Leggings+
+7,37,Hornet Greaves+
+7,38,Hornet Leggings+
+7,39,Dragonfeet
+7,40,Dragonlegs
+7,41,Guild Knight Boots
+7,42,Guild Knight Tights
+7,43,Maiden's Stockings
+7,44,Personal Tights
+7,45,Silver Boots
+7,46,Dark Metal Boots
+7,47,Pink Metal Boots
+7,48,Shinobi Boots (Sun)
+7,49,Shinobi Boots (Moon)
+7,50,Red Borealis Pants
+7,51,Red Glyph Pants
+7,52,Hi-Metal Greaves
+7,53,Hi-Metal Leggings
+7,54,Khezu Greaves
+7,55,Khezu Leggings
+7,56,Plesioth Greaves
+7,57,Plesioth Leggings
+7,58,Vespoid Greaves
+7,59,Vespoid Leggings
+7,60,Hornet Greaves
+7,61,Hornet Leggings
+7,62,Gravios Greaves
+7,63,Gravios Leggings
+7,64,Rathian Greaves+
+7,65,Rathian Leggings+
+7,66,Rathalos Greaves+
+7,67,Rathalos Leggings+
+7,68,Chrome Metal Boots
+7,69,Green Pants+
+7,70,Blue Pants+
+7,71,Hunter's Greaves+
+7,72,Hunter's Leggings+
+7,73,Bone Greaves+
+7,74,Bone Leggings+
+7,75,Velociprey Greaves+
+7,76,Velociprey Leggings+
+7,77,Battle Greaves+
+7,78,Battle Leggings+
+7,79,Silver Boots+
+7,80,Dark Metal Boots+
+7,81,Genprey Greaves+
+7,82,Genprey Leggings+
+7,83,Pink Metal Boots+
+7,84,Chrome Metal Boots+
+7,85,Ioprey Greaves+
+7,86,Ioprey Leggings+
+7,87,Gypceros Greaves+
+7,88,Gypceros Leggings+
+7,89,Cephalos Greaves+
+7,90,Cephalos Leggings+
+7,91,Green Pants S
+7,92,Blue Pants S
+7,93,Hunter's Greaves S
+7,94,Hunter's Leggings S
+7,95,Bone Greaves S
+7,96,Bone Leggings S
+7,97,Velociprey Greaves S
+7,98,Velociprey LeggingsS
+7,99,Battle Greaves S
+7,100,Battle Leggings S
+7,101,Silver Boots S
+7,102,Vespoid Greaves S
+7,103,Vespoid Leggings S
+7,104,Hornet Greaves S
+7,105,Hornet Leggings S
+7,106,Hi-Metal Greaves S
+7,107,Hi-Metal Leggings S
+7,108,Dark Metal Boots S
+7,109,Genprey Greaves S
+7,110,Genprey Leggings S
+7,111,Pink Metal Boots S
+7,112,Chrome Metal Boots S
+7,113,Ioprey Greaves S
+7,114,Ioprey Leggings S
+7,115,Gypceros Greaves S
+7,116,Gypceros Leggings S
+7,117,Cephalos Greaves S
+7,118,Cephalos Leggings S
+7,119,Rathian Greaves S
+7,120,Rathian Leggings S
+7,121,Khezu Greaves S
+7,122,Khezu Leggings S
+7,123,Rathalos Greaves S
+7,124,Rathalos Leggings S
+7,125,Plesioth Greaves S
+7,126,Plesioth Leggings S
+7,127,Gravios Greaves S
+7,128,Gravios Leggings S
+7,129,Cream Pants
+7,130,Hunter's Greaves U
+7,131,Hunter's Leggings U
+7,132,Bone Greaves U
+7,133,Bone Leggings U
+7,134,Velociprey Greaves U
+7,135,Velociprey LeggingsU
+7,136,Hi-Metal Greaves U
+7,137,Hi-Metal Leggings U
+7,138,Gypceros Greaves U
+7,139,Gypceros Leggings U
+7,140,Cephalos Greaves U
+7,141,Cephalos Leggings U
+7,142,Khezu Greaves U
+7,143,Khezu Leggings U
+7,144,Plesioth Greaves U
+7,145,Plesioth Leggings U
+7,146,Gravios Greaves U
+7,147,Gravios Leggings U
+7,148,Black Belt Greaves
+7,149,Rathian HeartGreaves
+7,150,RathianHeartLeggings
+7,151,Rathalos SoulGreaves
+7,152,RathalosSoulLeggings
+7,153,Shinobi Boots(White)
+7,154,Shinobi Boots(Black)
+7,155,Guild Knight Boots+
+7,156,Guild Knight Tights+
+7,157,Maiden's Stockings+
+7,158,Personal Tights+
+7,159,RathianHeartGreaves+
+7,160,RathianHeartLegging+
+7,161,RathalosSoulGreaves+
+7,162,RathalosSoulLegging+
+7,163,Auroros Pants Mai
+7,164,Genesis Pants Mai
+7,165,Borealis Pants Mai
+7,166,Glyph Pants Mai
+7,167,Red Borealis Mai
+7,168,Red Glyph Mai
+7,169,Dragonfeet+
+7,170,Dragonlegs+
+7,171,ShinobiBoots(Heaven)
+7,172,Shinobi Boots(Earth)
+7,173,Guild Knight Boots S
+7,174,Guild Knight TightsS
+7,175,Maiden's Stockings S
+7,176,Personal Tights S
+7,177,RathianHeartGreavesS
+7,178,RathianHeartLeggingS
+7,179,RathalosSoulGreavesS
+7,180,RathalosSoulLeggingS
+7,181,Auroros Pants Haku
+7,182,Genesis Pants Haku
+7,183,Borealis Pants Haku
+7,184,Glyph Pants Haku
+7,185,Red Borealis Haku
+7,186,Red Glyph Haku
+7,187,Dragonfeet S
+7,188,Dragonlegs S
+7,189,Auroros Pants Ten
+7,190,Genesis Pants Ten
+7,191,Borealis Pants Ten
+7,192,Glyph Pants Ten
+7,193,Golden Moon Greaves
+7,194,Golden Moon Leggings
+7,195,Silver Sol Greaves
+7,196,Silver Sol Leggings
+7,197,Fatalis Feet
+7,198,Fatalis Legs
+7,199,Battle Greaves U
+7,200,Battle Leggings U
+7,201,Lucky Metal Boots
