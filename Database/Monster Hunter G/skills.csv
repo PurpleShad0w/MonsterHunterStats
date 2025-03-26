@@ -1,0 +1,58 @@
+ID,Name
+0,No skills.
+1,Fire Resistance +25
+2,Water Resistance +25
+3,Thunder Resistance +25
+4,Dragon Resistance +25
+5,Fire Resistance -10
+6,Water Resistance -10
+7,Thunder Resistance -10
+8,Dragon Resistance -10
+9,Poison Duration Halved
+10,Stun Duration Halved
+11,Sleep Duration Halved
+12,Knockout Probability Halved
+13,Hunger Halved
+14,Poison Negated
+15,Stun Negated
+16,Sleep Negated
+17,Knock Out Negated
+18,Hunger Negated
+19,Poison Duration Doubled
+20,Stun Duration Doubled
+21,Sleep Duration Doubled
+22,KO Duration Doubled
+23,Hunger x 1.5
+24,Sharpness Restoration +25%
+25,Sharpness Restoration +50%
+26,Health Recovery Items Improved
+27,High-Speed Damage Recovery
+28,Wide Area Recovery
+29,Wide Area Antidote
+30,Wide Area Power Seed
+31,Wide Area Armor Seed
+32,Attack Up (Small)
+33,Attack Up (Large)
+34,Health +10
+35,Health +20
+36,Health +30
+37,Defense +5
+38,Defense +10
+39,Stealth
+40,Provocation
+41,Autotracker
+42,Anti-Wind
+43,Anti-Thief
+44,Anti-Cold
+45,Anti-Heat
+46,Farsight
+47,Gatherer
+48,Reloading Speed +1
+49,Reloading Speed +2
+50,Toolsaver
+51,Divine Toolsaver
+52,Good Luck
+53,Bad Luck
+54,Combining Success +10%
+55,Combining Success +20%
+56,Luck Booster

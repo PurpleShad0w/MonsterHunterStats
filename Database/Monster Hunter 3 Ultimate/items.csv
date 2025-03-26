@@ -1,0 +1,1533 @@
+ID,Name
+0,(None)
+1,Book of Combos 1
+2,Book of Combos 2
+3,Book of Combos 3
+4,Book of Combos 4
+5,Book of Combos 5
+6,Organizer Guide
+7,Pack Rat Guide
+8,Potion
+9,Mega Potion
+10,Nutrients
+11,Mega Nutrients
+12,Antidote
+13,Immunizer
+14,Dash Juice
+15,Mega Dash Juice
+16,Demondrug
+17,Mega Demondrug
+18,Might Pill
+19,Armorskin
+20,Mega Armorskin
+21,Adamant Pill
+22,Cool Drink
+23,Hot Drink
+24,Cleanser
+25,Psychoserum
+26,Herbal Medicine
+27,Max Potion
+28,Ancient Potion
+29,Catalyst
+30,Energy Drink
+31,Air Philter
+32,Mega Air Philter
+33,Gunpowder
+34,Lifecrystals
+35,Lifepowder
+36,Mystery Charm
+37,Shining Charm
+38,Timeworn Charm
+39,Enduring Charm
+40,Powercharm
+41,Powertalon
+42,Armorcharm
+43,Armortalon
+44,Tranquilizer
+45,Raw Meat
+46,Poisoned Meat
+47,Tinged Meat
+48,Durgged Meat
+49,Rare Steak
+50,Well-done Steak
+51,Burnt Meat
+52,Hot Meat
+53,Chilled Meat
+54,Pink Liver
+55,Ethnic Wyvrnmeat
+56,Boomerang
+57,Throwing Knife
+58,Poison Knife
+59,Slee Knife
+60,Paralysis Knife
+61,Tranq Knife
+62,Bomb Casing
+63,Paintball
+64,Flash Bomb
+65,Sonic Bomb
+66,Dung
+67,Super-sized Dung
+68,Fertile Mud
+69,Dung Bomb
+70,Smoke Bomb
+71,Poison Smoke Bmb
+72,Farcaster
+73,Tranq Bomb
+74,Oxygen Supply
+75,Spider Web
+76,Net
+77,Trap Tool
+78,Pitfall Trap
+79,Shock Trap
+80,Small Barrel
+81,Large Barrel
+82,Barrel Bomb S
+83,Barrel Bomb S +
+84,Barrel Bomb L
+85,Barrel Bomb L +
+86,Bounce Bomb
+87,Bounce Bomb +
+88,Felvine Bomb
+89,Huskberry
+90,Bone Husk S
+91,Bone Husk L
+92,Normal S Lv1
+93,Normal S Lv2
+94,NOrmal S Lv3
+95,Pierce S Lv1
+96,Pierce S Lv2
+97,Pierce S Lv3
+98,Pellet S Lv1
+99,Pellet S Lv2
+100,Pellet S Lv3
+101,Crag S Lv1
+102,Crag S Lv2
+103,Crag S Lv3
+104,Clust S Lv1
+105,Clust S Lv2
+106,Clust S Lv3
+107,Flaming S
+108,Water S
+109,Thunder S
+110,Freeze S
+111,Draong S
+112,Recov S Lv1
+113,Recov S Lv2
+114,Poison S Lv1
+115,Poison S Lv2
+116,Para S Lv1
+117,Para S Lv2
+118,Sleep S Lv1
+119,Sleep S Lv2
+120,Tranq S
+121,Paint S
+122,Demon S
+123,DUMMY 1
+124,Armor S
+125,DUMMY 2
+126,Sub S Lv1
+127,Sub S Lv2
+128,Exhaust S Lv1
+129,Exhaust S Lv2
+130,Slicing S
+131,DUMMY 3
+132,DUMMY 4
+133,WyvernFire
+134,UW Ballista Ammo
+135,(No Coating)
+136,Empty Phial
+137,Power Coating
+138,C. Range Coating
+139,Poison Coating
+140,Para Coating
+141,Sleep Coating
+142,Exhaust Coating
+143,Paint Coating
+144,DUMMY 5
+145,Worm
+146,DUMMY 6
+147,Mega Fishing Fly
+148,Frog
+149,Whetfish Bait
+150,Shushifish Bait
+151,Tuna Bait
+152,DUMMY 7
+153,Goldenfish Bait
+154,Burst Bait
+155,DUMMY 8
+156,Old Pickaxe
+157,Iron Pickaxe
+158,Mega Pickaxe
+159,Old Bug Net
+160,Bug Net
+161,Mega Bug Net
+162,Fishing Harpoon
+163,Mega Harpoon
+164,BBQ Spit
+165,Double BBQ Spit
+166,Whetstone
+167,Binoculars
+168,Carbage
+169,Field Horn
+170,Health Horn
+171,Antidote Horn
+172,Demon Horn
+173,Armor Horn
+174,Honey
+175,Herb
+176,Antidote Herb
+177,Fire Herb
+178,DUMMY 9
+179,Ivy
+180,Sleep Herb
+181,Sap Plant
+182,Felvine
+183,Cactus Flower
+184,Airweed
+185,Hot Pepper
+186,DUMMY 10
+187,Blue Mushroom
+188,Nitroshroom
+189,Parashroom
+190,Toadstool
+191,Exciteshroom
+192,DUMMY 11
+193,Dragon Toadstool
+194,Bindshroom
+195,Paintberry
+196,Might Seed
+197,Adamant Seed
+198,Dragonfell Berry
+199,Scatternut
+200,Needleberry
+201,DUMMY 12
+202,Bomberry
+203,DUMMY 13
+204,DUMMY 14
+205,DUMMY 15
+206,DUMMY 16
+207,Nulberry
+208,Bumblepumpkin
+209,Broken Shell
+210,Black Pearl
+211,Jumbo Pearl
+212,Stone
+213,Iron Ore
+214,Earth Crystal
+215,Machalite Ore
+216,Dragonite Ore
+217,Pelagicite Ore
+218,DUMMY 17
+219,DUMMY 18
+220,DUMMY 19
+221,Carbalite Ore
+222,Eltalite Ore
+223,Fucium Ore
+224,Meldspar Ore
+225,Bathycite Ore
+226,Lava Nugget
+227,Firestone
+228,Firecell Stone
+229,Allfire Stone
+230,Lightcrystal
+231,Isisium
+232,DUMMY 20
+233,Gracium
+234,Antiseptic Stone
+235,Ice Crystal
+236,Armor Stone
+237,Armor Sphere
+238,Armor Sphere +
+239,Adv Armor Sphere
+240,Hrd Armor Sphere
+241,Hvy Armor Sphere
+242,DUMMY 21
+243,Tru Armor Sphere
+244,Whetfish
+245,Sushifish
+246,Sleepyfish
+247,Pin Tuna
+248,Popfish
+249,Scatterfish
+250,Burst Arowana
+251,Bomb Arowana
+252,Glutton Tuna
+253,Small Goldenfish
+254,Wanchovy
+255,DUMMY 22
+256,Blue Cutthroat
+257,Humspun Conch
+258,DUMMY 23
+259,Insect Husk
+260,Yambug
+261,Bughopper
+262,DUMMY 215
+263,Stinkhopper
+264,Snakebee Larva
+265,Godbug
+266,Bitterbug
+267,Flashbug
+268,Thunderbug
+269,Fulgurbug
+270,Carpenterbug
+271,Killer Beetle
+272,Hercudrome
+273,DUMMY 24
+274,King Scarab
+275,Rare Scarab
+276,DUMMY 25
+277,Flutterfly
+278,DUMMY 26
+279,Bomb Sac
+280,Screamer
+281,Poison Sac
+282,Toxin Sac
+283,DUMMY 27
+284,Paralysis Sac
+285,Omniplegia Sac
+286,Sleep Sac
+287,Coma Sec
+288,Flame Sac
+289,Inferno Sac
+290,Conflagrant Sac
+291,Aqua Sac
+292,Torrent Sac
+293,DUMMY 217
+294,Thunder Sac
+295,Lightning Sac
+296,Frost Sac
+297,Freezer Sac
+298,Dash Extract
+299,Pale Extract
+300,Monster Bone S
+301,Monster Bone M
+302,Monster Bone L
+303,Mystery Bone
+304,Unknown Skull
+305,Bone
+306,Avian Shoutbone
+307,DUMMY 218
+308,Monster Bone +
+309,Monster Keenbone
+310,Monster hardbone
+311,Monster slogbne
+312,Avian Finebone
+313,Jumbo Bone
+314,Stoutbone
+315,Dragonbone Relic
+316,Wyvern Fang
+317,Wyvern Claw
+318,Wyvern Stone
+319,Lrg Wyvern Stone
+320,Bird Wyvern Gem
+321,Fey Wyvern Gem
+322,ElderDragonBlood
+323,DUMMY 28
+324,Azure Dragongem
+325,Azure Drgnsphire
+326,Beautiful Scale
+327,Shining Starfish
+328,Armorfish Morsel
+329,Fine Pelt
+330,Power Paddle
+331,Curved Fang
+332,Dragonbone Piece
+333,Abalone Piece
+334,Fossil Piece
+335,Stunning Quill
+336,Saturnian
+337,Mystic Narwhal
+338,Perfect Paddle
+339,Moonlight Fang
+340,Glittering Scale
+341,Giant Skull
+342,Atlantis Crab
+343,Queen Needle
+344,Ancient Skin Oil
+345,Flamboyant Quill
+346,Eldest Saturnian
+347,Queen's Spirit
+348,Vermilion Scale
+349,Sea-King's Scale
+350,Odd Egg
+351,Saturnian Trap
+352,BugMaker! Pro
+353,Funky Pheromones
+354,Shroom Germ
+355,Shroom Germ +
+356,Bizzy Bees
+357,Fish Finder
+358,Treasure Tracker
+359,Spare Spear
+360,Pittance Fang
+361,Fortune Fang
+362,Gold Needle
+363,Wyverngold
+364,Pirate Booty
+365,Steel Egg
+366,Silver Egg
+367,Golden Egg
+368,Kelbi Horn Objet
+369,Twstd Horn Objet
+370,MohranFang Objet
+371,Poogie
+372,Eggie Poogie
+373,Rath Poogie
+374,Sandstone Plant
+375,Marshland Plant
+376,Snowflake Plant
+377,Primshroom Lamp
+378,Qurupeco Lamp
+379,Sirensea Lamp
+380,Oceanic Fountain
+381,Bubbly Fountain
+382,Magma Fountain
+383,Iron Figure
+384,Machalite Figure
+385,Dragonite Figure
+386,Model Sandskiff
+387,Model Airship
+388,Model Poogieship
+389,Guildie (Red)
+390,Guildie (Green)
+391,Guildie (Blue)
+392,Great Poogi
+393,Incomplete Crown
+394,Crown's Gemstone
+395,Dazzling Crown
+396,Prize Gold Sword
+397,Golden Medallion
+398,Kelbi Horn
+399,Blue Kelbi Horn
+400,Warm Pelt
+401,High-qualty Pelt
+402,Gargwa Feather
+403,DUMMY 29
+404,DUMMY 30
+405,Anteka Antler
+406,DUMMY 31
+407,Bnahabra Shell
+408,DUMMY 32
+409,Bnaha Carapace
+410,Bnahabra Wing
+411,DUMMY 33
+412,Bnahabra Cutwing
+413,Bnahabra Spine
+414,Altaroth Jaw
+415,DUMMY 34
+416,Altaroth Stomach
+417,Prized Stomach
+418,Quality Sac
+419,Bullfango Pelt
+420,DUMMY 35
+421,Bullfango Head
+422,Monster Fluid
+423,Monster Broth
+424,Rhenoplos Shell
+425,Rhenoplos Bone
+426,Rhenoplos Scalp
+427,DUMMY 36
+428,Rheno Carapace
+429,DUMMY 219
+430,Slagtoth Hide+
+431,DUMMY 37
+432,Big Fin
+433,DUMMY 38
+434,Quality Fin
+435,Giant Fin
+436,Sharpened Fang
+437,Velvety Hide
+438,Sharqskin
+439,Jaggi Scale
+440,Jaggi Scale +
+441,DUMMY 39
+442,Jaggi Hide
+443,DUMMY 40
+444,DUMMY 41
+445,Bird Wyvern Fang
+446,G. Jaggi Hide
+447,G. Jaggi Hide +
+448,Great Jaggi Piel
+449,G. Jaggi Claw
+450,G. Jaggi Claw +
+451,DUMMY 42
+452,King's Frill
+453,Imperial Frill
+454,Great Jaggi Head
+455,DUMMY 43
+456,Baggi Hide
+457,Baggi Scale
+458,Baggi Scale +
+459,DUMMY 44
+460,G. Baggi Hide
+461,G. Baggi Hide +
+462,Great Baggi Piel
+463,G. Baggi Claw
+464,G. Baggi Claw +
+465,DUMMY 45
+466,King's Crest
+467,Imperial Crest
+468,Wroggi Scale
+469,Wroggi Scale +
+470,DUMMY 46
+471,Wroggi Hide
+472,Wroggi Fang
+473,G. Wroggi Hide
+474,G. Wroggi Piel
+475,G. Wroggi Hide +
+476,G. Wroggi Brace
+477,DUMMY 47
+478,G. Wroggi Brace +
+479,King's Beak
+480,Imperial Beak
+481,Qurupeco Scale
+482,Qurupeco Scale +
+483,Qurupeco Shard
+484,Qurupeco Feather
+485,Lustrous Feather
+486,Qurupeco Wing
+487,Peco Fellwing
+488,Vivid Fellwing
+489,Strange Beak
+490,Wonderful Beak
+491,Alluring Beak
+492,Flintstone
+493,Quality Flint
+494,C. Peco Scale +
+495,C. Peco Shard
+496,C. Peco Wing
+497,C. Peco Fellwing
+498,Voltstone
+499,High Voltstone
+500,Hydro Hide
+501,Hydro Hide +
+502,DUMMY 48
+503,Immature Sponge
+504,Quality Sponge
+505,Spongy Hide
+506,Spongy Hide +
+507,Spongy Piel
+508,R. Ludroth Scale
+509,R. Ludroth Scale +
+510,R. Ludroth Shard
+511,R. Ludroth Claw
+512,R. Ludroth Claw +
+513,R. Ludroth Talon
+514,R. Ludroth Crest
+515,R. Ludroth Crest +
+516,Chic Crest
+517,R. Ludroth Tail
+518,Plum Spongy Hide
+519,Plum Spongy Piel
+520,P. Ludroth Scale +
+521,P. Ludroth Shard
+522,P. Ludroth Claw +
+523,P. Ludroth Talon
+524,Barroth Shell
+525,Barroth Carapace
+526,Barroth Cortex
+527,Barroth Ridge
+528,Barroth Ridge +
+529,Barroth Chine
+530,Barroth Claw
+531,Barroth Claw +
+532,Barroth Talon
+533,Barroth Scalp
+534,Barroth Crown
+535,Barroth Tail
+536,J. Barr Carapace
+537,J. Barroth Cortex
+538,J. Barroth Ridge +
+539,J. Barroth Chine
+540,J. Barroth Claw +
+541,J. Barroth Talon
+542,J. Barroth Scale
+543,J. Barroth Crown
+544,J. Barroth Tail
+545,J. Barroth Lash
+546,Frozen Glob
+547,DUMMY 49
+548,Gobul Hide
+549,Gobul Hide +
+550,Gobul Piel
+551,Gobul Fin
+552,Gobul Fin +
+553,Fine Gobul Fin
+554,Gobul Spike
+555,Gobul Spike +
+556,Gobul Surspike
+557,Gobul Whisker
+558,Gobul Kingwhiskr
+559,Gobul Lantern
+560,Gobul Lantern +
+561,Gobul Beacon
+562,Rathian Scale
+563,Rathian Scale +
+564,Rathian Shard
+565,Rathian Shell
+566,Rathian Carapace
+567,Rathian Cortex
+568,Rathian Webbing
+569,Rathian Spike
+570,Rathian Spike +
+571,Rathian Surspike
+572,Rathian Plate
+573,Rathian Mantle
+574,Rathian Ruby
+575,DUMMY 50
+576,P. Rathian Scale +
+577,P. Rathian Shard
+578,P. Rath Carapace
+579,P. Rathian Cortex
+580,G. Rathian Shard
+581,G. Rathian Cortex
+582,G. Rath Surspike
+583,Rathalos Scale
+584,Rathalos Scale +
+585,Rathalos Shard
+586,Rathalos Shell
+587,Rathalos Carapace
+588,Rathalos Cortex
+589,Rathalos Webbing
+590,Rathalos Fellwing
+591,Rathalos Tail
+592,Rathalos Lash
+593,Rathalos Plate
+594,Rathalos Mantle
+595,Rathalos Ruby
+596,Rath Talon
+597,Rath Ripper
+598,Rath Marrow
+599,Rath Medulla
+600,Rath Gleem
+601,A. Rath Scale +
+602,A. Rathalos Shard
+603,A. Rath Carapace
+604,A. Rath Cortex
+605,A. Rathalos Tail
+606,A. Rathalos Lash
+607,A. Rathalos Wing
+608,S. Rathalos Shard
+609,S. Rath Cortex
+610,S. Rathalos Lash
+611,DUMMY 215
+612,DUMMY 51
+613,DUMMY 52
+614,Gigginox Hide
+615,Gigginox Hide +
+616,Gigginox Piel
+617,Uncanny Hide
+618,Uncanny Hide +
+619,Gigginox Claw
+620,Gigginox Claw +
+621,Gigginox Talon
+622,DUMMY 53
+623,DUMMY 54
+624,Fearsome Maw
+625,Venom Gland
+626,Grim Venom Gland
+627,Foul Venom Gland
+628,B. Giggi Hide +
+629,B. Giggi Piel
+630,B. Giggi Claw +
+631,B. Giggi Talon
+632,Lagiacrus Scale
+633,Lagiacrus Scale +
+634,Lagiacrus Shard
+635,Shell Shocker
+636,Shell Shocker +
+637,Deathly Shocker
+638,Lagiacrus Hide
+639,Lagiacrus Hide +
+640,Lagiacrus Claw
+641,Lagiacrus Claw +
+642,Lagiacrus Talon
+643,Lagiacrus Talon
+644,Lagiacrus Flail
+645,Lagiacrus Horn
+646,Lagiacrus Horn +
+647,Lagia Sapphire
+648,Lagiacrus Mantle
+649,Lagiacrus Plate
+650,I. Lagi Scale +
+651,I. Lagi Shard
+652,I. Lagi Shocker +
+653,I. Lagi D-Shocker
+654,I. Lagi Hide +
+655,I. Lagi Piel
+656,DUMMY 55
+657,DUMMY 56
+658,DUMMY 57
+659,DUMMY 58
+660,I. Lagi Horn +
+661,I. Lagi Hardhorn
+662,DUMMY 59
+663,DUMMY 60
+664,DUMMY 61
+665,A. Lagi Shard
+666,A. Lagi D-Shocker
+667,A. Lagi Piel
+668,DUMMY 62
+669,DUMMY 63
+670,A. Lagi Hardhorn
+671,A. Lagi Dynamo
+672,Barioth Shell
+673,Barioth Carapace
+674,Barioth Cortex
+675,Barioth Pelt
+676,Barioth Pelt +
+677,Barioth Fur
+678,Barioth Claw
+679,Barioth Claw +
+680,Barioth Talon
+681,Barioth Spike
+682,DUMMY 64
+683,Barioth Tail
+684,Barioth Lash
+685,Amber Tusks
+686,Amber Tusks +
+687,Hvy Amber Tusks
+688,S. Bari Carapace
+689,S. Barioth Cortex
+690,S. Barioth Pelt +
+691,S. Barioth Fur
+692,S. Barioth Claw +
+693,S. Barioth Talon
+694,S. Barioth Tail
+695,S. Barioth Lash
+696,Indigo Tusks +
+697,Hvy Indigo Tusks
+698,Rugged Pleura
+699,Rugged Pleura +
+700,Diablos Shell
+701,Diablos Carapace
+702,Diablos Cortex
+703,Diablos Ridge
+704,Diablos Ridge +
+705,Diablos Chine
+706,Diablos Tailcase
+707,DUMMY 65
+708,Diablos Fang
+709,Twisted Horn
+710,Majestic Horn
+711,Stout Horn
+712,Diablos Marrow
+713,Diablos Medulla
+714,B. Diab Carapace
+715,B. Diablos Cortex
+716,B. Diablos Ridge +
+717,B. Diablos Chine
+718,DUMMY 66
+719,DUMMY 67
+720,Blackcurl Horn
+721,Blackcurl Horn +
+722,Uragaan Scale
+723,Uragaan Scale +
+724,Uragaan Shard
+725,Uragaan Shell
+726,Uragaan Carapace
+727,Uragaan Cortex
+728,Uragaan Jaw
+729,Uragaan Jaw +
+730,Uragaan Scute
+731,Uragaan Scute +
+732,Uragaan Marrow
+733,Uragaan Ruby
+734,Uragaan Pallium
+735,S. Uragaan Scale +
+736,S. Uragaan Shard
+737,S. Urag Carapace
+738,S. Uragaan Cortex
+739,S. Uragaan Maw
+740,S. Uragaan Jaw +
+741,S. Uragaan Scute
+742,S. Uragaan Scute +
+743,Uroktor Scale
+744,Uragaan Scale +
+745,Supple Piel
+746,Agnaktor Scale
+747,DUMMY 68
+748,Agnaktor Shell
+749,Agnak Carapace
+750,Agnaktor Hide
+751,Agnaktor Hide +
+752,Agnaktor Piel
+753,Agnaktor Claw
+754,Agnaktor Claw +
+755,Agnaktor Talon
+756,Agnaktor Fin
+757,Agnaktor Fin +
+758,Fine Agnak Fin
+759,Agnaktor Beak
+760,DUMMY 69
+761,Agnaktor Tail
+762,DUMMY 70
+763,Scalding Pleura +
+764,Scorching Pleura
+765,G. Agnak Carapace
+766,G. Agnak Cortex
+767,G. Agnak Hide +
+768,G. Agnak Piel
+769,G. Agnak Claw +
+770,G. Agnak Talon
+771,G. Agnak Fin +
+772,Fine G. Agnak Fin
+773,G. Agnak Beak
+774,DUMMY 71
+775,G. Agnak Tail
+776,DUMMY 72
+777,Dewy Pleura +
+778,Drenched Pleura
+779,Ceadeus Scale
+780,Ceadeus Hide
+781,Ceadeus Fur
+782,Ceadeus Tail
+783,Crooked Horn
+784,Luminous Organ
+785,Deep Dragongem
+786,G. Ceadeus Shard
+787,G. Ceadeus Coat
+788,G. Ceadeus Fur
+789,DUMMY 73
+790,Crooked Hardhorn
+791,DUMMY 74
+792,Dark Dragongem
+793,DUMMY 75
+794,Mohran Scale +
+795,DUMMY 76
+796,Mohran Carapace
+797,DUMMY 77
+798,Mohran Brace +
+799,DUMMY 209
+800,Sturdy Fang +
+801,Earth Dragongem
+802,DUMMY 78
+803,H. Jhen Shard
+804,DUMMY 79
+805,H. Jhen Rocksin
+806,DUMMY 80
+807,H. Jhen Allbrace
+808,DUMMY 81
+809,Deific Fang
+810,Earth Drgnsphire
+811,Deviljho Scale
+812,Deviljho Shard
+813,Deviljho Hide
+814,Deviljho Coat
+815,Deviljho Fang
+816,Vile Fang
+817,Deviljho Talon
+818,Deviljho Ripper
+819,Deviljho Scale
+820,DUMMY 82
+821,Deviljho Tail
+822,Deviljho Flail
+823,Deviljho Saliva
+824,Black Blood
+825,Deviljho Gem
+826,Deviljho Crook
+827,Alatreon Scute
+828,Alatreon Pallium
+829,Alatreon Plate
+830,Alatreon Mantle
+831,Alatreon Talon
+832,Alatreon Ripper
+833,Alatreon Webbing
+834,Alatreo Direwing
+835,Alatreon Tail
+836,Alatreo Diretail
+837,Brkn Skypiercer
+838,DUMMY 83
+839,Skypiercer
+840,Skyswayer
+841,Arzuros Pelt
+842,Arzuros Pelt +
+843,DUMMY 84
+844,Arzuros Shell
+845,Arzuros Carapace
+846,Arzuros Cortex
+847,Arzuros Brace
+848,Arzuros Brace +
+849,Arzuros Allbrace
+850,Lagombi Pelt
+851,Lagombi Pelt +
+852,Lagombi Fur
+853,Lagombi Ear
+854,Lagombi Ear +
+855,Lagombi Auricle
+856,Lagombi Plastron
+857,Lagombi Plastron +
+858,DUMMY 85
+859,Lagombi Claw
+860,Lagombi Claw +
+861,DUMMY 86
+862,Volvidon Shell
+863,Volvi Carapace
+864,Volvidon Cortex
+865,Volvidon Claw
+866,Volvidon Claw +
+867,Volvidon Talon
+868,Volvi Rickrack
+869,DUMMY 87
+870,Nibelsnarf Shell
+871,Nibel Carapace
+872,Nibel Cortex
+873,Nibelsnarf Hide
+874,Nibelsnarf Hide +
+875,Nibelsnarf Piel
+876,Nibelsnarf Claw
+877,Nibelsnarf Claw +
+878,Nibelsnarf Talon
+879,Nibelsnarf Scalp
+880,DUMMY 88
+881,Vivid Fluid
+882,Brilliant Fluid
+883,Dazzling Fluid
+884,DUMMY 89
+885,Zinogre Carapace
+886,Zinogre Cortex
+887,DUMMY 90
+888,Zinogre Shocker +
+889,Zin Eletrofur +
+890,DUMMY 91
+891,Zinogre Horn +
+892,Zinogre Hardhorn
+893,DUMMY 92
+894,Zinogre Claw +
+895,Zinogre Talon
+896,Zinogre Tail
+897,Zinogre Lash
+898,DUMMY 94
+899,Zin Eletrofur
+900,Zin D-Shocker
+901,DUMMY 208
+902,Zinogre Jasper
+903,Zin Skymerald
+904,S. Zin Cortex
+905,S. Zin Dragonhair
+906,S. Zin Hardhorn
+907,S. Zinogre Talon
+908,S. Zinogre Lash
+909,S. Zin Dragnshell
+910,S. Zin Skymerald
+911,Nargacuga Scale +
+912,Nargacuga Shard
+913,Nargacuga Mantle
+914,DUMMY 95
+915,Nargacuga Fur
+916,Nargacuga Tail
+917,Nargacuga Lash
+918,Narga Tailspike
+919,Narga Tailspear
+920,DUMMY 96
+921,Narga Razor +
+922,Nargacuga Fang +
+923,Hvy Narga Fang
+924,Narga Medulla
+925,DUMMY 97
+926,G. Narga Shard
+927,DUMMY 98
+928,G. Narga Dapples
+929,DUMMY 99
+930,G. Narga Razor +
+931,DUMMY 100
+932,Hvy G. Narga Fang
+933,L. Narga Shard
+934,L. Narha Dapples
+935,L. Narga Razor
+936,Hvy L. Narga Fang
+937,Duramboros Shell
+938,Duram Carapace
+939,Duram Cortex
+940,Duram Mossplate
+941,Hard Mossplate
+942,Heavy Mossplate
+943,Duramboros Hump
+944,Marbled Hump
+945,Duram Tailcase
+946,Duram Tailcase +
+947,Duram Hardtail
+948,Duramboros Horn
+949,Duramboros Horn +
+950,Duram Hardhorn
+951,Duram Tailbone
+952,Duram Sacrum
+953,Durambolite
+954,R. Duram Shell
+955,R. Duram Plate
+956,DUMMY 101
+957,R. Duram Hardtail
+958,DUMMY 102
+959,DUMMY 103
+960,Lrg Lobstershell
+961,DUMMY 105
+962,Plesioth Fang +
+963,Hvy Plesio Fang
+964,Plesioth Scale +
+965,Plesioth Shard
+966,Plesioth Fin +
+967,Fine Plesio Fin
+968,DUMMY 105
+969,G. Plesio Shard
+970,DUMMY 107
+971,Fine G. Plesi Fin
+972,Brach Carapace
+973,Brach Cortex
+974,Brach Ebonshell
+975,Brach Ebonshell +
+976,DUMMY 108
+977,DUMMY 109
+978,Brach Scalp
+979,Brach Scalp +
+980,Mystery Slime
+981,Glowing Slime
+982,Brach Pounder
+983,Brach Pounder +
+984,Brachydios Tail
+985,DUMMY 110
+986,Brachydios Gem
+987,Brach Pallium
+988,Miralis Scale
+989,Miralis Fireback
+990,Miralis Fireclaw
+991,DUMMY 111
+992,DUMMY 112
+993,Miralis Evil Eye
+994,DUMMY 113
+995,Miralis Hellwing
+996,DUMMY 114
+997,DUMMY 115
+998,Miralis Smelter
+999,Immortal Heart
+1000,DUMMY 116
+1001,Gushing Magma
+1002,Dire Dragongem
+1003,Rustshard
+1004,Ancient Shard
+1005,Rusted Fragment
+1006,Large Fragment
+1007,Slender Fragment
+1008,Long Fragment
+1009,Map
+1010,First-aid Med
+1011,Ration
+1012,DUMMY
+1013,Mini Whetstone
+1014,EZ Shock Trap
+1015,EZ Flash Bomb
+1016,EZ Sonic Bomb
+1017,EZ Max Potion
+1018,EZ Pitfall Trap
+1019,Mini Oxy Supply
+1020,EZ Barrel Bomb L
+1021,Ballista Ammo
+1022,Ballista Binder
+1023,DUMMY 117
+1024,Cannon Ammo
+1025,Anti-dragon Bomb
+1026,Torch
+1027,Paw Pass Ticket
+1028,Royal Honey
+1029,Unique Mushroom
+1030,Choice Mushroom
+1031,Ripened Mushroom
+1032,Great Shroom
+1033,Super Sprout
+1034,DUMMY 118
+1035,DUMMY 119
+1036,Silverfish
+1037,DUMMY 120
+1038,DUMMY 121
+1039,Goldenfish
+1040,Royal Rhino
+1041,Divine Rhino
+1042,Silver Cricket
+1043,Gold Cricket
+1044,Auristone Piece
+1045,Auristone Chunk
+1046,Balmstone Piece
+1047,Balmstone Chunk
+1048,Crystal Bone
+1049,Golden Bone
+1050,Bloodstone
+1051,Deep Bloodstone
+1052,Coal
+1053,Volatile Coal
+1054,Wyvern Egg
+1055,Herbivore Egg
+1056,Gargwa Egg
+1057,Gold Gargwa Egg
+1058,DUMMY 206
+1059,Powderstone
+1060,Gargwa Guano
+1061,White Liver
+1062,Slagtoth Oil
+1063,Popo Tongue
+1064,Secret Stash
+1065,Round Acorn
+1066,Fine Stomach
+1067,Luminous Stomach
+1068,Giggi Extract
+1069,Monster Guts
+1070,Red Coral Stone
+1071,Wyvern Tear
+1072,Lrg Wyvern Tear
+1073,Beast Tear
+1074,Lrg Beast Tear
+1075,Bird Coin
+1076,DUMMY 122
+1077,DUMMY 123
+1078,DUMMY 124
+1079,DUMMY 125
+1080,DUMMY 126
+1081,DUMMY 127
+1082,Leviathan Coin
+1083,DUMMY 128
+1084,DUMMY 129
+1085,DUMMY 130
+1086,DUMMY 131
+1087,DUMMY 214
+1088,Pinnacle Coin
+1089,Hunter King Coin
+1090,Voucher
+1091,Gourmet Voucher
+1092,Sharq Ticket
+1093,DUMMY 132
+1094,DUMMY 133
+1095,Thunderclap Diploma
+1096,DUMMY
+1097,DUMMY
+1098,DUMMY 134
+1099,Shadowed Edge
+1100,Medal Voucher L
+1101,Lion's Claw
+1102,Conqueror's Seal
+1103,DUMMY 135
+1104,Commendation
+1105,DMMY 136
+1106,Pawprint Stamp
+1107,Aquaglow Jewel
+1108,Sunspire Jewel
+1109,Bloodrun Jewel
+1110,Lazurite Jewel
+1111,Paralysis Jwl 1
+1112,Paralysis Jwl 2
+1113,Pep Jewel 1
+1114,Pep Jewel 2
+1115,Steadfast Jwl 1
+1116,Standfast Jwl 1
+1117,Antidote Jewel 1
+1118,Antidote Jewel 2
+1119,Tracker Jewel 1
+1120,Trekker Jewel 1
+1121,Ninja Jewel 1
+1122,Vitality Jewel 1
+1123,Recovery Jewel 1
+1124,Recovery Jewel 2
+1125,Razor Jewel 1
+1126,Razor Jewel 3
+1127,Handicraft Jwl 2
+1128,Handicarft Jwl 3
+1129,Fencer Jewel 1
+1130,Fencer Jewel 3
+1131,Expert Jewel 1
+1132,Expert Jewel 2
+1133,Expert Jewel 3
+1134,Grinder Jewel 1
+1135,Ironwall Jewel 1
+1136,Ironwall Jewel 2
+1137,Shield Jewel 1
+1138,Shield Jewel 2
+1139,Quickload Jwl 1
+1140,Quickload Jwl 2
+1141,Absorber Jewel 1
+1142,Absorber Jewel 3
+1143,Forceshot Jwl 1
+1144,Forceshot Jwl 3
+1145,Pierce Jewel 1
+1146,Pierce Jewel 3
+1147,Pellet Jewel 1
+1148,Pellet Jewel 3
+1149,ShotPlus Jewel 1
+1150,ShotPlus Jewel 2
+1151,PiercePlus Jwl 1
+1152,DUMMY 137
+1153,PelletPlus Jwl 1
+1154,CragPlus Jewel 1
+1155,ClustPlus Jwl 1
+1156,Disabler Jewel 1
+1157,Disabler Jewel 2
+1158,Element Jewel 1
+1159,Element Jewel 3
+1160,Bombardier Jwl 1
+1161,DUMMY 138
+1162,Hungerless Jwl 1
+1163,Metabolism Jwl 1
+1164,Attack Jewel 1
+1165,Attack Jewel 2
+1166,Attack Jewel 3
+1167,Defense Jewel 1
+1168,Defense Jewel 2
+1169,Protection Jwl 1
+1170,Asylum Jewel 1
+1171,Earplug Jewel 1
+1172,Earplug Jewel 3
+1173,Alarm Jewel 1
+1174,Friendship Jwl 1
+1175,Friendship Jwl 2
+1176,Transportr Jwl 1
+1177,Fire Res Jewel 1
+1178,Water Res Jwl 1
+1179,Ice Res Jewel 1
+1180,ThunderRes Jwl 1
+1181,Dragon Res Jwl 1
+1182,Heat Res Jewel 1
+1183,Cold Res Jewel 1
+1184,Wind Res Jewel 1
+1185,Wind Res Jewel 2
+1186,DUMMY 139
+1187,Gathering Jwl 1
+1188,Spree Jewel 1
+1189,Blessing Jewel 1
+1190,Fate Jewel 1
+1191,Fate Jewel 3
+1192,DUMMY 140
+1193,Psychic Jewel 1
+1194,Medicine Jewel 1
+1195,Medicine Jewel 2
+1196,Professor Jwl 1
+1197,Factory Jewel 1
+1198,Evasion Jewel 1
+1199,Evasion Jewel 2
+1200,Potential Jwl 1
+1201,Potential Jwl 2
+1202,Enduring Jewel 1
+1203,Sprinter Jewel 1
+1204,Sprinter Jewel 3
+1205,Capacity Jewel 2
+1206,Capacity Jewel 3
+1207,Sniper Jewel 1
+1208,Gobbler Jewel 1
+1209,Gobbler Jewel 3
+1210,Carver Jewel 1
+1211,Carver Jewel 3
+1212,Footing Jewel 1
+1213,Tectonic Jewel 1
+1214,DUMMY 141
+1215,Jumping Jewel 1
+1216,DUMMY 142
+1217,Draw Jewel 1
+1218,Draw Jewel 2
+1219,Trapmaster Jwl 1
+1220,Physique Jewel 1
+1221,Physique Jewel 2
+1222,Capture Jewel 1
+1223,Capture Jewel 3
+1224,Perception Jwl 1
+1225,Charger Jewel 1
+1226,Charger Jewel 3
+1227,Fresh Air Jwl 1
+1228,Stopflow Jewel 1
+1229,Swimmer Jewel 1
+1230,Diver Jewel 1
+1231,Gambit Jewel 1
+1232,Gambit Jewel 3
+1233,Resistor Jewel 1
+1234,Release Jewel 2
+1235,Catalyst Jewel 3
+1236,Fortitude Jwl 1
+1237,Fortitude Jwl 2
+1238,Salvo Jewel 1
+1239,Salvo Jewel 3
+1240,Dungmaster Jwl 1
+1241,Torchlight Jwl 1
+1242,(No Mask)
+1243,BBQ with Mask
+1244,Sharpen w/ Mask
+1245,Return via Mask
+1246,Slime S
+1247,DUMMY 143
+1248,Flying Wyverns Vol 1
+1249,Flying Wyverns Vol 2
+1250,Flying Wyverns Vol 3
+1251,Bird Wyverns Vol 1
+1252,Bird Wyverns Vol 2
+1253,Brute Wyverns Vol 1
+1254,Brute Wyverns Vol 2
+1255,Brute Wyverns Vol 3
+1256,Leviathans Vol 1
+1257,Leviathans Vol 2
+1258,Leviathans Vol 3
+1259,Fanged Wyverns Vol 1
+1260,Fanged Wyverns Vol 2
+1261,Fanged Beasts
+1262,Invalid Message
+1263,Piscine Wyverns
+1264,Elder Dragons Vol 1
+1265,Elder Dragons Vol 2
+1266,Elder Dragons Vol 3
+1267,Lynians
+1268,Neopteron
+1269,Herbivores Vol 1
+1270,Herbivores Vol 2
+1271,Deviljho
+1272,Brachydios
+1273,Dire Miralis
+1274,Plesioth Vol 1
+1275,Plesioth Vol 2
+1276,Deodorant
+1277,Emperor Hopper
+1278,Elder Dragonbone
+1279,DUMMY 145
+1280,Purecrystal
+1281,Adamant Orb
+1282,Lagiacrus Piel
+1283,DUMMY 146
+1284,Nightmarish Maw
+1285,DUMMY 147
+1286,DUMMY 148
+1287,DUMMY 149
+1288,Slime Coating
+1289,DUMMY 150
+1290,Blossom Cricket
+1291,L. Narg Tailspear
+1292,DUMMY 151
+1293,G. Narg Tailspear
+1294,DUMMY 152
+1295,Agnaktor Cortex
+1296,Revolting Piel
+1297,Cryo Sac
+1298,Flood Sac
+1299,Monster Essence
+1300,DUMMY 153
+1301,Massive Bone
+1302,DUMMY 154
+1303,Prized Pelt
+1304,DUMMY 155
+1305,DUMMY 156
+1306,Speartuna
+1307,Nargacuga Pelt +
+1308,Narga Razor
+1309,VE Ticket
+1310,VE Deluxe Ticket
+1311,VE Bronze Ticket
+1312,VE Silver Ticket
+1313,VE Golden Ticket
+1314,VE Cosmic Ticket
+1315,DUMMY 157
+1316,DUMMY 158
+1317,Maiden Butterfly
+1318,DUMMY 159
+1319,DUMMY 160
+1320,DUMMY 161
+1321,DUMMY 162
+1322,DUMMY 163
+1323,Chum-Chum Ticket
+1324,DUMMY 164
+1325,Lagia Hardhorn
+1326,DUMMY 165
+1327,DUMMY 166
+1328,DUMMY 167
+1329,Heftcorn
+1330,DUMMY 210
+1331,DUMMY 212
+1332,Bullfango Tusk
+1333,DUMMY 168
+1334,DUMMY 169
+1335,DUMMY 170
+1336,Butterfly Beetle
+1337,DUMMY 171
+1338,DUMMY 172
+1339,Diablos Hardtail
+1340,Barroth Lash
+1341,DUMMY 173
+1342,DUMMY 174
+1343,DUMMY 175
+1344,Scalding Pleura
+1345,DUMMY 176
+1346,Crested Crown
+1347,Royal Crest
+1348,Realmless Crown
+1349,Giant Fossil
+1350,DUMMY 177
+1351,R. Ludroth Lash
+1352,Mohran Shard
+1353,Mohran Rockskin
+1354,Mohran Allbrace
+1355,Rathalos Wing
+1356,Plesioth Webbing
+1357,Hrd Ples Webbing
+1358,Fish
+1359,DUMMY 178
+1360,DUMMY 179
+1361,Small Golden Egg
+1362,Bronze Coin
+1363,Silver Coin
+1364,Gold Coin
+1365,Sparkly Fragment
+1366,Plesioth Head
+1367,Uber Plesio Head
+1368,Beast Coin
+1369,Flying Coin
+1370,Piscine Coin
+1371,Brute Coin
+1372,Port Gal (Red)
+1373,Port Gal (Blue)
+1374,Port Gal (Green)
+1375,Port Gal (White)
+1376,Slickaxe
+1377,Mooncatcher Fang
+1378,Glossy Scale
+1379,DUMMY 180
+1380,DUMMY 181
+1381,DUMMY 182
+1382,DUMMY 183
+1383,DUMMY 184
+1384,DUMMY 185
+1385,DUMMY 186
+1386,DUMMY 187
+1387,DUMMY 188
+1388,DUMMY 189
+1389,DUMMY 190
+1390,DUMMY 191
+1391,Thick Skull
+1392,Savory Bear Paw
+1393,Peco Pipes
+1394,Billowy Mane
+1395,Volvidon Tongue
+1396,Quality Mud Pack
+1397,DUMMY 192
+1398,DUMMY 193
+1399,Rathian Loin
+1400,Tender Liver
+1401,P. Rathian Loin
+1402,Supersize Scale
+1403,Rathalos Ribs
+1404,Prime Plesioth
+1405,Diablos Heart
+1406,Bag of Zs
+1407,Large Obsidian
+1408,Duram Truffle
+1409,DUMMY 194
+1410,Zinogre Head
+1411,DUMMY 195
+1412,Nargacuga Eye
+1413,Celestial Scale
+1414,Alabaster Scale
+1415,Worldeater Belly
+1416,DUMMY 196
+1417,DUMMY 197
+1418,DUMMY 198
+1419,DUMMY 199
+1420,DUMMY 200
+1421,DUMMY 201
+1422,DUMMY 202
+1423,DUMMY 203
+1424,DUMMY 204
+1425,DUMMY 205
+1426,Exquisite Meat
+1427,DUMMY
+1428,Top Secret Formula
+1429,Flashbolt Diploma
+1430,DUMMY 207
+1431,DUMMY
+1432,Captain's IOU
+1433,Hades's Skull
+1434,DUMMY
+1435,Crown of Glory
+1436,DUMMY
+1437,DUMMY
+1438,Medal Voucher G
+1439,Far East Sword
+1440,DUMMY
+1441,DUMMY
+1442,Miniature Ticket
+1443,Fierce Soul
+1444,DUMMY 220
+1445,Flying Wyverns Vol 4
+1446,Flying Wyverns Vol 5
+1447,Def Lock Jewel 1
+1448,Sterile Jewel 1
+1449,Aseptic Jewel 1
+1450,Blaze Jewel 1
+1451,Blaze Jewel 2
+1452,Stream Jewel 1
+1453,Stream Jewel 2
+1454,Bolt Jewel 1
+1455,Bolt Jewel 2
+1456,Frost Jewel 1
+1457,Frost Jewel 2
+1458,Dragon Jewel 1
+1459,Dragon Jewel 2
+1460,Tenderizer Jwl 1
+1461,Tenderizer Jwl 3
+1462,Destroyer Jwl 1
+1463,Destroyer Jwl 3
+1464,Throttle Jewel 1
+1465,Throttle Jewel 2
+1466,KO Jewel 1
+1467,Drain Jewel 1
+1468,Drain Jewel 2
+1469,Sonorous Jewel 1
+1470,Artillery Jwl 1
+1471,Resistor Jewel 3
+1472,Nul-Fire Jewel 1
+1473,Nul-Water Jwl 1
+1474,Nul-Thundr Jwl 1
+1475,Nul-Ice Jewel 1
+1476,Nul-Dragon Jwl 1
+1477,Sheath Jewel 1
+1478,Sheath Jewel 2
+1479,Refresh Jewel 1
+1480,Refresh Jewel 2
+1481,Ranger Jewel 1
+1482,SlicePlus jwl 1
+1483,Paracoat Jewel 1
+1484,Paracoat Jewel 2
+1485,Sleepcoat Jwl 1
+1486,Poisoncoat Jwl 1
+1487,Powercoat Jwl 1
+1488,Powercoat Jwl 2
+1489,Rangecoat Jwl 1
+1490,Draincoat Jwl 1
+1491,Stopflow Jewel 2
+1492,Guts Jewel 1
+1493,Guts Jewel 2
+1494,Meateater Jwl 1
+1495,Meatlover Jwl 1
+1496,Slider Jewel 1
+1497,Glider Jewel 1
+1498,Honeybee Jewel 1
+1499,Queenbee Jewel 1
+1500,Biology Jewel 1
+1501,Microbio Jewel 1
+1502,Spirit Jewel 1
+1503,Spirit Jewel 2
+1504,Flawless Jewel 1
+1505,Flawless Jewel 2
+1506,Steady Jewel 1
+1507,Steady Jewel 3
+1508,Fish Jewel 1
+1509,Fish Jewel 2
+1510,Player Jewel 1
+1511,Morale Jewel 1
+1512,Leader Jewel 1
+1513,Leader Jewel 2
+1514,Dust of Life
+1515,KO Jewel 2
+1516,Diablos Hardhorn
+1517,Ghostly Quartz
+1518,Crushing Fang
+1519,Cloudy Moonshard
+1520,Bulky Pelt
+1521,Excellent Fang
+1522,Fish with mask
+1523,Gloamgrass Bud
+1524,Platinum Needle
+1525,Goldmine Fang
+1526,Wyverngold Lode
+1527,Charmer Jewel 1
+1528,Dracophage Bug
+1529,Tamzia Chips
+1530,SlimePlus Jwl 1
+1531,Slimecoat Jwl 1
